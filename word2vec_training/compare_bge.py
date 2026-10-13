@@ -234,7 +234,7 @@ def compare(baseline_report, model_path, corpus, queries, output_dir, device="cu
                   "公开集结果不等于业务效果，也不保证 BGE 的上游训练未见过该数据。", "",
                   "paired_outcomes 记录双方共同命中、各自独有命中及共同未命中的数量。",
                   "review.jsonl 为双方各自独有 top-10 命中的前 10 个案例，含两边排名；不是随机人工准确率样本。",
-                  "BGE 用 GPU 编码、CPU 分块检索；耗时包含不同阶段，不能据此推断在线检索延迟。"]
+                  f"BGE 编码设备为 {device}，使用 CPU 分块检索；耗时包含不同阶段，不能据此推断在线检索延迟。"]
         (staging / "report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
         if output.exists():
             raise FileExistsError(f"结果目录已存在：{output}")

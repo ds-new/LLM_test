@@ -173,6 +173,7 @@ class BaselineTests(unittest.TestCase):
         self.assertEqual(summary["corpus_size"], 3)
         self.assertEqual(summary["bge"]["Recall@10"], 1.0)
         self.assertEqual(summary["paired_outcomes"]["both_hit_top10"], 2)
+        self.assertIn("BGE 编码设备为 cpu", (output / "report.md").read_text())
         selected = [json.loads(line) for line in (output / "selected_queries.jsonl").read_text().splitlines()]
         self.assertEqual([row["id"] for row in selected], ["q2", "q0"])
         results = [json.loads(line) for line in (output / "bge_results.jsonl").read_text().splitlines()]

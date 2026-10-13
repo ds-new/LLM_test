@@ -1,0 +1,12 @@
+这是用于验证分词器训练流程的小型示例语料。
+知识库检索需要根据问题找到相关文档。
+向量模型把问题和文档转换为向量。
+分词器将文本转换为词元和对应的编号。
+训练数据与验证数据应分开保存。
+猫是动物，狗也是动物，植物需要阳光。
+你好世界，欢迎学习中文文本检索。
+BBPE tokenizer training runs on CPU.
+A tokenizer converts text into token IDs.
+Token IDs must match the model vocabulary.
+Retrieval finds relevant documents for a question.
+You name it means whatever you can think of.

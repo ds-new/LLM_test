@@ -1,0 +1,2 @@
+{"id":"eval-001","text":"训练结束后，重新加载分词器并验证中文🙂的编码与解码。"}
+{"id":"eval-002","text":"Compare token counts on a separate evaluation corpus."}

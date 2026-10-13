@@ -103,3 +103,99 @@ def load_comparison(baseline_report, comparison_report):
             or summary.get("paired_outcomes") != outcomes):
         raise ValueError("汇总指标或配对计数无法由逐查询报告复现")
     return w2v_rows, bge_rows, summary, audit, sources
+
+
+def review_comparison(baseline_report, comparison_report, output_dir):
+    output = Path(output_dir).expanduser().resolve()
+    if output.exists():
+        raise FileExistsError(f"结果目录已存在：{output}；请指定新的 --output-dir")
+    w2v_rows, bge_rows, comparison, audit, sources = load_comparison(baseline_report, comparison_report)
+    cases = []
+    counts = {"neither_hit_top10": 0, "word2vec_only_top10": 0}
+    # 优先共同失败，其次 Word2Vec 独有命中；组内保持原查询顺序，不设截断数量。
+    for group in counts:
+        for w2v, bge in zip(w2v_rows, bge_rows):
+            if bge["metrics"]["Hit@10"] or bool(w2v["metrics"]["Hit@10"]) != (group == "word2vec_only_top10"):
+                continue
+            cases.append({"group": group, "id": w2v["id"], "query": w2v["query"],
+                          "relevant_documents": w2v["relevant_documents"],
+                          "word2vec_metrics": w2v["metrics"], "bge_metrics": bge["metrics"],
+                          "word2vec_results": w2v["results"], "bge_results": bge["results"],
+                          "manual_review": {"category": "unreviewed", "notes": ""}})
+            counts[group] += 1
+    summary = {"evaluated_queries": comparison["evaluated_queries"], "corpus_size": comparison["corpus_size"],
+               "case_counts": counts, "exported_cases": len(cases),
+               "bge_settings": audit.get("bge_settings", {}), "device": audit.get("device"),
+               "scope": "all neither_hit_top10 and word2vec_only_top10 cases; original labels unchanged"}
+    lines = ["# Word2Vec / BGE 失败案例复核", "",
+             f"查询 {summary['evaluated_queries']} 条，候选 {summary['corpus_size']} 篇。",
+             f"共同前十未命中：{counts['neither_hit_top10']}；Word2Vec 独有前十命中：{counts['word2vec_only_top10']}。",
+             "以上两组全部导出，不受原 review.jsonl 的抽样数量限制；原始指标及标签不变。", "",
+             "## 复核方法", "",
+             "先检查标注正例是否回答了查询，再比较两边的前十结果。未标正例不等于语义不相关。",
+             "在 review.jsonl 的 manual_review 中记录 category 和 notes；初始均为 unreviewed。",
+             "可记录 retrieval_miss（相关正例未召回）、possible_missing_label（疑似漏标）、",
+             "possible_label_issue（疑似错标）、needs_truncation_check（需要检查截断）、",
+             "domain_term（领域词问题）或 other，并注明依据及相关文档 ID。",
+             "仅凭文本长度无法确认截断；需用本次 BGE tokenizer、指令及长度设置检查正例是否被截去关键部分。",
+             "只有保存的 top-10，没有正例的全库排名；不能据此声称正例在第 11 名或给出确切名次。", "",
+             "## 本次编码设置", "", "```json",
+             json.dumps(summary['bge_settings'], ensure_ascii=True, indent=2), "```", ""]
+
+    def quoted(text):
+        # 使用转义后的 HTML pre 保留全文和换行，避免语料中的 Markdown 改写报告结构。
+        return "<pre>" + html.escape(text) + "</pre>"
+
+    for number, case in enumerate(cases, 1):
+        lines += [f"## 案例 {number} · {case['group']}", "",
+                  "查询 ID：", quoted(case["id"]), "查询：", quoted(case["query"]),
+                  "人工复核：unreviewed；分类与依据：待填写。", "", "### 标注正例（全文）", ""]
+        for doc in case["relevant_documents"]:
+            lines += [quoted(doc["id"] + "\n" + doc["text"])]
+        for name in ("word2vec", "bge"):
+            lines += ["", f"### {name.upper()} Top-10（全文）", ""]
+            for hit in case[f"{name}_results"]:
+                lines += [f"第 {hit['rank']} 名 · 分数 {hit['score']:.6f} · 标注正例 {hit['is_relevant']}",
+                          quoted(hit["id"] + "\n" + hit["text"])]
+            if not case[f"{name}_results"]:
+                lines += ["无排名结果。"]
+    if not cases:
+        lines += ["本次没有符合条件的案例。"]
+    output.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.TemporaryDirectory(prefix=".comparison-review-", dir=output.parent) as temporary:
+        staging = Path(temporary) / "report"
+        staging.mkdir()
+        (staging / "review.jsonl").write_text("".join(json.dumps(case, ensure_ascii=False, allow_nan=False) + "\n"
+                                                   for case in cases), encoding="utf-8")
+        (staging / "review.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        review_audit = {"source_reports": sources, "validation": "report hashes, query order, labels, per-query metrics and paired totals",
+                        "limits": "no access to original corpus/model; does not rerun retrieval or audit training-data overlap"}
+        for name, value in (("summary.json", summary), ("audit.json", review_audit)):
+            (staging / name).write_text(json.dumps(value, ensure_ascii=False, indent=2, allow_nan=False) + "\n", encoding="utf-8")
+        if any(fingerprint(source["path"]) != source for source in sources):
+            raise ValueError("复核期间输入报告发生变化，请固定文件后重试")
+        if output.exists():
+            raise FileExistsError(f"结果目录已存在：{output}")
+        staging.rename(output)
+    print(json.dumps(summary, ensure_ascii=False, indent=2), flush=True)
+    print(f"复核案例已保存：{output}", flush=True)
+    return summary
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--baseline-report", required=True, help="对应的 Word2Vec 原始报告目录")
+    parser.add_argument("--comparison-report", required=True, help="compare_bge.py 生成的报告目录")
+    parser.add_argument("--output-dir", required=True)
+    review_comparison(**vars(parser.parse_args()))
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except ImportError as error:
+        raise SystemExit(f"依赖导入失败：{error}；可使用已有 Word2Vec 或 BGE 环境") from None
+    except (OSError, ValueError) as error:
+        raise SystemExit(str(error)) from None
+    except KeyboardInterrupt:
+        raise SystemExit(130) from None

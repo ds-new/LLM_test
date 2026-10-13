@@ -1,12 +1,16 @@
 import copy
 import json
+import os
 from pathlib import Path
+import shutil
+import subprocess
+import sys
 import tempfile
 import unittest
 
 from word2vec_training.corpus import fingerprint
 from word2vec_training.evaluation import retrieval_metrics
-from word2vec_training.review_comparison import load_comparison
+from word2vec_training.review_comparison import load_comparison, review_comparison
 
 
 class ComparisonReviewTests(unittest.TestCase):
@@ -104,6 +108,69 @@ class ComparisonReviewTests(unittest.TestCase):
         self.write_rows(self.comparison / "bge_results.jsonl", self.rows["bge"])
         with self.assertRaisesRegex(ValueError, "正例标签"):
             self.load()
+
+    def test_standalone_cli_exports_full_text_and_preserves_existing_output(self):
+        standalone = self.root / "standalone"
+        standalone.mkdir()
+        for name in ("review_comparison.py", "corpus.py", "evaluation.py"):
+            shutil.copy2(Path(__file__).resolve().parents[1] / name, standalone / name)
+        command = [sys.executable, "review_comparison.py", "--baseline-report", str(self.baseline),
+                   "--comparison-report", str(self.comparison), "--output-dir", "review"]
+        env = {key: value for key, value in os.environ.items() if key != "PYTHONPATH"}
+        result = subprocess.run(command, cwd=standalone, env=env, capture_output=True, text=True, timeout=30)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        output = standalone / "review"
+        rows = [json.loads(line) for line in (output / "review.jsonl").read_text().splitlines()]
+        self.assertEqual([row["id"] for row in rows], ["q0", "q1"])
+        self.assertEqual([row["group"] for row in rows], ["neither_hit_top10", "word2vec_only_top10"])
+        self.assertEqual(rows[1]["relevant_documents"], self.rows["word2vec"][1]["relevant_documents"])
+        self.assertEqual(rows[0]["bge_results"], self.rows["bge"][0]["results"])
+        self.assertEqual(rows[0]["manual_review"], {"category": "unreviewed", "notes": ""})
+        self.assertIn("候选文档 11", (output / "review.md").read_text())
+        self.assertEqual(list(standalone.glob(".comparison-review-*")), [])
+        before = (output / "review.jsonl").read_bytes()
+        result = subprocess.run(command, cwd=standalone, env=env, capture_output=True, text=True, timeout=30)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("已存在", result.stderr)
+        self.assertEqual(before, (output / "review.jsonl").read_bytes())
+
+    def test_exports_more_than_ten_cases_per_group_and_escapes_markup(self):
+        expanded = {name: [] for name in self.rows}
+        selected = []
+        for n in range(12):
+            for i, query in enumerate(self.selected):
+                query = {**query, "id": f"{n}-{query['id']}", "text": "<script>data</script>\n```"}
+                selected.append(query)
+                for name in expanded:
+                    expanded[name].append({**self.rows[name][i], "id": query["id"], "query": query["text"]})
+        self.write_rows(self.baseline / "results.jsonl", expanded["word2vec"])
+        self.write_rows(self.comparison / "bge_results.jsonl", expanded["bge"])
+        self.write_rows(self.comparison / "selected_queries.jsonl", selected)
+        original = json.loads((self.baseline / "summary.json").read_text())
+        for data in (self.summary, original):
+            data.update({"evaluated_queries": 48, "total_queries": 72})
+        self.summary["paired_outcomes"] = {key: 12 for key in self.summary["paired_outcomes"]}
+        self.write_json(self.baseline / "summary.json", original)
+        self.write_json(self.comparison / "comparison.json", self.summary)
+        audit = json.loads((self.comparison / "audit.json").read_text())
+        audit["baseline_and_data_files"][:3] = [fingerprint(self.baseline / name)
+                                                for name in ("summary.json", "audit.json", "results.jsonl")]
+        audit["selected_queries"] = fingerprint(self.comparison / "selected_queries.jsonl")
+        self.write_json(self.comparison / "audit.json", audit)
+        output = self.root / "export"
+        summary = review_comparison(self.baseline, self.comparison, output)
+        self.assertEqual(summary["case_counts"], {"neither_hit_top10": 12, "word2vec_only_top10": 12})
+        self.assertEqual(summary["exported_cases"], 24)
+        text = (output / "review.md").read_text()
+        self.assertNotIn("<script>", text)
+        self.assertIn("&lt;script&gt;", text)
+
+    def test_failed_validation_does_not_publish_review(self):
+        output = self.root / "failed"
+        self.write_rows(self.comparison / "bge_results.jsonl", self.rows["bge"][:-1])
+        with self.assertRaisesRegex(ValueError, "数量"):
+            review_comparison(self.baseline, self.comparison, output)
+        self.assertFalse(output.exists())
 
 
 if __name__ == "__main__":

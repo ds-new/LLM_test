@@ -68,3 +68,5 @@ python -c "import sys, torch; print(sys.executable); print(torch.__version__, to
 ```
 
 查看 `comparison.json` 的 `word2vec`、`bge`、`delta_bge_minus_word2vec` 与 `paired_outcomes`。结果目录已存在时应换名，避免覆盖已经完成的实验。
+
+已完成 1,000 查询对照后，按[下一步评估](next-evaluation.md)导出全部共同失败与 Word2Vec 独有命中案例，再执行全量 2,000 查询的 CPU 对照。

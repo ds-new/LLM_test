@@ -12,6 +12,7 @@ word2vec_training/
 ├── inspect_word2vec.py     # 相似词与词频检查
 ├── evaluate_word2vec.py    # 检索指标、覆盖率和同文诊断
 ├── compare_bge.py          # 复用 Word2Vec 查询 ID 比较 BGE
+├── review_comparison.py    # 从已保存报告导出共同失败与 Word2Vec 独有命中
 ├── corpus.py               # 文本读取、分词与文件哈希
 ├── evaluation.py           # 数据校验、向量编码和分块排名
 ├── config.json             # 小样本试跑配置
@@ -202,6 +203,21 @@ python3 -m venv .venv-bge
 BGE 使用 CLS + L2、FP32，查询指令默认 `为这个句子生成表示以用于检索相关文章：`，查询/段落最大长度为 64/256 tokenizer tokens，含特殊 token 和查询指令。可用 `--query-instruction`、`--query-max-len`、`--passage-max-len` 修改；编码设置由本次参数指定，不自动读取 `embedding_config.json`。有可用 CUDA 时可改为 `--device cuda`，无 GPU 时显式使用 CPU，十万篇候选的 CPU 编码耗时较长。
 
 输出包括 `comparison.json`（双方指标、差值和独有命中计数）、`selected_queries.jsonl`、`bge_results.jsonl`、`review.jsonl`、`audit.json` 和 `report.md`。Word2Vec 使用全文平均，BGE 按自身 tokenizer 截断，因此比较的是两套完整检索方案，报告会记录编码差异。BGE 权重不由本入口下载。
+
+### 对照完成后复核失败案例
+
+```bash
+.venv-word2vec/bin/python review_comparison.py \
+  --baseline-report output/eval-demo \
+  --comparison-report output/compare-demo \
+  --output-dir output/review-demo
+```
+
+读取双方已有报告，校验哈希、查询顺序、标签和可重算的指标，导出**全部共同前十未命中**及**全部 Word2Vec 独有前十命中**。无需重新编码、加载模型或访问原候选库；需要 NumPy，可直接使用 Word2Vec 环境。
+
+`review.md` 展示查询、全部标注正例和双方完整 Top-10；`review.jsonl` 保留机器可读内容及待填写的 `manual_review` 字段。它不自动推断未命中原因、不修改标签，也不把未标正例当作已确认的负例。`summary.json` 记录导出数量和 BGE 编码设置，`audit.json` 记录输入报告哈希及校验范围。
+
+真实 DuRetrieval 的案例复核及全量 2,000 查询 CPU 命令见 [下一步评估](docs/next-evaluation.md)。
 
 ## 6. 测试
 

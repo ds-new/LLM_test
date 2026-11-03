@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-__pycache__/
-*.pyc
-.venv/
-*.pt
-checkpoints/
-decoder_from_scratch/runs/
-.DS_Store
-=======
 .DS_Store
 .venv*/
 venv/
@@ -18,4 +9,6 @@ __pycache__/
 .env.*
 output/
 models/
->>>>>>> origin/main
+*.pt
+checkpoints/
+decoder_from_scratch/runs/

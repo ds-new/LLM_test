@@ -1,0 +1,21 @@
+# Qwen3-VL-4B + geometry3k 多模态 GRPO（AutoDL NVIDIA GPU）
+# 本次实际运行的组合（2026-11，2×A800 80GB）：
+#   torch 2.9.0+cu128 · verl 0.8.0 · vllm 0.12.0 · transformers 4.57.6 · numpy 1.26.4 · scipy 1.15.3
+# torch / verl / vllm（或 sglang）三者版本强相关：先按 verl 官方文档选定组合再安装，这里只列下限。
+verl>=0.8.0
+vllm>=0.12.0                # rollout 与离线评估；装了 sglang 时 loop 优先用 sglang
+transformers>=4.57.0        # Qwen3-VL 支持
+accelerate>=1.0.0
+datasets>=3.0.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+pillow>=10.0.0
+qwen-vl-utils>=0.0.8
+pyyaml>=6.0                 # 多智能体 loop 解析 verl 配置树
+scipy<1.16                  # numpy 1.26 下 scipy 1.16+ 会报 ufunc 错误
+math-verify>=0.5.0          # 可选：额外的符号等价判定
+mathruler                   # 可选：用 verl 官方 geo3k 判分器复核
+modelscope>=1.20.0          # 可选：AutoDL 上下载模型
+tensorboard>=2.15           # 可选：旁路监控写 TensorBoard
+wandb>=0.17.0               # 可选：wandb login 后旁路监控自动推送
+pytest>=7.0                 # 可选：python -m pytest multiagent/tests

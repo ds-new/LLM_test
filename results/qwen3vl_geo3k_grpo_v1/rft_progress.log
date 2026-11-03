@@ -1,0 +1,19 @@
+2026-11-02 21:37:03 test_maj8 done; smoke test
+2026-11-02 21:37:27 smoke rc=0
+2026-11-02 21:37:27 sampling train k=4
+2026-11-02 22:23:39 sampling rc=0
+2026-11-02 22:23:41 build: {"items": 2098, "samples": 8392, "wrong": 4024, "items_with_kept": 1385, "too_long": 122, "truncated_or_unboxed": 11, "examples": 2531, "median_chars": 1362}
+2026-11-02 22:49:09 sft rc=0
+2026-11-02 22:51:40 val: 52.33 22.33 77.67
+2026-11-02 22:55:11 test: 54.08 26.62 73.54
+2026-11-02 22:55:11 ALL_DONE
+# ---- 第二版（按难度平衡）----
+2026-11-03 09:03:58 build: {"items": 2098, "samples": 8392, "wrong": 4024, "mixed_items": 631, "items_with_kept": 1411, "easy_items": 780, "too_long": 4, "truncated_or_unboxed": 11, "examples": 2015, "median_chars": 2289}
+2026-11-03 09:45:13 sft rc=1
+2026-11-03 09:45:13 FAIL_SFT
+2026-11-03 09:47:32 restart after fixing per-rank step count deadlock
+2026-11-03 09:47:34 build: {"items": 2098, "samples": 8392, "wrong": 4024, "mixed_items": 631, "items_with_kept": 1411, "easy_items": 780, "too_long": 4, "truncated_or_unboxed": 11, "examples": 2015, "median_chars": 2289}
+2026-11-03 10:18:33 sft rc=0
+2026-11-03 10:21:10 val: 51.33 27.67 72.33
+2026-11-03 10:24:45 test: 53.91 25.96 74.04
+2026-11-03 10:24:45 ALL_DONE

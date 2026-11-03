@@ -1,0 +1,58 @@
+{
+ "best_round": 1,
+ "preset": "grpo",
+ "model": "round_1/best_hf",
+ "val_acc": 52.67,
+ "test_acc": 53.58,
+ "test_vs_base": {
+  "n": 601,
+  "base_acc": 50.08,
+  "new_acc": 53.58,
+  "fixed": 49,
+  "broken": 28,
+  "sign_test_z": 2.39,
+  "significant_95": true
+ },
+ "baseline": {
+  "val": 50.0,
+  "test": 50.08,
+  "gen_len": 4096
+ },
+ "test_majority_vote_8": {
+  "maj@8": 66.39,
+  "mean@8": 54.58,
+  "pass@8": 77.2,
+  "pass_rate_hist": {
+   "0": 137,
+   "(0,1)": 257,
+   "1": 207
+  }
+ },
+ "verl_official_geo3k_reward_rescored": {
+  "base_test": {
+   "reward": 0.4507,
+   "acc": 0.5008,
+   "format": 0.0
+  },
+  "final_test": {
+   "reward": 0.4837,
+   "acc": 0.5374,
+   "format": 0.0
+  },
+  "base_val": {
+   "reward": 0.45,
+   "acc": 0.5,
+   "format": 0.0
+  },
+  "round1_val": {
+   "reward": 0.474,
+   "acc": 0.5267,
+   "format": 0.0
+  },
+  "round2_val": {
+   "reward": 0.456,
+   "acc": 0.5067,
+   "format": 0.0
+  }
+ }
+}

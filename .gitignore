@@ -12,3 +12,4 @@ models/
 *.pt
 checkpoints/
 decoder_from_scratch/runs/
+qwen3vl_geo3k_grpo/runs/

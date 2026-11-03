@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .venv/
@@ -5,3 +6,16 @@ __pycache__/
 checkpoints/
 decoder_from_scratch/runs/
 .DS_Store
+=======
+.DS_Store
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+output/
+models/
+>>>>>>> origin/main

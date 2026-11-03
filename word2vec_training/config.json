@@ -1,0 +1,17 @@
+{
+  "corpus_files": ["data/sample.txt"],
+  "output_dir": "output/word2vec-demo",
+  "fields": ["text"],
+  "tokenizer": "jieba",
+  "algorithm": "skipgram",
+  "vector_size": 100,
+  "window": 5,
+  "min_count": 1,
+  "epochs": 30,
+  "workers": 1,
+  "negative": 5,
+  "sample": 0.0,
+  "seed": 42,
+  "lowercase": true,
+  "max_texts": 0
+}

@@ -1,0 +1,4 @@
+# 在已有 BGE/PyTorch 环境使用；Word2Vec 训练仍用 requirements.txt。
+torch>=2.3,<3
+transformers>=4.40,<5
+numpy>=1.24,<3

@@ -221,6 +221,7 @@ python3 -m venv .venv-tokenizer
 **已有 `tokenizer.json` / BGE 模型**：本组件加载的是自定义 `bbpe.json`。新词表的 token ID 与已有模型权重不匹配，不能直接替换其分词器；需要配套训练模型并调整相应输入流程。
 
 仓库发布源码、测试和小型示例；真实训练数据、训练产物、日志、SQLite 工作文件与虚拟环境不上传。相关忽略规则见 [.gitignore](.gitignore)。
+<<<<<<< HEAD
 
 
 texts10000
@@ -231,3 +232,5 @@ unknown_token_rate0
 tokens_per_text9.7637
 tokens_per_character0.5128909574188668
 utf8_bytes_per_token5.493501439003657
+=======
+>>>>>>> origin/main

@@ -1,0 +1,25 @@
+output/
+models/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+*.log
+*.zip
+*.kv
+*.model
+*.npy
+*.npz
+*.pt
+*.pth
+*.safetensors
+
+# 只发布自带的示例训练文本。
+data/*
+!data/sample.txt

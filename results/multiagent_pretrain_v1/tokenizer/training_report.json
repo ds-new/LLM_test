@@ -1,0 +1,48 @@
+{
+  "algorithm": "BBPE",
+  "implementation": "python-standard-library",
+  "pretokenizer": "unicode-category-v1",
+  "byte_alphabet_size": 256,
+  "texts": 6272,
+  "characters": 10023570,
+  "sources": [
+    {
+      "path": "/Users/cuiweihua/cc/D盘/verl_megatron_sglang/decoder_from_scratch/runs/multiagent_pretrain_v1/data/tokenizer_corpus_10000000.jsonl",
+      "sha256": "4ebf5fc7add95363825141df12292458e5d8649df1223a6087cad6a56c53f7ad"
+    }
+  ],
+  "requested_vocab_size": 32000,
+  "min_frequency": 2,
+  "lowercase": false,
+  "model_max_length": 512,
+  "max_texts": 0,
+  "fields": [
+    "text"
+  ],
+  "python_version": "3.12.13",
+  "backend": "memory",
+  "compatible_with_existing_bge_weights": false,
+  "runtime_start": {
+    "python": "/Users/cuiweihua/cc/D盘/verl_megatron_sglang/apus_openjev/.venv/bin/python",
+    "platform": "darwin",
+    "peak_rss_mib": 23.16,
+    "cgroup_files": {}
+  },
+  "actual_vocab_size": 32000,
+  "special_token_ids": {
+    "[PAD]": 0,
+    "[UNK]": 1,
+    "[CLS]": 2,
+    "[SEP]": 3,
+    "[MASK]": 4
+  },
+  "unique_pieces": 713423,
+  "merges": 31739,
+  "elapsed_seconds": 426.73,
+  "runtime_end": {
+    "python": "/Users/cuiweihua/cc/D盘/verl_megatron_sglang/apus_openjev/.venv/bin/python",
+    "platform": "darwin",
+    "peak_rss_mib": 2303.77,
+    "cgroup_files": {}
+  }
+}

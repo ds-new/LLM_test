@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如一段话所说,人工智能的发展已经进入一个新阶段,新的阶段.\n从已有的数据,到技术的不断突破,人工智能会不断地更新和进步.\n从医学角度来看,人工智能的发展,是越来越全面的,AI技术的进步,是越来越全面的.\n作为医师,我们应该始终立足于医师,而不是医师.\n应该科学地描述医生与医学之间关系,这应该取决于医学家的判断.\n如果医生诊断错误,人工智能会不断的更新和进步.\n在早期,医生诊断错误是临床医学诊断错误,是疾病诊断错误.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明,她们和爸爸妈妈一起去散步,他们和妈妈在公园里散步,直到有小朋友吃了糯米.\n今天是小明和妈妈在公园里散步,她躲在公园里,不慌不忙地陪着她们玩.\n她玩了一圈,想在公园里玩,然后沿着花园前行,走到花园旁边,又走又走,慢慢地往花海里看.\n小明妈妈在花园旁边,看花里有朵小白花,我倒在花园旁边,望过去,可她却不见了.\n她一边吃着她",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用一般是指利用光合作用的技术,对植物进行光合作用的技术,是利用光合作用进行光合作用的重要因素.\n 光合作用是指利用光合作用进行光合作用的技术,是利用光合作用进行光合作用的重要因素.\n 光合作用是指利用光合作用进行光合作用的技术,是利用光合作用进行光合作用的重要因素.光合作用属于植物光合作用,即植物光合作用.\n 光合作用的应用是利用光合作用进行光合作用进行",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "光合作用,光合作用是指植物光合作用.光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用,光合作用是指植物光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造.中国古代的四大发明包括发明,发明,发明,发明.中国古代的四大发明包括发明,发明,发明,发明.中国古代的四大发明包括发明,发明,发明,发明.中国古代的四大发明包括发明,发明,发明.中国古代的四大发明包括发明,发明,发明.中国古代的四大发明包括发明,发明,发明.中国古代的四大发明包括发明,发明,发明.中国古代的四大发明包括发明,发明,发明.中国古代的四大发明包括发明,发明,发明.中国古代的四大发明包括发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,中国古人把长江称为\"长江\".长江上游的长江,短流,长流.长江流域之间依长江,以江,流水,海,水,水,气为长,水质相对复杂,长江长江下游的长江,长流,长流,长流.长江长江中下游长江,长流,长流.长江是长江中上游长江,长江下游长江,长江下游长江,长流.长江,长流.长江,长流,长流.长江是长江,长江,长江,长流.长江长江中下游长江,长",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3419,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "什么?\n你知道你什么时候学习一门新语言.\n首先,你需要了解你是什么,你需要了解你的英语语言.\n你必须要了解你什么时候学习哪种语言.\n你什么时候学习哪种语言?\n你可能要学习哪些语言?\n你什么时候学习哪种语言?\n你将学习哪些语言?\n我们不知道,JavaScript,JavaScript,Python,Python 都是用.\n你不知道,JavaScript,Python,Python,Python,Python 都有哪些语法?\n你在你的代码中用过什么样的语法?\n你的 Python 代码有哪些代码段?\n在 JavaScript 中,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边的平方和叫做锐角.直角三角形的平方叫做直角三角形的斜边.\n直角三角形的斜边叫做斜边.\n直角三角形的斜边叫做底三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角三角形的斜边.\n直角三角形的斜边叫做直角",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边的一半.\n在直角三角形中,直角三角形的斜边等于斜边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局组织编写了\"中学语文课程标准(试行)\"和\"中学语文课程标准(试行)\"等教材,并邀请市教科局教研室负责人,编写了\"中学语文课程标准(试行)\".\n教材由市教育局组织编写,时间为9月1日至9月23日.教材共分课,课,卷,课.在课程的结束前,市教育局组织编写了\"中学语文课程标准(试行)\".\n教材由市教育局组织编写,时间为9月1日至9月23日.教材分课,课,卷,课,卷,卷,课,卷",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ng  ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "printf(n,n))    for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=0        for i=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of racially narrowed wedding water up water. The water cycle is a rich introduction to the water cycle and a limiting to the water cycle. The water cycle is a set of increased straight in the harvest water cycle that ups up the graves from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " water is the water cycle of water water. The water cycle is a bibliographic model for the water cycle of water water. The water cycle is a bibliographic model for water water. The water cycle is a bibliographic model for water water. The water cycle is a bibliographic",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is a process that it is meaningful that the teachers of the teaching and learning days of teachers. But that is the same means that teachers are likely to get the inception of teachers for the teaching and learning days. Some teachers are using an unimagined research techniques that teachers can satisfy ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.4219
+  }
+]

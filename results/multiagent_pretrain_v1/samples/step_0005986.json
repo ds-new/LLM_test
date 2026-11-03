@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n人工智能已经进入\"入门阶段\"\n最近,谷歌公司DeepMind发布了一款名为\"AI 赋能人类\"的AI聊天机器人,它曾于2017年3月发布了其用于解释人类大脑生成的特征. 该功能于2017年12月推出.\n尽管不排除语言理解能力的提升,也使得生成效果更好,但语言理解能力仍缺乏,人们习惯认为这个聊天机器人应该采用人类语言理解能力. 这是由于语言理解能力缺乏,不能理解人类的语言理解能力缺乏.\n据C114报道,本季度,生成式AI聊天机器人出现30",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明去公园大叔家散步,回家后一家人回来了.\n小明和妈妈一起去公园大叔家散步,回家后一家人去了公园大叔家散步.\n小明和妈妈去了公园大叔家散步,回家后一家人回来了.\n妈妈去哪儿?\n小明和妈妈一起去公园大叔家散步,回家后一家人去了公园大叔家散步,回家后一家人回来了.\n妈妈去公园大叔家散步,回家后一家人去了公园大叔家散步,回家后一家人回来了.\n小明和妈妈一起去了公园大叔家",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6068,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用一般是指利用空气,水,光照,通风,气压,温度,风能等无害作用形成的光合作用.\n 太阳能光合作用是指利用太阳能光,实现植物的光合作用.\n 光合作用一般是指利用空气,水,光照,通风,气压,温度,风能等无害作用形成的光合作用.\n 光合作用是指利用空气,水,光照,通风,气压,空气,光照,通风,气压,温度,风能等无害作用形成的光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5726,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用是指在光合作用中的转化,光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,创造,创造.\n古代有五千年以上的历史,六千年以上的文明,一千年以上的文明,二千年以上的文明,三千年以上的文明.古代的六千年以上文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六千年以上的文明,六",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6239,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "�, 古人云: 东流, 北流, 南流, 南流, 故曰\"下流\", 流水, 古水道.流水, 长流.流水, 长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水,长流.流水",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.6496,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人要具备一种语言,一种语言所具备的能力.一个语言的实际意义是什么?他的语言是口译.口译是语言的一种,是语言的一种.因此,一个人能否成功地完成同样的任务.人能否成功地完成同样的任务,不是一个\"人\"的问题.所以,一个人能否成功地完成同样的任务,取决于他对自己能够完成的任何事情.因此,一个人能否成功地完成同样的事情.例如,一个法国人在他的家庭中有某种抽象的能力,他能够通过某个特定的事情对其他人进行一些可能的解释.例如,一个人在一个\"事故\"中,他有很多事情",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在直角三角形中,∠N为直角边,∠PN为直角边. 1912年,欧拉用弦作底面,求出π≈2π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3π3",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "7月,市教育局再次启动\"学生参加小学入学考试\",在考试内容,成绩,考试内容等方面全面动员,全面实施.\n据介绍,在\"学生参加小学入学考试\"方面,今年6月以来,普通高中学校按小学一年级划分,初三年级为\"学生参加初中入学考试\".到6月末,初五年级为\"学生参加小学入学考试\".\n根据\"普通高中学校招生考试实施方案\",对普通高中学校进行单独招生考试,统一考试科目,统一考试方式,统一录取,统一录取,统一录取.\n在\"学生参加初中入学考试\"方面,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西向西可划去谷,故得名.西湖风景名胜区位于浙江省杭州市.西湖风景名胜区位国内外著名景点,世界文化遗产,全国重点文物保护单位.西湖风景名胜区又名西湖,厦门,南通,东营,西临,杭州市,绍兴,奉化,东营,南安,舟山,宜春,海安等为景点.西湖风景名胜区位于浙江省杭州市.西湖风景名胜区位于浙江省杭州市.西湖风景名胜区位国内外著名景点,世界文化遗产,全国重点文物保护单位.西湖风景名胜区又名西湖,厦门,南通,东营,西临,杭州市",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4017,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(def(n))  slopen(n)\n    def winser(n):\n    print(fibonacci(n))  slopen(n)}    print(fibonacci(n)))  }    print(fibonacci(n))    }    print(fibonacci(n))  slopen(n)}    print(fibonacci(n)))    }    print(fibonacci(n))    }    print(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human behind the water laws that winter water science are severe in the water laws and the water laws that winter water laws can hand the water laws and it may be constructed by a cell indicating the water laws and a cell indicating the water laws from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a reconstruction of water cycle and the water cycle is a reconstruction of water cycle and the water cycle is a reconstruction of water cycle and the water cycle is a reconstruction of water cycle and the water cycle is a reconstruction of water cycle and the water cycle is a reconstruction",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " of a much good that it is but it is the only way to do it. I do it with it or I do it with it and I do it with it and I do it with it and I do it with it and I do it with it and I do it with it and I ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6068,
+    "tail_top_share": 0.5
+  }
+]

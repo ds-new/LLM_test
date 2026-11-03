@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,就像太空船,正向着更高级别的方向发展.\n人类会理解人工智能,理解它的好处,就像它让人们了解世界一样.\n人工智能的发展,正在朝一个更高的层次上发展.\n新的阶段.\n不,我们将在未来几年内达到人类的最高峰.\n我们将在未来五年内达到人类的最高峰.\n这听起来很简单,但这个过程不是要超过人类.\n人工智能的发展,已经进入新的阶段.\n在2017年,人工智能达到了临界点.\n谷歌,Facebook,谷歌和Facebook",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "菜市场，青衣_温暖紫色的\"小明\"小松鼠的花园-梧桐花园.小明和妈妈一起来到了他的花园.小明和妈妈一起到了梧桐花园.小明和小明去散步,小明和小明在公园散步.小明和小明和小明来到了花园.小明和小明来到了公园.小明和小明和小明都来到了花园.小明和小明和小明和小明来到了公园.小明和小明和小明来到了公园.小明和小明和小明和小明和小明来到了公园.小明和小明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.453,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中对生长环境进行改造,使其能够适应多种环境条件,对植物的生长发育有重要作用.光合作用利用了光合作用所必须的优良种质材料以及低光条件下所需的优良种质材料,它能够适应各种环境的条件,对植物的生长有着极大的促进作用.\n 光合作用属于有机的环状生物,其营养成分主要由光合作用蛋白质,蛋白质,碳水化合物的含量等组成,光合作用由于具有较高的营养成分,在植株生长过程中对养分的需求量较小,在根系生长过程中对养分的需求量较大.光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,使植物在生长过程中,能够获得更多的光合作用,从而提高植物光合作用效率.\n光合作用是指利用光合作用,使植物在生长过程中,能够获得更多的光合作用,从而提高植物光合作用效率.\n光合作用是指利用光合作用,使植物在生长过程中,能够获得更多的光合作用,从而提高植物光合作用效率.\n光合作用是指利用光合作用,使植物在生长过程中,能够获得更多的光合作用,从而提高植物光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7094,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如,秦九韶发明了的\"历表\",王文洁发明了的\"大辞典\",杨辉发明了的\"史记\",曹丕发明了的\"列子\",胡锦涛发明了的\"六书\"等等.\n中国自古以来就有\"有史可考,有史可考\"的地理优势.随着科学技术的发展,人们在日常生活和生产中需要大量的科学技术,因此,中国自古以来就有\"有史可考\"的地理优势.\n中国古人创造出来的历史,通过历史记载,可以知道到国家的政治",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐獐獐獐獐獐獐獐獐獐獐獐獐獐獐獐獐獐獐獐",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要熟悉和理解它的语法,它包括语法的基本概念,语法结构,语法节流,语法的句法等.对于初学者来说,学习语法更容易.\n1,了解语法的语法,通过语法了解语法中的各种语法和各种用法.\n2,熟悉各种编程语言的语法和用法,并能够理解和掌握.\n3,能够使用英语中的英语语法进行教学.\n4,能够使用英语中的英语进行教学.\n5,能够阅读和理解英文中有关语法和语法的知识.\n6,能够阅读和理解英语中有关语法,语法",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边长与斜边的夹角平方等于斜边的平方,也就是斜边的平方减去斜边的平方等于斜边的平方,即直角三角形三边长与斜边的夹角平方等于斜边的平方,也就是斜边的平方加上斜边的平方等于斜边的平方.这个勾股定理是直角三角形三边长与斜边的夹角平方等于斜边的平方,也就是斜边的平方减去斜边的平方等于斜边的平方,即直角三角形三边长与斜边的夹角平方等于斜边的平方,也就是斜边的平方加上斜边的平方等于斜边的平方.勾股定理在古代数学中占有",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加校外培训机构专项治理工作,要求全市非学科类培训机构不得开展非学科类培训,并承诺一旦违规开展学科类培训,将按照\"校外培训机构治理行动方案(试行)\"(教基〔2020〕2号)要求,非学科类培训机构不得开展非学科类培训,并承诺凡是违规开展非学科类培训的,将严格按照\"校外培训机构治理行动方案(试行)\"(教基〔2020〕1号)要求,非学科类培训机构不得开展非学科类培训,并承诺一旦违规开展学科类培训,将按照\"校外培训机构治理行动方案(试行",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4017,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖,别有洞天水,西湖最出名的景点,西湖最出名的是西湖水乡.西湖是杭州的城.西湖在杭州城最出名的八个城市之中,最出名的西湖.\n杭州西湖是杭州的城.西湖在杭州城最出名的八个城市之中,最出名的八个城市之中,最出名的八个城市之中,最出名的八个城市之中,最出名的六个城市之中,最出名的五个城市之中,最出名的五个城市之中,最出名的六个城市之中,最出名的六个城市之中,最",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5385,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def main():    n = 0    n.append(fibonacci(n) + 1)    for i in 1:        n += 1    for i in n if n  n += 1    for j in 1:        n += 1    for j in 1:        n += 1    for i in 1:        n += 1    for j in 1:        n +=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5128,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurs in the \"light\" when it occurs in a \"w\" described that water was obtained by trouble it was the \"w\" described by the \"w\" described by the \"w\" described by the \"w\" described by the \"w\" described by the \"w",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not only important to us, but is important to our students and our parents. The data is clear to our students and our parents.\nWe can take the videos in the same broadcast article with the audience from today’s future. We can take the videos in the same broadcast article ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.4062
+  }
+]

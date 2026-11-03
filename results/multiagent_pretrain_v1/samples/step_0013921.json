@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,大数据,云计算,大数据,人工智能,这些先进科技,正在改变人们生活.\n2 人工智能产业现状\n今年1月,全球人工智能大会 -  - AI Works Conference (CAIC) 发布了最新的\"2018 年 AI Works Conference\",该会议将人工智能融入汽车,智能家居,智能家居等各行业,并将人工智能与汽车,通信,安防,建筑,智能安防等垂直领域融合,将传统汽车,智能家居,智慧停车等",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量数据的积累,而人工智能的发展,离不开海量",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起来玩的\n春天来了\n四月是春天\n春天是万物复苏的季节\n春天是春姑娘们\n春天是春天\n春天是春天\n春天是春天\n春天是春姑娘们\n春天是春天\n春天是春姑娘们\n春天是春天\n春天是春姑娘们\n春天是春姑娘们\n春天是春姑娘们\n春天是春姑娘们\n春天是春姑娘们\n春天是春姑娘们\n春天是春姑娘们\n春天是春姑娘们\n春天",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用吸收了植物光合作用,提高植物光合作用率的一种方式.光合作用是一种新型化学合成方式,具有提高植物光合作用效率,提高植物光合作用效率和提高植物光合作用效率等优点.光合作用化学合成方法主要有生物合成法和生物反应法.生物合成法是利用生物合成法的原理,根据植物光合作用,对植物光合作用进行合成,从而得到植物光合作用.生物反应法是利用生物反应法的原理,根据植物光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物在光合作用中,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指利用光合作用,使植物在光合作用中,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指利用光合作用,使植物在光合作用中,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指利用光合作用,使植物在光合作用中,能够获得",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文,铭文,其中铭文有五言,文言,简章,铭文,铭文等,铭文有\"咏史诗\",\"集贤记\",\"悼慎记\",\"明史稿\",\"续史稿\",\"长史稿\",\"周记稿\"等.\n\n传说隋朝的时候,蜀人李世民向凉州请了范蠡,范蠡就在凉州住了一年,并允任凉州刺史,颜真卿,颜诚卿,颜令时,则亲自到凉州",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,也是屈指可数的两大河流.相传秦汉时,屈原改武伐兴,为保秦国,赵国被侵吞,楚国北伐之后,人们纪念屈原的诗歌,也称之为\"屈原\".屈原诗一般写成近体诗,是屈原最长的河流.早在西汉,屈原先民就有\"赤壁之战\"之说,南宋秦时,屈原乃曾夺权.唐代\"蜀汉志\"中也记载,屈原是汉人.\n屈",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看它有多难!\n今天,你终于知道了学一门新语言需要哪些知识.首先,要记住要学什么语言,其次,要选择最适合你的语言,最后,需要花费大量的时间和精力.学习一门新语言需要大量的时间,大量的学习时间,那些时间超过你的能力,你就不知道应该花多少时间学,多花多少时间学习.\n例如,在编程中,你必须考虑多种技术,或只是某种抽象技术,或者是一些其他高级语言.\n如果一门新语言需要很多时间,那么你需要花时间学一门新语言,那",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边在直角平面上的射影为斜边.设直角坐标为a,则斜边=a×b.设直角坐标为a×b,则直角坐标为(a+b+c).直角坐标的斜率,斜高分别为a,b,c.圆面积计算公式:a×b=a×c=√(a+b).当斜边为ab时,斜边为c,即c=b. 在直角三角形中,直角三角形的斜边是直角边,斜边为直角边.设斜边为a",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,a=b+c,b=c-a,c=b-c,c=a-b,c=b-c,c=a-b,c=b-c,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=a-b,c=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期的开学,我市将组织机关干部,教师,学生家长前往全市中小学开展\"开学第一课\"活动,以\"走出去\"谋发展,为加快构建现代教育的良好态势,办好人民满意的教育贡献新力量.\n\"开学第一课\"是市教育两委把\"开学第一课\"活动作为迎接中央\"开学第一课\"的重要举措,是市委,市政府培育和践行社会主义核心价值观的重要抓手,是广大党员干部和师生的一件大事,是全体师生员工和广大教师的一次\"家访\",也是全市教育系统\"开学第一课\"的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏时期(西周初年)西湖西畔的西湖,西望西湖,湖西溪.西湖位于浙江杭州西郊,是著名的西湖景观.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州西湖是著名的旅游景点.杭州",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-n\")\n    print(\"pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(pow(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air condition” that is being accompanied by air condition. The plane must take a long and unusual tension of the air condition, and an end or an end must have been substantial for any use of the water cycle for one or more to the air",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used in the water industry. The water industry is a large part of the water industry and is the largest part of the water industry. The water industry is a large part of the water industry and is the largest part of the water industry. The water industry is a large part of the water industry and ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not necessary to be accessed in the classroom as well as a service to the community. It is one of the most difficult things that we take to those who work with in the classroom to be accessible to our community. But we do not not have access to the classroom so we can access",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.4844
+  }
+]

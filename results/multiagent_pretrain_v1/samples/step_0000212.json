@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "\n不支持:\n\n这个普通结果\n\nAnok\npad\nSebeles\nLE-R\n作为Oine'TIant & bug.\nNG\n1.\n12.07 WDE-N.NDAN.\nH(3)\nMar.\nH-BREC.\n有提供对比,除了充电车,D,采用汽车,另外,预测手机,控制,可以为关系.\n图RVB(KB)\nCSCYLNTREXBA,CG",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",\n在\"关于\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "斑,垃圾十足,男女通风,充分跨越.\n在白晓保,因而有细的乳时,极钝,以及透过起弥土景观,压的包装,供栏,茶,免,玉道,羽花,首,北等危,无喷,江与野,干涌,上下员等保护,新未勤和刚.\n武汉,市,为村民同农业,天津,高,河北,市,山,丙塞,,重,要望,叶,准,临,三,与红,美,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土侧.\"大会\"中公手\"覆盖人\"中,可以在地铁代利亚因边缘给商业,5G5HProE为王译.\n按照GREHA公司,德国智能应用,商业,城市和建筑,高等,肥料,整体,发展,生产,自主和公司,医疗,生物,电子,华为技术,将单技术,CaiOB,人工智能,卡,医疗,低单元等,加速企业,信息技术,能源,20GOS10E,金处理器VE,提供新型设备的研发科技,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",在水,在\"小\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "京东并未提供将达到100亿元.\n国家和圣卡王的海素队,王文春肉在西海,黄永,无衰,圣泉.凡,宋塔,江坡,长秋,血与,龙,学校,金层,长入,余糖,高路,封梦,镇,十二,成都,洋,王大玉,凤凰,公杂,多,天,长通,齐等有,东,四季,肉,国,七,,红之,喝,人民,,花心,处",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "气候,食品,石界能凝聚的,制作了医疗卫生,现短,重暴雨,绿队,助营业,摸足,水,恐,支持,空,客,血,薄,便利,开始,炼,到各期,避免天板,中陷,春向,海运,水,复,茶,宿,小学,草,女,产业,济南,上下,高,右,,事,提,等不完美的,酸,肖,龙,院,李,石,退役,周地松,佳,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人和有一些你地,它会被Python,具有一些不可一样,然后再更按迭代的.现在要快速很难去思考,已经只互相选择一下,因此,社会与需要编程,通过如何多学习,其实就可以比文章进行获取,几乎就是什么那些变词.可是,我们不知道,JavaScript,DPC,最单纯的是,除搜狐官方账号外,有一个语言,在编程中,然后执行,开发者并不尝试.\n不过,编程, 例如: ● 如果Ck 是:\n比如, VR客户端 & 中,的应用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在帕卡利状涡奕牌上加相生.\n本文摘要:\n首先,我们不仅用检测发电,不过为了找到一些转,而且在特塔没有低变,对粒子基础上的新圈,可达,便于增长.\n0.00年代,SE-TPN.\n特别明显,则是一个鸡蛋液,定制单,高火,以及包,无线HD,F成为iPhoneOD(SGBCA)都彻底显著.\n12.9月,世纪我国电信与交通技术,全专科,农机加工和AI",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在\"关于\"中\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的\"的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "69.该职业定向官网于2016年1月31日电(C)9日达30%,同比增长8%;达到6.1%;于第二场补消费排,运球员应投销售,较降雨关.\n在英国山村专整,同比经济监控至15多个疫情防控,可通过把同期紧健康,持续提高省级的水面公司贫困.\n只有600家,总旅行社可在地铁将当地制造业下,开展进出口销售单位,最高厂,下降100万元,增长40%%.\n\"朱利房\"保卫局\"的,加辅转",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": ",向经东浦,冰王,上海,十二门,勤校长,茶叶,科,当地.据\"丰收城\"等\"的\"市团院\"的旅行社,厦门,山东和东,花园,为徐州,防灾,蔬菜等3.2.6点,4.4公斤,分别,南部和等.",
+    "new_tokens": 73,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "\"一个python-,\n\"是\"C\"\n\n\"text.\n是 -  - \"\n\"\n\"\n \"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n第9\n\"\n\"\n(\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\",\nI a \"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n()\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"\n\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5726,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " of the the hand (Rery, of the not study to just those world after country in the new used that not the years of science from the be more I campus of many this of and things and the been chentual exied and the the the the the the the future up young the a the the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " to a much of the m chkes to develop is it fchies and you day with the the be mor taduction and a sore and the this impact with parents that and the more will paper for be more with the hand and the being a seon used or the the take the the the the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.4844
+  }
+]

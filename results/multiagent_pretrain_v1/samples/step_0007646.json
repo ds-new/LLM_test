@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够了.\n第四波疫情,让人工智能真正落地到各行各业,让我们更加关注这些行业,提供更多的机会,能够改变人们生活.\n第四波疫情,让人工智能真正落地到各行各业,让我们更加关注这些行业,提供更多的机会,能够改变人们生活.\n第五波疫情,让人工智能真正落地到各行各业,让我们更加关注这些行业,提供更多的机会,能够改变人们生活.\n第五波疫情,让人工智能真正落地到各行各业,让我们更加关注这些行业,提供更多的机会,能够改变人们生活.\n第五波疫情,让人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能成为未来产业变革的驱动力.\n人工智能的发展,让人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "菜市场,看一眼就会知道他们正在干什么.\n小明和小明夫妇去公园里吃了糯米.\n两个人在一个楼里吃着糯米.\n主人去吃糯米,小明一家人吃了糯米.\n主人吃糯米,主人跟着主人吃糯米.\n主人跟着主人吃糯米,主人跟着主人吃糯米.\n主人吃糯米,主人跟着主人吃糯米.\n主人看主人吃糯米,主人跟着主人吃糯米.\n主人吃糯米,主人跟着主人吃糯米.\n主人吃",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为下一代的开放,协同,共享,共享,共享新物种,实现植物,植物与植物之间的共生. 我国植物物种资源分布比较广泛,类型众多,种类丰富,品种丰富,适应性广,植物资源极其丰富,拥有丰富多样的资源,植物资源多样,资源富集,资源独特,品种丰富,营养丰富,是重要的生态系统.我国植物物种资源分布比较广泛,类型众多,种类丰富,品种丰富,品种丰富,品种丰富,品种丰富,品种丰富,品种丰富,品种丰富,品种丰富,品种丰富,品种丰富",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使植物在生长过程中,通过光合作用,使",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,开发,发明,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獢?,长江上游的长江上游的长江流域是长江流域的\"一号高\",是长江上游的\"两江\",是长江下游的\"两江\".长江流域面积33平方公里,长江流域面积1.6平方公里,长江中游地区面积1.6平方公里,长江中游地区面积1.7平方公里.长江流域的面积1.7平方公里,长江流域面积1.6平方公里.长江流域面积1.6平方公里,长江中游地区面积1.6平方公里,长江中游地区面积1.6平方公里",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3846,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言现在已经被广泛的应用,包括聊天机器人,聊天机器人,智能汽车和搜索等,所以许多的热门语言之一就是它的语言.\n人工智能(Artificial Intelligence,简称AI) 的出现使得机器学习(ML)迅速走下\"新车道\",并且逐渐成为新的焦点.\n过去我们不知道深度学习和机器学习如何实现,但从 2014 年开始,我们就一直相信深度学习是非常重要的.深度学习本身也非常重要,它只是浅层的层次结构,并没有太多的地方考虑.\n深度学习(Artificial Intelligence,简称AI) 的出现,让机器学习(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形中的直角边等于直角边的直角边,所以直角三角形直角边是直角边的一半,直角边等于直角边的一半,直角边的直角边的直角边也等于直角边的直角边,直角边等于直角边的一半,直角边的直角边也等于直角边的直角边,直角边的直角边也等于直角边的直角边,直角三角形直角边的直角边也是直角边的直角边,直角边的直角边也等于直角边的直角边的直角边,直角边的直角边也等于直角边的直角边,直角边的直角边也等于直角边的直角边,直角三角形直角边的直角边也",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为直角,直角边的直角边为",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "义务教育阶段学校总招生5359人,比去年增加2人,比去年增加3人,比去年增加3人.\n今年,我市城区中小学招生3791人,比去年增加2人,比去年增加3人.其中,义务教育阶段学校总招生5359人,比去年增加3人,比去年增加3人.其中,义务教育阶段学校总招生5359人,比去年增加3人,比去年增加3人,比去年增加3人.其中,义务教育阶段学校总招生5359人,比去年增加3人,比",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖,别称:西湖城,位于浙江省杭州市西湖风景名胜区,距西湖3公里,有西湖三宝山,西湖文化遗址.西湖风景秀丽,气候宜人,有\"西湖第一西湖\"的美誉.西湖西湖 西湖 西湖公园位于西湖东面,毗邻西湖4公里处,有西湖五景:西湖的东面,西湖的西面,西湖的西面,西湖的西面,西湖的西面,西湖的西面,西湖的西面,西湖的西面,西湖的东面,西湖的西面,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print(\"save\")        print",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human science is enhanced in the wake of those generated by many of the million scientists and scientists in the UK from the early May 2000 to the 1860s.\n“The water science system was chilling that the natural science system was achieved in the past few years in the early ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used in the water cycle and the water cycle is used in the water cycle. The water cycle is used in the water cycle and the water cycle is used in the water cycle. The water cycle is used in the water cycle and the water cycle is used in the water cycle and the water cycle is",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not necessary, but that is important because it will help to help people understand the context of their learning. We need to understand how they work, how they can be and how they will use the resources they use to improve their learning. We need to help us understand how they can use the resources",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2051,
+    "tail_top_share": 0.4844
+  }
+]

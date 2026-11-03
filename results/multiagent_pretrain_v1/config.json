@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "budget_hours": 72.0,
+  "device": "mps",
+  "data": {
+    "source_config": "configs/scale_sources_v1.json",
+    "total_chars": 1000000000,
+    "weights": {
+      "zh_education": 0.22,
+      "zh_science": 0.13,
+      "zh_news": 0.1,
+      "zh_literature": 0.1,
+      "zh_math": 0.1,
+      "programming": 0.1,
+      "en_education": 0.08,
+      "zh_travel": 0.05,
+      "zh_agriculture": 0.04,
+      "zh_ai": 0.04,
+      "zh_sport": 0.02,
+      "en_programming": 0.02
+    },
+    "download_workers": 4,
+    "download_attempts": 3,
+    "val_docs_per_domain": 300,
+    "test_docs_per_domain": 300,
+    "tokenizer_chars": 10000000,
+    "tokenizer_vocab": 32000,
+    "tokenizer_min_frequency": 2,
+    "tokenizer_timeout_hours": 4.0,
+    "encode_workers": 0
+  },
+  "train": {
+    "seq_len": 1024,
+    "tokens_per_step": 65536,
+    "segment_minutes": 45,
+    "checkpoint_minutes": 15,
+    "eval_reserve_fraction": 0.06,
+    "safety_hours": 1.0,
+    "target_tokens_per_param": 20.0,
+    "max_epochs_per_domain": 4.0,
+    "weight_decay": 0.1,
+    "beta2": 0.95,
+    "grad_clip": 1.0,
+    "min_lr_ratio": 0.1,
+    "warmup_fraction": 0.01,
+    "seed": 20261031
+  },
+  "eval": {
+    "val_chunks_per_domain": 16,
+    "max_new_tokens": 120,
+    "top_p": 0.9,
+    "temperature": 0.8
+  }
+}

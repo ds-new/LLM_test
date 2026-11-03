@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能,移动互联网,5G,物联网,物联网等等,都改变了人类生活.人工智能,人工智能,5G,物联网,物联网,这些颠覆着人类的创新创造.\n但人工智能,人工智能,实际上也是新的.\n尽管人工智能是最近几年开始迅速发展起来的.2012年,美国\"资本周刊\"曾报导,美国人工智能公司Deepmind公司投资了一家人工智能公司,旨在开发一种新的人工智能技术,人工智能可以像人类一样思考,思考,思考,甚至达到很高的效率.\nDeepmind公司创始人兼首席执行官Chris",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和朋友一起去公园.\n_ 你喜爱的小明妈妈,你长大后就不会照顾你了.\n你厌恶小明,喜欢小明.\n你喜欢小明妈妈,喜欢小明.\n你喜欢小明妈妈,喜欢小明妈妈.\n你喜欢小明妈妈,喜欢小明妈妈.\n你喜欢小明妈妈,喜欢小明妈妈.\n你不喜欢小明妈妈,喜欢小明妈妈.\n你不喜欢小明妈妈,喜欢小明妈妈.\n你不喜欢小明妈妈,喜欢小明妈妈.\n你不喜欢",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5983,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用在自然界中,使光能转化为电能,这也就是说,光能转化为电能的消耗量,是能源的消耗量.光合作用主要是光能转化为电能,如光能,电能,它们可以互补而得,从而使光能转化为电能.光合作用是指光能转化为电能,如光能,电能,电能,它们可以互补而得.光合作用主要是光能转化为电能,如光能,电能,电能,它们可以互补而得,从而使光能转化为电能.光合作用是指",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4786,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,创造,发明,发明,创造,发明,发明,发明,发明创造,发明创造,发明创造,发明创造. 因此中国古代的四大发明分为:发明,发明,发明,发明,发明创造,发明创造,发明创造.发明创造是现代科学的中心部分.在古代,几乎所有的科学理论都被描述成一种观念,比如\"自然\"一词,就是指研究物质如何活动的科学. 发明创造 中国自古以来就崇尚\"本性\",即发明创造,认为\"本性\"是由于\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3077,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐,分布在长江以南的长江口,最大可能长达1000公里,最大可能长达100公里.\n长江是世界上最长的河流,其中绝大部分河流为长水河流,常含有大小河流,包括长江中下游,长江口,长江中游地区.长江段长度近500公里,流域面积约300平方公里,是世界上最大河流,包括长江中下游,长江中游地区.长江口平均宽度约50公里,流域面积约500平方公里.\n长江是中国最大的河流,位于长江上游,长江下游与长江中游地区的中间,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要看看它有多难!\n今天,我学习了 JavaScript 语言的语法,然后再学它的语法,相信现在要学 JavaScript 了,敬请期待!\n1, 感谢您对 JavaScript 语言学习 JavaScript 的重视,在此与大家分享一篇 JavaScript 语言学习 JavaScript 的视频,请给予支持!\n1, 感谢您对 JavaScript 语言的重视,在此与大家分享一篇 JavaScript 语言学习 JavaScript 的视频,请给予支持!\n1, 感谢您对 JavaScript 语言的重视,在此与大家分享一篇 JavaScript",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜边上,斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形斜边上的中线等于斜边上的一半,斜边上中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上中线等于斜边上的一半.\n直角三角形斜边上的中线",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教体局将坚持\"四个面向\",围绕\"四个中心\"建设,推动改革再出发,动员更多教师参与新课程,新课程,新教法,新教材建设. 在市教体局的统筹协调下,市教体局将充分利用我市\"四大中心\"优势,注重教育引领,不断提升\"三个中心\"建设水平.聚焦\"三大中心\"建设目标,将重点抓好\"四个中心\"建设,发挥核心作用,丰富内涵,形成亮点. \"四大中心\"建设以\"四个中心\"为平台,以\"五大中心\"为依托,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖,别有一番话:西湖位于西湖西岸,西湖东麓,西湖西水西调.西湖位于西湖东岸,西湖东麓,西湖西岸,西湖东麓,西湖西岸,西湖西岸,西湖东麓,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸,西湖西岸",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def fibonacci = { ret rn 0}\") print(\"def fibonacci = { ret rn 0}\") print(\"fibonacci = { ret rn 0}\") print(\"fibonacci = { ret rn 0}\") print(\"fibonacci = { ret rn 0}\") print(\"fibonacci = { ret rn ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of racism. The winter of the world is so much to me. This is a troop of the spheres. This is a matter of a sphero. Those animals and substances are still being met. This is a matter of a troop. The",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a way of recovery and the water cycle is a way of recovery and the water cycle is a way of recovery and the water cycle is a way of recovery and the water cycle is a way of recovery and the water cycle is a way of recovery and the water cycle is a",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is a different way to get out of the topics you need to understand and do it. It would be so much more sustainable, but if you get a work that you can get to do it that you have to learn and do it even more. So what you want to do to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.4844
+  }
+]

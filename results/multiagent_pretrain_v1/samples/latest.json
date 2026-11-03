@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,只不过是计算机领域里的\"机器之母\",而作为人类,我们只是这个\"机器\"的符号.\n现在,我们都处在人工智能的\"边缘地带\",过去,现在,未来,都由我们自己来定义.\n作为人类,我们面对的是全新的,崭新的,现实的新事物.\n从我接触的人工智能,我们看到了人工智能,也看到了人工智能,但同时我们却看到了,人工智能,又看到了人工智能的本质.\n我们在人工智能这一块,只不过是做了很多工作,把一些具体的工作做了一些.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起来看",
+    "new_tokens": 46,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.5814,
+    "tail_top_share": 0.2174
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用吸收了植物光合作用,使得植物中的有害物质包括有害物质,有害物质主要是植物生长过程中引起的.如光合作用植物的叶绿素,植物根系,细胞膜,病毒等,由于叶绿素和叶绿素的相互交换,导致叶绿素与叶绿素的不同颜色,颜色,颜色,颜色间相互变色.叶绿素的组成成分是由叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,叶绿素,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物在光合作用中,能够吸收,吸收和吸收二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水,二氧化碳,二氧化碳,水",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文是秦汉时期的最高著作,有五部记事和六部记事,算不尽的时候,也有十二部记事和六部记事.",
+    "new_tokens": 43,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.125,
+    "tail_top_share": 0.1163
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟?,长江上游的长江支流是中国最大的人工湖.长江流域面积204平方公里,主要水系由北到南,北干支流长50.5公里,其中长江干支流长90.5公里,中上游为长江干支流,下游为长江支流.长江上游是长江中上游,下游连接长江中下游的长江支流,是中国重要的蓄水,引水,灌溉,航运,航运中心.长江是中国最大的淡水,淡水,淡水,淡水,淡水,淡水,淡水综合运输",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这篇文章,你真的了解它吗?\n这篇文章的作者是一位计算机专家,他正在为许多大学提供语言课程.他最近分享了他对人工智能(AI)和机器学习(ML)的看法,以及如何看待机器学习(ML)可能会对未来的就业构成影响.\n这篇文章的标题是\"Go语言是如何将人工智能应用于其他语言\" - \"Go语言的应用\",作者介绍了使用Go语言设计应用程序的简单方法,它使Go语言可以用来编写,编译和运行代码.\n本文介绍了Go语言如何利用这些技巧来改善\"语言选择\",以及它如何应用于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边在斜边为1,斜边为2,斜边为3,斜边为4,斜边为5,斜边为2.\n 在直角三角形中,直角边为边,斜边为边的直角三角形的斜边为斜边,斜边为边,斜边为边,斜边为边.\n 在直角三角形中,斜边为斜边,斜边为边,斜边为边,斜边为边.\n 斜边为斜边,斜边为斜边,斜边为边,斜边为边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加小学五年级及初中一年级教学,并于9月16日组织全市适龄儿童入学.\n我市将城区小学体育和艺术(含体育)纳入小学一二年级,小学五年级的体育课,体育课和美术课纳入初中一年级,初中一年级体育课和小学三年级体育课纳入初中一年级体育课.市直学校要根据属地教育局的要求,将体育课和美术课纳入小学五年级体育课和小学五年级体育课,于9月16日前将体育课和美术课体育课纳入小学五",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖东湖西湖北湖风景区位于杭州市西湖区西湖镇,距西湖3.5公里,环境优美,生态环境优美.西湖镇位于杭州市西北部,位于杭州西湖风景区内,是西湖风景名胜区重点保护单位,杭州市属一级重点保护单位.西湖镇地貌奇特,地势险要,四季分明.西湖镇的景点有:西湖:东湖,西湖,西湖,大西湖,南湖,西湖,大西湖,西湖,西湖,古湖,西湖,西湖,西湖,东湖,西湖,小西湖,小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def fibonacci(n):    n=1,n=2,n=3,n=4,n=5,n=6,n=7,n=8,n=9,n=10,n=13,n=15,n=16,n=19,n=20,n=30,n=42,n=34,n=35,n=36,n=37,n=37,n=38,n=41,n=44,n=42,n=46",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurs in the \"light\" when it occurs in a \"w\" or \"y\" erosion that you should see when it occurs in a \"light\" when it occurs in a \"w\" or \"y\" erosion that you should see when it occurs in a \"w\" or \"y\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water to the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the wisdom that comes from teaching youth to the community. It is one of the most important aspects of this book, so it is that it is true to the community. Learning to read is important because it is important to the community.\nTake the look for ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.4531
+  }
+]

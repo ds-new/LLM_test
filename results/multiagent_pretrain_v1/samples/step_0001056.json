@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "\n本文摘要:\n人工智能已经取代人类\n据\"人工智能\"报道,该领域的人工智能研究,可能会触及人类的历史,并加速人类技术的普及.\n人工智能不仅造福人类,社会,社会,医学,宗教,道德,文化,社会,社会,社会,教育等领域的人工智能研究,可能会触及人类的历史,并加速人类文化的普及.\n科学科学的描述,是人工智能的发展,包括科学,伦理,伦理,文化,文化,文化,社会,社会,社会,社会,社会,社会,社会,社会,社会,社会,社会,社会,社会,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能发展的关键.\n人工智能的发展,是人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园ico��,在公园宽敞的还有小波花园,另一面是小波花园,主人使小晴小晴和妈妈去公园ico��,他们的公园里,儿童和小朋友们都有自己的指导,他们包括小波花园,小波花园,小波花园,小波花园,小波花园和小波花园.\n\"蜜月小明孩子\"的妹妹,小明和妈妈给了孩子们们准备的这款仪服,祝福孩子成长.\n\"蜜月小明妈妈\"的女儿,小明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 4,
+    "rep4": 0.1709,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土质菌,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,水类,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "中国古代的主要著作,比如王道,石道,薛王道,古都,王道,宋王道,唐宋王道,唐宋王道. 道家中道家最重要的著作,就是\"道家\",道家与道家就是道家. 道家对道家有着非常深入的认识.道家是道家的核心,道家就是道家.道家是道家.道家是道家.道家是道家,道家是道家.道家就是道家.道家是道家.道家是道家.道家是道家,道家是道家.道家是道家.道家是道家.道家是道家.道家",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3846,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,是长江上游的一种水族.长江上游是长江上游的一个水族,是长江上游的一个水族,是长江下游的一种水族.\n长江上游是长江上游的一条水族,是长江上游的一条水族.长江上游的一条水族,是长江上游的一条水族.长江上游的一条水族,是长江上游的一条水族,是长江下游的一种水族.\n长江上游是长江上游的一个水族,是长江上游的一条水族.黄河下游是一个水族,是长江上游的一条水族,是长江下游的一种水族.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "掌握哪些新语言?\n2,懂什么Python,具有什么不可懂的呢?\n1,懂得什么要懂的?\n2,懂得什么应该懂的,\n学会什么才懂的.\n学习一门新语言应该懂的,\n什么是学习一门新语言?\n学习一门新语言应该懂的,\n什么是学习一门新语言?\n学习一门新语言应该懂的,\n学习一门新语言只是懂的,\n学习一门新语言是需要懂的,\n学习一门新语言就是懂的,\n学习一门新语言就是懂的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4103,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在三角形中,正数为1,所以(2-3)≠0.\n(1)圆的周长,直径,周长,周长,周长,直径,周长,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,面积,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7094,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,那么三角形的周长是______,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "五(四)日,为了做好后续工作,将组织全县基层党组织赴2022年7月7日,新乡市新乡市第二实验中学,新乡市第七中学,新乡市第五中学,新乡市第四中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市第五中学,新乡市",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6154,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣经(íロルパたじたすたのけさぞたたたたたたたたたたたたたたたたたたたたたたたたたたたたたたたたたのたたたたたたたたたたた",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7094,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n)  s.  def fibonacci(n):\n    .  def fibonacci(n)  .  def fibonacci(n)  .  def fibonacci(n)  .  def fibonacci(n)  .  def fibonacci(n)  .  ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " was working on the other Americans.\nThe names of the reasons that the salisity was based on the western and local business leaders from the seat of our early and many contexts. In the contexts of the substantial morning, their family sees was out up to the modern names,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " works to be able to the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our service is a new moment but far more about that comes.\nWhile a new spokes was victor or tailored to rural manages, the idea is so describing the same place to the Catholic Learning on the overall of the Batholic Learning on the best last month. The library",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.4062
+  }
+]

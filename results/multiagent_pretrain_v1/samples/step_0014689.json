@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能,移动互联网,5G等技术,已经在改变人类的生活.作为人类,我们每个人,包括我们的家人,家人,以及我们的世界,每一个人的灵魂,都是相同的,但都是不同的,每个人的能力,价值观,生活方式,价值观,信仰,价值观,价值观.\n所以在人工智能时代,我们每一个人,都可以提供不同,可以带来不同的价值,在不同的阶段,不同的价值,不同的人,不同的人生,不同的未来.\n但最重要的还是以人为本,以人为本,互联网平台,云计算,人工智能,人工智能,云计算,大数据,人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园\n春天来了 晴朗的天气,如新绿,花草香,山野花海,疏林密草,山野轻踪,无一丝的潮湿,野草烂漫,树木密密麻麻,处处绿意盎然.\n公园里,古株绿植,静谧幽静,映衬着山野的风情.\n小明和小明穿着不一样,都是红豆大的汗珠,站在路边捡拾",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的生理活动中,对植物光合作用产生的一种影响.一般指植物光合作用,也称光合作用.为适应我国物质生长和光合作用发展的需要,提高植物光合作用质量,减少光合作用对光合作用的影响,发展光合作用对光合作用的研究,开发,生产,利用和保护,对光合作用进行调节和调控.光合作用常用于低耗能,低毒,低污染,高耗能,高耗能,高污染,高代谢的物质,主要包括:",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用下,通过光合作用,使植物在光合作用下,能获得更多的光合作用,从而提高植物光合作用效率.\n光合作用是指植物在光合作用下,通过光合作用,使植物在光合作用下,能获得更多的光合作用,从而提高植物光合作用,从而提高植物光合作用效率.\n光合作用是指植物在光合作用下,能获得更多的光合作用,从而提高植物光合作用,从而提高植物光合作用,从而提高植物光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如,秦九韶发明了活字印刷术,到明清时期发明了活字印刷术,这算得上是有史以来发明的最多的发明. 因此,中国古代的发明尤其是发明都集中在利用古代大量的发明进行加工生产.而古代的一些发明虽然已经是近代发明中最高成果了,但它们的发明却是有史以来发明最多,变化最大的发明.这就说明,中国古代发明的特点是发明的充分性和发明的独立性. 古代发明的科学技术,在很大程度上可以概括为五个方面的内容:发明是生产力的反映,发明是生产力的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,分布在长江以南各省区.长江流域共有5个湖泊,6个湖泊,4个水系,3个水系.长江流域上游有7条支流,3条支流,1条支流,2条支流.长江流域上游有2条支流,3条支流,2条支流,6条支流,3条支流.长江流域上游有6条支流,3条支流,1条支流,1条支流,1条支流,2",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这篇文章,你真的了解它吗?\n这篇文章的作者是一位计算机专家,他正在为许多的计算机语言设计快速而有效的程序,如数据库,shell和shell,这些程序需要编程来学习.\n学习一门新语言应该对初学者友好的多.\n如果那些初学者感到厌烦,我们可能会将程序编译为C,因为C 语言可以编写很复杂的程序.\n但这是不安全的.\n一些初学者会感到困惑,这些问题,以及如何才能获得一个简单易懂的程序.\n例如,如果你要创建一个\"客户端\"程序,它需要运行",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三直角边所对的直角边平方加起来等于斜边所对的直角边.即直角三角形的斜边,直角三角形的斜边,斜三角形的斜边,直角三角形的斜边,斜三角形的斜边,直角三角形的斜边.直角三角形斜边上的中线等于斜边上中线.斜边上的中线等于斜边上中线.设斜边上的中线等于斜边上中线,斜边上的中线等于斜边上中线,斜边上中线等于斜边上中线.在直角三角形中,斜边上的中线等于斜边上中线,斜边上中线等于斜边上中线.斜边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期的开学,小学,初中,高中,职高各新增开班时间,新高中开学时间原则上于7月30日提前,高中开学时间原则上于7月30日提前.\n根据市教育局最新发布的\"我市中小学\"十四五\"时期学校布局规划\",本次开班时间在7月31日.根据往年经验,今年暑假期间,我市中小学预计开设4至5个科目,分别设18个班和12个班,其中,小学和初中,高中,职高各新增开班时间分别为4月23日至",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景名胜区西湖:位于浙江省杭州市西湖区西湖乡,全长5.3公里,西起西湖,南至西湖.西湖在杭州城西北40公里处,东西长45.5公里,东西宽23.5公里,总面积约1.4平方公里.西湖总长4.2公里,总面积约1.2平方公里,西湖海拔在1400-1500米之间.西湖湿地面积达11.5平方公里.西湖水域面积约12.2平方公里.西湖于2009年12月18日正式对外开放,是杭州东湖,西湖,南湖,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-read-fibonacci-dll\")\n    def fibonacci(n):\n    print(\"python-read-fibonacci-dll\")\n    print(\"python-read-fibonacci-dll\")\n    print(\"python-read-fibonacci-dll\")\n    print(\"python-read-fibonacci-dll\")\n    print(\"python-read-fibonacci-dll\")\n    print(\"python-read-fibonacci-d",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as appropriate to its water supply and produces. There is also the line that is the water cycle that is designed for the water cycle of the mountains. This line is projected by a cellular fluid fluid by the sea co-op at the point of the m",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the water that is being used in the water that is being used in the water that is being used in the water that is being used in the water that is being used in the water that is being used in the water that is being used in the water that is being used in the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the public domain as possible, and you can still know that it is one way to keep people in the public domain. To do that, you don't know the cost of a person here and the benefits of your time. So you don't know what to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.4375
+  }
+]

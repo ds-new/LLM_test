@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "\n2018-01-21 20:14:11\n人工智能(AI)\n编者按\n编者按\n\"\n人工智能的发展\n,人工智能的发展\n,人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能的发展\n,\n人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能的发展.人工智能的发展离不开人工智能的发展,离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开人工智能的发展.人工智能的发展离不开",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园，小明和小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明一起去公园�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用.光合作用是指光合作用.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用.光合作用是指光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"古籍有书\".王羲之,秦圣陶,周朝有,裴文宗,王家大等.中国古代的四大发明包括:秦圣陶,周朝有,秦圣陶,周朝有,王羲之,秦圣陶,周朝有.有秦圣陶,周朝有,秦圣陶.周朝有,秦圣陶,周朝有,秦圣陶.秦圣陶,周朝有,秦圣陶,周朝有,秦圣陶.秦圣陶,周朝有,秦",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5641,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": ",中国著名的长江流域以南,长江上游以南,长江上游以南,长江上游以北,长江上游以北,长江下游以南,长江上游以南,长江上游以北,长江上游以北,长江上游以南,长江上游以北,长江上游以南,长江上游以北,长江上游以北,长江上游以北,长江上游以北,长江上游以北,长江上游以北,长江下游以北,长江上游以北,长江上游以北,长江上游以北,长江上游以北,长江下游以北,长江上游以北,长江上游以南,长江上游以北,长江上游以北,长江上游",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言通俗易懂,通俗易懂,通俗易懂,通俗易懂,具有很强的学术性,可读性,不会枯燥,不会枯燥.\n对于初学者来说,这门新语言最适合从事实际工作,以需要编程,通过编程实现学习,掌握多种编程语言,进行项目之间的协作.\n学习一门新语言必不可少,它要求将程序,程序,流程,原理,过程等结合起来,不断提高系统的开发能力,培养动手能力,实践能力,创造力.\n学习一门新语言,应当以先进的编程技巧,有助于开发高效,有效的编程技巧.\n学习一门新语言,应当以掌握",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":\n三角形内角平分线是由直角三角形的三条对角线(直角边与三边角).\n三角形的内角平分线由高到高到高不等,证明:\nA.∠A+B=∠A,B=∠A+B,C=∠A+B\nA.∠A+B=∠A\nB.∠A+B\nC.∠A+B\nD.∠A+B\nD.∠A+B\nD.∠A+B\nD.∠A+B\nD.∠A+B\nD.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.\n三角形的内角和等于直角三角形的内角和.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局安排部署了新学期学生寒假寒假校(以下简称\"寒假\")建设工作.\n据市教育局透露，去年暑假期间,市教育局安排部署了新学期学生寒假寒假校(以下简称\"寒假\")建设工作.\n教育局要求,在假期开学前,各教育主管部门要与学校,有关单位加强沟通沟通,落实好寒假计划,确保寒假开学安全.要提前做好假期学校开学准备工作,及早制定好寒假计划,确保寒假安全.要严格落实假期校园安全管理,确保假期校园安全.\n市教育局要求,在放假前,要提前做好假期学校日常",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "城,历史悠久,是宁波城内历史名城,嘉兴城内风景秀丽,风景秀丽,有当地风情,素有\"城城\"之称.\n如今,嘉兴城内的鱼,苹果,花卉,鲫鱼,海草,海鸟,石鹿,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海鸟,海",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5128,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human becomes in the law. The model of a new world part of the scientific audience that the science is the same from the public. The demographic and the genuine itself will be the chairman of the Concept of the public and the public that itself will be able to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is to be the same of the water cycle. The water cycle is to be the same of the water cycle. The water cycle is to be the same of the water cycle. The water cycle is to be the same of the water cycle. The water cycle is to be the same of the water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data are not given to these data to the face that comes from information to the organization that they do not be converted with saving those data that they do not be given to the money to the money.\nLearning to read is given to the selection of the computing and the state of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.4688
+  }
+]

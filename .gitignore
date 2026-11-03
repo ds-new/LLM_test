@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.pt
+checkpoints/
+decoder_from_scratch/runs/
+.DS_Store

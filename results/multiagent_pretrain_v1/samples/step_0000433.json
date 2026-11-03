@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "\n机器人:\n学习\n数据挖掘\n入门\nVok\n• 计算机\n工具\n/\nVag\n作为人类,理解人工智能,而它的好处就是我们需要学习机器\n.\n考试内容\n提供在线软件,比如Dell 操作系统.\nDAN-5H(3D).\n负责软件开发,并随时运行您.\n默认提供软件,可以选择一个IDD-或 SM-4R-5BP-10JK-5H(5B))\nCopy Nob S-6D-10",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": "\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能\n人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "菜,入住6名男女通风员,晚上11:00时,中午26:00:00:00至14:00时,寒暑晴着.\n春寒雨:穿过花草,戴着绿色葱玉,渐渐有花香的甜甜香,花落在香江里,然后沿着望去,上下雨着满口,未冬季和刚日的雪都,可以淋去.\n农业品质的良好,有花俱清.\n春冬:好,不着急,播种过程中叶,有红豆,不香,有吃,又",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土种为主,水类一般用国家植物体系用文化产业呢? ⇇ 1-25-55-55-68-811-610 2-611 3-88-913 4-911 5-1020 5-611 5-725 5-1225 5-918 5-970 5-610 5-512 6-820 5-618 6. 4-732 5-",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物,是植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9744,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "中国法学与科学学会,美国科学院,国家和经济学研究院. 数学有数学建模,数学基础与的数学分析,数学建模,经济学,国家,国家和工程产业,中法学,数学,金融,数学,数学与数学及数学等. 数学评价 数学思维能力是数学中认识数学概念的强烈挑战. 数学技术和应用 数学数学概论是学术研究的重要意义之一. 数学研究,数学建模,数据分析,模型等学科.数学基础丛书是数学数学研究的关键概念,人类逻辑之的一种数学成果. 数学分析学科 数学",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "���(97892)成立于占地面积448283792.78392182.3912年,改名为重庆三角洲南部,总面积1633.1827年,是北京市第三大学所在地. [1] 农业部一,本理工医学院直属中,有三类师范学科,最高分数,第12位.现名为是小学语文专业,包括中学,初中,中学,多媒体,数学,文科,数学,英语,英语,英语,俄语,英语,英语,理工,英语,工商管理,文理学,经济学,法学,化学,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 3,
+    "rep4": 0.0342,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看大家有一些习惯地了解它,而Python 具有全面的编程性,然后再选择按任何几个句叫做java. Python 已经通过 Python 编写新的插件,从而提高编程效率.\n多学习简单,就可以比SQL 获取bug.\nPHP 可以超过 98%/m,只采用 Cach A IDE .\n当我们用 Sap 作为执行代码的时候,它会使用 Ill, Ims 以及 Debiv 等.\n比如, \"客户端 & % +",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "的焦点是叫做向量,即为收敛的方式是A.设是A.是R.α.A的F. A.Z.复数,证明是A. A.对X.Z. A.k B.ω. A.u E. P.M.E. A.设NP. E.t B.AB.Z.D. A. A. A. A.A. A.α.是完备的. A.cos.P.椭圆;它即",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上,在直线上",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "实现了准备一流职业办学项目,以专业为支撑,人才培养理念,以\"专业为载体,为专业,新课程理念,以人才为载体,以专业方式引领,以\"学生育人 -  - 社会,服务\"为职业,为高校\"以学生为中心,以教育为载体,以绩效,以培养.\n公司现有教职工建设,培训,以及教学质量.\n同时,特别关注高校教师,以及各单位,共同形成义务教育教师,为\"教在三行\"的育人理念,围绕国家德育和社会主义现代化干部制度,不断提高",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "рK (Manivan Maremis),是精品酒店.距离位于西大.据\"自2015年\"之称的著名的景点为韩国位于西安岛,厦门,山东和西藏城市.\n二网 (Fapon)成立于2019年,是全球地区地区最高的城市之一,是国内最大的支柱和城市.\n二站是国家级城市建筑之一,北青米(O)西南欧公园(C E Hink Gouse Gengner),是距离中东小镇(Psych)世界的一种传统区域.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0625
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".\n python中,python中是apnc plress.\n 很多时候,是 dstris. script: codent. 配置 stug ldt.\n 操作系统层:\n holma rrt. rht.\n dbd tl.\n pfd\n h rut vl, ftrar.\n pgst.\n dnj ddc\n 8, vhar.\n vd;\n 6, gabhip ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " success and the reads and approter against nearre wong consists from the replace in the new awards and introducing the student and college of over-new-care and and the concellence and purseles with the chill of the view of the company’s scientist's education of the individual students to sold",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " in the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University of the University",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our a much of that it are but to support after that I are more you's still know I do to be found and a sucer of the idea, with a state and the people will be found in a clack. And is has being a marker has a kind of the human sources to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.4688
+  }
+]

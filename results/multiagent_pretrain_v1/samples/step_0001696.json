@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "带给我们带来了新机遇.\n正如你所看到的,人工智能正在改变我们的生活,我们面临着巨大的挑战.当我们谈论它们时,我们不得不改变,并正在改变我们的生活.\n现在,让我们成为我们的程序员.让我们成为我们的程序员,让我们成为一名程序员.\n新的任务是在一个不平凡的岗位上上工作的,你可以为它感到高兴.你应该做什么,我必须做什么.\n我们每天早上起床或睡觉,睡前或睡前都学会做什么,以便做一些关于事情的安排.\n我们在一家公司工作的公司里总是做了些什么,为什么他们能在很短的时间内结束了呢?",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为世界人工智能的重要驱动力.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是人工智能发展的基石,是人工智能发展的基石.\n人工智能是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n近日,紫翠和小明和小明一起玩的,小朋友们看到的小明和爸爸来玩,小明小明和爸爸去公园，小明和小明一起玩的,小明和小明一起玩的,小明和小明一起玩的,小明和小明一起玩的,小明和爸爸一起去公园，小明和小明一起玩的,小明和小明一起玩的,小明和小明一起玩的,小明和小明一起玩的,小明和小明一起玩",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土质植物,水层植物,液体植物,植物,以及任何植物中.物理背景分布(如5-5维)的固体物质.光是化学光谱的主要来源,是材料中大量应用的一种物质物质.光是化学光谱的重要来源,是光从分子形态到分子形态和化学特征的重要来源.\n光是化学光谱的一个重要来源,是光是化学光谱的重要组成部分.光是化学光谱的主要来源,是材料中大量的应用的一种物质物质.光是化学光谱的主要来源,是材料中大量的应用的一种物质物质.光是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"古塔图\",\"古塔图\",\"汉塔图\",\"圣塔图\",\"五藏图\",\"奇思图\",\"大丽图\",\"端图\",\"菩萨图\",\"横穿图\",\"心法\",\"佛法\",\"佛法\"等等,就是六朝朝代.\n中国古代文明是中国的先祖,祖祖辈辈辈都在这里,祖祖辈辈辈都在这里,祖祖辈辈都在这里,祖祖辈辈都在这里,祖祖辈辈都在这里,祖祖辈辈都在这里,祖祖辈辈都在这里,祖祖辈辈",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,是长江中的著名的三大峰之一,也是吴晋时期的三大峰之一.相传北宋时期,长江中高,下降,水为长江,东为长江.远在长江中,北纬20.2°-25.1°-5.2°,南北长1.2°-1.0°,南北长0.2°,南北长0.5°-0.2°.西南,西北有云,东为海,盆地有云,东为黄岛,盆地有云,西北有云.在长江中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "学习这门课,你才了解它了.\n一,学习一门新语言首先要掌握它的主要学习方法,要学习一门新语言,要先学习一门新语言.\n二,学习一门新语言需要掌握它的主要学习方法,要学习这门课,你才了解它了.\n三,学习一门新语言要掌握它的主要学习方法,要学习这门课,你才了解它了.\n四,学习一门新语言一定要掌握它的主要学习方法,要学习这门课,你才了解它了.\n1,学习一门新语言,首先要",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4615,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个角,且为直角三角形.\n(1)已知A,B,B,C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,在直角三角形中，勾股定理中,∠A=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B=∠B",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局有关负责人透露,全区小学共部分学生(含初中,初中,高中,高中,高中,高中)学生(含初中,高中)学生,按照\"关于进一步加强学生教育的若干意见\"和\"关于加强和改进小学生教育改革的意见\"的\"意见\".\n据悉,今年暑假期间,市教育局,市教育局将围绕\"聚焦青少年发展,着力培育和践行社会主义核心价值观,引导学生树立中国特色社会主义道路自信,营造文明,崇尚科学,抵制损害青少年权益,尊重中小学生权益,尊重非牟利行为\"等话题,倡导以学生为中心,学科发展,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "(Kawaw),是我国最早的古代建筑之一,也是中国最早建成的杭州西湖.\n杭州西湖.据杭州西湖城南京汇碧口\n杭州西湖是中国著名的旅游景点,被列入\"杭州西湖\"城市中,杭州西湖被称为杭州西湖,西湖位于杭州东麓,南濒杭州西湖.\n杭州西湖,位于杭州西湖的杭州西湖.\n杭州西湖是浙江省西湖的一个重要的旅游景点,也是杭州西湖的\"西湖\"\n杭州西湖,又名西湖.西湖是杭州市西湖的一部分,西湖是杭州西湖中最大的东湖,西湖也是杭州西湖.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle positions and energy systems and energy systems. The model of environmental world sees many water cycle positions that are intimilate and led to the overlimiting platforms of mountains. The water cycle was also uncused by Conceptual compressions that sees the future of mountains. The water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much of different questions to mean to support the students in the importance of solutions. The skills are momentous, and a suspect of the idea is so deserving to the opportunities to support the process. Instead of these questions of the students are used by the crime to accept the technical",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4531
+  }
+]

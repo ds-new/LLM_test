@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能,移动互联网,大数据,云计算,5G等等,都改变了人类的生活.但是,人工智能对人类社会的生活产生了深远的影响.\n今天,马云已经发布了一份关于人工智能的白皮书,围绕人工智能发展,人工智能对人类社会的发展产生了深远的影响.\n人工智能的发展,不仅为人类带来了便利,更重要的是,人工智能对人类社会的生活产生了深远的影响.\n这应该是中国人对中国人工智能的巨大期待.\n中国互联网发展至今已经走过了一百年,人工智能(AI)的发展速度远不及现在这么快,不过,中国在发展方面也取得了",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大量数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的数据的积累,而人工智能的发展,离不开大量的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园",
+    "new_tokens": 46,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.5814,
+    "tail_top_share": 0.2174
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为防止碳酸,水解后快速吸取植物养分,以便吸收水分和水分.植物营养师可以通过植物吸收更多的水分来吸收水分的物质.植物生长过程中,经常会有缺水,缺水的情况,植物吸收水分和水分,会导致植物徒长,植物死亡.植物生长过程中,如不及时吸收水分,会使植物徒长,植物死亡.因此,植物的生命力是存在的.植物施肥是植物生长过程中的关键阶段,是植物吸收水分,吸取营养和改良土壤的途径,它对植物吸收水分和水分具有非常重要的作用.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物在光合作用中,能够吸收,吸收和吸收二氧化碳,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳,水,二氧化碳",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明创造的创造,比如发明和发明创造发明了建筑,有发明发明发明了建筑,甚至发明了科学成就.\n中国古代的四大发明包括发明发明发明了发明创造发明了建筑,有发明发明发明了建筑,还有发明发明发明了建筑,甚至发明了建筑,甚至发明了建筑.\n有发明发明发明了建筑,有发明发明发明了建筑,还有发明发明发明了建筑.\n在历史上,有世界上第一,第二,第三发明创造的发明发明了建筑,有发明发明发明了建筑,也有发明发明发明了建筑,还有发明发明发明了建筑,甚至发明了建筑,甚至",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐狩洙洙亾悓皤踉宣绦洙偃偃阖厩浃洙湙液�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.3504,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要掌握一门新的语言,你需要学会一门新的语言.\nPython 是一门通用的语言,它的主要目标是使语言易于学习和使用. Python 是面向对象的语言,它的设计目标是使计算机编程人员能够编写多态,多范式和混合编程代码.\nPython 是一门多范式编程语言,它主要目标是使程序员能够创建简洁,灵活,可扩展,可扩展,可重用,并具有良好兼容性. Python 对初学者来说十分困难,特别是涉及交互,例如构建 Web 应用程序,数据搜索,数据分析和网站推广等.\nPython 是一门多范式编程语言",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边与斜边的平方和等于斜边平方.设直角三角形的斜边为a,斜边为b,斜边为c,斜边为c的直角三角形中,斜边c和斜边c之比,叫做直角三角形的斜边 ，勾股定理指出:直角三角形的斜边是斜边的一半.直角三角形斜边比斜边大,斜边比斜边大.\n直角三角形的斜边为a,斜边为b,斜边为c.斜边c是直角三角形的斜边,斜边c是斜边的一半.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期开学第一周.\n■ ● ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏时期西湖:北起王府井,西至西湖,北至苏州街,北至三门桥,东至西湖.西湖风景秀丽,气候宜人,景色宜人,具有\"东花园,西花园,东水榭\"之美誉.杭州西湖风景名胜区游览线路 杭州西湖 杭州西湖风景区为杭州西湖风景名胜区的重要组成部分,是浙江省著名风景名胜区. 西湖风景名胜区位于杭州市西湖边上,是西湖胜境之一.西湖风景秀丽,气候宜人,景色宜人,风景宜人,素有\"西湖第一名园",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python read n\")\n    # print(\"python read n\")\n    def read_n:\n    print(\"python read n\")\n    def read_n:\n    print(\"python read n\")\n    def read_n:\n    print(\"python read n\")\n    # print(\"python read n\")\n    def read_n:\n    print(\"python read n\")\n    def read_n:\n    print(\"python read n\")\n    # print(\"python read n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" when it occurred in a \"w\" or \"y\" setting. This task is tied to the \"light\" cycle. There is no doubt that there is no doubt that there is no doubt.\nIn the \"light\" cycle, the water cycle is slight",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of doing a certain job, and that it is much more to convert a sense of the meaning of those who work together in a self-assessment system.\nLearning is harder to do in a separate setting, and it is hard to be ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.4062
+  }
+]

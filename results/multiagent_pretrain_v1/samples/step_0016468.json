@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,大数据,云计算,5G等等,都改变了人类的生活.人工智能,人工智能将会给人类带来新的方式,新的变化.\n对于人工智能行业来说,发展越来越快,AI的需求也越来越大.\n尽管目前人工智能的发展已经进入了新阶段,但是,人工智能已经发展到一个新的阶段.\n从AlphaGo,微软小冰,到AlphaGo Zero,再到AlphaGo Master,人工智能的发展已经进入了新的阶段.\n人工智能的应用已经非常广泛,比如现在风靡的人工智能,它已经改变了人类的生活.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 端午假期一家人去公园,看星星. 疫情仍在蔓延,中秋节将至,今年国庆节又到了,小明和妈妈去公园看星星,小明和妈妈一起去公园看星星. 从北向南,从北到南,一直都是沿着边线走,直到中午,小明和妈妈就来到公园散步,看星星,小明和妈妈一起看星星,小明和妈妈都嫌弃我多,于是,公园里就出现了一处可以欣赏星星的公园,小明和妈妈",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用,对植物的生长,生长,病虫害防治和健康生活有重要作用的植物光合作用.光合作用可分为两种:一种是绿色植物的光合作用,这种植物的光合作用具有光合作用的作用,从绿色植物的光合作用中吸取能量,形成一种稳定的光合作用.光合作用技术采用的光合作用是光电照明技术的产物,其主要原理是:将光源和光源通过光合作用构成的光电效应进行均匀的激光照射,产生具有均匀辐射的可见光.目前",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物能够吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如,秦九韶发明了火,铜,钯等器具,都是发明创造.到了明清,普及国家增多.到了明清,普及国家逐渐增多.尤其是民国以后,普及国家增加,我国的普及产品越来越多,对民间科技产品的需求逐年增高.到了民国时期,我国经济的发展迅速,尤其是工业的发展,向人力资本的大量聚集,极大推动了社会的发展,促进了社会的进步.总之,科学技术进步对人类社会的发展产生了重大的影响,促使人们更加重视科学技术的发展,促进社会的发展.科学技术,是从物质文明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟?,长江上游的长江流域及其流域最大的人工湿地类型,为长江流域内重要的生态系统,其生态功能显著,对水生生物多样性,生物经济,水生态,水生态安全具有重要的生态功能,对长江流域生态安全具有重要意义.长江保护法规定了长江流域的生态红线,长江流域的生态保护红线,包括长江流域内的生态保护红线,主要包括长江干流,长江,珠江支流,长江支流,长江干流,长江支流,长江支流,长江支流,长江支流,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看别人有没有你想要的东西,包括你现在是否拥有的东西,以及你将来应该要具备的这些技能.\n 对于我来说,最重要的还是找到最适合自己需要的技能,从而得到最最有效的学习.\n 在这个信息爆炸的时代,没有人能做到几乎所有的东西都变好.\n 我也想看看,什么时候开始进入知识领域,又或者是成为什么技能.\n 当时,我正在看\"我是谁\",但是,我还没有想到,我是否能够改变我的生活.\n 如果我有这种想法,我可能要上专业大学的课程.\n 如果我有这种想法",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边在斜边之内的平方加此直角边平方和,即勾股定理.\n在直角三角形中,ABC=直角,ABC=直角,故直角的判定方法有两种,一,判断斜边,斜边,倍数的方法,二是勾股定理的逆定理.\n在直角三角形中,S是斜边,则S是斜边,S是斜边,S是斜边.\nS是直角三角形,S是斜边,S是直角.\nS是斜边,S是斜边,S是斜边.\n在直角三角形中,S",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3162,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市各级各类学校坚持按学定校,学定班,学定队,上好每一节课,真正做到学有纲,学有节.\n我市将全面推广\"学,乐,学,行\"的全面发展理念,充分利用校园网,监控网,网站,班会课,少先队队队歌,微视频等载体,以\"学,乐,乐,行\"的全面发展教育为抓手,开展丰富多彩的\"五体\"活动,让全体中小学生在自主,自主,探究的活动中获得快乐,健康成长.\n⑴学习\"五",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": " 杭州西湖(西湖区)属西湖所在,西湖风景名胜区位于浙江省杭州市西湖区,西湖区.西湖位于杭州市西湖区西北部,距西湖0.6公里,与杭州西湖,西湖隔江相望,与杭州市西湖,西湖隔湖相望.杭州西湖风景名胜区位于浙江省杭州市西湖区,西湖区.杭州西湖(西湖区)属西湖所在,西湖风景名胜区位于浙江省杭州市西湖区,西湖区.西湖风景名胜区位于浙江省杭州市西湖区,西湖区.西湖风景名胜区位于杭州市西湖区,西湖区.西湖风景名胜区位于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def fibonacci(n): \"\n    def fibonacci(n):    print(\"def fibonacci(n): \"\n    def fibonacci(n):    print(\"fibonacci(n): \"\n    def fibonacci(n):    print(\"fibonacci(n): \"\n    def fibonacci(n):    print(\"fibonacci(n): \"\n    def fibonacci",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air conditioning” for the water floor. A big yoga of water that has the potential for its part of the planet to determine the water and then to concentrate through the extent to which the water has been transferred to its part of the planet ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water to the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of thinking about this sort of sense that it is to be convinced that it is not only one way to do that, but it will be the way it is to do that if it is not in the process of thinking about this sort of",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3162,
+    "tail_top_share": 0.4844
+  }
+]

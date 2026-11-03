@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "离不开机器人,大数据,云计算,区块链等科技的发展,而人工智能则主要应用于安防,金融,汽车,金融,安防,政务等,而人工智能的核心就是安防.\n  \"人工智能的发展离不开大数据,云计算,区块链,云计算等科技的发展,而人工智能的应用就是人工智能.\"国家网信办副主任王宏认为,人工智能应用的最主要功能就是提供智能服务,提供人工智能应用.\n  人工智能的应用场景主要有三个层面:安防,金融,汽车,金融,人工智能.\n  安防:安防人工智能(人脸识别,OCR)\n  安防是人工智能的重要组成部分,是感知,理解,推理",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能的发展.\n人工智能的发展离不开人工智能的发展,人工智能的发展离不开人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来散步.小明和妈妈陪小明去公园玩.小明和妈妈一起去公园散步.小明和小明和小明一起散步.小明和小明一起散步.小明和小明一起散步.\n游园活动:\n\n1.儿童在园内摆放自己喜爱的玩具,游戏规则和游戏规则,游戏规则和游戏规则.\n2.各种摊位,摊位前,摊位前摆放各种玩具,游戏规则和游戏规则,游戏规则和游戏规则和游戏规则和游戏规则,游戏规则和游戏规则和游戏规则和",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3846,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "茎叶膜在15cm~60cm的液体浸泡25cm~30cm,一般生长在1~2cm的湿润环境中,具有较强的光合作用性. 光合作用也称光合作用,是植物根部的生物和组织的生长模式,有植物生长和开花等作用.20世纪80年代初期,美国的生物学者H.P.库恩认为:光合作用指的植物茎叶膜是连续的,低表面为被石或水溶剂粘合剂.20世纪80年代后期,美国的科学家P.L.沃森(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中,光合作用需要消耗大量的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光合作用消耗的能量,光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明,创造有发明,不发明创造.\n中国的古文字书,字体,字形,字体等都有不同,但它的确不是任何物品,因此,造纸十分重要.\n造纸术与造纸术一样,是在造纸术中,造纸术是进行的一项基本技能,也是中国古书史上不可一世的杰作.\n造纸术主要用于造纸术,主要用于制造纸类,纸质等.\n从造纸术的流程来说,造纸术可分为纸类造纸术,纸质造纸",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "睟?,分布在长江以南各省区.长江流域于江眼,江心,江下,江上诸小岛,古水,古泉,古寨,古舟,古船,古木,古矿,古板,古泥,古木,古运河,古冶河,古堡,古船,古竹,古木,古井,古寨,古木,古木,古木,古木,古木,古木,古木,古木,古木,古木,古",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3077,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "速度,因为速度是学习语言,提高我们的水平. 学完一门新语言,你会不会觉得学习英语语言有多么难,但是,学习英语并不意味着你不知道怎么学,而是让你真正理解,学习英语是非常重要的,没有经过实际训练,你不可能学到真正的技术. 如果你已经有足够的英文基础,那么请保持一定的时间,开始一个新的语言. 英语是一种语言,是一种交流的沟通方式. 学习语言,只是学习英语的第一步,英语是你的首选,学习英语,是你的第一选择. 英语的学习方式有很多种,适合刚入门的人学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边=勾二,弦二=弦三.四边=弦三,内弦=弦三,直角=勾=股,证明:直角三角形三边=勾一,股二=股,证明:直角三角形三边=股,证明:直角三角形三边=股,证明:直角=勾+股.\n直角三角形三边=勾+股=2\n直角三角形三边=勾+股=1\n(1)直角三角形三边=勾\n定理1:直角三角形三边=勾\n证明:勾股定理,直角三角形三边=勾\n勾股定理",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边所对的直角边等于斜边的一半,直角边上的中线等于斜边的一半.\n直角三角形三边所对的直角边等于斜边的一半,直角边上的中线等于斜边的一半,直角边上的中线等于斜边的一半.\n直角三角形三边所对的直角边等于斜边的一半,直角边上的中线等于斜边的一半,直角边上的中线等于斜边的一半,\n直角三角形三边所对的直角边等于斜边的一半,直角边上的中线等于斜边的一半,\n直角三角形三边所对的直角边等于斜边的一半,\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市中区中考招生实行\"一校一策\"方案,特设初中升初中招生,全市将全面实施,高中升初中招生,全市将实施.\n 我市按照\"一校一策\"方案,今年全市初中升初中招生,全市将实施.\n 以\"一校一策\"方案\"为总体目标,以\"一校一策\"方案为基本依据,全力推进中考,高考,高考,中考,高考,高考,高考,高考,高考,高考,高考,高考,高考,高考,高考,高考,高考,高考,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4359,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "ng向玩家们展示西湖景区的特色和文化底蕴,西湖风景名胜区分为西湖风景区和西湖风景名胜区.西湖风景名胜区分为西湖风景区,西湖风景区和西湖风景名胜区.西湖风景名胜区分为西湖风景区和西湖风景名胜区.西湖风景名胜区分为西湖风景区和西湖风景名胜区.西湖风景名胜区分为西湖风景名胜区和西湖风景名胜区.西湖风景名胜区分为西湖风景名胜区和西湖风景名胜区.西湖风景名胜区分为西湖风景名胜区和西湖风景名胜区.西湖风景名胜区分为西湖风景名胜区和西湖风景名胜区.西湖风景名胜区分为西湖风景名胜区和西湖风景名胜区.西湖风景名胜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print 'Fibonacci Cowder Cowder of the Church of Wisconsin'\n\nprint 'Fibonacci Cowder of the Church of Wisconsin'\n\nprint 'Fibonacci Cowder of the Church of Wisconsin'\n\nprint 'Fibonacci Cowder of the Church of Wisconsin'",
+    "new_tokens": 112,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.7248,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as true.\nWater for water supplying is less likely to be used as management and development that is not required to create a new site that will be used to help businesses with water supplying that will also be used by the security co-agency.\nThus the process sell",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken by the water cycle of the water cycle of the water cycle. The water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is essential to student knowledge about the world and the world. The essential and conclusion is that it is most important because the book is that it is essential to student knowledge about the world. And the future is that it is important because the whole world is that it",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3675,
+    "tail_top_share": 0.4688
+  }
+]

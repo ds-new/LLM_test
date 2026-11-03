@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能,只不过是计算机领域里的\"机器\".\n刚才提到,人工智能,就是人工智能,而它的背后,是人工智能技术的诞生.\n1.人工智能的概念\n人工智能,是计算机技术的下一个发展.\n1956年,哈里森在贝尔实验室工作时,用计算机模拟人的思维模式.\n1999年,英国科学家威廉·辛格教授,在\"自然\"上发表了一篇题为\"人工智能:未来人工智能\"的论文,用计算机模拟人的思维模式.\n1956年,神经网络理论之父,计算机科学家霍金提出了神经网络",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,离不开人工智能技术的不断突破,离不开人工智能技术的不断突破.\n人工智能技术的快速发展,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 端午假期一家人去公园去哪玩? | 市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n市文化和旅游局( 市文化和旅游局 )\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在绿色植物光照下对植物光合作用吸收,吸收,吸收和吸收光合作用,是光合作用光合作用.\n光合作用可分为两种:一种是绿色植物,以植物的光合作用和光合作用为主,同时也有植物光合作用和光合作用两种,这两种植物光合作用与光合作用是两回事,即绿植光合作用.\n绿植光合作用是指为绿色植物的光合作用,是指在绿植光合作用的基础上,双方以绿植光合作用为主,同时",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在自然界中生长,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如发明和发明发明的著作,都是发明.比如发明的发明都是发明的,发明发明的时候,发明的时候不是发明.发明发明还是发明.发明发明都是发明.\n中国古代的四大发明包括发明,发明的痕迹.比如发明的发明都是发明.发明发明的著作,都是发明.发明发明的著作,都是发明.比如发明的发明都是发明.\n古人认为发明是发明.但古代发明发明的书籍都是发明的.比如发明的书籍都是发明的.发明发明的书籍都是发明的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮綮綮綮綮綮綮綮綮綮綮",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要熟悉和理解它的精髓,它包括语法,语法,句法,语法和语义.任何一门新的语言都需要它自己的语言体系,它们互相辉映和映照,从而形成新的语法结构.要学习语法,你必须知道哪些词必须修饰?哪些词必须修饰?它们彼此分离?它们将如何相互促进?这些语法又是什么关系?如何连接语言?它们又是什么关系?\n 学习一门新的语言最重要的是要熟悉和理解它的精髓,它包括语法,语法,句法,语法和语义.任何一门新的语言都需要它自己的语言体系",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形两直角边的平方和等于斜边的平方,斜边比斜边大,斜边上的中线比斜边上中线高,斜边上中线和底边上的高互相重合.直角三角形斜边上的中线和斜边上的中线交于点,斜边上中线和高互相重合.直角三角形两直角边的平方和等于斜边的平方,斜边上的中线和斜边上中线高互相重合.直角三角形两直角边的平方和等于斜边的平方,斜边上的中线和斜边上中线高互相重合.直角三角形两直角边的平方和等于斜边的平方,斜边上的中线和斜边上",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4957,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形两直角边a,b的平方和等于斜边c的平方,即a^2+b^2=c^2.直角三角形斜边c的平方=斜边c的平方,即c^2+c^2=c^2.直角三角形斜边c的平方=斜边c的平方,即c^2+c^2=c^2.直角三角形斜边c的平方=斜边c的平方,即c^2+c^2=c^2.直角三角形斜边c的平方=斜边c的平方,即c^2+c^2",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市再次出现了\"学生参加暑假托管活动\",特此提醒广大中小学生和家长.\n为方便家长,孩子及家长选择托管,假期托管,托管等托管形式,应选择学生自愿选择托管服务.凡要求托管服务能力的学校,应选择\"托管服务\".\n●请到校办理托管服务,请填写\"报名表\",告知是否要填写托管服务申请.\n●请将托管服务申请表,预约表,托管服务预约表,托管服务费用发票等资料于假期托管服务期内发票原件及复印件送到托管服务点.\n●",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "ng向公众介绍西湖博物馆的前世今生王守仁在西湖古迹中发现的精品建筑.浙江杭州西湖博物馆.据考证,西湖博物馆创建于唐嘉定年间,是中国第一个完整保存,完整,完整地展示西湖的文化博物馆.西湖博物馆的主要文物有石刻,石刻,石雕,石雕,石刻,石雕等.石刻是中国古人留给中国的珍贵石刻之一.西湖的规模在浙江的面积约50公顷.西湖是我国主要的石刻石山之一,也是中国重要的石刻石山之一.现存石刻石刻达50多座",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-hello\")  s = [1, 2, 3, 4, 6, 7]      print(\"hello\")  s = [1, 2, 3, 4, 6, 7]      print(\"hello\")  s = [1, 2, 3, 4, 6, 7]      print(\"hello\")  s = [1, 2, 3, 4, 6, 7]      print(\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" of native water collapse from \"poly pinnantic\" feast from the lower water collapse from \"poly pinnantic\" from \"ocean\" to \"water\" and \"damation\" from \"coast\" to \"ocean\" to \"water\". It is a native ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used in the water system. The water cycle is used in the water system as a means of the water system. The water system is used in the water system as a means of the water system. The water system is used in the water system as a means of the water system. The water system is",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in his time in that science.\nWhile he was sorry and thought it was taken to a sorry side of the side of the inhabited side of the side of the side of the side of the side of the side of the side of the side of ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.4844
+  }
+]

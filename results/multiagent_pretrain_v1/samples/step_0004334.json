@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如 AI 的愿景 -  - \"机器代替人\",它们作为人类思维的工具,正在重塑人类.\n然而,机器已经出现了,它们已经变成了人脑.\n正如 AI 的愿景 -  - \"机器代替人\",它们已经变成了人脑.\n人类需要思考 -  - 机器已经改变了我们的思维,而机器将会解放我们.\n这是 AI 的愿景.\n但 AI 的愿景是\"让机器取代人\".\n正如 AI 的愿景 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展,让人工智能成为人类最擅长的人工智能.\n人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明去玩,她忽然突然哭了起来.她见妈妈哭得满头大哭,便笑着与妈妈一起玩耍.\n小明突然大哭,妈妈哭得满头大哭,她哭得满头大哭,便笑着与妈妈一起玩耍.\n小明与妈妈一起玩耍,她突然哭了起来.\n小明与妈妈一起玩耍,她突然哭起来,她哭得满头大哭,便笑着与妈妈一起玩耍.\n小明跟妈妈一起玩耍,她突然哭了起来.\n小明与妈妈一起玩,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4957,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用:是指植物通过光合作用,可以在植物的叶面上生长,给植物提供健康,无毒,不受有害的优良品种.\n 光合作用:是指植物通过光合作用,可以在植物的叶面上生长,给植物提供健康,无毒,不受有害的优良品种.\n 光合作用:是指植物通过光合作用,可以在植物的叶面上生长,给植物提供健康,无毒,不受有害的优良品种.\n 光合作用:是指植物通过光合作用,可以在植物的叶面上生长,给植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物生长过程中,植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明.其中发明的发明,发明,发明和发明都是人类发明创造的.中国古代的四大发明包括发明,发明,发明,发明,发明和发明都是人类发明创造的.\n中国古代的四大发明包括发明,发明,发明,发明和发明都是人类发明创造的.其中发明,发明,发明,发明和发明都是人类发明创造的.其中发明,发明,发明,发明,发明和发明都是人类发明创造的.其中发明,发明,发明,发明,发明和发明都是人类发明创造的.其中发明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綟?, 吴王陵,汉哀公于秦汉中游,在长江中游历数千年.楚汉的史前时期, 汉,汉,汉,汉三代(五代及五代), 楚,汉,汉,汉三代(唐代) 以及许多汉汉(汉,汉,汉) 的流徙. 在西汉时期, 汉,汉三代(唐代) 相继诞生. \"史记\"第十回中, 汉,汉三代 在汉朝",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",语言是人的习惯,语言是人的灵魂. 学一门语言就是要让语言更优秀,学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言要快速,流利,体味. 学习一门语言",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在三角形中,∠ 1 ∠ 1 = 90°,∠ 1 = 90°, 直角三角形的三边长分别为 ( ) 的一半和 ( ) , 根据直角三角形的三边长公式,  可转化为 ∠ 1 = 90°, 直角三角形的三边长分别为 90°, 直角三角形的三边长分别为 90°, 直角三角形的三边长分别为 90°, 直角三角形的三边长分别为 90°, 直角三角形的三边长分别为 90°, 直角三角形的三边长分别为 90°, ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5812,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半.\n直角三角形中,直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半.\n直角三角形中,直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半.\n直角三角形中,直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半.\n直角三角形中,直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半.\n直角三角形中,直角三角形的斜边等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来\"五一假期\".\n预计,全市中小学假期\"五一\"假期将迎来春节假期,假期有望迎来\"五一假期\".为此,市教育局从多方面做好暑期\"五一\"假期具体准备工作.\n为做好暑期\"五一\"假期\"五一\"期间学生放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假放假",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5385,
+    "tail_top_share": 0.9531
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": " 摄 (图片来源: \"西湖\" 浙江省西湖县位于浙江省绍兴市浙江湖西市.据\"西湖\" 浙江省西湖县 西湖县 \"西湖\" 浙江省西湖县位于浙江省绍兴市东南部,为 浙江省西湖县 的 东进 镇,东汇 镇,西 镇,西 镇,西 镇,西 镇 .西湖 西湖县西经 5 5 12 12 12 13 15 16 17 18 19 22 24 25 26 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2393,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(fibonacci)\n    # put an open for the first time.           if you can really read a few books.       fibonacci = fibonacci.       if you don't do something else for a few books.       if you do something else for a few books.       if you do something else for a ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3846,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the future is \"appropriate, normal,\" which will be \"up\" on the greater investment between the earliest developed science and the future. This is the first to contract and create an equity and running science model for the future.\"\nThe new ‘Space out approaches will cause the solar",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is to be a place for the water cycle and the water cycle is to be a place for the water cycle and the water cycle and the water cycle is to be a place for the water cycle and the water cycle and the water cycle and the water cycle and the water cycle and the water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our readings need to do something that will help people feel like they need to do something to read. It would be converted with people to read. This is the next year and the next year is the next year and the next year has been a mark in the next year.\nTrend Stevens University",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2564,
+    "tail_top_share": 0.4375
+  }
+]

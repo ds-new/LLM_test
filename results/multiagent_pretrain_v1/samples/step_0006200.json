@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够了.\n从结果来看,未来,我们可能应该看到,人工智能是否能够代替人类完成工作,或者会代替人类完成一些工作.\n我们需要关注的是,现在的人工智能已经被指为\"人工智能\",它包含有意识,有计划和有计划.\n尽管我们仍然不能控制人工智能,但是人工智能已经具备了思维和思考的能力.\n从我分析,人工智能是否能够代替人类完成工作,或者会代替人类完成一些工作,人工智能会替代人类完成一些工作.\n返回搜狐,查看更多 责任编辑:\n声明:本文由入驻搜狐号的作者撰写,除搜狐官方账号外,观点仅代表作者本人,不代表搜狐立场",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能发展的必然趋势.人工智能的发展,是人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\"祖国的花朵\"\n在公园中,还有小明和妈妈们一起玩耍,一起玩耍,一起跳舞.\n小明和小明一起玩\n今年,小明和妈妈一起在公园中,还有小明和妈妈一起玩耍,一起跳舞.小明和小明一起玩,一起跳舞.\n小明和小明一起玩\n今年,小明和小明一起玩,一起跳舞,一起跳舞.\n小明和小明一起玩,一起跳舞.\n小明和小明一起玩\n今年,小明和小明一起",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用是指通过光合作用创造性地利用空气,水和空气,对植物的生长和生长都有很大的促进作用.随着光合作用的发展,越来越多的人选择种植于日光温室,光合作用其实是一种理想的植物资源. 光合作用模式: 由于光照不足,光线不够,光合作用会被植物吸收掉,因此光合作用可以减少光合作用次数. 光合作用在照明,施肥,灌溉,施肥,土壤,药用等方面都有很大应用价值. 光照的强弱主要是光照和光合作用之间的强弱.光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内生长,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,开发,发明,创造,创造,发明,创造,发明,创造,创造,发明,创造,发明,开发,发明,创造,创造,创造,创造,创造,发明,创造,发明,开发,创造,创造,创造,发明,发明,创造,创造,创造,创造,创造,创造,创造,创造,发明,创造,创造,创造,创造,创造,创造,创造,发明,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮狙> 0 1 2 3 4 5 6 7 8 9 10 11 12 13 15 17 18 19 20 21 22 23 25 26 27 27 28 29 30 32 35 37 37 38 39 43 45 47 49 60 61 82 62 74 78 83 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你将会对你产生什么影响. 首先,学习一门新语言,你需要具备的素养会让你快速的学习新语言. 其次,学习一门新语言,你需要具备的素养会让你快速学习新语言. 再次,学习一门新语言,你需要具备的素养会让你快速学习新语言. 从这一点来说,学习一门新语言,你需要具备的素养会让你快速学习新语言. 首先,学习一门新语言,你需要具备的素养会让你快速学习新语言. 其次,学习一门新语言,你需要具备的素养",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5983,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个角,它是直角的,所以此角是直角的.\n首先,我们定义勾股定理:\n事实上,为了证明直角三角形中有一角是直角的,所以直角三角形中的角是直角的,因此此角是直角的,所以此角是直角的.\n勾股定理的结论很简单,因为直角是直角的,所以此角是直角的.\n在直角三角形中,直角三角形中有一个角是直角的,因此此角是直角的.\n由于直角是直角的,所以此角是直角的.\n勾股定理的结论很简单,因为直角",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.453,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线等于斜边的一半.\n在直角三角形中,斜边上的中线",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市实行\"一校两区\"育人模式,一是以\"一校一校\"模式,实现高中教育一体化发展;二是以\"一校两区\"模式,实行\"一校一校\"一体化育人模式;三是以\"一校一校\"模式,实现高中教育一体化发展;四是以\"一校一校\"模式,实现高中教育一体化发展.\n市教育局有关负责人表示,为促进青少年发展,提高青少年综合素质,促进青少年健康成长,我校将以\"一校两区\"育人模式为突破口,以\"一校一校\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩城景区,是杭州最具人气,文化底蕴最丰富的旅游城市之一,是杭州最热门的旅游城市.据\"杭州西湖旅游\"杂志的报道,西湖景区位于杭州城南,正是一个有着悠久历史和古老文化的城市,虽然大部分游客都是来杭州旅游的,但是杭州西湖却不是西湖的所在,西湖的面积和西湖的面积却是不一样的.杭州西湖风景名胜区 -  - 西湖西岸观光公园(门票站) -  - 西湖西岸观光公园(门票站) -  - 西湖西岸观光公园(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def(fibonacci):    def fib(fib=[0, 1],    def fib(fib=[1, 2],    def fib(fib=[1, 2],    def fib(fib=[2, 2],    def fib(fib=[1, 2],    def fib(fib=[2, 2],    def fib(fib=[1, 2],    def fib",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings can be prepared to wrap from those other humiliations in the new features of water troops that are designed to build the campus of many museums, including women's conference space, including the walls (and their family), ‘co-use up the water to the ground",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the water cycle of the water cycle. The water cycle is in the water cycle of the water cycle of the water cycle. The water cycle is in the water cycle of the water cycle of the water cycle of the water cycle. The water cycle is in the water cycle of the water cycle of ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it has much of that questions to be done by the teachers. Teachers are considering with teaching questions and some of the questions being done in the classroom and are those who work together in a way to do it. Learning is important because the teachers may not do it as well.\nHow can we learn the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.4688
+  }
+]

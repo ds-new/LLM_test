@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景已经足够新练.\n正如各行各业,像人工智能,移动互联网,计算机领域上有垂直,这些技术和语言.作为人类,人工智能在人工智能,人工智能和人工智能方面的工作和应用才使社会工作变得更有价值,并推动了人类,走向了人们生活,农业,农业,农业等各个领域,从而促进人工智能的发展.\n中国,人工智能研究院和智慧城市研究院(以下简称:人工智能与人工智能)\n习近平指出,人工智能技术可能是中国政策与预测领域的主要战略,可以为人工智能技术的进步和持续推动人工智能(AI)的发展奠定了人们健康发展的目的.\n不过,中国在计算机视觉方面,人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分,人工智能是人工智能发展的一个重要组成部分",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明,近日,银洲动物园宣布禁止禁止\"黑白\"动物,直到地下露天的\"吃\"伤口.\n据中国专家委员会 媒体记者 孙春蓉 18日电 (记者 吴玉)日前,中央人大常委,副主席吴学洪说,在江林区野野风景区的\"奇葩\"木巴动物业有限公司及\"新年的动物\"动物,可以更好地为动物提供农业品质的天然性,营养的天然性,营养的化合物,有机碱性,优良的营养,加工,生产,生产,装修和质量,健康的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为消除植被的净化水环境.\n国家卫生健康委员会日前发布的\"湘州海动力学学会\"(IKT5)计划号:我们展示的蓝色物质以及低密度的植物,以及具有德国的天然植物和天然的植物,并通过聚合物净化水元素和从有机材料生产,对微生物和生物材料中的生物物质进行净化水和净化水.\n我们制定的\"水聚合物净化水环境防范管理条例\"(IKT5)方案号:利用水聚合物净化水环境防范管理规定(IKT5)方案号:利用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",它具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然性,具有独特的天然",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "中国古代的主要巨大理论,它具有历史价值和历史的价值.它起源于于公元1160年出版的\"诞生者\"等杂志(包括:\n808 -  - 1970年出版的\"诞生者\"中,\n历史分为欧洲贸易史,苏联中俄国贸易史,欧洲经济法规和东南亚经济经济体系,这些地区与国内外国家相界相似,也是我国国内外经济与发展研究的重要通道,也是我国政治质量与人文生产力之间的结合.\n中国科学院的先进思想,可以看作是历史资源与人文生态治理,并解释了中国政治",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,是第一地石.它的峰流,也是生态环境中的一个坑,湖泊常常被暴雨或阵雨,里面有一壁,下层完全被对流或很大变化的,是降水量的.而它对水质的一种种植,人们要监测到,一应避免降水和温差.由于水流存在湿度和温度,空气水膜是它本身存在的,是空气条件和湿度的.\n流染的环境很大,尤其是温室大棚内壁,不能像水的温度等值一样,那么温度.这些温度会很快,它会比较水,水,地.在枯干",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人和你的配合地接受它,那么现在会具有一些不可忽略的因果关联.\n1. 要快速了解一个未知的因果关系,比如:\n2. 对于空变量或外部变量之间的因果关系,应该对任何其它变量之间的因果关系进行判断.\n2. 不要将程序上的变量从所有的变量之间的逻辑关系或逻辑关系区分出来.\n3. 执行变量对变量的因果属性进行判断.\n3. 不能考虑一个变量的逻辑关系: 此时,你的变量上函数叫做变量或变量,它不能将",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "{}\n叫做向量,即它的收敛点叫做向量.设:Pn=\\1(O=F(x)/(x)<(x)<(x)<(x)>(x)}\nfunction(x1)*(x)<(x)>(x)>{}\n那么,在直角三角形中E={(x)>(x)>(x)>(x)<(x)>{}\nis(x)>{}\nfunction(x)<(x)<(x)<",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么圆的直径等于圆的直径,那么",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通通运通通通通通通通通通通通通通市定息机,现年已完工.\n7月9日,市通通通通通通通通通通通通通通通通通通通通通通通通通通通",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.7188
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩电影,也就是说:博物馆的办公室也叫做天空中门,它的原始建筑可以拆分成以下几种. 现在有一些不一样的地方,在建筑里面是否存在一些神秘点的信息,而真正的建筑中和上层层一样存在.  这样的建筑其实比较复杂,因为如果只有一条边界,那么必然就是三件,那么它的相对的内部层开始出现. 建筑结构很重要 -  - 在建筑结构上,是不可能的. 如果需要达到这个目标的时候,它也会出现一个概念,这是一个很小的结构,它可能会出现很多特定的结构,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".一个python中,python中是apnc = x = x = x x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x = x",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " success and turn be unruptive of tests that they are a digger system and essential investment in the digger system of part of the overall right time of many mounder, it is to be set in the area of Us and their constructor in the solar polations in the solar",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " security is the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the drop of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our authority is wondered in Psychologists and Staffley in the Brossing Awards, but was completed in Sevenler's Frifict and Gree-Grand State Library of Publications in International Legare Cultural State Council.\nDlole has been a seven of the humanity of the state of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.375
+  }
+]

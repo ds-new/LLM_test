@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,大数据,云计算,5G等等,都改变了人类生活,改变人们生活.\n然而,人工智能技术的出现,却颠覆了我们对这个世界的一切.\n比如,人工智障.\n比如,人工智能技术的应用,是帮助人类进行学习,处理信息,使其做出决策的.\n比如,人工智能可以在人们习惯于使用电子设备的时候,识别出人的声音,做出相应判断,比如人工智能可以准确判断声音是否为真人,也可以通过语音来识别出人的声音.\n比如,语音识别,语音识别可以替代",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,离不开人工智能技术的不断突破,人工智能正在成为人类生活的一部分.\n人工智能的发展,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园\n春天来了 晴朗的天气\n春天来了\n春天来了\n春光明媚\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的生理过程,利用空气,水和二氧化碳等对植物进行光照射,给植物以健康,无毒,无毒的物质.光合作用的主要成分是二氧化碳,它们之间的竞争关系可以分解为碳和氧,因此,光合作用是最有效的利用光合作用.光合作用可以形成生物性的光合作用,如将生物光合作用用于调节细胞或细胞的发育,从而提高植物的产量和质量,加速其向更大,更健康的方向发展.\n1,光照强度.光合作用是一种光照强度很高的植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用下,通过光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光合作用,使植物在光合作用下,能产生光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文是秦代的著名作品.",
+    "new_tokens": 16,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,分布在长江以南各省区.长江最大水域为长江中游,在长江中游主要水系由北到南,北干支流长50-100米,其中长江中游的长江中游水系主要河流有:春江,夏江,冬江,冬青江,冬青江,冬青江,冬青江,冬青江,冬青江.\n长江是中国最长的河流,长江中游主要水系由北至南,北干支流长50-100米",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要看看它有多难!\n Photo Credit\n 分类 时尚生活\n 创作\n 1, 在商业广告上寻找创意\n 1. 创意写作\n 创意写作与社交媒体的互动.\n 2, 在广告上寻找创意\n 2. 制作创意广告\n 3, 利用创意将创意转换为目标\n 4, 在创意广告上寻找创意\n 5, 制作创意广告\n 6, 制作创意广告\n 7, 制作创意广告\n 4, 创意广告\n 5, 创意广告\n 6, 创意广告\n 7",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边与斜边的比等于斜边的比.设直角三角形的斜边为a,斜边为c,斜边为c,斜边是c的直角边是( )\n已知圆心和直线l交于a,b,c两点,分别与点P,Q,R,R相切.设OE为E,E为C,AB,AC交D,FD交OE于E,则OE在点P上.\n在直角三角形中,\n同理,在直角三角形中,\n于是,\n由勾股定理",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市各级各类学校坚持按学定校,学定班,学定课,学年按年级制定,按学定班,学定课,学定班,学定课,学期按学期按周按周实施.其中,义务教育阶段学校实行\"以课定班,以课定班,以课定班,以课定课\"的授课模式,重点引导学生树立正确的世界观,人生观,价值观;高中阶段学校实行\"以学定班,学定班,以课定班,以课定课\"的授课模式,重点",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.359,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景名胜区西湖:位于杭州市中心城区,是浙江省风景名胜区,国家AAAA级风景名胜区.西湖风景名胜区位于西湖街道境内,是著名的风景区.西湖风景名胜区位于西湖街道境内,西湖风景名胜区是浙江省风景名胜区,国家AAAA级风景名胜区.西湖风景名胜区位于西湖街道境内,是浙江省风景名胜区,国家AAAA级风景名胜区.西湖风景名胜区位于西湖街道境内,是浙江省风景名胜区,国家AAAA级风景名胜区.西湖风景名胜区是浙江省风景名胜区,国家AAAA级风景名胜区.西湖风景名胜区位于西湖街道境内,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python hello\")\n    print(\"world\")\n    print(\"world\")\n    def my_python_hello_n :\n    print(\"world\")\n    my_python_hello_n :\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print(\"world\")\n    print",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air” to its water that can be updated. The water cycle is a phenomenon that can be used to be used by a water buyer of water that will appear and cannot be used by water from their air. The water cycle is a phenomenon that ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2564,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water cycle of the water that is taken from the water cycle of the water that is taken from the water cycle of the water that is taken from the water cycle of the water that is taken from the water cycle of the water that is taken from the water cycle of",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is essential than it is used to do things. Those who are desired to be convinced that they may not only learn to read the work, but not will be determined. Learning is important because the best way to do it is to observe the whole thing ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4531
+  }
+]

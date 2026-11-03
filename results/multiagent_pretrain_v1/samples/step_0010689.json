@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够给人类社会带来巨大的改变.\n但,我们终究应该怎么做呢?\n我们可能会做很多重复的工作,因为我们需要用新的技术.\n比如,我们可能不知道我们想要什么,但是我们却不知道它包含什么,但是我们不知道我们想要什么.\n人工智能的发展,是值得期待的.\n让我们用全新的视角来观察人类的生活.\n如果从我自己的角度出发,我并不应该采用人工智能来代替人类的预测.\n假设我有一些人工智能.\n你用人工智能来代替你,但你知道它有什么用吗?\n但你不要相信,这是人的生命",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明爸爸和爸爸一起去公园_ 3.1.1.4.3. 1.1.3.4. 1.1.4.5. 1.1.5. 1.1.6. 1.1.7. 1.1.8. 1.2.1.9. 1.2.1.9. 1.3.1.10. 1.3.2.1.10. 1.3.3. 1.4.2.1.1",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 在绿色植物中,植物能耐高温,耐低温,抗倒伏,抗倒伏,耐光,耐光,抗倒伏,能耐高温,耐热,无遮阳,不褪色,无有害物质,无任何毒性,无抗药害,对种植者,种植者,行道树户和造园者有利.\n 1. 在温室大棚种植温室大棚,应注意以下事项:\n 1. 温室大棚对温室大棚的通风,通风和通风量要大于30%.\n 2.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,使植物生长旺盛,从而促进植物生长,从而提高植物品质.\n1,光合作用是指植物在生长过程中,通过光合作用,使植物生长旺盛,从而促进植物生长,从而提高植物品质.\n2,光合作用是指植物在生长过程中,通过光合作用,使植物生长旺盛,从而促进植物生长,从而提高植物品质.\n3,光合作用是指植物在生长过程中,通过光合作用,使植物生长旺盛,从而促进植物生长,从而提高植物品质.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌,铭牌",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,分布在长江以南各省区.长江流域于1956年发现,1965年发现,1983年发现,1983年发现,1985年发现,1993年发现,2001年发现,2004年发现,2013年发现,2013年发现,2020年发现,2020年发现,2021年发现,2022年发现,2021年发现,2022年发现,2021年发现,2022年发现,2021年发现,2022年发现,2021年发现,2021年发现,2022年发现,2021年发现,2022年发现,2022",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你真的了解它吗?\n先说说学习一门新语言的方法.学习一门新语言的方法是两种:一种是通过课本上的知识,这种方式能够让你尽快掌握一门新语言,学习一门新语言,第二种是通过实际生活的经验,对于一门新语言的学习可以使你迅速掌握一门新语言,这样,你能够轻松地完成这门新语言的学习.\n一种学习一门新语言的方法是两种:一种是通过课本上的知识,这种方式能够让你迅速掌握一门新语言,学习一门新语言.\n第一种方法的学习方式有三种:第一种是通过课本上的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2308,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边=勾=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股=股",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,∠B=∠C,∠C=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行周末休学,小学周一至周五(周六)9:00-12:00,中学生每天下午放学后,假期周末补休.我市按照\"应补尽补,严禁聚集\"的原则,从下午放学后,我市非必要不外出,确需外出活动的人员,可按规定到校外培训机构办理借教.凡参加借教,必须向校外培训机构提出借教申请,允许借教时,不得以借贷代偿或借阅证酬代偿等方式向校外培训机构办理借贷.\n3.暂停义务教育阶段学科类校外培训,\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "ng向博物馆的主体建筑,是西湖风景名胜区的重要组成部分,是西湖最安静的地方.西湖是西湖的城址,在杭州西湖风景区中属于中心,所以被誉为中国西湖最美的湖.\n杭州西湖是中国古典园林中最为著名的景之一景之一,是西湖地区游览的绝佳去处,也是杭州西湖的骄傲.\n西湖是杭州的四大名景之一,也是中国十大名园之一.西湖是中国古代园林中最为著名的景之一景之一,是西湖的城址,在杭州西湖风景区中属于中心,所以被誉",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python中,传值的类型名,是以该类型来命名的.例如:\\n,Python是Python的一个模块.c#中,传值的类型为\\n.dll,Python中传值的类型为\\n.dll.函数类型为dll,dll中的参数是dll.dll中的参数是dll.函数的参数可以是任何类型的,但该函数的类型没有定义.下面来了解python的ndef子函数,c#中,传值的类型为:\\n,Python中传值的类型为\\n.函数",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2308,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the impact of the airport around the world has been on display and is prepared for the future. There is an egregation of the overall water science and the growing reduction of water science into the world that is relevant to the airport around the world. The engaging is the very",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water cycle and the water cycle is taken from the water cycle and the water cycle is taken from the water cycle and the water cycle is taken from the water cycle and the water cycle is taken from the water cycle and the water cycle is taken from the water cycle and",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the classroom that is in the classroom and is still in the classroom and where it is a portion of the meaning of those in the classroom. The distance to the meaning is from the meaning of the meaning of the meaning of the meaning of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.4375
+  }
+]

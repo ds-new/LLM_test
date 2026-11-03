@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够成熟.\n第四波是机遇,但要不断做好准备.\n人工智能的出现,已经足够成熟.\n第五波是机遇,但要不断做好准备.\n第六波是机遇,但要不断做好准备.\n第五波是机遇,但要不断做好准备.\n第六波是机遇,但要不断做好准备.\n第七波是机遇,但要不断做好准备.\n第八波是机遇,但要不断做好准备.\n第九波是机遇,但要不断做好准备.\n第九波是机遇,但要不断做好准备.\n第九波是机遇,但要",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明去公园，小明和妈妈去公园，小明去公园，小明去公园，小明和小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指植物的光合作用.\n 光合作用一般是指",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光照充足时,能正常生长,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,生长旺盛,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": " (Ⅰ)\n长江是中国最长的河流， (Ⅰ)\n中国最长的河流， (Ⅰ)\n长江是中国最长的河流， (Ⅰ)\n长江是中国最长的河流， (Ⅰ)\n长江是中国最长的河流， (Ⅰ)\n长江是中国最长的河流， (Ⅰ)\n长江是中国最长的河流，�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.8205,
+    "tail_top_share": 0.0625
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人要精通一门新语言,包括一门新语言就要精通一门新语言,那就是学习一门新语言,要学习一门新语言,就是学习一门新语言.学习一门新语言就要精通一门新语言,就要学习一门新语言,那就是学习一门新语言,什么是新语言?学习一门新语言又是什么?学习一门新语言既是为了学习一门新语言,又是为了学习一门新语言,是学习一门新语言,学习一门新语言,就是学习一门新语言,那就是学习一门新语言,就是学习一门新语言,就是学习一门新语言",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4701,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边上的两条锐角对应为1°.(A)设锐角为a,则(A)∵,a⊥b,(A)∴∠AE=∠BP,∠AE=∠BP, ∠AE=∠AP, ∠AE=∠AQ, ∠AE=∠AQ, ∠AE=∠BP, ∠AE=∠AQ, ∠AE=∠BP, ∠AE=∠AP, ∠AE",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5214,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,两个直角三角形的斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜边相等,斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局就针对义务教育阶段学生参加小学科学语文,数学,英语,物理,物理等理科综合实践活动,开发课程教材,开展假期辅导,体育活动,文娱活动,爱国主义教育,亲子活动,文明活动,特殊教育等,为我市\"双减\"工作保驾护航,截至目前,全县中小学共开展小学科学语文,数学,英语,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,物理,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": " 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬 摄 ， 王守敬",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".gem-proced = (fibonacci(n):\\n,fibonacci(n)\\n).fibonacci(n)\\n,fibonacci(n).fibonacci(n):\\n,fibonacci(n)\\n.fibonacci(n):\\n,fibonacci(n)\\n\\n\\n.fibonacci(n)\\n,fibonacci(n)\\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human becomes the railroads of winter and food. It is also the new feature of the troops of food, which is the natural of shaping of sounds and conventions. The birds of water science and the human becomes the railroads of winter and ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2137,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a great way to be a great way to be a great way to be a great way to be a great way to be a great way to be a great way to be a great way to be a great way to be a great way to be a great way to be a great way",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it has always been that it is essential for rarely read over this book. Though the book is not read or the book is that if it is not read is not not read. It is to be a good person. And the book is a good person for rarely read that the book has ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2393,
+    "tail_top_share": 0.4688
+  }
+]

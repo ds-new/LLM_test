@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.人工智能究竟是什么,未来将会是什么?未来十年,人工智能是否还会像人一样?作为人类,我们是否有新的生活形态?\n我们需要新的方式去定义智能.人工智能,不仅给我们带来了新的创造方式,也让我们找到了新的新的生活形态.但是,我们往往只站在智能发展的前沿,只会站在人类历史长河中,没有开启新的时代.\n未来,人工智能能否超越人类?\n科技前沿,万物皆人工智能.未来,万物皆人工智能,人工智能,都是我们人类共同面临的一个终极命题.人工智能,是人类社会最深刻也",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展,需要大量的数据,而人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来散步\n春天来了，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园",
+    "new_tokens": 46,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.5814,
+    "tail_top_share": 0.2174
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在一定的条件下对它们的生长,生长,生长和养殖,用化学方法对植物的生长,生长,养殖等进行调节和调节,满足其生长发育的需要.同时,光合作用还可以对植物生长发育,生存,改良,改良和生物信息学等起到了促进作用.\n光合作用广泛用于生产,科研和生产,生产中使用的各种仪器,设备,设备,设备,工具,仪器和试剂等.光合作用常用于植物的病虫害防治,药害防治,病虫害防治,病害防治,病害防治,病虫害监测,农作物的病虫害防治等.\n1",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物在植物体内通过光合作用,使植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明,发明就有发明,发明是发明,发明是发明,发明是发明.\n当今世界大科学发明中,制造化学,合成生物学,应用生物学,医学,数学,金融,军事,能源与环保,化学与计算机,通讯工程,电机工程学,生化与生物技术,材料科学,生物化学,生物医药,电气工程及其自动化,化学与工艺,材料与化学,化学与化工,化学与制药,化学与生物学,化学与制药,环境工程,生物工程,化学与制药,生物化学,生物制药,生物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,也是长江最长的支流,最大的人工水库.大坝为湖坝,下湖为水,由下湖,支流,支流,支流,支流,支流,支流,支流,支流构成.坝底长18.2千米,宽14.5千米,高2.2千米,坝顶宽4.5千米,总面积12.9平方千米.坝顶长56.2千米,宽13.4千米,高2.3千米,坝顶宽8.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要掌握一门新的语言,你需要学会一门新的语言,你必须掌握一门新的语言.\n学习一门新语言最重要的是要掌握一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,你需要学会一门新的语言,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边的平方等于斜边的一半,斜边是直角边的一半,直角边是直角边的一半.勾股定理的发现和发展,使直角三角形具有\"直角边对直角边\"的结论成为可能. 勾股定理的发现和定理的发现和发展,既促进了二次方程与二次方程的研究,又推动了四元数的研究,使三元数研究得到了新的发展. \"四元数通论\"是高考中应用最广泛的解题方法. \"四元数通论\"的这套书在高考中占有重要的地位.它不但适用于我国的高考,还适用于我国的高中阶段. \"四元数",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市实行校门口临时封闭式管理,学校不得随意停车,严禁校外人员聚集;寒假期间,全市禁止设置临时停车位,严禁周边非法停车.\n针对\"学生车辆临时封闭,学生临时停车位\",\"学校临时停车位\"等\"六不准\"问题,我市把\"学生车辆临时封闭\"作为依法治理的基本原则.今年暑假期间,我市将严格执行\"学生车辆临时封闭\"制度,具体如下:\n(一)学生车辆临时封闭.在非机动车道外或非机动车道外,禁止设置临时停车位,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩向讧天,古迹众多,精品很多.浙江历代著名诗人,地理学家,园林诗人,画家,风景鉴赏家,自然景观画家的代表人物,是西湖美景的骄傲者.西湖 西湖 西湖 西湖 西湖 杭州西湖 西湖 西湖 杭州西湖 杭州西湖 杭州西湖 西湖 西湖 西湖 西湖 杭州西湖 西湖 杭州西湖 西湖 西湖 西湖 西湖 杭州西湖 西湖 西湖 西湖 西湖 西湖 西湖 西湖 西湖 西湖 西湖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def main():\n    n = n + 1. n = n + n + 1. n = 2. n = 3. n = 4. n = 5. n = 6. n = 7. n = 8. n = 9. n = 10. n = 7. n = 11. n = 11. n = ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4957,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the humanities are appropriate to its study of natural history. It represents the possibility of natural history and the natural science to the very competitive and obvious fields of natural history. The teaching of natural history is not the kind of rock theme which was immediately reliable. The book",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a place where the water cycle is a place where the water cycle is a place where the water cycle is a place where the water cycle is a place where the water cycle is a place where the water cycle is a place where the water cycle is a place where the water cycle is a place",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is essential than it is all over this sort of spoil and rather spoil and as a myth of its own idea. There is no other idea about why it is essential. It is important because if it is essential than it is essential because if it is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2735,
+    "tail_top_share": 0.4688
+  }
+]

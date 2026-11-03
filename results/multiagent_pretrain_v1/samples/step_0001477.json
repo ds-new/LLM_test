@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景已经足够成熟.\n人工智能的发展离不开大量应用,但要使计算机应用更加简洁,更加便捷,提供更加广泛的应用.人工智能正在重塑人们生活的方方面面,但越来越多的人选择去推动人工智能的发展.人工智能正在重塑人类生活,包括AI在内的所有新的技术.\n虽然人工智能的发展前景越来越迅速,但已经非常成熟,越来越多的资本开始获得它的发展.\n除了人工智能,还需要支持人工智能.我认为这不仅是人工智能的基础,它也支持了人工智能.\n其次,人工智能除了为经济提供更好的数据服务.它还提供了数十种识别技术,以识别人的信息",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能的发展,让人工智能成为人们生活的一部分.\n人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明来玩,上午七点起床,傍晚七点起床,中午七点起床,晚上七点起床,早上七点起床,晚上七点起床,晚上七点起床,晚上八点起床,晚上八点起床,晚上七点起床,晚上七点起床,晚上七点起床,晚上八点起床,晚上八点起床,晚上八点起床,晚上八点起床,晚上七点起床,晚上七点起床,晚上七点起床,晚上八点起床,晚上七点起床,晚上七点起床,晚上八点起床,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土质植物,水类植物,液体植物,植物,伞,伞,气,热,光,氰,晶,光,生花等.\n光合作用是指光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,是光合作用,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6068,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9744,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"三国演义\"\"三国演义\"\"三国演义\"\"三国演义\"\"三国演义\"等,其中,\"三国演义\"都是三国演义,三国演义,三国演义,三国演义.三国演义中,\"三国演义\"都是三国演义,三国演义,三国演义都是三国演义.三国演义中,三国演义有\"三国演义\"和三国演义,三国演义有\"三国演义\"等,其中,\"三国演义\"都是三国演义,三国演义,三国演义,三国演义,三国演义,三国演义,三国演义,三国演义,三国演义,三国演义,三国演义,三国",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,是长江最具代表性的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是我国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一.长江是中国最长的河流之一",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人要精通一门编程语言,想要成为一名一门优秀,就要靠计算机和计算机学编程.\n1,语言要快速,节奏快,网络快,网络快.\n2,需要编程,学习一门语言时,最好先知道,最好先开始编程.\n3,有要求,有要求,有程序,有编程,有编程基础.\n4,语言要迅速,逻辑要迅速.\n5,不要单讲,不要单讲,不要单讲.\n6,不要乱讲,不要讲,不要夸夸,不要丢字,不要",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在三角形中,∠ 为∠ 的垂线.\n在直角三角形中，勾股定理表示,∠ =∠ ∴∠ ∴∠ =∠ ∴∠ =∠ ∴∠ =∠ ∴∠ ∴∠ =∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ∴∠ ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ = ∠ =",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,职业资格考试将于11月30日-22日在无锡举办.此次考试将于11月30日-22日在苏州新城举办.\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30日\n报名人数:2022年9月30",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": ",是浙江省首批旅游景点之一.\n据上海天成门县发现的景区称,\"浙江十大景区\"入选中国十大景区.2018年5月,市府发布\"浙江省首届最美景区\"名单.\n当天,\"浙江省第二批\" -  - 浙江省第十三届\"浙江省首届最美旅游\"名单,浙江省首届\"浙江省第二届最美旅游\"入选.\n据了解,浙江省第二届最美旅游\"入选\" -  - 浙江省第十一届\"浙江省第二届最美旅游\"名单.\n据介绍,浙江省第二届最美旅游\"入选\" -  - 浙江省第七届\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2051,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def fibonacci(n):    .  def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " forms of the human freedom, the water cycle describes how water forms of the country, the water cycle describes how water forms of the country, the water cycle describes how water forms, it is to be set to ensure the water cycle describes how water forms of the culture, the water cycle des",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " about a much of that it is that we can face that in our school is not still favorable. But that is the same type of learning, however can be a good and less more more. And the school is a hard lost future in our school. We are still able to teach how much they",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.4531
+  }
+]

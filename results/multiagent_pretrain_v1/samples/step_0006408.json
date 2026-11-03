@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了产业化的阶段,与此同时,AI的应用也逐步落地,各行各业的应用也在不断优化.\nAI的发展,一方面会推动产业落地,一方面又会催生新的行业应用,另外一方面会带动新的行业应用落地,创造新的商业价值,这都离不开AI的发展.\n(3)人工智能的发展,不仅会带动产业落地,也可能带动各行各业的应用,比如手机,充电桩,交通等.\n(5)人工智能的发展,也会带动各行各业的应用,比如医疗,教育,医疗,医疗,工业等等.\n(1)人工智能的发展,会带动更多行业",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "斑猴来安息.\n_ 0.0.8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用在植物,水,水,土壤等光合作用下,使植物无水污染,光合作用增加光合作用,为植物和植物生长提供光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作用光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用下,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,创造,创造,创造,创造,创造.\n古代有五千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统.古代四大发明有六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统,六千年以上的传统",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮淅IKE-283-13-H-1.\n12/20 > 0 > 0 > 0 > 1 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > 0 > ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?\n学习一门新语言你真的了解它吗?",
+    "new_tokens": 99,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.8542,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个角,则它的直角边角C即为斜边AB的斜边.\n在直角三角形中,若直角边C=AB,则直角边C=∠A+∠B.\n圆=直角边C=a,顶点A=b,顶点B=a,直线b=a,则A=b.\n圆=直角三角形中,有一个角,则它的直角边角C=a,顶点A=b,直线b=a,则A=b.\n圆=直角三角形中,有一个角,则它的直角边角C",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,∠A=∠B,∠B=∠C,∠C=∠C,∠D=∠C,∠D=∠C,∠D=∠D,∠D=∠C,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠C,∠D=∠C,∠D=∠C,∠D=∠C,∠D=∠C,∠D=∠C,∠D=∠C,∠D=∠C,∠D=∠C,∠D",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "义务教育阶段招生总数为24.76万,较去年增加2.56万,增幅达44.38%.\n新乡市新乡区教研室主任黄亮是我市义务教育阶段招生总数为24.76万,较去年增加2.56万,增幅达44.38万,增幅达43.43万,增幅达44.38万.其中,今年学龄儿童入园人数达3.43万,比去年增加1.53万,增幅达18.78万,增幅达54.57万.\n记者:今年以来,我市义务教育阶段招生总数为",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2564,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣相仿属鹦鹉异尔科雷特.浙江科迪雷特是杭州的城.从浙江杭州到杭州,搭乘杭州捷运,从杭州到西湖.杭州是杭州的西部,也是杭州最繁华的都市.从杭州到杭州,从杭州到杭州,在杭州和杭州之间,有三分之一是拱墅.杭州坐北半部,有五座桥.这是杭州最繁华的,最繁华的,最繁华的,最繁华的,最繁华的,最繁华的,最繁华的,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def def defdef defdef ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.5156
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be left and grave night and to just hatred and so yet. There is that mood troops it takes to be right. And not the mood troops it takes to be left and grave night and so yet. And not the mood troops it",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4615,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is not the same as the water cycle of the water cycle. The water cycle is not the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not that we are in our business. This is our goal of service to our community. We have to convene our goals to get involved in our classrooms. We can help our students to be collaborative with our educational and educational institutions, to develop research, engage, and engage with our students",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.4375
+  }
+]

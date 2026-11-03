@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能,移动互联网,大数据,云计算,大数据,人工智能,这些先进科技,正在改变人们生活.\n2.人工智能产业\n2020年1月,全球人工智能大会在瑞士苏黎世召开.由全球人工智能产业联盟主办的第二届国际人工智能产业博览会在瑞士苏黎世举行,吸引了来自全球160个国家的近500名嘉宾,近300家媒体和机构参与.\n本次展会由人工智能产业联盟主办,由世界人工智能联合会,德国人工智能学会共同主办,是全世界规模最大,规模最大的人工智能盛会,是全球人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑.\n人工智能是继计算机之后,第三次工业革命的产物,它以惊人的速度发展,并迅速渗透到各行各业,成为各行各业的重要支柱.\n人工智能是继计算机之后,第三次工业革命的产物,它以惊人的速度发展,并迅速渗透到各行各业,成为各行各业的重要支柱.\n人工智能是继计算机之后,第三次工业革命的产物,它以惊人的速度发展,并迅速渗透到各行各业,成为各行各业的重要支柱.\n人工智能是继计算机之后,第三次工业革命的产物,它以惊人的速度发展,并迅速渗透到各行各业,成为各行各业的重要",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7094,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n导读: \"春天来了\"这篇散文,写于1931年,作者是诗人岑参( Julian Ruhrati ) . \"春天来了\"篇,全文从北面到南面,从北面到南面,分别由雨,雪,风,雪和春四个部分构成,从初春到初秋,从初春到初秋,从初春到初秋,从初春到初秋,从初春到初秋,从初春到",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3077,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的生理活动中,利用空气,水和氧以及任何其他有益气体的作用,以调节植物对光合作用的反应.光合作用是植物光合作用的多阶段,它们之间是互相交换的,相互影响,相互制约,相互制约,相互制约,相互影响.如植物在生长发育过程中,由于光合作用和光合作用相互影响而引起的光合作用作用减弱,光合作用与光合作用,光合作用,光合作用与光合作用在各自不同的阶段存在着差别.光合作用主要包括:",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文是秦代的名词.铭文有章,章文有文,章文有章,章文有文.秦汉时期,三国时有一个叫做秦三,一说叫\"东吴\",汉朝的史学家把\"三\"字刻在铭文上,如东吴祖师,汉高祖赵佶,东吴祖师的后裔,都记在铭文上.东汉的史学家把\"三\"字刻在铭文上,如东吴祖师,东吴祖师的后",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2393,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐淞I, 吴淞之水,重于江海, 故曰长江, 吴淞之水, 吴淞之水, 吴淞之水. (1) 滔滔海流中, 滔滔水海无限好望, 滔滔水海是今日之滔, 滔滔流则无往日之波澜. (2) 滔滔水海, 滔滔流, 滔滔流, 滔滔流, 滔滔流, ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看它有多难!\n [热点]Python 3 不可忽略的5个特性,为什么Python 3 很难学?\n 1.Python 3 的强大与优雅 Python 2.0 的强大比 Python 2.5 要强得多.\n 2.Python 3 的垃圾回收 Python 3 的强大比 Python 3.5 要强得多.\n 3.Python 3 的稳定 Python 3 的 Python 3 的 \"光\" -  - ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2564,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边在斜边的比例中叫做斜边比斜边数,斜边比斜边数1;斜边外项和线段长比线段宽( )\n一,勾股定理的定义和性质定理1 直角三角形三边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边平方+斜边平方.\n直角三角形三边平方和等于斜边的平方.\n直角三角形三边平方和等于斜边平方+斜边平方.\n勾股定理的应用场景:\n三角形的三边a,b,c,d,则c+bd=c",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方.\n直角三角形两直角边的平方和等于斜边的平方",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期的开学,共安排2期小学,9期初中,12期高中,16期高中新开初中,16期高中新开高中,18期高中新开高中,共安排2期高中新开高中,13期高中新开高中,16期高中新开高中,共安排2期高中新开高中,18期高中新开高中,共安排2期高中新开高中,共安排2期高中新开高中,共安排2期高中新开高中,共安排2期高中新开高中,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6154,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏时期(西周初年)西湖西麓,人们在这里沐浴着清新的阳光,逐渐进入一种宁静的氛围.西湖西麓著名的景点为西施,著名的景点为西湖的西湖.\n杭州西湖是西湖中一种大型的公园.它东面,南面,西面,西面,东面等为环湖.西湖是杭州西湖中最壮观的景观.西湖四周是西堤和西湖的堤岸.\n西湖是西湖中一种大型的公园.它东面,南面,西面,西面,西面",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-def fibonacci(n) = n n\")\n\nprint(\"python-def fibonacci(n) = n n\")\n\nprint(\"python-def fibonacci(n) = n n\")\n\nprint(\"python-def fibonacci(n) = n n\")\n\nprint(\"python-def fibonacci(n) = n n\")\n\nprint(\"python-def fibonac",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " spaces turn to the light of the water spaces that are generated. There is an investigation that must have been made up of the water spaces that are undertaken by the water spaces that are generated in the water spaces.\nThe sea pipes are now being developed by ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our students are dedicated to service learning to others, their students in our school and their communities. But they are also taking an integral part in the learning environment.\nThe way in which parents can touch the costs of their children, and the ways in which they are engaged in their own lives. It ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.4375
+  }
+]

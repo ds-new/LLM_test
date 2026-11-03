@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够给人类社会带来巨大的改变.\n事实上,人工智能的发展已经有很多领域已经进行了深入研究,比如语言学,计算机视觉,自然语言处理和人工智能技术.\n最近,人工智能正在从汽车到智能汽车,从工业机器人到车辆,从人工驾驶到智能驾驶,从智慧城市到智慧城市,从金融到个人智能.\n毫无疑问,人工智能已经成为一个新的领域.\n从AlphaGo,微软小冰,Snapchat,谷歌DeepMind到Google Brain,现在的人工智能已经在各个领域取得了巨大的成就.\n但要想达到上述目标,需要从大量的数据和大量数据方面进行训练",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起来看\n春天来了，小明和小明一起来看\n春天来了，小明和小明一起来看\n春天来了,儿童节\n春天来了,小朋友们都开始学唱这首歌啦,大家一起来感受一下吧\n春天来了,小朋友们都开始学唱这首歌啦,大家一起来欣赏这首\"春天来了\"\n春天来了,小朋友们都开始学唱这首歌啦,大家一起来感受一下吧\n春天来了,小朋友们都开始学唱这首歌啦,大家一起来欣赏这首\"春天",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在绿色植物的花朵中,以新发芽的,幼嫩的,不成熟的花朵为好.\n它具有较强的抗病,抗旱,耐盐,耐瘠薄,耐瘠薄,耐盐,耐碱,耐盐碱,耐瘠薄,耐瘠薄,耐瘠薄,耐贫瘠,耐瘠薄,耐瘠薄,耐瘠薄.是园林植物,绿植,盆栽,庭园,药用,药用,园林景观,园林景观,园林景观和园林景观的完美结合.\n1,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内生长,生长,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹,比如发明和发明的十字绣,有发明的神奇图案和发明的神奇大药方,发明的吸水剂和发明的发明的振动箭.",
+    "new_tokens": 43,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.2326
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮?,长江上游的副热带高压势力最大,东部和西部则形成了高,中,低三级别,主要分布在长江上游及华北,东北地区,华东和华中,华东,西南及西南各西北部.长江上游主要河流有:春江,夏江,冬江,冬江,冬江,冬江,冬江,冬江,冬江,冬江,冬江.\n长江上游长江支流:长江上游河流有:涪江,江心,江心,江心,江心",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2393,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门语言是现在才有的,包括你现在会使用哪些库和框架.\n学习一门新语言最重要的是要学习一门新语言,因为现在的语言结构已经相当好了,而且需要编程来学习.\n学习一门新语言应该同时进行两个阶段:\n第一阶段:学习一门新语言,主要学习基础语法,以及各种常用语法,它们都是可以发展的.\n第二阶段:学习一门新语言,主要学习一些现代的编程技术,例如,多线程,IO,以及更多高级编程语言.\n第三阶段:学习一门新语言,主要学习编程技术,例如",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边之间的勾==1,其中只有A比B,AB比C,则C比B大;\n直角三角形的三边=底×高÷2,∠A+∠B=90°,斜边上的中线=中线,顶点A,B的垂线=底边×高.\n斜边上的高=斜边上的中线÷2,斜边上的中线=斜边上的中线.\n勾股定理的逆定理:如果一个直角三角形的三边与斜边的夹角等于180°,那么这个直角三角形的三边也等于斜边上的中线.\n勾股定理",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市教育总预算为290亿元,其中学前教育经费为558亿元,非义务教育经费为538亿元,其他经费为341亿元.其中,民办中小学,幼儿园,学校公用经费达357亿元.学前教育发展潜力巨大.随着城乡教育一体化进程加快,学前教育日趋普及,特别是对城市儿童健康,持续发展的需求.特别是近年来,学前教育投入持续增长.与此同时,学前教育毛入园率,入园率,毛入园率逐年提高,使学前教育进入快速发展时期.\n截止2020年,我市共投入资金1500余万元,新建和改扩建幼儿园3个",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣讹\n天目湖,位于浙江省杭州市西湖区,属杭州市.据\"杭州市志\"记载,杭州西湖最著名的地方,就象江南的西湖一样.湖中悬崖峭壁,倚亭阁榭,楼阁如台,莲池似台,鸟语流泉.湖中翠竹掩映,嶙峋嶙峋,束束西风,碧波碧波,胜似一景.湖中的荷花,莲瓣洁白如玉,如宝,欲乘风而去.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-def n\");\n    print(\"请输入一段代码: n in python-def n\");\n    print(\"请输入一段代码: n in python-def n\");\n    print(\"请输入一段代码: n in python-def n\");\n    print(\"请输入一段代码: n in python-def n\");\n    print(\"请输入一段代码: n in python-def n\");\n    print(\"请输入一段代码: n in python-def ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " spread us from sustainable energy when it comes to heat water up and is in the water. What you should do is \"help water spread,\" how is we not buying water, and how can we do it? Why does we do help water? The water cycle is up to us to help water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used in the water system. The water system is used in the water system and is used in the water system. The water system is used in the water system and is used in the water system. The water system is used in the water system and is used in the water system. The water system is",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much of that it is in the process that you get to know you. You do not have to read through the same type of learning to read. In the way in which you can read to be read by those in the process of an individual that has never been published. Unlike the manuscript",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.4531
+  }
+]

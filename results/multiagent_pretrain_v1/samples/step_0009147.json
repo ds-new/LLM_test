@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n2017-11-23 11:17:18\n人工智能\n/微软\n/人工智能\n作为科技圈重要的一项,人工智能曾让许多人感到惊讶.\n2020年1月,人工智能领域首次出现大发展,从2017年发布人工智能概念股,到2017年3月人工智能概念股,中国科技圈建设加速.\n2017年,人工智能领域迎来一波大发展,从技术投资到政策支持,从投资金额到资金池,人工智能概念股的市值从2016年的11.12亿元增长到2017年的9.13亿元,市值增长了16.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步.人工智能技术的进步,离不开人工智能技术的进步",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了\n1,春天来了,春天来了.春天是春天的一种表现.春天是空气新鲜空气清新,空气清新,万物复苏的春天.春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天,春天",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6496,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在光合作用中利用植物光合作用,对植物光合作用进行光合作用改造,包括光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作用加工,光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的生长,生长,生长,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工,运输,加工",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明创造.\n中国的发明,发明,发明,发明,发明创造,发明创造,发明创造,发明创造.\n因此,中国古代的发明,发明,发明,发明创造,发明创造,发明创造,发明创造创造,发明创造创造,发明创造创造,发明创造创造,发明创造创造,发明创造创造创造,发明创造创造创造.\n我国现辖21个地级市.\n各省,自治区,直辖市,计划单列市,国务院各部委各部委各直属机构,国务院各部委各直属",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.453,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,长江上游是中国最大,最长的河流,长江流域面积12.4万平方公里,是世界上最大,最短的河流,是长江干流第一大支流.长江流域纵横其间,长江两岸各一山之间,长江道中上游南北,向西流向东北,长江流域南北支流类型是长江中上游,长江中下游,长江中下游支流类型是长江支流,长江支流类型有三种类型:长江干流,长江支流,长江支流,长江泛水.长江干流,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "速度,因为速度是学习编程语言的主要方法之一.Python 具有一些库和库,但它的速度是非常快的,因为它是所有语言中最快,最通用的语言之一.\nPython 的编程速度太快了,但是速度还是比 C 快.\nC 语言有很好的开发能力,但是 C 语言不是所有的语言都支持的.\nC 语言有非常好的编程能力,但是 C 语言没有很好的编程能力.\npython 有很好的编程能力,但是 python 没有很好的编程能力.\n如果你想学习 python,python 没有",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边的中点,与已知直线垂直,求此斜边AB,斜边AC,斜边F,斜边F,斜边F(直角边F<0)求斜边AC,斜边F,斜边F,斜边F'(直角边F<0)求斜边AC,斜边F'(直角边F<0)求斜边AC,斜边F'(直角边F<0)求斜边F'(直角边F<0)\n2,正比例函数的解析式:\n正比例函数的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜边平方.\n勾股定理指出:直角三角形两直角边的平方和等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "义务教育阶段学校总招生人数比去年增加2.8万人,比去年增加9万人.\n据测算,义务教育阶段学校总招生人数比去年增加3.8万人,比去年增加7万人,比去年增加3.6万人.\n随着义务教育阶段学校总招生人数的增加,今年义务教育阶段学校总招生人数比去年增加7万人,比去年增加7万人.\n记者了解到,根据有关要求,今年将允许普通高中学校总招生人数比去年增加3.8万人,比去年增加3.6万人.\n据教育局介绍,将允许普通高中学校总招生人数",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖景区,西湖风景名胜区景区核心区,西湖风景名胜区,浙江省十大风景名胜区.湖西溪畔,蓝天下,西湖景区碧水蓝天,景观奇特,有著名的江南水乡,西湖风景名胜区,杭州西湖风景名胜区,杭州西湖风景名胜区,杭州西湖风景名胜区,杭州西湖风景名胜区,杭州西湖风景名胜区等.\n西湖风景名胜区是杭州西湖风景名胜区中的核心区之一,在杭州市政府领导的高度重视和推动下,西湖风景名胜区已初步形成以西湖风景名胜区为基点,以西湖风景名胜区为窗口,以西湖风景名胜区",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python hello n\");\n    print(\"hello n\");\n    print(\"hello n\");\n    }\n 实际上,python有类似的数据结构,py文件具有实体结构,py文件没有实体结构,py文件中没有实体结构.python中还有很多类似的数据结构,比如字符串,浮点数等.这里,python中的数组结构非常特殊,请看下面的例子:\n print(\"python hello n\");\n #python hello n\n def cin(n):\n    print(\"hello n\");\n #python hello n\n python ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings are of water. The winter of water cycle is so much to keep water open with the water cycle at the beginning. The water cycle is underway, and there are no water cycle chooses to cut into water and their air security system that are now being a water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken on the water cycle and how water is taken on the water cycle. The water cycle is a water cycle that is taken on the water cycle and the water cycle is taken on the water cycle. The water cycle is a water cycle that is taken on the water cycle and the water ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is essential to read it as possible. The director is still teaching about what to do so and what to do so. The students have taken in the same situation to the town. They have to come back in a seven years or so, who have been looking to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4375
+  }
+]

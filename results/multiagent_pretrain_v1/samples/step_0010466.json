@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够给人类社会带来巨大的改变.\n事实上,人工智能的发展已经足够给人类社会带来极大的改变.\n从某种意义上讲,人工智能正在造福人类社会.\n我们需要认识到,人工智能的进步,将会为人类社会带来极大的影响,甚至有可能改变整个社会.\n但是,人工智能的发展,仍然不能保证我们社会的进步.\n毫无疑问,人工智能的发展,应该以科学的手段来保护我们的社会.\n这应该是中国人工智能发展中最大的一个里程碑.\n三,人工智能的发展\n人工智能的快速发展,除了为人类带来了极大的改变,还伴随着其巨大的冲击.\n首先,人工智能的出现,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展,离不开人工智能技术的支撑.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园\n春天来了,在公园里,还有小明和妈妈们来玩耍.\n在一个公园里,小明和小明和小明去公园玩耍,玩耍时,小明和小明和小明和妈妈一起玩耍.\n小明和小明和小明和小明爸爸妈妈一起玩耍.\n小明和小明和小明和小明和小明和妈妈一起玩耍.\n小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中所需的碳酸氢钠(g)和氰化钠(g).\n一般植物生长过程中所需的碳酸氢钠(g)为0.8~0.5,0.1~0.5,0.3~0.5,0.6~1.5,0.7~1.7,0.8~1.8,1.1~1.8,0.8~1.8,0.8~1.8,0.8~1.8.\n在自然界中,光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光照条件下,通过光合作用,使植物在光照条件下,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物在光照条件下,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物在光照条件下,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物在光照条件下,能够获得更多的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物在光照条件下,能够获得更多的光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的创造就有历史,不同时代的,只要具备了这些发明,就可以建造出雄伟壮观的文明.\n中国古代的四大发明,包括发明,发明,发明,都有文明.其中,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綦甝I, 吴勇锴短游�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.8291,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门语言有一些你真的了解它,你至少会使用一些其他的库,包括它.\n1. Java具有丰富的库,包括Java 2.\n2. Java具有丰富的标准库,包括Java 3.\n3. Java具有丰富的类库,包括Java 3.\n4. Java具有丰富的库,包括Java 3.\n5. Java具有丰富的类库,包括Java 3.\n6. Java具有丰富的类库,包括Java 3.\n7. Java具有丰富的类库,包括Java 3.\n8",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边=勾三股四弦四弦四弦四弦五\" 公式: = ( ) 在直角三角形中,证明: ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) (",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形两直角边a,b的平方和,等于斜边c的平方,即a²+b²=c².\n直角三角形两直角边a,b的平方和,等于斜边c的平方,即a²+b²=c².\n直角三角形两直角边a,b的平方和,等于斜边c的平方,即a²+b²=c².\n直角三角形两直角边a,b的平方和,等于斜边c的平方,即a²+b²=c².\n直角三角形两直角边a,b的平方和,等于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了\"放管服\"政策,全市教育系统共发放各类社会事业类助学金8173人次.\n\"双减\"政策实施后,我市校外培训机构全面托管.全市义务教育阶段校外培训机构全面归还\"双减\"政策.其中,我市\"双减\"政策实行\"双减\"政策实施后,全市校外培训机构数量增加了近3倍.其中,市直学校要增加课后服务时间,同时将课后服务的时间压缩到1分钟以内,用于课后服务时间减少学生作业负担.\n在市教育局指导下,市教科院组织全市中小学,幼儿园,小学,中学,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖东断桥:相城桥,上海桥,杭州西湖,上海金桥,杭州西溪桥,杭州西湖,杭州西湖.杭州西湖最著名旅游景点:西湖,西湖,西湖,西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def main():      srs.pl.srs.pl.srs.pl.srs.pl.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.srs.s",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human becomes more of the social sector of environmental sciences and the interdisciplinary disciplines that focus on the interdisciplinary and related issues of human becomes of the environment. This is an integral part of the curriculum in which students will be able to understand the environment and engineer processes they",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a natural environment and how water is a natural environment and how water is a natural environment. The water cycle is a natural environment and how water is a natural environment and how water is a natural environment and how water is a natural environment and how water is a natural environment and how water is a natural ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is a necessary tool for interference learning. This is an important issue for the Level of Interesting. We wish we are to get the idea of how we work together in a way to do it. I am looking forward to an important project about how we do it in a way to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.4844
+  }
+]

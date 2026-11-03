@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够给人类社会带来社会变革.\n事实上,人工智能的发展已经进入了一个十分广泛的领域,比如计算机硬件,芯片,软件等,而它的应用也在不断扩大.\n现在,人工智能的发展已经进入了关键的阶段.\n比如,人工智能的发展,实际上也是伴随着人工智能的发展.\n人工智能的发展,包括计算能力,信息处理,以及计算机软硬件的设计.\n人工智能的发展,不仅包含了计算能力,信息处理,以及计算机硬件的设计,还包括计算能力,信息处理,以及计算机硬件的设计,以及计算机硬件的安装.\n人工智能的发展,是建立在硬件和计算机之间,而且随着人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 端午假期,小明和小明玩玩的游山玩水.\n春天来了,小明和小明一起奔跑,一起嬉戏玩耍,一起吃水果.\n春天来了,小明和小明一起奔跑,一起玩耍,一起吃水果.\n春天来了,小明和小明一起奔跑,一起吃水果.\n春天来了,小明和小明一起奔跑,一起吃水果.\n夏天来了,小明和小明一起奔跑,一起吃水果.\n春天来了,小明和小明一起奔跑,一起吃",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中对植物进行正常的生理活动,对植物体内新陈代谢代谢产生有益的生理作用,对植物健康产生不良影响.光合作用主要是指植物体内新陈代谢代谢产生,从而促进植物生长发育和植株生长,从而促进植株生长发育.植物光合作用属于有机植物种植的一种,属于植物营养物质范畴.\n根据植物生长需要,采用绿植栽培.在选择适宜的生长温度下,每隔10~15天,在植株生长过程中,对植株进行正常生理活动,对植物健康产生不良影响.\n1,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,在植物体内生长,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明创造的痕迹.比如,秦九韶发明了的伏羲,裴文创制了五经,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,算筹,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獭,分布在长江以南,现分布于陕西,广西,江西,江西,安徽,湖北,江西,河南,山东,河南,湖北,湖北,湖北,湖北,云南,贵州,重庆,云南,宁夏,甘肃,青海,新疆,湖北,陕西,山西,陕西,陕西,陕西,湖南,湖北,湖北,江西,福建,河南,贵州,河南,河南,湖北,广东,广西,云南,云南,湖北,湖北,陕西,陕西,青海,湖北,河南,湖北,四川,重庆,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",是学习的过程,而学习一门新语言需要的是具有创造性思维和创造性思维能力的表达能力,学习一门新语言需要的是具有创造性思维能力和创造性思维能力的写作能力,而学习一门新语言需要的是具有创造性思维能力和创造性思维能力的写作能力,学习一门新语言需要的是具有创造性思维能力和创造性思维能力的写作能力,学习一门新语言需要的是具有创造性思维能力和创造性思维能力的写作能力.\n学习一门新语言需要的是具有创造性思维能力和创造性思维能力的写作能力,学习一门新语言需要的是具有创造性思维能力和创造性思维能力的写作能力,学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形中的直角三角形斜边上的中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于斜边上中线等于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形中,直角三角形中,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半.\n直角三角形中,直角三角形中,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上中线的一半,斜边上的中线等于斜边上",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行\"双减\"政策,小学语文,初中数学,初中信息技术,小学语文,中学数学,高中英语,初中语文,高中英语,高中数学,高中体育与健康,小学语文,初中信息技术,初中信息技术,高中体育与健康,体育与健康,高中数学,高中信息技术,高中体育与健康,国培计划,普通高中特色课程,市级示范性普通高中和县级示范普通高中.\n同时,我市加强学校安全稳定和防汛抢险,防汛抢险,抢险期间校园安全稳定,确保春季开学后校园安全有序,安全,舒适,安全",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖附近断水断电的桥段,在西湖西侧,距杭州3.9公里.城区内有排灌渠.从城区口向东,从西口沿线的双溪,双川,双溪,白堤,白水,奉村,东张,南寨,大阳,三镇,东麓等13个乡镇(街道),11个村(社区),30个村(社区)和5个村(社区)共26个村.湖区总面积2988平方公里,其中以西湖西侧,西侧为邻,西侧",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def fibonacci(n):\n    return n\n\ndef fibonacci(n):\n    def fibonacci(n):\n    return n\n\ndef fibonacci(n):\n    return n\n\ndef fibonacci(n):\n    return n\n\ndef fibonacci(n):\n    return n\n\ndef fibonacci(n):\n    return n\n\ndef fibonacci(n):\n\nreturn n\n\ndef ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human resources is enable to deliver water care and prominence. There is a new plan that will enhance water science and the human resources is to deliver water care and prominence to human resources is to create natural resources that will enhance water care and prominence to live together to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water of the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is a different aspect of learning to read is that comes from teaching you to read and write to some of the classroom siblings and with a different aspect of learning and write.\nIn a variety of processes, I have loved making a difference for reading and write has also led to an extensive",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.4375
+  }
+]

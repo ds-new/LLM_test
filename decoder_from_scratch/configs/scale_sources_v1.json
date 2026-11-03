@@ -1,0 +1,104 @@
+{
+  "dataset_id": "BAAI/IndustryCorpus",
+  "revision": "8a03761a1a792ee7aa68e44496ed47c60aee1c30",
+  "license": "apache-2.0",
+  "checked_at": "2026-10-23",
+  "sources": [
+    {
+      "domain": "zh_news",
+      "path": "IndustryCorpus/zh/new/rank_1268.jsonl.gz",
+      "size": 1088018208,
+      "sha256": "570585d2724f284d09a8a5825b82c1350bb9a92ee43afade142b24f0916dd3da",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_education",
+      "path": "IndustryCorpus/zh/edu/rank_1154.jsonl.gz",
+      "size": 1109829612,
+      "sha256": "8855a9419462df1f9f8664e4f6acffbf1805ef48e5ede0dee10937c12cfb97c8",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_science",
+      "path": "IndustryCorpus/zh/tech/rank_1070.jsonl.gz",
+      "size": 1091687674,
+      "sha256": "c0bc55d5822683270769ffa5d591fb40f1dd54810d343e7e201bfd9e082cbcad",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_literature",
+      "path": "IndustryCorpus/zh/lit/rank_1242.jsonl.gz",
+      "size": 1110786412,
+      "sha256": "68245b00765ee492035d3700bfa751ee8f863339e3862ccf69b709c471ca9813",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_travel",
+      "path": "IndustryCorpus/zh/travel/rank_941.jsonl.gz",
+      "size": 1094816935,
+      "sha256": "5a50d4fa889e808483ec31602cabf1ce6529f2d4465ca8f7374db91fa01e9f3e",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_math",
+      "path": "IndustryCorpus/zh/math/rank_1134.jsonl.gz",
+      "size": 411112572,
+      "sha256": "08177effcd1ce262dd7e4ae6b662ce82168a859c81f6284f2ed2c433fc51cd31",
+      "language": "zh",
+      "kind": "math"
+    },
+    {
+      "domain": "programming",
+      "path": "IndustryCorpus/zh/program/rank_1008.jsonl.gz",
+      "size": 841908623,
+      "sha256": "d2d87ee3e869d00c201660aa1d6bb5a87103568864cd2cf249c1a4543b7d2225",
+      "language": "zh",
+      "kind": "programming"
+    },
+    {
+      "domain": "en_education",
+      "path": "IndustryCorpus/en/edu/rank_544.jsonl.gz",
+      "size": 1084917071,
+      "sha256": "b3fd6397626077c5ee5b7a200218ff59d8c100cace1f1760bb9c63415491b31a",
+      "language": "en",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_agriculture",
+      "path": "IndustryCorpus/zh/agri/rank_1009.jsonl.gz",
+      "size": 1087267810,
+      "sha256": "3c7f018c38214360de07e572963c46a5d1692e49a71f9a018c6807939a859325",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "zh_ai",
+      "path": "IndustryCorpus/zh/ai/rank_979.jsonl.gz",
+      "size": 1050194872,
+      "sha256": "b25bbeaf8d6e1b58850f69b9bfe1d5ac3397f3f65e9a130f777c88359e87e74a",
+      "language": "zh",
+      "kind": "programming"
+    },
+    {
+      "domain": "zh_sport",
+      "path": "IndustryCorpus/zh/sport/rank_1018.jsonl.gz",
+      "size": 1086595833,
+      "sha256": "da93abcc88c697bce7e5d8801d9c93eadcc26799f4d75d7daadca89d3bbc4775",
+      "language": "zh",
+      "kind": "general"
+    },
+    {
+      "domain": "en_programming",
+      "path": "IndustryCorpus/en/program/rank_258.jsonl.gz",
+      "size": 746871408,
+      "sha256": "b99427246628d9d22c09a82a62a1450f5050756271ed2f83fd16bb460bae6ac8",
+      "language": "en",
+      "kind": "programming"
+    }
+  ]
+}

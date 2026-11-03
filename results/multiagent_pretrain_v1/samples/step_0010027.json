@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景不可估量.\n人工智能究竟是什么,未来将会是什么?\n计算机领域,我们正处于一个怎样的变革?\n人类会理解人工智能,理解它的好处?\n人工智能已经渗透进我们的每一个领域,我们究竟要如何发展?\n人工智能,实际上也是我们生活的一部分.我们生活的领域,包括计算能力,算法,以及机器学习等.\n人工智能有大量应用,但是目前还不清楚它到底会做什么.\n人工智能本身并没有完全解决的问题,目前人工智能还只是停留在技术层面,并没有确切地服务于人类.\n人工智能是未来智能的一个关键,如果能够帮助人类",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,离不开人工智能.\n人工智能的发展,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明爸爸要来公园，小明妈妈要去公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要来公园，小明爸爸要",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用一般是指利用植物光合作用,对植物光合作用进行改造,使之达到有机光合作用的目的.\n 光合作用是一种光合作用,是一种绿色植物的光合作用.\n 光合作用是一种高强度,高毒性,高强度,高耐药性,强度高,营养价值的植物光合作用.光合作用具有高毒性,低毒性,高毒性,高毒性,低毒性,低毒性,低毒性,高毒性,高毒性,低毒性,高毒性,低毒性,高药效",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3419,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,使植物在生长过程中,能够获得更多的光合作用.光合作用是一种新型植物生长方式,它具有光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文是秦代的语意.",
+    "new_tokens": 16,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?, 吴晋在\"海上丝绸之路\"中,与吴晋之间进行了\"下八千年\"的交流.\n\"海上丝绸之路\"始于宋朝,是北方的丝绸之路,是吴越的南道, 是韩吴国的南道. 由于海运多, 是许多海上丝绸之路的起点, 也是海上丝绸之路的开始.\n三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡, 三峡,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2821,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要熟悉和理解它的目的,它包括语法,语法的分类,语法的使用,语法的迭代,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的用法,语法的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边=勾三股四弦=弦弦四弦.\n勾股定理最复杂的是直角边与斜边之和,即A=ab\n直角边与斜边之和是直角边与斜边之和,即 B=ac\n勾股定理的逆定理是直角三角形两直角边和定理一:直角边与斜边之和是直角边与斜边之和,即:直角边与斜边之和是直角边与斜边之和.\n直角边与斜边之和也是直角边与斜边之和,即:直角边与斜边之和是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4103,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加小学五,六年级(含五,六年级)考试,其他年级,由高中学校招收初中生参加中考,凡具备我市户籍的初中毕业生,在户籍所在地就读初中学校的学生,在户籍所在地就读初中学校的学生,必须由初中学校招收初中学生,初中学校招收初中生.报名方式为:报名方式为报名方式:网上报名,网上支付.\n 本市各学校具体招生单位,招生对象,招生专业,招生计划,招生项目,招生计划,收费标准均按照国家有关法律法规和市教育局相关规定执行.\n 市",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖,别称西溪,属浙江省境内,西湖风景名胜区,西湖风景区.西湖水系从西湖涌出,经西入碧水,蓄势蓄水,历经千年,西湖的美丽,不仅具有众多的美景,更有一种清澈幽静的幽静.杭州西湖风景名胜区游览西湖风景区有:(1)西湖风景区为杭州西湖风景区,是西湖风景区的重要组成部分,其景观特点是四面有水,奇石怪石,溪流潺潺,溪水潺潺,自然景色秀丽.西湖风景区是杭州西湖风景名胜区的重要组成部分,其景观特点是四面",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def fibonacci = \"n\");\n def fibonacci(n):\n    print(\"def fibonacci = \"n\");\n def fibonacci(n):\n    print(\"def fibonacci = \"n\");\n def fibonacci(n):\n    print(\"def fibonacci(n) = n\");\n def fibonacci(n):\n    print(\"def fibonacci(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7436,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air condition,” and how he does “wild water and water scene.” What you should have to be doing with the wild water scene and the wild water scene to be doing with the wild water scene? There are two important reasons why some water is to be",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2564,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken by water and water is taken by water and water is taken by water and water is taken by water and water is taken by water and water is taken by water and water is taken by water and water is taken by water and water is taken by water and water is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our students are dedicated to service learning and develop a knowledge of the world and the world. The students who participate in the program are much more enjoyable, not with their experience and experience. In the coming months of the program, we come to learn more about the local experience and how to build an educational ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.4688
+  }
+]

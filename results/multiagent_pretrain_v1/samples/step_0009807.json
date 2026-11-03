@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景不可估量.\n第四波疫情,让人工智能突飞猛进,也让不少人开始关注人工智能技术的发展前景.作为科技领域的热门话题,人工智能正在悄悄改变着我们的生活.\n2020年1月,全球人工智能大会 -  - AI Worker Conference (CAIC) 将在线上召开,大会将邀请来自各行各业的人工智能专家,大会通过线上会议,分享人工智能的最新发展动态,并预测未来的方向.\n目前,关于人工智能产业,最重要的还是它的研究成果,但本次大会的参会者需要知道的是,目前 AI Work",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展,离不开人工智能的发展.\n人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "鹭来，沙_朱鹮鹭⊙ -  - \"小朋友与泥人比胆!\"\"小明和小明知道吗?\"\"小明和小明都喜欢他们的两个好朋友呢?\"\"小明和小明都喜欢他们的两个好朋友.\"\"小明和小明和小明知道吗?\"\"小明和小明和小明都在公园里和爸爸妈妈玩得开心.\"\n\"小明和小明和小明比胆,应该知道吗?\"\"小明和小明比胆!\"\"小明和小明比胆!\"\"小明和小明比胆!\"\"小明和小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3761,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在光照充足的情况下,利用空气动力学和生物化学对植物进行光合作用.光合作用是包括植物激素在内的生物物质,能够对植物进行光合作用.植物激素,是植物生理和生物信息学领域的重要基础,也是植物生物学和生物化学的重要基础.植物激素是植物生理和生物化学领域的重要基础,对于植物生物学的发展具有重要的指导意义.\n植物激素是植物生理学,生理学,生态学,生态学,生态学,生态学等学科的基础,是植物生理学,生态学,生态学的重要基础",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物能够吸收阳光,水,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獢獢獢獢獢獢獢獢獢獢獢獢獢獢獢獢獢獢獢獢",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "速度,因为速度很大程度上决定了语言使用方式,而不是编写程序的时间.然而,通常情况下,速度是至关重要的.快速开发语言不仅需要速度,而且需要快速开发代码,从而需要编程人员.\n多编程语言都是拥有大量实际开发需求,大量用户交互的技术.多语言要求开发人员易于理解,易读易用,容易维护,容易移植.\n以下是几种常见的编程语言:\n以下是几种常见的编程语言:\n· C++ : C++ 是 C++ 的一种 代表,主要用于编写代码和执行命令.\n· Java ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形斜边上的高h=1/2a sinh=1/2 d h=1/2a 如图1,ab=2ab 圆上不存在一等腰三角形过圆交底点P a,Q =b S△ABC中P b是斜边,则S△ABC S△ABC S△ABC中S△ABC中S△ABC S△ABC S△ABC S△ABC S△ABC S△ABC中S△ABC中S△ABC中S△ABC",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4103,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半,斜边上的中线等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期的开学,考虑到部分学校寒假期间开学时间调整,为保障全市中小学寒假安全,确保学季安全,假期期间,各中小学将按照\"学校+年级+家长\"的文明规范要求,在假期期间,校园\"零\"字行列,注重落实\"校风\"和\"爱国\"两字,\"创文\"和\"乐学\"两个字,促进学生全面发展.\n，具体举措:一是严格落实\"双减\"政策,充分利用学校线上,线下课程,家访,作业,学习等载体,开展\"大",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "ng向世界介绍西湖博物馆的历史,历史以及西湖与西湖的交通,文化,交通,都经过西湖博物馆的历史发展.西湖博物馆在杭州西湖博物馆的研究开发方面有不错的成就,西湖博物馆和西湖博物馆是西湖博物馆的标志性建筑,西湖博物馆是集收藏,展示,展示,展示,展示,展示为一体的综合性博物馆.西湖博物馆的博物馆在园林方面有比较好的推广,园林方面有比较完善的建设,在园林方面有较好的盈利. 西湖博物馆的博物馆是西湖博物馆的标志性建筑,其以西湖为中心,整体造型美观,占地面积约13平方公里",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def():    n = fibonacci(n) # n = n + 1  # n = n + 2  # n = n # n = n # n = n # n = n # n = n # n = n # n = n # n = n # n = n # n =",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings contribute to nature and energy consumption. A key factor of water management and development was developed in 1985. The overall problem of water management and development and then began with the greatest extent to developing the robotic and water-co-use approach. The theory of sust",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken to the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our entire society is in the world and in the world as our world is the world with a global and diverse perspective of our own world.\nThe impact of our experience and experience is on the world and the world within our society, but the impact of our world and our world can be managed ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2051,
+    "tail_top_share": 0.4688
+  }
+]

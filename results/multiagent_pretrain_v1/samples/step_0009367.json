@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n学习机器,学习系统,学习是一种经常需要学习的职业,也是我们进入职场时需要的技能,但是,人工智能在职场中的运用有哪些方面的优点?学习机器,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习系统,学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为当今世界最热门的研究领域.\n人工智能是当今世界最热门的研究领域之一,也是当今世界最热门的研究领域之一.人工智能的发展,让人工智能成为当今世界最热门的研究领域之一.\n人工智能是当今世界最热门的研究领域之一,也是当今世界最热门的研究领域之一.人工智能的研究领域,包括智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人,智能机器人",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "鹭鸟聚会,上午七点就开始了.\n在公园里,还有小鱼,一些小鱼,还有野生的植物.\n在公园里,小明和妈妈去公园里玩耍,散步,玩.\n在公园里,小鸟和昆虫在公园里玩耍,在公园里,野生的植物和植物的叶子也互相争抢.\n公园里,小鸟和昆虫相互追逐,为小明和妈妈准备了一艘船,到旁边附近散步,散步,玩,感受一下它们成长时的快乐.\n在公园里,小鸟和昆虫互相追逐,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中对含氢量较高的光照射对植物体内自组装,对植物体内无毒副产物(如氰化氢等)的入侵造成物质损伤,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统,破坏植物自组装系统",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物生长过程中,通过植物吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明\"测圆仪\",王羲之发明的\"墨子\",印章,印章,墨圈等,都是中国古代的发明.中国古代的发明分为\"墨子\"和\"墨环\",李白的\"墨子\"被后世尊称为\"墨子\".它与礼乐的鼻祖周有恒也有过渊源.在\"墨子\"中,周有恒对琴琴,琴子,琴弦,琴棋,琴赋等有卓越贡献. 中国自古以来就有盛名的\"周琴\"和\"诗琴\"之称.周琴,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐淼I,也是继贵州之后西南地区的一个最大河流.长江流域流域面积204.4万平方公里,平均海拔1300米以上.\n长江流域长周期降水较少,主要降水过程有长年以来偏强,降水多时可达常年同期.根据长江流域降水分布特点,黄河流域支流类型是长江流域的汛期偏强,常年降水少,经常降雨量较少.汛期降水量较少,不出现长期罕见的大旱汛情,汛期降雨量较少,降水分布较晚.\n根据长江",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要熟悉和理解它的语法,如类,类,函数等.\n学习一门新语言最好的方法是学习一门新语言的学习内容,如函数,函数,指针,函数,正则表达式,循环,表达式等.学习一门新语言应该对语法,语法和算法等有一定了解.\n学习一门新语言应该对语法,语法和算法等有一定了解.\n学习一门新语言应该对语法,语法和算法等有一定了解.学习一门新语言,应当对语法,语法和算法等有一定了解.学习一门新语言应该对语法,语法和算法等",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.453,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边与斜边的距离相等,所以A=A+B.\n首先,我们来看看勾股定理:\n事实上,直角三角形三边的中点,斜边,斜边和斜边中,至少有一个是斜边,且斜边的中点与斜边的延长线平行.因此,直角三角形三边的中点与斜边的延长线,也是直角三角形三边的中点与斜边的延长线.\n直角三角形三边与斜边的中点,且斜边与斜边与斜边相交.因此,直角的直角三边与直角三边的中点,斜边与斜边的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,a,b,c,d,e,f,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期,全区小学,初中,高中班共9.3万人参加考试.\n据悉,今年的高考新政于4月21日开始,我市将全面启动\"学生小考\",确保今年\"小考\"在义务教育阶段学校实施.全市\"小考\"共设置小考43个,其中,初中阶段报名302人,初中阶段报名54人.义务教育阶段小考将实行\"一考定终身\".\n\"小考\"实行\"一考定终身\",即:普通高中阶段为初中三年级,初中为高中三年级;初中阶段",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖,别有洞天,属西湖景区,西湖风景优美,有\"西湖胜景,西湖三绝\"之称.西湖因碧水如洗而得名.西湖有著名的江南名园,西湖风景优美,有\"西湖胜景,西湖胜景,西湖胜景,西湖胜景\"之誉. 西湖风景秀丽,有\"西湖胜景,西湖胜景,西湖胜景,西湖胜景\"之誉. 西湖风景优美,有\"西湖胜景,西湖胜景,西湖胜景\"之誉. 西湖风景优美,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print 'Fall End of the Fall' for the first time. When we were delighted, we were used to make a dance in the winter of the war. We are produced in the vessels of the war. We are running off the winter and we are going to be really excited",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human body is such a normal study of the flow of water. Our research should focus on the development of the water and sweets of the body and our lives of a normal wing of water and sweets and the human body.\nThe seven years of sweating and a normal ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used to be used in the wind and the wind is used in the wind and the wind is used in the wind and the wind is used in the wind and the wind is used in the wind and the wind is used in the wind and the wind is used in",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it has much of its power to get out of the top of its teaching and learning efforts. But with the conclusion that the teachers of learning are not just the parents of students and parents of the area in the early 1970s, the future of the students in the public sector has been sought to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.4688
+  }
+]

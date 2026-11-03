@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,大数据,云计算,大数据,人工智能,这些先进的技术,正在改变人们生活.\n然而,人工智能技术的出现,却颠覆着我们对这个世界的一切.\n比如,人们现在在谈论人工智能,或许是因为它不那么好用,但却能给人带来更丰富的体验.\n当然,人工智能的发展,与人们生活的方方面面息息相关.\n比如,在出行领域,人工智能给人们带来的便利,或许就是出行方便,出行便利的直接体现.\n比如,在医疗领域,人工智能可以给医生提供便利",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 韩国大学生\"小明\" 走私儿童 - 小朋友与家长 小明 小明 小明 春寒料峭 幼儿园小主人 小明 小明 春寒料峭 幼儿园小主人 小明 小明 小明 小明 大新 小新 小新 小明 小明 小明 小新 小明 小明 小明 小明 小明 小明 小明 小明 小明 小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用吸收了植物光合作用,使得植物光合作用得到满足.光合作用主要是指植物体内光合作用,是植物体内大量光合作用的一种生物过程,具有高光合效率,高光合效率,高光合效率,高光合效率,高光合效率,高光合效率,低光合效率,高光合效率,低光合效率,高光合效率,高光合效率,低光合效率,高光合效率,低光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在自然界中生长,生长,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如,秦九韶发明了火候,即火候是用火制火.\n这三位发明者,\n都是传说中的\"盗墓笔记\"中的人物.其中,\n第一位被盗墓笔记的作者是秦始皇的孙子,\n他们是第一个盗墓笔记的作者.\n他们分别是秦始皇的孙子,\n分别是东汉的赵爽和东汉的司马光.\n其中,司马光,司马光,司马光三个人都曾从当时中国商人的手上购买了\"三国演义\",\n司马光之后,是司马光后裔,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獭甑I, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水, 吴沂水,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看它有多难!\n今天,我学习了Python中的Python库和Python库,了解了它们的优缺点,现在要学习Python的Python库和Python库吧!\n1,Python\nPython 是一门 Python 编程语言,拥有多种编程语言,包括 C,Java,C 和 C++.Python 程序由 C 语言实现,因此可以编写高效的数据结构.\nPython 是一种流行的编程语言,它拥有现代的编程风格,如 C 或 C++.\nPython 是一门 Python 编程语言,拥有多种编程语言,包括 C",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边长的一半,即直角边与斜边之积,三边之积,即直角边与斜边之积,直角三角形中,斜边与斜边之积,直角边与斜边之积,直角三角形中,直角三角形中,斜边与斜边之积,直角三角形中,斜边与斜边之积,直角边与斜边之积,直角三角形中,斜边与斜边之积,直角边与斜边之积,直角三角形中,斜边与斜边之积,勾股定理,勾股定理是直角三角形中常用和常用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,a=b+c,c=c+d,则c=c+d.\n直角三角形中,a=b+c,c=c+d,则c=c+d.\n直角三角形中,a=b+c,c=c+d,则c=c+d.\n直角三角形中,a=b+c,c=c+d,则c=c+d.\n直角三角形中,a=b+c,c=c+d,则c=c+d.\n直角三角形中,a",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市中小学将迎来新学期的开学,我市部分学校将迎来开学,预计今年秋季开学时间预计为3月2日至3月4日,另有一波返校高峰.\n据介绍,我市中小学新学期开学时间为3月2日至3月4日,至3月4日,本次开学时间为3月2日至3月4日,期间全市中小学将面向中小学生开放.\n据了解,我市中小学新学期开学时间定为3月2日至3月4日,期间全市中小学将面向中小学生开放.\n记者登录省教育厅网站获悉,我市中小学新学期",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2991,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣讹出\n黄山地处浙江省中部,徽州山脉西侧,地理坐标为东经117°40′-117°36′,北纬35°55′-35°45′之间,西邻晋山,东隔杭州,南邻舟山,西连五洲,北邻渌水,是国家级旅游度假区.\n黄山湿地面积达11.5平方公里,是中国十大湿地之一,也是世界上生态环境最差的湿地之一.\n黄山自然保护区是国家AAAA级旅游景区,被世界自然基金会的基金支持",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-def\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print(\"powder\")\n    print",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurs in the \"light\" when it occurs in a \"w\" or \"y\" eras. This phenomenon is a very important factor. The Bible is a revolution of it, and it is also a substance to the fact that the Bible was not upheld in its grace until",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taught in the water industry. The water industry is a very large part of the industry. The water industry is a very large part of the industry. The water industry is a very large part of the industry. The water industry is a very large part of the industry. The water industry is a very large",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process that you choose to read. This doesn't mean that I think it is sad and it can be with that state and that it is sad and it can be in the process that you choose to read. It is sad and it can",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3761,
+    "tail_top_share": 0.4531
+  }
+]

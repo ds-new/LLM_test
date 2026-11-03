@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "带给我们带来了新机遇.\n正如马云所言,人工智能技术的不断演进,为我们带来了深刻改变.\n刚才李开复在\"人工智能与产业革命\"一文中说到:\"现在制造业的发展日新月异,人工智能正在代替劳动力,人工,非农业,农业,农业等不那么简单的事情上,而不仅农业,工业,还有农业.因此,人工智能技术可以在各个领域得到应用,赋能各行各业.\"\n另外,人工智能技术也给各行各业带来了深刻变革.\n产业革命在短短数年间便翻开了新的一页,这个变革正催生了以马云为代表的互联网",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑.\n人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开大数据,人工智能的发展离不开",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明爸爸去公园里看望他们,小明妈妈见小明一副高兴的样子,就站了上去.小明说:\"妈妈,我们要去公园里看望小明妈妈,小明妈妈要照顾小明妈妈.\"\n小明妈妈是一个热心的人,她想当一名爱心人士,然后自己决定\"去公园里看望小明妈妈\".小明妈妈和小明妈妈带着小明妈妈去公园里看望小明妈妈.小明妈妈向小明妈妈说:\"小明妈妈回来了,我要照顾小明妈妈.小明妈妈回来了,我要",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在光合作用中利用植物光合作用,对植物的生长发育,生长情况,光合作用效果的调控与调控等方面均作了科学评价和评价.光合作用是植物光合作用发展中的主要体现,是种苗,种苗,种苗,种苗,种苗与种苗互相组合,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,成苗率,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4359,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的重要作用.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用是植物光合作用中的一种.光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明人的诞生都是根据有穷到极端的奇思妙想的,这三位发明便是由国家发明家们发明出来的,而且他们不仅发明了古代的六体神术,而且发明了六体神术.\n中国自古以来就使用有穷,有代,有加,有穷,有加,有加,有加,有加,有加,有加,有加,有加,有加,有加,有加,有加,有加,有加,有加,有",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要看看它有多好.\n今天,我来到了荷兰的荷兰大学.这所大学坐落在荷兰古城的城中,距离荷兰大学不到3分钟,师生可以在这里快速的学习,就业和睡觉.\n荷兰大学的四栋教学楼,共藏书15000册,其中5号楼是荷兰最大的大学图书馆,师生可以在这里随时查阅各种书籍,包括文献,文献典籍,书籍,纪录片等.\n作为荷兰大学校园的中心,大学的主要建筑是:教堂,图书馆和体育馆.\n整个校园内的建筑是庄严肃穆的,园式的建筑是庄严的,装饰",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中每边都是直角,那么这个直角三角形叫做直角三角形.设锐角为锐,则(O=F)d直角三角形的斜边AB,BC,CA分别在平面ABC中,过A作BC,BC作BC的平行线交BC于A,B,C的中点P,Q作EF交BC于A,M,M,E交BC于B,AB,CA交BC于C. 定理1 定理2 设三角形ABC的外接圆是三角形的外心,那么: △ABC=BC △CD S△CD",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边和斜边所对的边,叫做直角三角形斜边.\n直角三角形中,斜边和斜边所对的边,叫做直角三角形斜边.\n直角三角形中,斜边和斜边所对的边,叫做直角三角形斜边.\n直角三角形中,斜边和斜边所对的边,叫做直角三角形斜边.\n直角三角形中,斜边和斜边所对的边,叫做直角三角形斜边.\n直角三角形中,斜边和斜边所对的边,叫做直角三角形斜边.\n直角三角形中,斜边和斜边所对的边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加小学,初中,高中招生考试,全市实行了小学,初中,高中,高中考试招生制度,初中,高中,高中毕业生均须参加初中,高中,高中,高中招生,我市的初中毕业生,普通高中毕业生和普通高中毕业生均须参加高中,高中,高中,高中,高中招生,报名方式为网上报名.今年,我市要启动普通高中招生,同时将高中阶段教育考试招生工作纳入全市统一高考范围,并实行统一高考成绩公示制度,由学校负责考试结果和录取结果公示,实行\"分数录取\"模式,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景名胜区,是西湖景区核心区,是西湖风景名胜区旅游的主阵地.西湖风景名胜区位环境优美,生态环境优美,是典型的旅游观光区.西湖风景名胜区以西湖风景名胜区为中心,由四大景区组成:西湖 -  - 西湖 -  - 西湖 -  - 西湖 -  - 西湖,这是西湖风景名胜区的主要组成部分.西湖风景名胜区面积达11万公顷,是中国第一座西湖风景名胜区.西湖风景名胜区于2009年12月全面竣工,以西湖风景区为中心,西起西湖风景名胜区,西",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def\")    print(\"save\")    print(\"save\")    def fibonacci(n):    print(\"save\")    def fibonacci(n):    print(\"save\")    def fibonacci(n):    def fibonacci(n):    print(\"save\")    def fibonacci(n):    print(\"save\")    def fibonacci(n):    print(\"save\")    def fibonacci",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle occurs in the \"southern nine water cycle\" which is \"after water cycle.\" The water cycle is often troubled by water cycle sets, the water cycle is \"after water cycle.\" The water cycle is often extinct from water cycle by the sets and the water cycle is \"after water ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the southern part of the world. The water cycle is a slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly slightly s",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7094,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the wisdom that I can only say is still teaching science. But that’s the same. In the world, it is the primary in the study of self-understanding and the arts that in the world of science is not the only thing. And that’s an issue ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.4531
+  }
+]

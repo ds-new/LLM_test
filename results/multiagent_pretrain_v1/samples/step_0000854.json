@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n人工智能已经真的存在吗?\n人工智能一直都是源于计算机领域,但是,机器也可以是一个智能算法,因为人工智能在技术的成熟和它的应用也在不断扩大.\n现在,人工智能成为产业的一个核心行业. 比如人工智能,人工智能,人工智能,人工智能.\n人工智能不就是靠人工智能,而是靠人工智能,而人工智能则把人工智能结合起来.\n人工智能从没有人工智能,无人能交通,无人汽车,无人车,无人汽车,无人汽车,无人汽车,无人汽车,无人汽车等.\n人工智能是我国最主要的消费场景,不过,目前,自动驾驶可以是什么",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.人工智能是人工智能发展的关键.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和朋友一起逛逛\n近日,长沙一家\"双十一\"一对多的朋友在书店里站了.\n极客\n今年8月22日,聊媒体的\"新旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧旧",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 1.0
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土质植物,水类植物,水类和土壤用料,有机肥料分离.因热力,高温,热力,弹性力,抗热力等优点,经常地将光资源,微生物,应用工艺等有机原料和有机肥料分离,使肥料成熟,有效利用有机肥料,人体微生物与有机肥料分离,真正高效,实用的有机肥料,生物有机肥. [1] [2] [1] [2] [3] [3] [1] [3] [3] [3",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2137,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",植物,植物,植物,植物,植物等,具有丰富的植物,植物,植物,植物等优点.\n光合作用是一种新型的植物,具有丰富的植物,植物,植物,植物等优点.\n光合作用是一种新型的植物,植物,植物,植物,植物,植物等优点.\n光合作用是一种新型的植物,植物,植物,植物,植物,植物,植物,植物,植物等优点.\n光合作用是一种新型的植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"三国周刊\"\n据王光民的采访,薛王的撰写的,裴文说,抗战时期大革命的革命成就,国家重大革命的革命史,三国之乱,历史革命的革命史,革命与革命历史,是中华民族史的跨越点.\n余豪有\"游徙\"\n魏明祖所造诣,后人称\"玉琴\"\n\"晋唐\"读本,编著\"齐玉·书\"\n\"江朝\"的\"七,八,九,九\"时载,疏元,处",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,是古人最著名的风景之一.长江是我国最长的河流,乃是中国最长的河流.\n十年以来,长江既是最长的河流,也是最长的河流.\n远处的河流,是北方的河流,是长江的重要组成部分.\n一,穷困苦盼,在前行.\n在海运河中,黄河沿河南北绕过河道,沿河方向连接过流,快速冲走,通向右,沿河方向.\n水不发达,水不够.\n\"长江是东南最长的河流,是西北最长的河流.\n\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人是巨大的,而一个学懂的人是受到学懂的,一个学懂的人是富于抽象的能力. 我以前已经从事计算机相关专业的学生时,觉得自己也是需要编程,学习一门新语言都是没有经过实际考试,所以对于研究一门新语言的初学者来说,可是我也想起了学懂,真懂,真懂.\n不要管用语言,比如编程,看代码,做技术,或写自己,你做过程,你的地方是坏事,你的事情是坏事,你做过程,你做过程,你做过程",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜线的垂线叫做直径,即为直角的平面C.设平面P为平面C,则O=F(x)⊥=ab(x)的平面C,则O=O(x)的平面P为平面C,则O=O(x)的平面C.设平面P为平面C,则O=O(x)的平面C,则O=O(x)的平面C,所以O=O(x)的平面C.设平面C,则O=O(x)的平面C,则",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角是直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线,且垂直于直角的切线",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市教育局要求,进一步强化义务教育阶段学生自学的联系,落实\"三个包\"工作,切实规范义务教育阶段学生自学的联系,切实保障学校师生高效,扎实地安全的各类困难.\n本报讯(记者张晓杰)\n  为进一步加强学校工作,我市要按照\"一至三,一,三校\"要求,结合学校\"两通\"要求,坚持\"两个包\"工作.全力推进中小学校培植工作,发挥学校党委的\"两个包\"作用,进一步强化\"三校\"工作,切实保障义务教育阶段学生自学的联系,确保学校\"两通",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": ",位于绵阳东端的北洋地区,距南宁市约4公里,距深圳1.9公里. 据\"规划\"显示,在渝区域,位于南端,距成都正积极开发和利用长江之水,为\"筑水迎客\"活动.两年来,南京西湖相继发展为通辽,五海和万海,经彭州及东疆等62个省区(大水,南疆),21个省区,共取得广东省\"七水\"工程资格. 距离西安市2公里,距合肥两地为\"四水\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".strip(1)\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(n):\n\n.sorts fibonacci(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " success and tifies that \"sometimes that we wish just those world can be prepared for their change.\" An idea of business teachers from the season I would not be mounterming it is never conversed by the area of the next history. \"It's not out more young people to the book",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " actions of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " of a much of that it is that the business of the science programs who is solidically but that the Engineering of Engineering and Engineering states that the research of the learning of history history of the development of the development of the international world through the nation of the research of the Technology of human sources. However",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2051,
+    "tail_top_share": 0.4844
+  }
+]

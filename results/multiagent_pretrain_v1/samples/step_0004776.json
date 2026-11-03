@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n人工智能已经从实验室系统,工业,科学等维度开始涉足,比如,人工智能(AI)的概念主要就是人工智能,而它的好处就是能够学习到很多人类智能.现在,我们就来谈谈人工智能技术的三大优势,AI技术的优势是什么.\n首先,是简单易用,AI能给人带来的快感,让人觉得它的价值不只是它提供功能,还有它是否能为它提供一些好处.\n其次,是AI可以很好地帮助你解决问题.\n其次,是人工智能(AI)是能够让机器更加容易地从工作中获得乐趣的,可以让人",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能的发展,是人工智能发展的一个重要里程碑.\n人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看看吧.\n1,梅花,梅花是梅花,梅花是梅,梅花是梅.\n2,梅花是梅花,梅花是梅,梅花是梅.\n3,梅花是梅花,梅花是梅,梅花是梅.\n4,梅花是梅花,梅花是梅花,梅花是梅,梅花是梅.\n5,梅花是梅花,梅花是梅,梅花是梅,梅花是梅,梅花是梅.\n6,梅花是梅,梅花是梅,梅花是梅,梅花是梅.\n7,梅花是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6239,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在植物的生长过程中,利用植物光合作用,可以在植物的生长过程中实现植物光合作用,是植物光合作用的重要手段.\n光合作用是植物光合作用的重要途径,植物的光合作用和植物光合作用有密切的关系,从植物光合作用中可以更有效地吸收植物的光合作用,有利于植物光合作用,有利于植物光合作用.\n光合作用主要包括光合作用,光合作用,光合作用,光合作用.\n光合作用的主要原则是:\n(1)根据",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2821,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长,通过光合作用,可以促进植物生长,提高植物生长,提高植物生长.\n光合作用是指植物生长,通过光合作用,可以促进植物生长,提高植物生长,提高植物生长.\n光合作用是指植物生长,通过光合作用,可以促进植物生长,提高植物生长,提高植物生长.\n光合作用是指植物生长,通过光合作用,可以促进植物生长,提高植物生长,提高植物生长,提高植物生长.\n光合作用是指植物生长,通过光合作用,可以促进植物生长,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明,发明,创造,发明,发明,发明,发明,发明,发明,创造,发明,发明,发明,发明,创造,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "― 中国首条长江-中国-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江-长江",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言现在已经被广泛应用于许多领域,现在,使用Python的用户已经已经了解了这门语言,那么如何在现在的新语言上学习一门新的语言呢?接下来就让我们来了解一下Python.\nPython 是一门多编程语言,拥有多种高性能,高性能,可扩展性,可扩展性,可移植性和易于维护性,是Python中最常用的编程语言之一,因为它具有可扩展性,并且可以迅速扩展.\nPython 是一门多编程语言,拥有多种高性能,可扩展性,可扩展性,可扩展性,可扩展性,可扩展性,可扩展性,可扩展性,可扩展性,可扩展性",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2991,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜三角形有两个内角,且两个直角边的平方叫做直角边.\n三,证明:\n(1)平行四边形的直角边是直角,且两条直角边和一条直角边的平方相等.\n(2)直角三角形的三个直角边的平方和等于斜边上两个直角边的平方,等于斜边上两个直角边的平方,等于斜边上两个直角边的平方.\n(3)已知直角三角形的三个直角边的平方和等于斜边上两个直角边的平方,等于斜边上两个直角边的平方,等于斜边上两个直角边的平方,等于斜边上两个直角边的平方,等于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,∠A=∠B=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C=∠C",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市外中小学招生实行\"绿色通道\"报名,小学,初中,小学,初中,高中,初中的年级班,高中班,初中班,高中班招生.我市按照\"区\"划设要求,按照\"区\"划设录取原则,结合\"全市\"实际,结合疫情防控,加强校际衔接,结合寒假考试,夏季考试,毕业实习等,着力实施\"网上开放,网上录取\",加强网上招生,强化网上招生录取,同步组织网上录取.目前,全市在非正式招生计划的基础上,按照\"1+2\"招生原则,招生时间",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖的别名,又名\"王龙虎\",是浙江杭州西湖的象征.浙江杭州西湖的文脉,淳朴,明净,质朴,自然,自然,气象,以及丰富的动植物和动物资源.西湖的文脉属山水,石景,石石,石雕,石雕,石刻,石刻等.石刻是中国传统的民间工艺品,素有\"天地之秀\"的美称,至今已为浙江杭州西湖的保存和保护提供了重要依据. 西湖之景最早见于宋朝,宋朝,宋朝.清代宋元嘉",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(name(n) s pported with name(n)\n // if you are going to be manifolded in the book while you are going to be manifolded with your name or pass it in the book for the two months. If you are going to be manifolded with your name or pass it in ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of our own science objectives are a permanent part of the scientific idea that we should turn to science from the old ideas of our understanding of this world. The world of science and science is not the way that the human beings of our own science objectives are the right",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a new way to use the water cycle in the world. The water cycle is a new way to use the water cycle in the world. The water cycle is a new way to use the water cycle in the world. The water cycle is a new way to use the water cycle in the world.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our students are not eligible to use their learning after that. Some students are fully satisfied with their own own own — including having them get the idea they get the idea they can be able to use their own own. And the future is a separate way to use their own own own own ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.4844
+  }
+]

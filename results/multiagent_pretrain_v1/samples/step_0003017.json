@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能技术的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能发展前景不可预测.\n人工智能发展前景不可预测.\n人工智能发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能发展前景不可预测.\n人工智能的发展前景不可预测.\n人工智能发展前景",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为了一个全新的世界.\n人工智能是人工智能发展的一个里程碑,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力,它具有巨大的潜力",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园，小明和小明和小明和妈妈一起去公园，小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为绿色植物提供净化水环境.\n国家植物委员会自2010年起,迄今已有20多个国家,国家,地区,包括台湾,台湾,越南,马来西亚,马来西亚,马来西亚,新加坡,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,越南,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6496,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书\"\"古书",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "\n湖北日报全媒体记者 龚涛\n长江是长江上游的副高,长江上游是长江上游的骨干水河,是长江上游水流的发源地,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水河,是长江上游的骨干水",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人是巨大的,任何人都不需要任何知识. 学一门新语言,首先要记住,任何学习一门新语言的人,都是无法做到的,否则,人们就任其社会活动. 最有效的方法就是学习一门新语言. 学习一门新语言,首先要记住,任何学习一门新语言的人,都是无法做到的,一切只是单纯地学习一门新语言. 学习一门新语言,首先要记住,任何学习一门新语言的人,都是无法做到的,一切只是单纯地学习一门新语言. 最有效的方法就是学习一门新语言. 学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个向量,则为1,所以此向量为3,则∠\\cdotO=13,∠\\cdotO=18.\n直角三角形中有一对直角三角形,则∠\\cdotO=14.\n直角三角形中有一对直角三角形,则∠\\cdotO=18.\n直角三角形中有一对直角三角形,则∠\\cdotO=18.\n三角形的面积是13.\n直角三角形中有一对直角三角形,则∠\\cdotO=12.\n直角三角形中有一对直角三角形,则∠\\cdotO=14.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5641,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的推广.\n，勾股定理是直角三角形中，勾股定理的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "义务教育招生总计划(2021年)自1月1日起启动,教育部,财政部,教育部等六部门,新办印发\"义务教育招生专项计划(2021年)\",按照教育部\"关于做好义务教育招生专项计划(2021年)的实施方案\"(教卫[2021]5号)要求,结合教育部,教育部\"关于做好义务教育招生专项计划(2021年)的实施方案\"(教卫[2021]5号)要求,结合教育部,教育部\"关于做好义务教育招生专项计划(2021年)的实施方案\"(教卫[2021]5号)要求,结合教育部,教育部\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "\n杭州西湖是我国著名的旅游景点,因其历史文化底蕴,名门望天授,被誉为\"天下第一大.杭州西湖\"的美誉,在杭州西湖上成为众多游客的打卡景点,并被市民奉为\"杭州西湖\"的美誉.\n杭州西湖位于杭州西湖的杭州西湖,是中国著名的旅游景点,因其历史文化底蕴,名门望天授,被誉为\"天下第一大.杭州西湖\"的美誉,在杭州西湖上成为众多游客的打卡景点,并被市民奉为\"杭州西湖\"的美誉,在杭州西湖上成为众多游客的打卡景点,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def main(n):\n    def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and engineering could be \"approval of ninety\", which has been generated. But yes, the plan that not intended to mention water science and engineering is a not intended to be \"approval of ninety\". It was also relevant to the plan that has been increased. It was convinced ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water to the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much of that it is in his time.\nThis is no easier to read about teaching content. But that is the same as much as the courses are interested in online and content.\nWhile it has no content that is in the page of an application on the website, has only been accepted with the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.4531
+  }
+]

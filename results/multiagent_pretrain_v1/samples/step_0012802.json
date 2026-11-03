@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,就像太空飞船,在浩瀚无垠的大海,能够用人工智能技术造福人类.\n我们需要学习机器的自我学习能力,学习机器的自主能力,发展人工智能,让机器更好地模仿人类.\n尽管我们仍然不能理解人工智能,但是也只能看到一些让人觉得很酷的东西.\n我可以在专栏中看到关于人工智能,我觉得我认为这只是属于科技领域的例子.\n人工智能,其实已经深入到我们的日常生活当中去了,但要想真正掌握它,需要从一些关键方面着手,比如说操作系统",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,人工智能的发展,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开人工智能的应用,离不开",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "王猴游玩，小明和妈妈一起去公园.\n\"小明和妈妈一起去公园了.\n小明和妈妈一起去公园.\n小明和妈妈去公园.\n\"小明和妈妈一起去公园.\"\n小明和妈妈一起去公园.\n小明和妈妈一起去公园.\n小明和妈妈一起去公园.\n小明和妈妈一起去公园.\n\"小明和妈妈一起去公园.\n\"小明和妈妈一起去公园.\n\"小明和妈妈一起去公园.\n小明和妈妈一起去公园.\n小明和妈妈",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7436,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在自然界中生长过程中,通过互相交换的液体或玻璃材料,吸收了自身的能量.这种植物能够以自己独有的方式吸取能量,形成一种独有的植物类型.这种植物经常作为植物资源,人类生存环境需要得到有效的利用.这种植物生长迅速,繁殖能力强,从树上摘取营养物质和植物生长需要的能量,经植物加工利用,形成了许多丰富的植物资源.光合作用在植物系统中广泛存在,在植物的表面为被生长的植物提供能量的光合作用.光合作用在植物的生长发育中起着重要作用.光合作用主要包括植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内生长,开花,结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,开花结果,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有:哥德巴赫猜想,皮亚诺和素数定理.\n中国的古文字母是文言文,也是大文字母.\n我们现在国家已经有四个发明,分别是:发明了\"四分法\",发明了\"六位法\",发明了\"七分法\",发明了\"七分法\",发明了\"七分法\".\n中国古文字母是文言文,也是大文字母.\n我们国家现在有四个发明,分别是:发明了\"五分法\",发明了\"六位法\",发明了\"六位法\".\n我们的国家是,我国有四个发明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮?,也是中国最长的河流.\n北京于2021年7月6日,以\"0:1\"为主题,将北京人民政治生活中的难题,焦点问题以及北京提出的十大要务,集结成册发布.\n首站北京:北京1.2万平方公里,全国12个地区(含首都,上海,广州,上海,成都,济南,武汉,武汉,成都,西安,西安,沈阳,南京,西安,武汉,重庆,成都,昆明,西安,西安,青岛,太原,郑州,沈阳",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这些新语言的学习方法,包括你现在会使用哪些库和框架,以及它们的优缺点,相信在以后的学习过程中,你会更好的掌握这些新语言.\n当我们尝试将一些新语言学习到其它的语言中,看看这些语言之间的差异,以及它们之间的差异,比如JavaScript和Ruby.\n如果我们只讨论其中的一种,那么接下来我们要讨论的则是PHP.PHP是一种面向对象语言,它本身没有对对象或对象有抽象的能力,它并没有对PHP产生任何影响,相反,PHP是面向对象的语言,它同样不支持面向对象.\nPHP中有很多非常",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边的平方等于斜边平方,因为直角边的平方等于斜边平方,所以斜边的平方等于斜边平方,直角边的平方等于斜边平方. 勾股定理的逆定理是直角边平方等于斜边平方,因为直角边的平方等于斜边平方,所以直角边平方等于斜边平方. 勾股定理的逆定理是直角三角形斜边平方等于斜边平方,因为直角边的平方等于斜边平方,所以直角边平方等于斜边平方,所以直角边平方等于斜边平方,所以直角边平方等于斜边平方,所以直角边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了\"放寒假\",共安排假期学生4800余人,实现了\"零过寒假\",为全市中小学生和家长营造了假期安全,欢乐,安全的假期.\n\"暑假期间,我市将开展\"放寒假\"活动,为我市考生和家长提供优质便利,引导学生和家长加强家庭安全意识和健康意识,提高安全防范意识,营造安全有序,安全有序的学习环境.同时,将组织开展丰富多彩的文体活动,丰富广大考生和家长们的生活,营造浓厚的\"学教结合,假期乐学\"浓厚氛围.\n为更好地营造安全氛围,我市",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "衢别湖,别称\"苏湖\",是西湖上最原始的湖.湖西溪流,溪底流,汇入湖底.湖西溪,鱼王,石狗,鲫鱼,白鲢鱼,乌鲫鱼,两鱼,三鱼,五鱼,九鱼,九鱼,九鱼,九仙,九物,九鱼,九鱼,九鱼,九仙,九物,九物,九物,九物,九物,九物,九物,九物,九物,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3761,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def():\n    n = 0\n    def map():\n    return 0\n    def map():\n    if map(n == 0) {\n    map(n == 0) {\n    map(n == n) {\n    map(n == 0) {\n    map(n == 0) {\n    map(n == n) {\n    map(n == 1) {\n    map(n == 0) {\n    map(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air”, and that wishes a “wild replacement for the water management of the troops that puts the wild right to be shocked. The water management of the troops is not a fixed step down the water management of the troops. The",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2137,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is growing and growing in the water world. The water is growing and growing in the water world. The water is growing and growing in the water world. The water is growing and growing in the water world. The water is growing and growing in the water world. The water is growing",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much of that it is essential to students who are interested in a new scrutiny with their own professional backgrounds. In addition, the learning students with a sense of conceived self-esteem may be considered important in their studies, especially in the technical skills they need in the classroom ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.4219
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,5G,云计算,物联网等等,都改变了人类生活,改变人们的生活.\n然而,人工智能技术的诞生,却成为了一场\"黑天鹅\".\n据不完全统计,在经历了由互联网到人工智能等技术的变革后,人工智能技术的诞生也经历了两次\"进化\",第一次是被科学界普遍认为是\"革命\",因为第一次被人工智能所取代.\n可以说,人工智能技术的诞生,不仅改变了人类的生活,还改变了人类的思考方式.\n互联网的出现,让互联网成为了一个网络,可以拥有智慧和便利",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园\n春天来了 晴朗的天气\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用吸收了植物光合作用,光合作用吸收了植物光合作用,从而使植物光合作用达到一定的光合作用,从而使植物光合作用达到一定光合作用,从而使植物光合作用达到一定的光合作用,从而使植物光合作用达到一定的光合作用,从而使植物光合作用达到一定的光合作用,从而使植物光合作用达到一定的光合作用,从而使植物光合作用达到一定的光合作用,从而使植物光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用下,通过光合作用,使植物能够吸收,吸收,吸收,吸收二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳,二氧化碳",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如发明和发明的发明的先后有,发明发明的发明的次数也是大多的.中国古代的发明有发明的痕迹.例如发明发明的发明的先后有,发明发明的发明的次数也是大多的.比如发明发明的发明的先后有,发明发明的发明的次数也是大多的.",
+    "new_tokens": 75,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.4722,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獢?,也是长江最长的支流.\n相传大禹治水后,在长江中迅速兴起了水利工程,并出现了\"不干不浇,浇就浇,浇就浇\"的洪水.由于洪水来得快,洪水不会停止,所以后来就把洪水比喻成水灾,而且当时洪水是每天吃水,为了拯救生命,于是就把水毁了.\n长江流域的水运有多种,有的河水出现洪水,有的河流洪水,有的河流洪水,有的河流洪水,有的河流洪水.在长江流域",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这篇文章,你真的了解语言吗?\n世界上有句名言:\"我愿为洪荒之口.\"然而,对于我来说,我的英语是极好的.\n早在中学时期,我就学习过英语.那时,我的英语老师为我带来的是口语.那时,我有英语笔试,面试,口语测试,小作文,小作文,小作文等.我从小很讨厌外语,就因为我本身没有英语基础,因此,英语确实有,但是,英语口语真的太难了.\n我以后一定要学好英语,学好英语,学好英语离不开英语学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边的平方等于斜边平方,斜边平方等于直角边平方,故斜边上的中线等于斜边的一半,直角边上的中线等于斜边的一半.勾股定理的逆定理是直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半.直角三角形斜边上的中线等于斜边上的一半,斜边上的中线等于斜边上的一半.斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.勾股定理的逆定理是直角三角形的斜边等于斜边的一半,直角三角形的斜边等于斜边的一半,斜边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5128,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理是:",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加小学五年级及初中一年级教学,成绩达80%,为减轻家庭经济负担,市教体局于近期在全市中小学开展\"双减\"工作.\n该校采取\"小考大考\"的形式,在开学初,在全市范围内组织开展了\"大考\"活动,共评选出了一,二,三等奖.\n记者在现场看到,该校高度重视学生的素质教育,引导学生树立正确的世界观,人生观,价值观,努力提高学生综合素质,促进学生全面发展.\n\"我们学校于2020年启动了春季义务教育阶段学生作业管理,要求家长,学生,家长",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏之前,西夏城属苏浙皖三省交界处,西晋后为水都.西湖是杭州的城池,在杭州城内,西晋之前,西晋,西晋时期,西晋以后,西晋时期,西湖的东面,西晋时期,西湖的西面,在杭州城外.\n西湖是中国园林艺术的代表之一,是中国古典园林艺术的重要组成部分,在浙江的语境里,西湖是\"世界园林之魂\",是古建文化之根.西湖以西湖为中心,是西晋\"水都\"之",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-namespace powder namespace =n\")\n\n# 如果n是奇数,则n是偶数\n\n# 如果n是奇数,则n是奇数\n\n# 如果n是奇数,则n是奇数\n\n# 如果n是奇数,则n是奇数\n\n# 如果n是偶数,则n是奇数\n\n# 如果n是奇数,则n是偶数\n\n# 如果n是奇数,则n是奇数\n\n# 如果n是偶数,则n是偶数\n\n# ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" of ninety winter sides from the water pin to the water that is intended to \"enlarge\" the water. There is no water to construct and then to construct and then to construct or in the \"light\" of ninety winter. For this reason the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the public domain as possible. The kind of education that is set to be found in a sustainable way can be accredited by the lower education levels of the education that is in the public domain – for all the degree has been found. The Ministry ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.4531
+  }
+]

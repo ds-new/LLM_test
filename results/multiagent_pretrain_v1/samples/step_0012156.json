@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.但是,在这个阶段,人工智能技术的不断发展和进步,正深刻改变着我们的生活.\n作为人类,我们每个人,每个人都有着各自的生存之道.\n我们想要成为人工智能,我们需要人工智能.\n但人工智能,并不是说我们所有人都可以成为人工智能.\n在人工智能时代,我们每个人都在用人工智能技术,用人工智能来重塑我们的生活.\n我可以在专栏中看到关于人工智能,云计算,物联网,金融,机器人,医疗,零售,教育和教育等领域的人工智能相关文章.\n返回搜狐,查看更多 责任编辑:\n声明:本文由入驻搜狐号的作者撰写,除搜狐官方账号外,观点仅代表作者本人,不代表搜狐立场",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的不断突破,而人工智能技术的出现,则离不开人工智能技术的不断突破.\n人工智能是继计算机,计算机之后,人类智能的产物,它具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n1. 人工智能具有以下特点:\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6496,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 起\n\"春暖花开,万物复苏,万物复苏,万物复苏.\"春天是万物复苏的开始.\n小明和小明是好朋友,好朋友,好朋友,好朋友.好朋友,好朋友,好朋友,好朋友,好朋友.好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友,好朋友",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用在植物身上的同时,它又具有很强的耐用性和吸收性.\n一般植物的光合作用在其叶片上,其生长不受阳光的强烈照射,能促进光合作用正常生长,而且叶片需要紫外线照射才能正常生长,因此,光合作用是最佳的植物光合作用.\n在植物生长过程中,光合作用和光合作用相互影响,光合作用在植物上,光合作用在植物上,光合作用又被称为光合作用.\n光合作用\n光合作用又称为光合作用,它是植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明.\n中国的有,外国的有,外国的有,日本的有,美国的有,法国的有,法国的有,法国的有,美国的有,法国的有,法国的有,英国的有,英国的有,英国的有,英国的有,法国的有,法国的有,法国的有,法国的有,德国的有,美国的有,法国的有,德国的有,美国的有,美国的有,美国的有,英国的有,美国的有,英国的有,美国的有,英国的有,英国的有,英国的有,英国的有,英国的有,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綔?,长江上游的副高,副高,江眼,长江中游,长江下游的长江中游和长江中游.长江流域上游,长江中游和中游的主要河流有山东,吉林,河北,江苏,广东,湖北,湖南,湖南,重庆,四川,云南,贵州,云南,湖北,湖南,江西,云南,贵州,海南,云南,贵州,云南,云南.\n 长江是长江的源头,是长江的源头,是长江上游的重要水系.长江流域是我国重要的水电,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要学好一门新的语言,你需要学会如何更好地利用已有的知识,丰富自己的知识.\n学习一门新语言最重要的是要学好一门新的语言,你需要学会如何更好地利用已有的知识,丰富自己的知识,丰富自己的知识.\n学习一门新的语言除了需要学习的知识外,还需要注意自身的品行和品行,不要将个人品行和品行问题放在首位.\n不要将个人品行和品行放在首位.不要将个人品行和品行放在首位,不要将个人品行和品行放在首位.\n如果你的专业是计算机,你的专业可能专业不大,但是如果你从事电子商务,那",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3077,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中每两个直角边的平方和等于斜边的平方.设直角三角形中,斜边的平方和等于斜边的平方,即直角边为斜边,斜边为斜边.直角三角形中,斜边的平方,斜边的平方都是直角.直角三角形中,斜边的平方,斜边为斜边.直角三角形的斜边等于斜边的平方,即直角边为斜边,斜边为斜边.直角三角形中,斜边的平方,斜边为斜边.\n定理1 直角三角形的斜边等于斜边的平方.勾股定理.直角三角形中,斜边的平方",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4786,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边的平方等于斜边的平方.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是勾股定理的推广.\n勾股定理是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市中小学将迎来新学期的开学季.为了保障适龄儿童学习权益,我市小学将举行寒假班,寒假班,寒假班,周末班等寒假班,分别安排在春节期间和五一假期,开展\"一节一课\"活动,为全市儿童提供更安全,更安全的寒假教育环境.\n，在假期结束前,我市小学将组织家长到各中小学进行寒假班学习,包括下午4点至5点,下午2点到3点.期间,除个别学生外,各中小学还将组织家长参与寒假班的辅导,不断提高",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "优摄讹",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print(\"python-n\")\n    print",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9402,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings contribute to nature and to the food. A big yet of water quality and the trouble it is designed to give the weight and reaction of water things to the natural and damage of natural life and their relationships. In addition to the natural and damage ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used to be used in the water cycle of the water cycle. The water cycle is used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our knowledge is a major issue of learning, and is it used to train you. This does not mean it or even as a limit to the ability to find themselves through it. It also does not mean it or even as a limit to the ability to find themselves through it.\nThe use of ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.4531
+  }
+]

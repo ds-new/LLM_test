@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.与此同时,人工智能的发展,也迎来了更加快速的爆发期.而在人工智能技术大发展的今天,作为人类,我们每个人,对于人工智能的发展都会产生非常不同的看法.\n1,人工智能的发展,对于我们的生活来说越来越重要,但是对于人工智能来说,我们对于人工智能的认识是越来越重要,同时也对人工智能未来的发展也提出了更高的要求.\n2,人工智能的发展,除了带来人工智能未来的发展趋势,还带来了很多新的挑战.例如,人工智能的发展,人工智能的发展,将会对我们的生活带来全新的变化,但新的发展会伴随着更多的挑战,并且会给我们的生活带来更大的改变.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能的发展,离不开人工智能技术的进步.人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\"祖国母亲\"\n\"祖国母亲\"是一首歌,是祖国母亲的节日.优美的旋律和优美的旋律使小明体验到了祖国的母亲节日快乐.\n\"祖国母亲\"是一首歌,是祖国的颂歌.优美的旋律和优美的旋律使小明和小明感受到祖国的伟大,伟大的伟大.\n\"祖国母亲\"是一首歌,是祖国的颂歌.优美的旋律和优美的旋律使小明和小明体会到了祖国的伟大,伟大的伟大.\n\"祖国母亲\"是一首歌,是祖国的颂歌.优美的旋律和优美的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4957,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为防止碳酸氢根类污染,国家根据国家新发布的\"植物保护法\",植物保护法实施植物保护措施,保护植物不受有害物质侵害.\n1. 植物保护法实施保护植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6154,
+    "tail_top_share": 1.0
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,使植物在生长过程中,能够吸收更多的养分,从而提高其产量和质量.\n光合作用是指利用光合作用,使植物在生长过程中,能够吸收更多的养分,从而提高其产量和质量.\n光合作用是指利用光合作用,使植物在生长过程中,能够吸收更多的养分,从而提高其产量和质量.\n光合作用是指利用光合作用,使植物在生长过程中,能够吸收更多的养分,从而提高其产量和质量.\n光合作用是指利用光合作用,使植物在",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明\"测地术\",王羲之发明\"割草图\",伏羲,周世道发明\"弦歌\"等发明.其中,\n中国古代发明\"测地术\",王羲之发明\"割草图\",伏羲发明\"割草歌\",\n中国发明\"测地术\",均出自他们之手.\n我国古代四大发明中,\n王羲之发明\"测地术\",\n王羲之发明\"割草图\",\n他发明\"割草图\",\n中国发明\"割草歌\",\n\"割草歌\"等,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?, 吴王陵獐獐獐獐獐獐獐�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.8547,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门语言是现在才有的,包括你现在会使用哪些库和工具.\n学习一门新语言最重要的是,这门语言是现在才有的.如果你不知道这门语言是什么,欢迎下载本文,学习.\n学习一门新语言最重要的是,这门语言是现在才有的.如果你不知道这门语言是什么,欢迎下载本文,学习.\n学习了这门语言,接下来,你将学习一种新语言,另一种语言是什么.\n学习一门新语言,你首先要学习一门新语言,它是当今世界上使用最广泛的语法语言.\n学习一门新语言,你首先学习一种新",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边之间的勾三股四弦五(此四弦三弦是勾股定理),即\"勾股定理\"与\"勾股弦定理\"的统一,证明:直角三角形三边之间是直角,即\"勾股弦定理\"的统一. 因为直角三角形三边之间的勾三股是勾股定理,因此\"勾股定理\"与\"勾股弦定理\"的统一,证明:直角三角形三边之间是直角,即\"勾股弦定理\"的统一,证明:直角三角形三边之间是直角,即\"勾股弦定理\"的统一.\n同理,正六边形全等的直角三角形是直角三角形三边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,a,b,c,d,e,f,g,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市文教局再次推出\"好声音\",推出\"老字号好声音\"作为惠民措施,为市民提供新内容.市文教局将以\"礼赞新时代,幸福新家 -  - 文明行社会\"为主题,邀请了我市\"老字号\"好声音\"团队,把\"老字号\"好声音作为主流舆论宣传,以\"好声音\"带动\"好声音\"的传播.\n市教育局党组书记,局长程雷表示,\"十四五\"时期,我市将聚焦三件民生大事:\n一是抓好民生大事.市文教局将",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.7692,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python hello world\");\n    print(\"hello world\");\n    print(\"hello world\");\n    print(\"n\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"world\");\n    print(\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurs in the \"light\" of ninth century light and the \"light\" of the era. What you should see when \"water it occurs\" does not mean when the same thing is \"water it occurs\" is not the same thing but the same thing is \"water it occurs\" is the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a different way to which water is a different way to which water is a different way to which water is a different way to which water is a different way to which water is a different way to which water is a different way to which water is a different way to which water is a different way",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not only important to us, but is important to our students and our parents. By using the use of education, we are much more to understand how we can be taught in a way to do things. Learning from our school has been a great thing to do things. Our students who have never",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.4688
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "algorithm": "bbpe",
+  "backend": "disk",
+  "corpus_files": ["data/sample.txt"],
+  "fields": ["text"],
+  "output_dir": "output/bbpe-scratch-demo",
+  "vocab_size": 512,
+  "min_frequency": 1,
+  "lowercase": false,
+  "model_max_length": 512,
+  "max_texts": 0
+}

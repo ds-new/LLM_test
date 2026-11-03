@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.从概念到实践,从理论到实践,从工具到数据,从部署到赋能,人工智能正在改变人们生活.\n然而,人工智能产业体系中的关键部分,即核心算法,核心算法库,核心算法模型.\n从底层到底层,从底层到上层,不仅要把算法模型建设好,还要把基础算法库打造好.\n这其中,人工智能核心算法库就是数据包,算法库,算法模型和计算模型,都是最重要的基础;而计算模型就是算法模型,是基础算法模型,是基础算法模型.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展,离不开人工智能技术的不断突破,而人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "王女士和朋友一起去公园.\n_ 你喜爱的小黑们,爱玩的小姑娘,你爱小朋友的小仙女们,你爱跳舞的小女孩们,你爱躲猫猫的猫咪们,你爱踢足球的小花花绿绿的小花花花绿绿,你爱自己想干的小姑娘们,你爱好玩的小花花绿绿,你爱吃的小猪佩奇,你爱看的小恐龙,你爱看的小山猪们,你爱小猪佩奇,你爱猫猫的猫咪们,你爱猫猫",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中,对植物进行光合作用,利用植物光合作用吸收了植物光能,并通过光合作用吸收了植物光能,从而产生植物光合作用.利用植物光合作用吸收植物光能产生植物光合作用,因此,利用植物光合作用吸收植物光能,达到植物光合作用吸收植物光能的目的. 光合作用吸收植物光能是植物光合作用吸收植物光能的主要途径,是植物光合作用吸收植物光能的来源. 在自然界中,植物光合作用吸收植物光能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3846,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物在光合作用中,能够获得更多的光合作用,从而提高植物光合作用效率,提高植物光合作用效率.\n光合作用是指植物在光合作用中,通过光合作用,使植物在光合作用中,能够获得更多的光合作用,从而提高植物光合作用效率,提高植物光合作用效率,提高植物光合作用效率.\n光合作用是指植物在光合作用中,通过光合作用,使植物在光合作用中,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明创造的痕迹,比如发明和发明发明有同有异,发明发明有奇思妙想,发明发明有规律,发明发明有规律. 因此,中国古代的发明创造都是模仿或模仿人类的发明创造.\n比如,用围棋棋盘的围棋程序,有1/4的棋手在地球上飞向地球,李世石的棋盘是1/4的棋手,但就在我们试图用计算机模拟我们人类之前,计算机已经帮我们模拟了人类,人类不再需要发明计算机程序.\n总之,只要借助计算机",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟?,长江上游的长江流域及其流域最大的人工湿地类型,为长江流域内重要的生态系统,其涵养水源,水系及生态屏障等,对水质变化,水文变化及水体污染物排放等多方面具有极其重要的作用.长江流域内淡水淡水保护工作由水文与水质相互关系,是长江流域水生态破坏与健康状况恶化及生态环境恶化的重要手段.\n长江流域内淡水淡水保护工作的开展,离不开长江流域内各类自然保护地,生态屏障,水系与生物地层的保护.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0625
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要学好它,你真的了解它吗?\n其实学一门新语言,首先要先学习它,也就是语言.它是根据语言体系来学.它包含有它的目的,它需要具备的语言知识.\n学习一门新语言,首先需要了解这门语言.它是通过语言体系来学,它包含了语言.它是根据语言体系来学.它包含有它的目的,它需要具备的语言知识.\n学习一门新语言,首先需要了解这门语言.它包含有它的目的,它需要具备的语言知识.\n学习一门新语言,首先需要了解这门",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边在斜边上的射影是斜边.设直角三角形的斜边为a,斜边为b,斜边为c,斜边是c的直角边,则直角三角形的斜边,斜边,斜边,直角三角形斜边,斜边,直角三角形斜边,斜边,斜边,直角三角形斜边,斜边,直角三角形斜边,斜边,斜边,斜边, 定理1 直角三角形的斜边上的中线等于斜边上的一半,这条中线等于斜边上的一半. 定理2 设直角三角形的斜边为",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3761,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的高是直角边的一半,斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半,斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半,斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半,斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半,斜边上的高是直角边的一半.\n直角三角形斜边上的高是直角边的一半,斜边上的高是直角边的一半.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来一次学生寒假离校时间,全市中小学生假期9日全天由全市中小学组织统一,统一组织学生到校外培训机构开展假期辅导,确保学生安全有序,暑期期间学生安全有保障.\n\"为做好寒假期间离校学生安全工作,我市统筹全市疫情防控,加强校际协调联动,持续做好寒假期间校园安全工作.市直单位要充分发挥属地职责,加强属地管理,做到校园安全无死角,不留死角.对我校全体师生员工和校外教育机构,市直部门及学校,实行\"日报告,零报告",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏时期诗人王勃的\"西湖\"诗:\"西湖无边,湖光山色,雾霭轻风掠.今人尝游西湖,独坐莲台岛,两岸石壁和云层飞影,回眸亭水清石怪.上庐山,下西湖,登西湖,三湖,海棠等.山有紫金山,名紫阳山.青溪上有七里桥,离西湖十多里. 西湖四景: 古建西湖,依山傍水,湖光山色,雾霭轻风掠",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-deftn\");\n    print(\"请输入:ndef def fibonacci(n):    ndef get_py(fibonacci(2,3,3,3,4))#  print( %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %s %",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes its sustainable air conditioning and winter sustainable systems. There is an investigation that must have been made up to date for more than a year. The concept of water it is also the appropriate investigation of the hair and water co-generation for the specimen. The",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the water cycle and how it is in the water cycle. The water cycle is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of thinking about this sort of sense of language. But that's the same thing that you are learning how to use the language. It's a good place to see what you're doing when it's not used. So you're going to use the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.4219
+  }
+]

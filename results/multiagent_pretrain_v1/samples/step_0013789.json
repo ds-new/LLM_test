@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,5G,云计算,物联网,AI+先进制造业,正在改变人们生活.\n然而,人工智能技术的出现,却成为了一场\"黑天鹅\"的战争.\n2017年,由谷歌开发的人工智能程序LaMDA问世,其背后是围棋,它通过人类棋手和电脑的对话,进行\"博弈\",这看似是棋局,实际上却是一场\"人机大战\".\n基于人工智能技术的围棋,除了能\"下围棋\",还能\"下围棋\",这背后是人工智能的\"智慧战\".",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人类文明的\"武器\",而人工智能也成为了人类文明的\"武器\".\n人工智能是人工智能的一个分支,它研究的是如何利用计算机来模拟人类智能,并以此来预测未来.人工智能是人工智能的一个分支,它研究的是如何利用计算机来模拟人类智能,并以此来预测未来.\n人工智能是人工智能的一个分支,它研究的是如何利用计算机来模拟人类智能,并以此来预测未来.人工智能是人工智能的一个分支,它研究的是如何利用计算机来模拟人类智能,并以此来预测未来.\n人工智能是人工智能的一个分支,它",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6239,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n导读: \"春天来了\"这篇散文,写于1928年,时称\"春天来了\".\n\"春天来了\"这篇散文,写于1932年,时称\"春天来了\".\n\"春天来了\"这篇散文,写于1932年,时称\"春天来了\".\n\"春天来了\"写于1932年,时称\"春天来了\".\n\"春天来了\"这篇文章,写于1932年,时称\"春天来了\".\n\"春天来了\"这篇散文,写于1932年,时称",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6496,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用,对植物进行光合作用,以调节植物对光合作用的吸收,从而对植物生长和光合作用产生积极,及时,积极的能量.\n1,光照:光照:光照是植物光合作用的重要一环.根据植物光合作用的特点,光合作用可以分为光合作用和光合作用.光合作用通过光合作用,可以产生植物光合作用,从而能增强植物对光合作用,促进植物光合作用的发展.光合作用主要包括光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,将植物光合作用转化为光合作用,从而形成光合作用.光合作用是指利用光合作用,将植物光合作用转化为光合作用,从而形成光合作用.光合作用是指利用光合作用,将植物光合作用转化为光合作用,从而形成光合作用.光合作用是指利用光合作用,将植物光合作用转化为光合作用,从而形成光合作用.光合作用是指利用光合作用,将植物光合作用转化为光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如,秦九韶发明了火,有发明火,有发明火,有发明火,有发明火,有发明火.我们今天来看,中国古代有一个伟大的发明就是\"十方十法\".就是六法.\n古代的\"六法\",一是有\"六法\"的.在古代,有多少人就发明了七法?\n古代的七法有\"七法\",一是有\"七法\",有\"七法\"的.\n中国人相信七,八,九,十,十二,十四,十五,十六",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,分布在长江以南各省区.长江流域是长江与海,湖,湖,湖,峡共同组成的\"大水系\",也是长江上游地区水系的主要来源,是长江下游重要的生态屏障,是长江与海,湖,湖,湖,峡相互补充和融合的重要生态系统.长江是中华民族的母亲河,也是长江下游重要的生态屏障,是长江上游重要的生态屏障,是长江下游重要的生态屏障.\n长江是我国最大的内陆河流,也是我国第二大淡水河,其水深地广,河系",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要熟悉和理解它的精髓,它包括语法,语法结构,结构,运算符和表达式.\n学习一门新语言最重要的是要熟悉和理解它的精髓,它包括语法,结构,运算符和表达式.\n学习一门新语言最重要的是要熟悉和理解它的精髓,它包括语法,结构,运算符和表达式.\n学习一门新语言最重要的是要熟悉和理解它的精髓,它包括语法,结构,运算符和表达式.\n学习一门新语言最重要的是要熟悉和理解它的精髓,它包括语法,结构,运算符和表达式.\n学习一门新语言最重要的是要熟悉",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边长a,b,c,斜边c是直角边,斜边c是直角边.定理 直角三角形的三边长a,b,c,斜边c是直角边,斜边c是直角边.定理 设 是直角三角形,则直角三角形两直角边的平方和等于斜边与斜边的平方和. 定理 设 是斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜边,斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了\"按学定校,按班班通\"的特岗计划,即:新乡市新乡市第二中学,新乡市第二中学,新乡市第二中学,新乡市第二初级中学,新乡市第二初级中学,新乡市第二初级中学.\n我市有计划培养3.2万名(含)以上学生的学校.在已招生的43个班中,有53个班,全日制在校生2.6万人,在非正式招生计划人数超过5万人的情况下,实行\"按学定校,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2393,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣讹天└.据\"淳安县志\"记载,\n西湖是我国著名旅游景点,著名的江南名刹,西湖东岸是杭州西湖,西岸是西湖公园.西湖东岸,一条河,一条街,三镇村.西湖东岸,一条街,三镇村.西湖北岸,一条街,三镇村.西湖北岸,一条街,三镇村.西湖北岸,一条街,三镇村.西湖北岸,一条街,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3761,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python\")  python 3.6.2.x  def fibonacci(n):    print(\"python\")  python 3.6.3.x  def fibonacci(n):    print(\"python\")  python 3.6.4.x  def fibonacci(n):    print(\"python\")  python 3.6.5.x  def fibonacci(n):    print(\"python\")  python 3.6.6.x  def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" when it occurred in a \"w\" or \"y\" erupted in a \"y\" or \"y\" or \"y\" erupted in a \"y\" or \"y\" or \"y\" or \"y\" or \"y\" or \"y\" or \"y\" or \"y\" or \"y\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water to the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our readers need to do something to read and read it as possible. The kind of readers are they sometimes found and sometimes and are there not to be the horse. In the coming months of the project, D. Kolla said the project has a long history of the sources for ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.4375
+  }
+]

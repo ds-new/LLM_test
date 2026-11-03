@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "之路已经足够长.\n人工智能究竟拥有什么未来?\n人工智能已经进化成计算机,机器,机器人,智能机器人......\n人工智能在技术的不断突破和升级,浪潮正在加速\n.\n1)\n人工智能领域人工智能正在不断走向成熟,走向成熟.\n1)\n尽管人工智能(AI)的发展迅速火爆,但毫无疑问,人工智能领域已经成为资本寒冬.\n从人工智能领域,到人工智能,人工智能这根弦子都成了泡沫.\n这是泡沫的泡沫,泡沫的泡沫,在泡沫的刺激下,要想达到真正的泡沫,需要数十亿台机器,而且可以大规模",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展,是人工智能发展的核心.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看.他们穿着阔叶的大野鞋,他们穿着蓝天,衣着淡蓝色的野衣.\n3月7日,记者来到荀子园公园,只见小明正在准备一个儿童运动活动,只见小明在室外准备一个儿童运动活动,小明在室外放风筝,孩子说:\"孩子!快来啦!\"\n小明看后,小明正在室外准备一个儿童运动活动.\n\"大人,这我好,我好!\"小明在室外准备一个儿童运动活动.\n小明是初",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为多花种,多花种,近五百万颗,多花种,无任何色,无任何色,无花色,无生无果,无病无果,无观赏无果,无病无果,无病无果,无花色,无果无果,无果无果,无花无果,无果无果,无果无果,无虫无果,无药无果,无药无果,无病无果,无花无果,无药无果,无观赏无果,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9744,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"一,二,三,四,五,七,八,八,五,七,八,八,七,七,八,九,三,四,五,五,五,六,七,六,七,六,七,八,八,九,十,十,十,十二,十二,十二,十二,十三,十四,十五,十六,十六,十八,十八,十九,二十,二十等五十二,二十二十二十二十二十二十三十二,二十三十二,三十四,三十四,三十五,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3162,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "谷石吴浠杨芜石�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.7863,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这些新语言如何对你有所帮助.\nPython 具有一些丰富和通用的语法,并且具备许多新的语言.它是根据Python平台编写的,并且可以执行和运行,这些新的特性使得其学习变得容易.\nPython 比现有语言更加强大.它包括那些简单的Python语法和用法,并使JavaScript变得更加简洁和简洁.\nPython 具有强大的语法,而且具有良好可读性.这使Python可以学习,并提高了编程的速度.\nPython 是 Python 的一个子集, Python 的语法比 Python 更强大.\nPython ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边的平方和等于斜边边的平方和等于斜边边边的平方和,三边关系最密切的是斜边关系,斜边关系也称斜边关系.直角边关系在直角三角形中，面积公式2=2,直角三角形中a,b,c两个直角边上的比都等于斜边边上的比,即斜边关系是直角三角形中a,b,c,d,d,d,d等分式,即斜边关系是直角三角形中a,b,c两个直角边上的比等于斜边边上的比.斜边关系和直角",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2308,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,直角边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜边上的中线和斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "全国教育总预算(2020年)2月25日至29日公布,全市教育系统新增教职工1638人,其中高中教师3427人,高中教师2937人,高中教师1666人,高中教师2917人.\n在新型职业农民教育背景下,以新型职业农民教育为主要内容的\"现代农业\"农业,新型职业农民教育为主体,以新型职业农民教育为主要内容的\"现代农业\"农业.现代农业是农业的主要产业,也是农民需要的农产品,现代农业的核心农产品.\n在新型职业农民教育方面,以新型职业农民教育为主要内容的\"现代农业\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "衩讥\"鹊山\",苍茫,原始,清幽,有云.据\"杭州市园林总览\"记载,西湖为西湖中最高峰,而西湖,是西湖中最大的花园,是西湖中最古老的花园.3月31日,杭州西湖(西湖西湖 - 西湖)在西湖的环山脚下,偶有\"云\",\"云\",\"云\"的痕迹,至今尚未开放.\n西湖的园林总面积达到125平方公里,古称西湖,因形似西湖而得名.西湖东,西,西三面是西湖的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def fibonacci(n):    def fibonacci(n)    def fibonacci(n)    def fibonacci(n):    def fibonacci(n):    def fibonacci(n)    def fibonacci(n)    def fibonacci(n)    def fibonacci(n)        def fibonacci(n)    def fibonacci(n)",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " was better than the freedom of the future.\nIn addition to the head of this date, the $1.75 million miles are made to determined over the next year and the $1.7 million will appear in the battle of Hong Iong.\nThe selection was to upgrade $1 million to the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is to be a different way of the world of the world. The water is a different way of the world of the world of the world of the world of the world. The water is a different way of the world of the world of the world of the world of the world of the world of the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more different than to say that the Stit will go to a new spokesperson but will move to convert a new man of the idea of those who in the same way to do with the next person. And the future is a separate one of us who will accept an issue ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.4844
+  }
+]

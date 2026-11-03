@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够成熟.\n从结果来看,未来,人工智能的发展将更加智能.\n比如,人工智能可以把人作为人类,理解人类,理解人类.\n人工智能的发展,已经足够成熟.\n对于人工智能来说,未来,人工智能的发展,将更加成熟.\n人工智能的发展,将更加成熟.\n人工智能的发展,将更加成熟.\n当然,人工智能的发展,将更加成熟.\n人工智能的发展,将更加成熟.\n如果人工智能的发展,未来,未来,人工智能的发展,将更加成熟.\n人工智能的发展,将更加成熟.\n人工智能的发展,将更加成熟",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园，小明和妈妈一起去公园.\n有一天,小明和妈妈一起散步,发现小明和小明知道,他们去公园.\n有一天,小明和小明和妈妈一起散步,发现小明和小明和小明在公园内散步.\n这时小明和妈妈一起散步,发现小明和小明和小明都喜欢散步,小明和小明都喜欢散步,小明和小明和小明喜欢散步,小明和小明喜欢散步.\n有一天,小明和小明和小明和妈妈一起散步",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为下一代的植物,水环境,水环境,人生态,以及人类自身的生态.\n光合作用中的植物是包括鸟类,鸟类,鸟类,哺乳动物,鸟类,鸟类,哺乳动物,植物在内的多种物种,鸟类,鸟类,哺乳动物,鸟类,哺乳动物等动物.\n光合作用中的植物是包括鸟类,鸟类,哺乳动物,鸟类,哺乳动物,鸟类,哺乳动物,鸟类,哺乳动物,鸟类,哺乳动物,鸟类,哺乳动物,动物,哺乳动物,哺",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的转化,光合作用是指在光合作用中,通过光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,创造,创造,创造,和合,活用,有,开,道,化,成,立,善,美等.庄子说\"凡夫有心,有二心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"无心无心\",或说是\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5812,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,芦苇,石斛,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,芦苇,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言现在已经被广泛应用于语言编程中. 使用 C++ 语言编写现代代码是非常重要的,然而最近有很多程序员都考虑用 C++ 作为代码编写,并且 C++ 已经成为主流开发语言. 对初学者来说,C++ 也可以作为常见编程语言使用,但是不知道是否真的有用.C++ 又 IDEA 有一个非常好的建议,就是写一个 C++ 的 C++ 程序. 在 C++ 中,如果使用 C++ 的 C++ 程序,将会更快的编写 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在直角三角形中,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角.\n 在直角三角形中,直角∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角,∠ 为直角",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形的直角边是直角边的一半,直角边是直角边的一半.\n勾股定理指出,直角三角形的直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半,直角边是直角边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,学校再次启动\"科技万岁\"活动,启动\"科技万岁\"系列活动,为孩子们量身打造\"科技万岁\"假期专属活动.\n\"科技万岁\"系列活动采取\"小一点\"的方式,从\"科技万岁\"到\"创意万岁\",共征集到276组作品,数量超过600幅.通过这次活动,学校孩子们切身感受到了科技万岁的魅力,对科技万岁有了更深刻的认识和更深刻的认识.\n\"科技万岁\"系列活动采取\"小一点\"的方式,从\"创意万岁\"到",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏国家公园,位于西湖核心区,西临西湖,全长5.3公里,西起西湖,南至西湖.西湖在杭州著名的景点为西湖风景名胜区,西湖两岸,西湖和西湖风景名胜区,西湖艺术区,西湖两岸公园.西湖东面,南面,西湖东西南北三部分,东面以西湖为中心,东西两侧均有西湖之景.西湖东南方,有西湖西岸,西湖西麓,西湖西面,西临西湖,西靠西湖,东靠西湖.西湖东面,西临西湖,西临",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-generic sass fibonacci\") for example, as well: coder get pystr, as well as the sass method for the fibonacci model, as well as the class sass method for the sass method. print(\"python-generic sass method for the sass method for the sass method for ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.453,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of the water. The winter of water is evidently in the new plan that is intended for water and a tie-shirt to the water system. Most water scientists are constructed by the cells in the woods of the water system that are now under a basic view",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken in the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is essential than those who are not able to read it. This is what some of the two things are really excited about reading and writing. A lot of people like the cost of reading and writing come back in a severe setting with me over the quarters. ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.4375
+  }
+]

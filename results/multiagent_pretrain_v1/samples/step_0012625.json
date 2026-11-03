@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,就像一场计算机与互联网一样,是一幅幅无比动人的画卷,正在改变人们生活.\n2月22日,首届中国智能产业高峰论坛在济南举行,论坛围绕\"人工智能发展\"主题,发布了\"2022中国人工智能产业报告\",并邀请了前百度,百度,阿里巴巴,腾讯,华为,360,联想,百度,阿里巴巴,阿里巴巴,腾讯,百度,阿里,百度,百度,阿里巴巴,百度,阿里巴巴,阿里巴巴,阿里巴巴,百度,阿里巴巴,阿里巴巴,百度,阿里巴巴,阿里巴巴,百度",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人类的生活更加便捷,更加便捷,更加便捷.\n人工智能的发展,让人类的生活更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加便捷,更加",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来散步\n_ 你喜爱的小明吗? 我喜欢小明吗? 小朋友的眼神里有小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小明知道小明喜欢小明吗? 小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7094,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为防止碳酸氢化合物污染而采取的措施.光合作用对植物的危害取决于植物本身的质量,它的有害成分包括害虫,寄生虫和害虫.光合作用能有效地防止人类大量捕食植物,使动物获得更多的自由,使植物自身免受伤害.\n光合作用对植物有害吗?\n光合作用是指植物生长出来的植物,其毒性高于其他植物.光合作用能抑制植物的生长,促进作物生长,从而抑制植物体内各种重金属的排出,同时还能产生抗氧化,杀戮性的物质",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在自然界中生长,生长,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明人的诞生与进步有密切关系,他们创造的发明都是伴随着时代的进步而产生,制造出来的东西不是由人类发明,而是由创造出来的.",
+    "new_tokens": 44,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.0244,
+    "tail_top_share": 0.1818
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要学好一门新语言,一个语言包括语法,语法,句法,结构,结构,结构是至关重要的.学习一门新语言最重要的是要学好一门新语言,一个语言包括语法,语法,结构,结构,结构是至关重要的.学习一门新语言最重要的是要学好一门新语言,一个语言包括语法,语法,结构,结构是至关重要的.学习一门新语言最重要的是要学好一门新语言,一个语言包括语法,语法,结构,结构是至关重要的.学习一门新语言最重要的是要学好一门新语言,一个语言包括语法,语法,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边的平方和等于斜边的平方和,斜边上的高是斜边上的高.即:斜边上的高等于斜边上高.\n证明:直角三角形三边平方和等于斜边平方和,斜边上的高是斜边上的高.\n证明:直角三角形三边平方和等于斜边上的高.\n证明:直角三角形三边平方和等于斜边上的高.\n证明:直角三角形三边平方和等于斜边上的高.即:斜边上的高等于斜边上高.即:斜边上的高=斜边上高.\n证明:直角三角形三边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6068,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜边上的一半.\n勾股定理的逆定理:直角三角形斜边上的中线等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加校外培训机构免除学费,免除非学科类校外培训机构后应按不超过当年新生的比例核算费收入.同时,凡具备基本办学条件并经批准开办的课程,均按有关规定执行.\n在办好义务教育阶段学校之前,全市\"五校合一\"的改革模式已经相当成熟,从2014年3月起,各县(市,区)根据属地职责,有针对性地对校外培训机构开展联合审批,审批,托管,出租,托管等\"五校合一\"改革试点工作.\n在办好义务教育阶段学校之前,各县(市,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖附近景区,是杭州西湖核心景区,是浙江省风景名胜区,是中国著名的风景胜地,有\"三山一水三湖\"之称.\n西湖位于浙江省杭州西湖区,是中国十大风景名胜之一.\n西湖景区内分为 [罗志祥湖] , [三寺湖] 和 [海棠湖] 四个景区.\n[[龙潭] 是 [西湖西岸景区] 的重要旅游区.\n[景山] 是 [西湖东岸景区] 的重要旅游区.\n[水城]",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonacci\")\n    print(\"fibonac",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" when it was wedding on the water. But the water was observed with the water eye and sugar. But the water became the consequences of its own water and was incredibly relevant to the air.\n\"There was some opposition to a water from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is growing in the water system. The water system is a growing water system that is growing in the water system. The water system is a growing water system that is growing in the water system. The water system is growing in the water system. The water system is growing in the water system.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of learning. It is a set of models that are useful and linked to learning in the next two decades. If it is not the way the learning is more linked, the learning is a separate set of models that can be used to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.4375
+  }
+]

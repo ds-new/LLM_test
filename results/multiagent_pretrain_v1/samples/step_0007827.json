@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够准确地理解和使用人工智能.\n事实上,人工智能的发展已经足够准确地理解数据,理解数据的提供者,而人工智能技术的开发则完全依赖于计算机.人工智能技术的诞生,让计算机编程变得越来越简单,而且,它越来越容易,以至于它看起来越来越复杂.\n但是,人工智能技术的应用,却比人工智能应用更复杂,而且它的难度也很小.\n因此,人工智能是否已经足够成熟,我认为这主要是由于它提供的海量数据,而人工智能技术的不足,还在于它的局限性.\n人工智能要想发展,是离不开它的硬件和软件,软件是人的后",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让人类的生活水平有了质的飞跃.\n人工智能的发展,已经让",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 紫竹竞猜_ # # | 第14页 | 10月7日-11日,春去秋来,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木,花草树木",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土质土,水解后用液体或玻璃状无粘质包装,无粘质包装,以5-5厘米或7-8毫米的纤维状固体材料作为水源.在微生物,植物组织或微生物等生物组织的生长中,有繁殖的作用. 1.光合作用微生物与植物组织生长生物组织的生长有关.光合作用微生物的生物学特性:光合作用微生物通过光合作用,使微生物为营养,因此,光合作用微生物对植物的生长发育具有调节作用,促进植物对环境的适应,从而促进生长发育.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用是指在光合作用中的作用,光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明,其中就包括有发明发明,发明发明,发明发明和发明发明,发明发明,发明发明和发明发明,发明发明,发明发明和发明发明,发明发明,发明发明发明,发明发明发明发明发明,发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明发明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.9844
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綔甫I, terrible and more important. 12 - 13 0 1 3 3 4 4 5 6 6 7 8 8 10 12 12 18 18 26 27 28 28 30 27 30 31 31 32 36 27 36 35 37 37 38 37 38 39 39 40 40 38 40 39 41 41 41 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你真的了解吗?你认为它具有什么特性呢?\n如果你只是懂一门新语言,那么很难了解一门新语言.如果你不知道这门新语言是什么,那么你可以看看下面的文章.\n在这个学习的过程中,你还会学到一种新的编程语言.\n那些新语言的学习过程都涉及一些基础知识.这些基础知识能够帮助你了解一些新的语言.\n当你开始学习一门新语言时,你会发现自己已经对这门新语言有了一些新的理解,让你能够快速理解和运用它.\n当你开始学习一门新语言时,你会感受到一种新的语言,它有很多特点",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形有两个直角边,直角边等于直角边的一半.设直角边为a,则(a+b)b=a²(a-b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(a+b)²(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形的直角边等于斜边的一半,直角边等于斜边的一半.\n在直角三角形中,直角边等于斜边的一半,直角边等于斜边的一半.\n直角三角形的直角边等于斜边的一半,直角边等于斜边的一半.\n直角三角形的直角边等于斜边的一半,直角边等于斜边的一半.\n直角三角形的直角边等于斜边的一半,直角边等于斜边的一半.\n直角三角形的直角边等于斜边的一半,直角边等于斜边的一半.\n直角三角形的直角边等于斜边的一半,直角边等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局再次发布公告,将自1月31日至2月31日期间,由市教育局领导带领市教育局,市教育行政主管部门,市教育行政主管部门和市教育行政主管部门,以及各县(市,区)教育行政主管部门及各县(市,区)教育行政主管部门,市教育行政主管部门及市教育行政主管部门,市教育行政主管部门及市教育行政主管部门,市教育行政主管部门,市教育行政主管部门,各县(市,区)教育行政主管部门及各县(市,区)教育行政主管部门及各县(市,区)教育行政主管部门",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩趣相仿属\"上海天际线\"全长5.3.9公里. 据\"上海天际线\"的记载,为纪念\"神鱼吟\",\"蟋蟀吟\"等说法,杭州市属博物馆于1997年12月30日联合南京博物院举行\"杭州西湖\" \"寻西湖\"展览,这是继上海天际线\"寻西湖\" \"寻\"上海\"寻西湖\" \"寻\"北京\"寻\" \"寻\"杭州\" \"寻\"上海\"寻\" \" \" ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def(n):        self.squeak_attr()    def test(n):        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr()        self.squeak_attr",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings are needed to help winter water science and water science in the new way that the science of water science is designed to reduce our water and reduce our water and reduce our water science of water science and the use of new water tools that are used to make the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2735,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is used to be used in the water cycle of the water cycle. The water cycle is used in the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more like it are but more like it is done.\nGo is the case to bring it to a classroom, and it is the way for the students to learn in the same way to make the word an email.\nAnd the future is a separate way to become a school. The students will",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.4531
+  }
+]

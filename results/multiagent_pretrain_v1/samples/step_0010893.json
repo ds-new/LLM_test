@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能就是一场技术革命,它有可能改变世界的未来,而作为人类,我们不应该只看到它的好处,而应该看到它对人类的发展更有价值.\n人工智能的发展,归根到底靠科技的力量.人工智能可以代替人类,也可以取代语言,文学,绘画,围棋,甚至机器学习......它的核心是海量数据.\n但是,人工智能并不是一成不变的,它只是数据本身的一种映射,它的本质是信息的聚合和整合,人工智能的发展,归根到底还是算法.\n什么是算法?算法是计算机科学的一个分支,它的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑,而人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能技术的支撑,而人工智能技术的支撑,离不开人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐 _ 端午节快乐",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中可以生长的植物,俗称\"手植植物\".用光合作用可以促进植物生长,提高植物抗病能力,降低其光合作用对植物生长的影响.光合作用是一种具有适应性,适应性强,适应性强,可种高,抗病性强,抗病性强,适应性强,抗病性强,营养丰富,能在各种不同季节生长和相互影响,具有调节土壤湿度,提高土壤透气性,改善土壤营养,促进作物生长,增强营养丰富,抗旱抗病能力,提高植物抗病能力,降低其光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,吸收,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹,发明发明和发明创造的关系.\n古人的发明,发明和发明都是伴随着时代的进步的,所以古人发明发明,发明发明和发明创造是重要的.古代的发明有发明,发明创造和发明的关系.\n古代的发明包括发明,发明发明和发明创造的关系.\n在古代,发明创造有很多种,一般分为两种:一种是发明创造,即发明发明,发明创造和发明创造的关系.\n一种是发明创造,即发明发明创造,发明创造是历史发展中的一个重要因素,也是现代人十分",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獭甬�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.3419,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门语言对你来说确实很懂,那么你就能使用它,而且你不用担心学习任何新语言,要学习一门新语言,你需要具备哪些基础技能.\n在开始学习这门语言之前,我们需要了解编程语言是什么以及它们是怎么形成的.编程语言对于我们在学习一门编程语言时至关重要.首先我们需要了解编程语言的特点和用法.编程语言可以让我们更好地了解计算机是如何编写程序,如何编写程序,以及如何执行代码.编程语言可以让我们更好的理解编程语言的含义,以及如何编写好代码.\n编程语言的语法分析能力通常非常突出,特别是对于初学者来说,它有助于掌握",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边为2,斜边为1,斜边为2,三边关系最明显的是三角形两边的高与角平分线的交点,三角形的三个内角的和等于( )\n对边长为6的直角三角形,可作三个直角三角形三边的比与它们高60度分别求它们的高,\n设直角三角形的三边为a,b,c,那么高b=2a+b+c,c=3a+b-c=2a+b+c+c.\n高b=2a+b+c+c+c=3",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.\n直角三角形斜边上的中线等于斜边上中线.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局进一步畅通了学生参加校外培训机构的渠道,为中小学生提供更加便捷的暑期安全服务.\n新一学年初,市教育局以\"安全护航\"为主题,全面开展\"安全第一课\",确保中小学生\"安全第一课\"全覆盖,营造\"安全第一课\"氛围.市教育局将以\"安全第一课\"为载体,进一步聚焦青少年学生最关心,最关心,最关心的安全问题,特别关注中小学生安全,以及未成年人暑期安全,引导学生和家长要尊重科学,尊重社会,尊重知识,尊重技能,正确面对学习,学习,成长,成长",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景名胜区,是杭州最具特色的地方.西湖风景名胜区地处浙江省东南沿海,距离杭州市主城区约5公里,西湖风景区总占地面积约3.2万平方公里,其中水域面积1.5万平方公里,水域面积0.1万平方公里,湖区面积0.35万平方公里,湖区面积0.8万平方公里.西湖风景区为杭州打造世界风景名胜区,世界风景名胜区之一,西湖风景名胜区在杭州市境内面积约5.5万平方公里,总面积1.2万平方公里,湖区面积0.5万平方公里,湖区面积0.2万平方公里.西湖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"python def fibonacci\")\n    print(\"python def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"def fibonacci\")\n    print(\"def ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the impact of the air conditioned water waste and the end of the fantastic flour and the troubles that determined the connection between the water and the flow of water contains the damage of the water and the air conditioned water waste and the end of ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3077,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that is a water cycle that",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our students are dedicated to learning and to help students achieve the common goal of the college. The College of Engineering and Engineering and Engineering are widely recognized as a national confer of the arts and sciences, with the arts and sciences, and has been a priority for the development of the humanities and arts ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.4531
+  }
+]

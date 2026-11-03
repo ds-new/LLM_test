@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够全面地融入社会.\nAI,是一种复杂而复杂的计算机领域.\n机器语言,语言学,语言学,语言学,语言学,语言学,社会工作,数学,计算机语言学,写作学,语言学,农业语言学,网络语言学,语言学,语言学,应用语言学,语言学,科学语言学,应用语言学,语言学,语言学,语言学,经济学,控制论,关系论,信号论,基础物理学,通信论,算法论,神经网络论,网络,网络,模式识别,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人类文明的\"活化石\"\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪元\".\n\"人工智能\"一词,是人工智能发展的\"新纪",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和朋友一起逛公园,他们穿着漂亮的衣服,在公园里拍照,玩的也有些了.\n小明说:\"主人,我们要来小明玩的呢!\"\n小明说:\"主人,这是小明和妈妈一起去公园的有趣玩法,我们想来这里,它应该是自己从小喜欢的小明玩的,但大人们却喜欢小明玩的.小明和妈妈一起玩,小明和妈妈一起玩,他们家的孩子喜欢小明玩,小明要来玩,小明要来玩.\n小明说:\"主人",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用是指植物在光照下进行快速生长,光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长的植物光合作用是指植物在光照下生长",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其生长的绿色植物,其",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,雕塑,建筑,乐器,印书,圣母,建筑,古琴,曲艺,绘画,雕塑,绘画,雕塑,绘画,音乐,音乐,摄影,装饰品,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,建筑,建筑,雕塑,建筑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑,雕塑",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "                              ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人学习一门新语言,最重要的一点是,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言,学习一门新语言",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":在三角形中,∠=1∠=2∠=3∠=3∠=4∠=3∠=4∠=3∠=4∠=4∠=∠=3∠=4∠=4∠=4∠=4∠=4∠=4∠=5∠=3∠=4∠=4∠=4∠=3∠=4∠=5∠=4∠=3∠=4∠=3∠=4∠=3∠=3∠=3∠=4∠=3∠=4∠=4∠=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7692,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ": △ABC中,∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+∠A=∠A+",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "69岁,是我市63岁,从小学四年级起就一直默默坐在楼顶上,打过春节的第一印象.\n市人大常委会副主任张玉元在新闻发布会上说,近年来,我市高度重视未成年人健康成长,营造文明,节俭的少年儿童良好形象,营造\"遵纪守法,服务第一,遵纪守法,公平正义\"的良好社会风尚,让文明礼仪之花绽放在身边.\n市人大常委会主任张玉元表示,当前我市未成年人发展面临新的挑战,要高度重视,迅速行动起来,贯彻国家法定退休年龄年金和特困供养金标准,切实加强未成年人保护,依法",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": ",因经绍兴市博物馆收藏,故得名.\n悠久的浙江省博物馆历史悠久,拥有历代著名收藏家,收藏家,收藏家等级的综合性博物馆.展览分为三部分,分别为\"双门\"和\"双门\", 分别是\"双门\"和\"双门\".\n4. 杭州西湖的地理位置.杭州西湖的景点有:\n1. 距离杭州西湖市中心仅需300米,门票100元;\n2. 地铁四号线:步行可到达地铁站.\n3. 地址:杭州西湖大街2. 火车票",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".  def read(n):\n    #####################################] ###########\n######. ####",
+    "new_tokens": 73,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.6571,
+    "tail_top_share": 0.9062
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of our concepts have been a permanently unusual to me. What you have to do is about a taste of our observants? \"How a water cycle describes how can we create our environment in the world?\"\nI'm sure you're sure what I'm ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a very different place in the world. The water cycle is a very different place in the world. The water cycle is a very different place in the world. The water cycle is a very different place in the world. The water cycle is a very different place in the world. The water cycle is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is right to support the teachers in our nation and our efforts to meet our teachers. We have to be much more to make students with parents that they have more teachers and the students who want to hand their kids in the classroom. We have to be excited to make a",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.4688
+  }
+]

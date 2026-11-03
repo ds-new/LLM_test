@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所说,人工智能,只不过是计算机领域里的\"机器之母\",它们赋能人类,推动社会进步.\n\"人工智能是未来的发展趋势,我们期待着未来能有更多人工智能产品,创造更多价值,改变社会.\n\"马云表示.\n作为人工智能领域的领头羊,百度,科大讯飞,科大讯飞,云从,微软,阿里,百度,科大讯飞,科大讯飞,科大讯飞,科大讯飞,讯飞等在人工智能领域已有数十年的技术积累,已经应用于百度的语音识别,自然语言处理,机器翻译",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来游玩\n春天来了，小明和小明一起来玩\n春天来了\n小朋友与家长一起玩耍\n幼儿园课程\n幼儿园课程\n幼儿园课程\n亲子游戏\n幼儿园课程\n幼儿园课程\n亲子游戏\n博物馆\n游园\n玩乐\n公园\n美食\n主题乐园\n博物馆\n主题公园\n游乐场\n好玩的小游戏\n公园\n综合类课程\n各种有趣的游乐项目\n孩子兴趣班\n游乐设施\n户外活动\n主题\n青少年教育\n户外运动\n室内活动\n户外活动\n户外游戏\n主题乐园\n主题乐园\n亲子",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中,对植物进行光合作用,利用空气,水和生物溶剂进行光合作用,利用光合作用增加植物对环境的适应能力,同时将植物吸收热量,吸收光合作用,从而达到植物生长的目的. 光合作用模式: 植物自身吸收光合作用,又可促进植物吸收光合作用,如植物吸收光合作用吸收光合作用,植物吸收光合作用吸收光合作用,植物吸收光合作用吸收光合作用,植物吸收光合作用吸收光合作用,植物吸收光合作用吸收光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物在光合作用中,能够吸收空气中的二氧化碳,从而产生光合作用.光合作用是指绿色植物在光合作用中,通过光合作用,使植物在光合作用中,能够吸收空气中的二氧化碳,从而产生光合作用.光合作用是指绿色植物在光合作用中,能够吸收空气中的二氧化碳,从而产生光合作用.光合作用是指绿色植物在光合作用中,能够吸收空气中的二氧化碳,从而产生光合作用.光合作用是指绿色植物在光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮?,也是继贵州之后,长江流域最大的人工湖.\n十年间,长江流域已变成了一个美丽,整洁,美丽,安全的城市.\n1,水质:从长江口直出到长江口,从长江口直出到长江口,长江口近500平方公里,是长江上游最长的河流,长江上游最长的河流.\n2,水质:从长江口直出到长江口,长江口近500平方公里,是长江上游最长的河流,长江口近500平方公里,是长江上游最长的河流",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要学好它,你真的了解它吗?\n世界上有句古话:马为马行,道为马行,我以为马是存在的,其实不然.这句话语虽然很短,但令我浮想联翩.我们彼此之间的关系是那么的熟悉,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,那么的陌生,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形中的任意两条边长度之比为1:1,则斜边AB的长是，勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理可勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理直线勾股定理勾股定理;勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理 勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理这里勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理 勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理勾股定理 勾股定理勾股定理勾股定理勾股定理勾股定理 勾股定理勾股定理勾股定理勾股定理\n勾股定理 勾股定理勾股定理勾股定理勾股定理勾股定理答案勾股定理勾股定理勾股定理勾股定理",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5812,
+    "tail_top_share": 0.8438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的高是直角边的一半,斜边上的中线是斜边的一半.\n勾股定理的逆定理是:直角三角形中,斜边上的高是直角边的一半,斜边上的中线是斜边的一半.\n勾股定理的逆定理是:直角三角形中,斜边上的高是直角边的一半,斜边上的中线是斜边的一半.\n勾股定理的逆定理是:直角三角形中,斜边上的高是直角边的一半,斜边上的中线是斜边的一半.\n勾股定理的逆定理是:直角三角形中,斜边上的高",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了义务教育阶段学生参加校外培训机构培训,校外培训机构不得组织培训,不得委托机构开展培训,不得委托培训机构开展培训.\n全市中小学,幼儿园和幼儿园按照\"应考尽考,应考尽考\"的原则,在开学前一周内完成\"学科类校外培训机构培训疫情防控措施落实情况考核\"和\"校外培训机构培训安全管理考核办法\"的学习.\n全市校外培训机构不得组织培训,不得委托机构开展培训,不得委托机构开展培训,不得委托机构开展培训.\n在非义务教育阶段学生参加校外培训机构培训,不得委托机构开展培训,不得委托机构",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2821,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏布景:西湖景区属苏州市苏州市西湖风景名胜区,位于苏州西夏布景景区,位于苏州城西大街西侧,距西湖西街约2.5公里,西湖东街为西咸咸湖畔,西晋廊桥东延,南三寺隔水相望. 西夏布景景点介绍 西湖:位于苏州东郊北郊,西临西郊南郊,西接苏州东郊.西湖景:于古湖西岸,东望西郊西郊,西临苏州东郊.西湖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python read n\");\n    print(\"请输入一段代码\");\n    print(\"我有一个python package\");\n    print(\"您输入的数据是整型\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个字符串\");\n    print(\"请输入一个",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurs in the \"light\" of nature that occurs on other types. The water cycle is observed with the deep depth of the overall flow of water. The water cycle is accompaniment with the damage of water in the \"light\" of nature that occurs on other types of",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the water cycle and how it is in the water cycle. The water cycle is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is in the water cycle and is ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the classroom. This is not easy to read, but it is easy to read. We are much more enjoyed and are so concerned about it because it is in the classroom because of the future of our students. We are also using the human sources to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.4531
+  }
+]

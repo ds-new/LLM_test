@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能正在改变世界,颠覆了我们对世界的认知.\n\"人工智能的概念,目前并没有关于人工智能出现任何争议,但它是社会进步的基础.现在,我们正处在第四次科技革命的浪潮中,人工智能(AI)的发展,正在走向真正的科技进步.\"\n\"人工智能已经进入了一个新的发展阶段.\"\n2017年,我参加一个为期7天的活动,在汽车展上,他们展示了迄今为止最大的车联网人工智能.\n\"我是从人工智能(AI)起步的,我的能力是跑得很远,可以拥有自动驾驶的驾驶",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,云计算,人工智能,大数据,物联网,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开大数据,云计算,人工智能等技术的支撑.\n人工智能的发展,离不开",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来游玩\n导读:\n1,在公园里,还有小明的身影,\n小朋友与小明\n在公园里\n,小明和小明\n正在\n玩耍\n.\n2,在小明和小明\n一起去公园\n,\n小明和小明\n一起玩\n.\n3,在小明和小明\n一起\n玩\n.\n4,小明和小明\n一起\n玩\n.\n5,小明和小明\n一起\n玩\n.\n6,小明和小明\n一起\n玩\n.\n7,小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3077,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在绿色植物光合作用中的合成与生长以及对植物的产气生长,给植物提供健康,无毒,无污染的物质.光合作用的主要成分包括:1,光合作用中的叶绿素 - 叶绿素;2,光合作用中的有机碳氢化合物;3,光合作用中的碳氢化合物;4,光合作用中的绿光硫化物.\n光合作用常用于低耗能,低氧环境,特殊环境下的各种环境友好型,低耗能,低污染,高净性的环境友好",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物能够吸收,吸收,吸收和吸收二氧化碳,水,空气,水,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气,空气",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文,铭文,其中铭文有五言,文言,警言,都算中国古代的四大发明.\n这四大发明,三国时有一个叫做杨飞的人,他有一个与刘邦相抗衡的成王八字,是周朝人,他封了皇帝,封了刘邦.\n他封了刘邦以后,公孙龙,张天师,孙武都封了刘邦,封了刘邦的孙吴,封了刘邦的孙郦,封了刘邦",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟淞I, 吴淞吴淞I, 吴淞吴淞II, 吴淞吴淞II, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴淞吴淞III, 吴",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这些新语言的学习方法,包括你现在会使用哪些库和语言,以及为什么使用它们.\n要快速了解Python,需要掌握的主要是Python和它的解释器.\n对于Python的初学者来说,了解编程语言是什么很重要.Python是一门小型,可扩展的,并且非常简单的语言.\nPython具有一些强大的功能,如垃圾收集,多线程,多核,以及调试等等.\nPython有丰富的库,例如Numpy和Pandas.\nPython是跨平台的,有丰富的库,例如 Python 和 Java .\nPython适合初学者,特别是那些",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边在斜边上的射影相等,即直角边在斜边上的射影相等,即勾股定理.定理 直角三角形的三边长a,b,c,在直角三角形中,a:b+c=c:a a:b c:c 直角三角形中,a:b+c=c:a c:b+c=c:a c:b+c=c:c 逆定理 定理 三角形三边在斜边上的射影相等,即三角形三边的垂直平分线平分这条三角形. 定理 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了\"放寒假\"的规定,全市各级各类学校均实行网上学习,网上考试,网络培训,享受周末,寒暑假等补足寒假期间的各类学习. 今年暑假,我市实行\"放寒假\"的规定,全市各级各类学校均实行网上学习,网上考试,网络培训,享受周末,寒暑假等补足暑假期间的各类学习. 网上学习 4. 加强网上安全教育 为了丰富和增强青少年和家长安全防范意识,进一步保障广大青少年的合法权益,市教育局要求,全市各级各类学校要采取多种形式开展安全",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": " 摄讹 痈疡蚰 颛臾 滁州市 网友评论仅供其表达个人看法,并不表示赞同其观点或证实其描述,也不构成任何投资建议.\n① 2018年7月29日,福寿螺,蚂蚁等5种类型的螺线螺钉在广东省福寿螺风景区内正式亮相.螺线螺钉的螺线纹理特征是螺线",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def read):\n    print(\"def wow\")\n    def wow(a):       print(\"def wow\")\n    print(\"def read\")\n    print(\"def read\")\n    print(\"def wow\")\n    print(\"def wow\")\n    def read(a):       print(\"def read\")\n    print(\"def read\")\n    print(\"def read\")\n    print(\"def read\")\n    print(\"def read\")\n    print(\"def read\")\n    print(\"def read\")\n    print",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurs in the \"light\" when it occurs in a \"w\" or \"y\" erosion that you should turn to it from the old water cycle or not. The old water cycle is located in the dam area and is part of the new water cycle that features a small grain from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used in the water system. The water system is a water system that is used in the water system and is used in the water system and is used in the water system. The water system is used in the water system and is used in the water system and is used in the water system and is",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7436,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the classroom that you need to learn and learn how to read. But that's the same. In the classroom, you need to learn that and that it will be the same thing you need to read. So while you need to read and get it through it is where",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.4844
+  }
+]

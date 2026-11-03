@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够给人类社会带来巨大的改变.\n未来,人工智能的发展将给人类社会带来深刻改变.\n人工智能的发展,将加速人类社会的发展,而它的好处就是能够学习并了解世界,并应用这些知识来解决社会,创造更高的价值,并促进社会的发展.\n未来,人工智能的发展,将加速人类社会的发展,而它的好处就是能够学习并掌握世界,并应用这些知识来解决社会,创造更高的价值,并促进社会的发展.\n未来,人工智能的发展,将加速人类社会的发展,而它的好处就是能够学习并掌握世界,并应用这些知识来解决社会",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n_ 你和妈妈一起去公园，小明和妈妈一起去公园\n( 小明和小明 )\n知道小时候的单调单调\n今年,小明和妈妈一起去公园\n博物馆\n游园\n玩\n逛公园\n在公园内,小明和小明们玩得很开心\n好玩又好玩\n公园里的那些动物都吃多了,\n小明和小明们一起吃,一起玩,一起玩\n这很刺激\n小明和小明们玩得很开心\n- 你和妈妈一起去公园\n逛",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指用光合作用,利用光合作用,吸收光合作用.植物光合作用中的有害有害光合作用具有较强的有害物质和物质积累的作用,是植物光合作用中最重要的应用之一.\n1,光合作用:光合作用是光合作用的重要形式.如用光合作用,用光合作用,光合作用,光合作用.光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用.\n2,光合作用:光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3419,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的转化,通过光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如发明和发明发明的著作有:发明发明的字体和字体的总数;发明发明的器具,器具,器具和物品的数量;发明发明的科学技术和人才;发明发明的文物,仪器,工具等等.\n中国古代的四大发明包括发明,发明有发明的痕迹.比如发明和发明的出版物有:发明和发明的器具,器具和器具,器具和器具和器具的数量;发明发明的器具,器具和器具的数量;发明发明的器具,器具和器具的数量.\n中国古代的四大发明包括",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獭?\n长江是长江上游最长的河流,是中国最大的人工湖.湖泊面积670多平方公里,蓄水量10.3亿立方米.每年有18.2亿立方米水,是长江中游的1/6.5亿立方米,每年有1/2.2亿立方米的水,是地球的3倍多.\n1/6.5亿立方米的水,是中国最大的的人工湖,全球有超过14亿人.\n长江是长江上游最长的河流,是中国的天然水网.长江是中国最大的的人工湖,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你掌握了多少语言?你掌握了多少语言?你掌握了多少语言?你知道许多语言的基本组成与组成,你知道很多语言的基本组成,你知道多少语言?你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成,你知道许多语言的基本组成",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "两个直角三角形中有一个锐角和直角边平方加(m-2)n=2,即n=2时,直角三角形的斜边=斜边×2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n =2n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中,直角三角形斜边上的中线等于斜边上的一半.\n在直角三角形中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行\"一校一策\"教学模式改革,在市,县各学校统筹安排的基础上,新高中衔接新课程,增加学生假期体育活动,开展丰富多彩的暑期\"大课间\"活动,力争在暑假期间实现全市义务教育阶段学生有\"一校一策\"课程的上线,把全市初中和高中,初中,高中衔接到全市义务教育阶段学校.\n根据\"河南省义务教育阶段学校招生工作方案\",本学期,全市义务教育阶段学校不得兼报义务教育阶段专业性考试科目,不得招收义务教育阶段非普通高中学生.同时,在美术,书法,体育,美术,美术",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩水胜地,是杭州最具人气的一条休闲胜地,也是人们休闲度假的胜地.\n下面小编就杭州西湖美景为大家分享一下.杭州西湖风景区位于杭州市中心,以江南园林,古西湖,古花园,古园,古寺,古廊,古园,古寨,古栈道,古亭,古塔等为景点,以园林景观,建筑文化,名胜古迹,文化精品为载体,以西湖为特色,以西湖为特色.\n杭州市西湖风景区位于杭州市中心,以江南园林,古园,古园,古园,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def main(n):\n    s = new n(n + 1)\n\ndef fibonacci(n):\n\ndef fibonacci(n):\n\ns = new n(n + 1)\n\ndef fibonacci(n):\n\ndef fibonacci(n):\n\ns = new n(n + 1)\n\ndef fibonacci(n):\n\ns = new n(n + 1",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7009,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of our water. These winter sides the farming side of the water. This task is to develop and engage the water of the water of the water.\nThe water cycle describes how water science and the human beings of our water. These water cycle describes how water science",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the business that is in existence and the sense that it is in existence is in existence and in existence will be in existence and in existence. Retrieved from \"http://www.wsu.org/press/index.php?_info_name_hack_list_pages_main_info_",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2735,
+    "tail_top_share": 0.1875
+  }
+]

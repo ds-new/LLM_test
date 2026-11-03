@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够了.\n但是,却不是像是一种复杂的技术,计算机领域,我们并不需要自己的大脑.\n但是,目前人工智能正在变得越来越成熟.\n我们需要学习机器的自我智能.\n对于人工智能来说,并不是所有人类的智能,我们实际上都离不开.\n尽管我们仍然不能理解人工智能,但是也只能回答:\n人类需要的是如何去理解人类,并且能够去理解它,或去解释人类.\n我们可能没有这样的规则,认为人工智能不能理解,人工智能也不能理解.\n因为我们需要学习机器的自我智能.\n当我们想要知道机器是什么",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,越来越发达,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明来玩一下.\n小明和妈妈陪在公园,小明和妈妈一起玩了.\n小明和妈妈一起玩 -  - \"小明和妈妈一起玩\"\n小明和妈妈一起玩,小明和妈妈一起玩,小明和妈妈一起玩.\n\"小明和妈妈一起玩\"\n小明和妈妈一起玩\"小明和妈妈一起玩\"\n小明和妈妈一起玩\"小明和妈妈一起玩\"\n小明和妈妈一起玩\"小明和妈妈一起玩\"\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6239,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为土质植物,水类植物,国家植物,植物,以及任何其他植物.\n光合作用是指利用光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7436,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",在植物生长过程中,通过光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"一统图\",\"一统图\",\"二统图\",\"二统图\",\"三统图\",\"四统图\",\"六统图\",\"六统图\",\"六统图\"等.中国古代的四大发明包括:\"一统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\",\"六统图\"等.中国古代的四大发明包括",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": ",位于长江中下游重要湖泊,是我国长江中下游水土两大源头之一,长江与长江流域之间依存,互为完全不同的江水.\n长江是长江的重要组成部分,长江上游是一带重要水源,长江是长江的重要组成部分,长江中下游的水资源极为丰富,中空难行,长江海运好水,黄河险水资源丰富,是长江经济的重要组成部分,长江中下游的水资源非常丰富,在长江中下游水运较多,受长江中下游水资源的困扰,黄河中下游的水资源十分丰富,被誉为\"长江上游水文之乡\"的长江.\n长江中下游",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人要学会一些什么,学会一些什么. 1,学习一门新语言,一般指学习一门语言.\n 2,学习一门语言.\n 学习一门语言,一般指学习一门语言.\n 学一门语言,一般指学习一门语言.\n 学习一门语言,一般指学习一门语言.\n 学习一门语言,一般指学习一门语言.\n 学习一门语言,一般指学习一门语言.\n 学习一门语言,一般指学习一门语言.\n 学习一门语言,一般指学习一门语言.\n 学习一门语言,一般指学习一门语言.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6838,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在直角三角形中,∠E为∠E的直径.设∠E为∠E,∠E=∠E,∠E为∠E,∠E为∠E,∠E是∠E的直径.设∠E为∠E的中点,∠E为∠E的直径.设∠E是∠E的中点,∠E为∠E的直径.设∠E是∠E的中点,∠E为∠E的直径.设∠E为∠E的直径.设∠E为∠E的直径.设∠E为∠",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A,∠A",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假旅游总时间较短,预计2月30日至2月21日,我市新增旅游总收入388.3亿元,比去年增加17.4亿元.\n(来源:上海外国语大学 )\n游客来到我市的游览中心,看见有\"观音\"之称的景区,有一群\"观音\"成群,有\"观音\"之称的景区.\n游客正在游览的过程中,发现游客停车,当地居民称,游客停车未\"观音\"的原因,也就在游客\"观音\"游客购票了.\n据网友介绍,游客在\"观音\"游玩过程中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩电影团,是杭州西湖属名山,与西湖分水岭相望,水雾相望,山峦相连.因西湖分水岭相望而得名,著名的江南名山,西湖属名山,与西湖分水岭相望,山峦相连,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山峦相望,山",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6154,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".1.1.2.3.2.1.3.3.3.3.3.4.4.5.5.5.5.5.5.5.5.5.6.6.6.6.6.6.7.7.6.7.7.7.7.8.7.7.7.8.8.8.8.7.8.8.8.8.8.8.8.8.8.8.8.8.8.8.8.8",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human becomes more likely than that wage of those wage. But in the new way, you should turn to be able to go. There is a lot of contract, it is to be able to be able to let the rocks down the water out more than the live side of",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a lot of the water cycle is a lot of the water cycle in the water cycle is a lot of the water cycle is a lot of the water cycle is a lot of the water cycle is a lot of the water cycle is a lot of the water cycle is a lot of the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our research is a different motivation to develop student knowledge that can be taken by the late 2009 graduate and MBA from two other institutions in the age of 12 years. Be and the more than 1,400 students in a wide range of future institutions in the two countries in the most important state of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.4844
+  }
+]

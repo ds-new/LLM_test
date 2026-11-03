@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云,亚马逊,百度等科技巨头在人工智能领域进行了大量布局.\n而作为AI领域的巨头,百度和阿里巴巴也是纷纷布局人工智能.\n2020年1月,百度人工智能研究院成立,开启人工智能产业AI时代.\n2018年5月,百度人工智能研究院成立,打造中国领先的AI研究院.\n而以百度为代表的中国AI研究院,则联合百度人工智能研究院,在人工智能领域实现全方位突破.\n除此之外,百度还投资了百度人工智能研究院,在人工智能领域建立起了算法创新与商业应用的合作模式,旨在搭建自动驾驶和自动驾驶",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展,将给人类带来新的机遇.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和朋友一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈一起去公园.\n春天来了，小明和妈妈",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在绿色植物的光合作用中的光合作用,是植物光合作用中的光合作用.我国光合作用已从被动向主动发展,光合作用成为主动发展,智能应用发展迅速,自主开发,生产模式等先进模式日益成熟,发展速度加快,自主创新的理念日益明确.我国是全球最大的光合作用生产国和技术中心,是我国光合作用生产技术的优势突出,在光合作用领域的战略先行,创新科技领先,人才集聚优势.\n第一,树立战略引领,优化设计.我国科技领域",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用,在植物体内形成光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的创造,发明的发明是发明.\n中国的发明,发明,发明的发明都是伴随着时代的进步的.\n历史的车轮滚滚向前,古今巨变中,有一个亘古不变的主题 -  - 历史.\n秦始皇建国以来,中国出了大量的发明.\n新中国成立后,随着人民生活水平的提高,这些发明逐渐从国家向人民昭示着,逐渐成为世界上普及,普及的先进设备.\n改革开放后,中国从科学技术发展到科学技术进步,技术的进步,人类生活的各个方面都发生了翻天覆地的变化.\n中国从一个",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮淞I, 吴淞之水, 东汉江畔, 隋高祖下渚江诸水, 隋高祖上渚江诸水, 隋高祖下渚江诸水, 隋高祖下渚江诸水, 隋高祖下渚江诸水, 隋高祖下渚江诸水, 隋高祖下渚江诸水, 隋高祖下渚江诸水, 隋高祖下渚江诸水",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看它,你真的了解它吗?\n世界上使用最广泛的语言是古代的语言,许多的西方语言是现代语言,现代语言是西方语言.\n西方语言由人类主导,其特点主要是多态性和多用性,多用途性.\n最早出现的古汉语是在古汉语的基础上发展出来的.\n古汉语属于最广泛的语言,它包括汉语在内的各种语言,但整体上属于多种语言,它属于浅显的语言,它属于低级语言,属于低级语言.\n古汉语的字源上和\"古汉语词目\"上没有",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边分别平行且相等的四边形是直角三角形,则四边三边关系最复杂,不仅不能用减法,而且不能用减法,还可以用除法证明. 直角三角形三边之间的关系是直角三角形的面积和面积之比,是直角三角形三边的比,是直角三角形的面积和面积之比.四边之间的夹角是直角三角形的两个角,比边角是直角三角形的两个角,这两个角之间的夹角是直角三角形的两个角,两个角之间的夹角是直角三角形的两个角,这两个角之间的夹角是直角三角形的两个角,这两个角之间的夹角是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B=∠B,∠B",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "义务教育阶段学校总招生人数359.2万人,其中,特岗计划9.9万人,特岗计划9.2万人,特岗计划9.9万人,特岗计划9.9万人,特岗计划9.9万人,特岗计划9.9万人.其中,特岗计划9.9万人,特岗计划9.9万人.\n根据市教育局发布的\"关于2017年普通高中招生入学工作方案\"要求,今年义务教育阶段学校总招生人数359.2万人,特岗计划9.9万人,特岗计划9.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6068,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景区位于西湖镇北面,位于西湖镇东北面,全长5.3公里,有19.8平方公里的面积.西湖风景区位于西湖镇东北面,总面积2.45平方公里,有2.5平方公里的面积,属西湖镇管辖.西湖风景区属杭州市属风景名胜区,西湖风景区属浙江省属风景名胜区.西湖景区位于西湖镇西北面,位于西湖镇东北面,全长5.5公里,有19.8平方公里的面积.西湖景区古称西湖,西湖,是西湖中轴线中,西湖上最大的一个.西湖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle occurs in the \"light\" when it features a sacrificial afterlife cycle. These new things that are intimidate and weak water cycle is the value of many mountains. This will appear in the bird cycle as a trouble and he was able to blame its grains from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a place of water cycle and the water cycle is a place of water cycle and the water cycle is a place of water cycle and the water cycle is a place of water cycle and the water cycle is a place of water cycle and the water cycle is a place of water cycle and the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our teaching experience will not be easy to develop, but that comes from teaching you how to learn your art and how to teach your love to get your art and how to work together and share your love with your career. Lessing your career in a severe way to become a professional artist is a",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.4531
+  }
+]

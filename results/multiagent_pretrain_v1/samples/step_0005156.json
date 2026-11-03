@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能正在改变世界,改变世界,改变世界的未来.\n作为人类,理解和开发人工智能的能力已经不仅仅是巨大的学习机器,更是关键推动着人类的智力发展.\n正如马云所言,在农业领域,人工智能的发展得益于农业的变革.\n但是,随着农业的变革,越来越多的农业开始以人工智能为代表的技术,在带来生产,交通,生产,运输等方面的巨大进步.\n例如,人工智能的发展,已经进入新的阶段.\n在农业领域,人工智能的发展,已经进入新阶段.\n如果,在未来几年",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步.\n在2017年,谷歌,微软,微软,微软等公司,都发布了人工智能技术的产品,包括人脸识别,语音识别,自然语言处理,自然语言处理,自然语言处理等.\n在2017年,谷歌,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,微软,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园，小明和妈妈一起去公园，小明和妈妈一起去公园，小明和小明和妈妈一起去公园，小明和妈妈一起去公园，小明和妈妈一起去公园，小明和妈妈一起去公园，小明和妈妈一起去公园，小明和妈妈一起去公园，小明和小明和妈妈一起去公园，小明和小明和妈妈一起去公园，小明和小明和小明和妈妈一起去公园，",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用一般是指利用植物光合作用,可以在植物中种植一些植物,以供植物根部吸收,形成光合作用.光合作用的主要成分是光照,光照,光照,紫外线等.\n 光合作用:光合作用是指利用植物光合作用,可以在植物中种植一些植物,以供植物根部吸收,形成光合作用.\n 光合作用:光合作用是植物的光合作用.\n 光合作用的光合作用一般是指利用植物光合作用,可以在植物中种植一些植物,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.453,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用.光合作用是指植物的光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,人类发明等,但其中一些发明都是凭空发明的.\n在古代,许多发明都是凭空发明的.\n\"凡尔赛\"有一个传说:三岁男孩被撞上路,踩了过去,却把长腿抓住了.\n\"凡尔赛\"就是中国古代著名的\"六七男孩\",一般称\"七七男孩\".\n\"七七男孩\"这个名字最早出自中国唐代诗人李商隐的\"茶经\"中.\n传说十二星座之九便座时,应叫九十二,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "睟甬I, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵, 吴晋陵,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你真的了解吗?你现在会使用Python吗?\nPython 学习一门新语言叫做 Python 语言,是 Python 语言 的一个补充,也是 Python 语言的核心.学习一门新语言比同时学习其它语言还要难.\n1. Python 语言的基本概念.Python 语言可以结合 Python 或 Python 的特性,使用 Python 的语法,语法,语法,表达式等,来开发更好的系统.\n2. Python 语言 -  - \"用Python 编程\",是 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个角,直角三角形中有一个角,直角三角形中有一个角,直角三角形中有一个角,直角边三角形中有一个角,直角三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角三角形中有一个角,直角三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,直角边三角形中有一个角,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜边上的高,斜边上的高等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "义务教育阶段学校总支出为63.7亿元,比去年增加2.2亿元,比去年增加2.3亿元,比去年增加了1.3亿元.\n\"十三五\"时期,我市义务教育阶段学校总支出占全市社会总支出比例达75%左右,比去年增加1.2亿元,比去年增加1.2亿元.\n\"十三五\"时期,我市义务教育阶段学校总支出占全市社会总支出比例达65.7%.\n\"十三五\"时期,我市义务教育阶段学校总支出占全市社会总支出比例达75.7%,比去年增加了1",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "\n杭州西湖是我国旅游景点之一,属浙江省旅游重点风景名胜区,浙江省首批AAAA级旅游景区.\n西湖是杭州的象征,象征.杭州西湖最景观的就是\"西湖\",而西湖,是西湖东端.\n西湖是杭州市属的国家AAAA级旅游景区.西湖,又名西湖,西湖的东邻南京,东邻南京,东邻南京,东邻南京,东邻南京,西邻南京,西邻南京,西邻南京,西邻南京,西邻南京,东邻南京,西邻南京,东邻南京,东邻南京,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4103,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "var main():      =      =    \nvar main():          =                                                                                                                                                                                                                                                                                                                                                                                                        ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 1.0
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and engineering is quickly available.\nWatson University wins a Knowledge and is used to investigate that development of car water science and engineering systems. There is no matter what makes and what we need to have done research in the environment and their relationships.\nThe University of Florida is the Director",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a big part of the world. The water cycle is a big part of the world. The water cycle is a big part of the world. The water cycle is a big part of the world. The water cycle is a big part of the world. The water cycle is a big part of the world.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our students are aware that it is essentially a good idea. Some students are ready to learn how they are readed from classrooms, and there is a “students” course in a course in a dynamic series of “peoples” and “of an “seat” “or “has” ” — who is the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.375
+  }
+]

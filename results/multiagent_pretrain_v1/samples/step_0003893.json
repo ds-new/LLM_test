@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景不可阻挡.\n从社会现状来看,人工智能的发展前景非常可观.随着人工智能的飞速发展,人工智能将会成为人们的生活,学习和工作的方式.\n人工智能和机器人是人工智能的主要驱动因素,它们本质上是用来创造人类,创造和创造的东西.但是,它们并不是说它们不那么简单.人工智能的发展前景不仅取决于人类,还包括人类.\n因此,人工智能的发展前景可能会变得更加可观.\n人工智能是当今世界范围内最先进的科学之一,它的存在使得人们的生活方式和生活方式都变得如此智能.\n人工智能的发展前景是巨大的,并且是创造力的表现.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人们的生活方式.\n人工智能是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮.人工智能是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮.\n人工智能是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命和产业变革的浪潮,也是新一轮科技革命",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.906,
+    "tail_top_share": 0.6562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "茎为多侧面,根系发达,树龄在25-30年之间,一般生长在树龄在5-10年之间.光合作用类型是单株落叶植物,每个单株只含5根,植株总长1.5厘米,花芽数1个,单株种植距离2米至10厘米,总花期5-6月.光合作用指的茎干,茎干常在半木质部,无生无色,叶具20-50厘米长线形,顶端具2个短枝,基部具",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明者的发明创造,发明创造创造人类发明创造,发明创造创造创造创造,发明创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造能力创造创造创造创造创造创造与创造创造创造的世界创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造创造经济贡献创造创造创造创造创造性的创新机遇.\n创发明创造创造创造力和贡献能力,创造创造创造新的世界舞台.创造创造创造创造创造创造创造创造创造,创造创造创造发明创造创造创造创造,创造创造创造创造",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5043,
+    "tail_top_share": 0.6875
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": ",蜿蜒于长江之滨,东与长江之滨交汇处,东与长江之滨交汇处,形成了长江,长江两省交汇处.\n\"长江是长江上重要的上游,是长江上重要的组成部分,长江是长江的灵魂.\"长江经济带股份有限公司总经理周凯表示,长江是长江流域重要组成部分,长江经济带将长江纳入长江经济带,长江经济带将长江融入长江经济带中,长江经济带将长江纳入长江经济带,长江经济带将长江融入长江经济带,长江经济带将长江纳入长江经济带,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3333,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言现在仍然是初学者,包括你正在学习的JavaScript和JavaScript.\n你可以选择学习任何学习新的语言.\n你必须要学习JavaScript,并且你必须学习新的语言.\n你需要学习最流行的JavaScript.\n你必须学习最流行的JavaScript,并且你必须学习那些有用的JavaScript.\n如果你不想学习,请试着学习任何最新的JavaScript教程.\n不要担心,你应该学习JavaScript,但你应该学习最流行的JavaScript.\n你可以学习一些你感兴趣的,让你能够构建自己的JavaScript.\n如果你的JavaScript 是新手,并且没有你的JavaScript库,并且你不需要学习这些",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在三角形中,∠B=1∠C=2∠C=3∠D=4∠C=4∠D=3∠D=4∠A=2∠D=4∠C=3∠C=4∠B=2∠C=4∠C=5∠C=4∠C=4∠C=5∠B=5∠C=6∠C=6∠C=6∠D=4∠B=2∠A=2∠A=2∠C=2∠C=4∠A=2∠C=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",如果两个直角边a,b,c,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局发布了\"为了做好疫情防控工作的各项准备\",明确要求,全市2022年义务教育阶段学校须全面动员,全员接种新冠病毒疫苗,落实防控措施.\n我市按照\"应游尽游,应考尽问,应考尽问\"的要求,全市\"以学定术,学定术\"学科,持续开展以学定术,学定术,学定术,学定术,学定术,学定术,学定术,学定术,学定术,学定术,学定术,学定术,学",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "城区,经浙江省划调整后,预计将有10多个景点在西湖景区内.\n♥ 1, 西湖.从浙江杭州西湖最繁华的地方,可看到江南两岸的景色和美景.\n♥ 2, 西湖.从杭州西湖最繁华的地方,可看到西湖的美景,可看到西湖的景点.\n♥ 3, 西湖.从杭州西湖最繁华的地方,可看到西湖的美景,可看到西湖的美景,可看到西湖的美景,可看到西湖的美景,可看到西湖的美景",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4359,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(r1, n)\n    # 实现如下:\n def n = n x.n += y.n || y.n + y.n || y.n + y.n || y.n - y.n || y.n - y.n || y.n - y.n || y.n + y.n || y.n - y.n || y",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.641,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and engineering in the \"lightening of science and technology\" and the \"polyfill in engineering in the natural world.\" One of the scientists of the \"lightening of science\" and contract and then on the project of the \"cell phase\" (Image) and \"multivariable intelligence\" (Dais's ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a water cycle of the water cycle of the water cycle. The water cycle is a water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it has a process that it is in the process that it comes to teaching youth, but for you what to do it, to learn that you are learning students, so you can learn in a self-to-do it. Learning to read is really good because it has a process that you are learning students, so",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.4375
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,大数据,云计算,5G等等,都改变了人类生活,改变人们生活.\n然而,人工智能技术的诞生,却成为了一场\"黑天鹅\"事件.\n中国科学院院士王元在接受\"证券日报\"记者采访时表示,人工智能技术的应用,将进一步改变人类的生活方式,给人类带来极大便利.\n从AlphaGo,微软小冰,到人工智能软件架构,人工智能的巨大进步,给人类生活带来诸多便利.\n但更重要的是,人工智能的应用,给人类社会带来了巨大的便利.\n从谷歌,微软,到微软小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能技术的支撑.\n人工智能的发展,离不开人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园\n春天来了 晴朗的天气,如新\n春天来了\n一\n春意盎然\n春意盎然\n一\n春风扑面\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n春意盎然\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5812,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的采光条件下,通过光合作用吸收了植物光合作用,提高光合作用效率,满足植物光合作用对光合条件的要求. 光合作用指通过光合作用吸收植物光,并通过光合作用吸收植物光,并通过光合作用吸收植物光,通过光合作用吸收植物光,通过光合作用吸收植物光,通过光合作用吸收植物光,通过光合作用吸收植物光,通过光合作用吸收植物光,通过光合作用吸收植物光,通过光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用下,通过光合作用,使植物在光合作用下,能形成光合作用,使植物在光合作用下,能形成光合作用.光合作用是指植物在光合作用下,能形成光合作用,使植物在光合作用下,能形成光合作用,使植物在光合作用下,能形成光合作用,使植物在光合作用下,能形成光合作用,使植物在光合作用下,能形成光合作用,使植物在光合作用下,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如,秦九韶发明了火,铁,火,土,土,石,石,木,陶等,形成了完整的青铜器,装饰品,陶器等,有金,银,铜,银,金,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,铜,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5128,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,长江上游的长江流域及其流域最大的人工水库类型,为长江流域,长江流域主要水系,主要湖泊,基本湖泊,重要湿地,水系以及常绿阔叶林等提供了良好的水源.长江流域主要河流有:湖北,湖南,湖北,湖南,湖北,湖南,湖南,湖北,湖南,江西,福建,四川,贵州,云南,贵州,贵州,云南,贵州,云南,云南,贵州,湖北,湖南,湖南,江西,湖北,江西,广西,云南,贵州,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2137,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看别人有没有你喜欢的,是否有你喜欢的. 学一门新语言,首先要先学习一门新语言,要快速了解新语言,掌握语法,结构,语法用法,了解整个编程流程. 多学习多实践,做到勤学勤写,学会驾驭各种语言,学会分析和解决问题的能力. 学一门新语言,首先要多听多说多学,多研究多思考,多动手多实践,多尝试多学习,学会多思考,多思考,多思考,多思考,多思考,多思考,多思考,多反思,多总结",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边在斜边为1时必有斜边.\n三,证明:1,证明勾股定理:如果三角形的三边在斜边为1时,没有斜边,则直角三角形的三边必在斜边为1处,斜边必在斜边为2处,斜边必在斜边为3处.\n2,证明勾股定理:如果三角形的三边在斜边为1时,没有斜边,则直角三角形的三边必在斜边为1处,斜边必在斜边为3处,斜边必在",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期的开学季.\n我市中小学迎来开学日,全市中小学将迎来新学期的开学季.\n市直学校:\n1. 我市中小学将迎来新学期的开学季.\n2. 我市小学和初中开学时间基本确定.\n3. 市直学校要提前开学,提前开学时间以市直学校为主.\n4. 根据市直学校开学时间安排,全市中小学开学时间以市直学校为主.\n5. 根据我市小学,初中开学时间安排,全市小学,初中开学时间安排在上午",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖附近有很多著名的旅游景点,更有许多让人赞叹不已的景点,如:金鸡湖,西溪水库,蓝鲸湖,西湖碧水,西湖景观带,西湖鱼王池,西湖西湖,白鹿原景区, 龙王湖等.\n杭州西湖,又名西湖,大雁塔,西湖,位于浙江省杭州市的西南,海拔197.6米,北临西湖,南接西溪,北靠西湖,东临西湖.这里山势高峻,四面环山,三面环水,遥望西湖如画,湖光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def read):  save only a text    def reply:  reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply.reply",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" of nature that occurred on other humans by the way their water was conceived when they lived in the shore. At the end of the spectacular period of 12 years, the water occurred from their conceived bricks as well as its grains from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that is in the water that",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of thinking about this sort of sense that it is in a way that we love to get into the future. The state of the state will now determine if it is in the future in a severe setting and that it is not a const",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.4531
+  }
+]

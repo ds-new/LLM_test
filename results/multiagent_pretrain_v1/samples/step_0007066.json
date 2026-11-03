@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如你所见,人工智能正在改变我们的生活,改变我们的生活,改变我们的生活.\n从婴儿成长到老年,人工智能技术发展到老年,我们需要学习机器知识.\n从医学角度来看,人工智能正在改变我们的生活,改变我们的生活,改变我们的生活.\n人工智能的发展,正在改变我们的生活,改变我们的生活.\n毫无疑问,人工智能已经成为一个新的领域.它提供新的计算能力,使我们的日常工作变得更加智能,更聪明.\n这是人工智能的未来,人工智能.\n深度学习,深度学习,机器学习,智能语音,智能语音识别,自然语言处理,自然语言处理,深度学习,计算机视觉,语音合成",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明家去公园.\n春天来了，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去公园，小明去",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用一般是指国家根据国家新规定,对国外进行种植,培育,加工,利用,使用的复合植物.\n 光合作用是批准,许可,销售或者生产各种新型植物,其质量,质量,生产模式等决定着国家的经济发展水平.我国生产,销售和使用的各种植物,营养物质,食品,食品,化妆品等商品,其质量,质量,生产模式等决定着国家的经济发展水平.\n 光合作用一般是指国家根据国家新规定,对国外进行种植,培育,加工,利用,使用的复合",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3162,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,可以促进光合作用的发展.光合作用是指植物在光合作用中,通过光合作用,可以促进光合作用的发展.光合作用是指植物在光合作用中,通过光合作用,可以促进光合作用的发展.光合作用是指植物在光合作用中,通过光合作用,可以促进光合作用的发展.光合作用是指植物在光合作用中,通过光合作用,可以促进光合作用的发展.光合作用是指植物在光合作用中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有功,发明有功,不发明功.\n古代有五品:大钟,大钟,小钟,大钟,大钟,大钟,小钟,大钟,小钟,大钟,大钟,小钟,大钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小钟,小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "縢甾缫氅氅介氅⌒⌒⌒錒ˌ咫ˌ�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.547,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要学好一门语言,否则就会失去自信心.现在世界上很多地方的计算机已经改变了,所以许多的工程师现在要努力学好C语言,已经不能在众人面前消失.\n在C语言中有一个最常被忽视的问题,那就是泛型.泛型就是\"泛型\",就是\"泛型\"的缩写,所谓泛型就是\"只读式\",泛型是\"不读式\",而且\"不读式\"的意思是\"既读又写\",即\"只读式\"的意思是\"不读式\"的意思是\"不读式\"的意思是\"不读式\"的意思是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2051,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "两个直角边成比例,两个直角边成比例,则这两个角的和等于斜边的一半. 勾股定理指出,两个直角边成比例,两个直角边成比例,则这两个角相等. 所以,斜边上的两个直角边成比例,斜边上的两个直角边成比例. 直角边上的两条直角边成比例,两条直角边成比例,则这两个角相等. [1] 定理1 定理2 三角形的两直角边成比例,两直角边成比例,则 定理3 三角形的两内角平分线的和等于",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.359,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半. 直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半. 直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半. 直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半. 直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半. 直角三角形中,斜边上的中线等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假准备作文500字\n 为了给参加高考的考生,省考需要准备以下材料:\n 1. 本人,高中毕业应于2022年3月25日,14日参加高考,应于2022年3月25日参加高考,不能有\"高校\"字样,不得参加省考.\n 2. 本人身份证原件及复印件;\n 3. 本人身份证复印件.\n 4. 本人身份证复印件;\n 5. 本人身份证复印件各一份.\n 6. 本人户口簿复印件各一份.\n 7. 本人加盖公",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩石舫:相仿王守望,徽州名媛,江浙浙江水乡.西湖是杭州的城.西湖在杭州著名的景点如西湖中心,著名的景点如西湖的西湖.\n杭州西湖是杭州西湖的精华,西湖的许多景点如杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖,杭州西湖等.西湖的四周是西杭古城,西湖的东面是西杭古城,西杭古城是西杭古城,西杭古城是杭州西杭古城.\n西湖自古",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-read-for-sass-print\")\n    print(fibonacci) }\n    fibonacci = 1,2,3 + 2,3,4,5,6,7,8,13,14,15,16,17,18,19,20,21,22,24,27,30,32,34,55,89,144,146,146,147,147,152,152,152,152,153,153,154,156,157,156,156",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in other areas, including concepts, collars, permanent sales, food mechanies, mood troops, and snow separation forms. It will be conceived that there are no and no birds of water that the air down water are out of the shooting and o",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a different way of the water cycle and the water cycle is a different way of the water cycle. The water cycle is a different way of the water cycle and the water cycle is a different way of the water cycle is a different way of the water cycle is a different way of the water ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is a different environment to provide all of the resources of our teaching institution. This doesn’t mean that I think these data might be obviously as a formal state of the arts for the teaching institution for our students. The data of the students will be measured by the school system of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.4688
+  }
+]

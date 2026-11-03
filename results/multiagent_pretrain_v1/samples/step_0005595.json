@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能技术的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景不可乐观.\n人工智能的发展前景",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展,对人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来散步.他们穿着漂亮的衣服,在公园里奔跑,在公园里散步.他们与小明玩耍,玩耍,在公园里奔跑.他们躲在公园里玩耍.他们快乐地玩耍,他们觉得游戏快乐.\n小鸟在树上玩耍,在公园里奔跑.他们沿着这条道路走下去,跳跃着,走着,走在路上.小鸟都快跑起来了,他们同着野花,风,花,花.小鸟们正在树林里奔跑,小鸟们跳跃到树林里,小鸟们跳跃到树林里.小鸟们又",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在保证植物光合作用条件下,用无色,无色,无色或无色的光合作用.它包括光合作用.光合作用是指在保证植物光合作用条件下,用无色,无色或无色的光合作用.光合作用是指在保证植物光合作用条件下,用无色,无色或无色的光合作用.在保证植物光合作用条件下,用无色,无色或无色的光合作用.\n1,光照:植物的光合作用是指在保证植物光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5812,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在生长过程中,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过光合作用,通过",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,创造,和发明.其中发明,发明,发明,创造和发明都是伴随着发明创造的.中国古代的四大发明包括发明,发明,发明,发明,发明,创造,发明,创造,创造,创造,发明,创造,创造,创造,创造,创造,创造和发明.其中发明,发明,发明,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,创造,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "睟甑>县志.指长江下游沿江支流,长江上游长洲.舟山,江洲,长洲.长洲.长洲.舟山.长洲.舟山.长洲.舟山.舟山.长洲.舟山.长洲.舟山.长洲.舟山.舟山.长洲.舟山.长洲.舟山.长洲.舟山.长洲.舟山",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5128,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你真的了解它吗?\n世界上有一个现象叫\"语言太复杂\".语言是口语言,它是语言的一种语言,它们互相排斥.\n因此,在学习一门新语言,你到底要学习哪门语言?\n你\"语言太复杂\"\n1. 你的语言太复杂,你真的了解它的意思吗?\n2. 你在语言上完全不知道什么意思?\n3. 你在语言上完全不知道什么意思?\n4. 在你能理解它的地方,你学习哪个语言?\n5. 你能够理解它",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边上的中线等于斜边上的一半.数学家证明此直角三角形中,三边上的中线等于斜边上的一半.\n事实上,为了找到直角三角形中,三边上的中线等于斜边上的一半,这就是著名的帕克定理.\n4.a,b =b b\n5.b,c =d d d d d d d d d d d d d d d d d d d d d d d d d d d ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "高考成绩较往年有所提高,按往年成绩计算,高考成绩在全市前十名中排名前三.\n据悉,今年的高考成绩较往年有所提高,按往年成绩计算,高考成绩在全市前十名中排名前三.\n在高考成绩上,考生要\"以满分计算\".在总分上,考生要\"以满分计算\".\n记者在高考现场看到,考生要\"以满分计算\".在高考上,考生要\"以满分计算\".在总分上,考生要\"以满分计算\".\n同时,考生要\"以满分计算\".在总分上",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4957,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩西湖景区可乘船去杭州游玩游览,西湖交通十分便捷,最好可以去杭州西湖.\n1,自驾:杭州西湖自驾游\n2,搭乘动车,乘高铁去西湖的西湖.\n杭州西湖自驾车路线\n3,杭州西湖自驾车路线\n4,杭州西湖自驾车路线\n5,杭州西湖自驾车路线\n杭州西湖自驾车路线\n6,杭州西湖自驾车路线\n杭州西湖自驾车路线\n7,杭州西湖自驾车路线\n8,杭州西湖自驾车路线\n9,杭州西湖自驾车路线\n10",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3162,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci(n):\n    def wsibonacci",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and engineering is effective in our water science schools. Our environmental sciences can be used to invest in natural development at our business level to enhance the environment to increase the effective and implicate global environment and create a strong view of the environment.\nThe seven picks up to the extent that ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to be used to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in my life.\nYou will be able to set it out of your own teacher taking up a portion of the learning environment.\nYou will be able to keep you to be able to set it out of your school to be able to get them to teach them in the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.4688
+  }
+]

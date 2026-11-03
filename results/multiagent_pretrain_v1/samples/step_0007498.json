@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n人工智能的发展,已经足够成熟.\n今天,人工智能的发展,已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n所以,今天,人工智能的发展,已经足够成熟.\n但是,今天,人工智能的发展,已经足够成熟.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明爸爸去公园.\n小明和妈妈一起在公园散步,玩玩,给小朋友们玩.\n小明和妈妈一起在公园散步,玩玩,给小朋友们玩.\n公园里,小明和妈妈一起去公园散步,玩玩,给小朋友们玩.\n小明和妈妈一起在公园散步,玩玩,给小朋友们玩.\n小明和妈妈一起在公园散步,玩玩,给小朋友们玩.\n小明和妈妈一起在公园散步,玩玩,给小朋友们玩.\n小明和",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中多生长的,绿色植物一般生长在空气空气中,在光照条件下生长出无色,不通风,不透光,不燃烧,不排放物质.\n光合作用是指利用植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用.\n光合作用是指利用植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光合作用,植物的光",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5726,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的作用,是植物在光合作用中的作用.\n光合作用是指绿色植物在光合作用中的作用,是植物在光合作用中的作用.\n光合作用是指绿色植物在光合作用中的作用,是植物在光合作用中的作用.\n光合作用是指绿色植物在光合作用中的作用,是植物在光合作用中的作用.\n光合作用是指绿色植物在光合作用中的作用,是植物在光合作用中的作用.\n光合作用是指绿色植物在光合作用中的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獭?,也是长江流域最大支流,最大支流.\n12月20日,重庆兴业煤矿有限公司项目主体工程施工人员王毅荣,陈珺,马鸿星,张菊龙,刘天琦,赵国凯,陈琦,王伟,赵元,崔斌,董德军,刘万峰,刘东忠,张宏峰,李琦,马岭,邓宝星,彭锦红,黄龙,刘文,刘宏文,刘峰,马鸿星,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言你真的了解吗?你真的会使用Python吗?\nPython 学习任何一门新语言是两种语言不同的地方,它们互相辉映,互相补充,让你真正了解一门新语言.学习一门新语言,你真的会使用Python吗?\n1. 学习一门新语言,你真的会使用Python吗?\n2. 学习一门新语言,你真的会使用Python吗?\n3. 学习一门新语言,你真的会使用Python吗?\n4. 学习一门新语言,你真的会使用Python吗",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.0625
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "两个直角三角形中有一个角大于180°.\n所以A=A+B,B=A,C=B,\n直角三角形的三边长分别为ab\n直角三角形的三边分别为a,b,c,斜边长为c,且三边长分别为d\n直角三角形的四边分别为a,b,c,斜边长为c,且三边长分别为d,\n这个定理是帕斯卡定理的推论.\n在直角三角形中,直角三角形的三边长分别为 m²+2m²+2m²+2m²+2m²+2m²+2",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2906,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的中线等于斜边的一半,即直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,即直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,即直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,即直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半.\n直角三角形中",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "7月,市教育局再次启动\"好学校\"建设推进会,要求全市9所公办学校要按照市委市政府提出的\"新高中学校新定位\"进行整改,确保新高中学校全面焕发\"新活力\".\n    据了解,教育局要求市教育局在办好中,我市要按照\"一校一案\"落实要求,切实开展\"好学校\"建设.各县(市,区)市要明确重点区域,重点任务,加强统筹协调,强化统筹,把学校建设摆在重要位置,确保学校教学,生活,环境\"两个高度\",确保办好.\n    同时,各县(",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "泺城,是杭州的\"历史名城\",也是中国杭州的\"文化名城\".\n 温州西湖.据\"浙江西湖文化\"杂志3月28日报道,位于宁波市的宁波市西湖风景名胜区,占地近500亩, 拥有1000亩西湖景. 从杭州西湖风景名胜区游览的 三件 牌和 牌匾 ,可以看到 三件 牌匾 ,在杭州市西湖风景名胜区游览的 三件牌匾 .\n \"西湖之景,其景之所景,其境之所为,其味之所",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human resources is enabling it to wed water to walking water by conservation. What you should see is the lack of simple ideas and weight and reaction of and then will conserve and run into the walking water route.\nThe water coins you for a turning session",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to be a place to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is a major issue to get out of the topics of this project. Three percent of our students are taught and undergraduates are taught by the current school year. But the more will be the cost for our students to come to the topics of the project. But when our students come to ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.4688
+  }
+]

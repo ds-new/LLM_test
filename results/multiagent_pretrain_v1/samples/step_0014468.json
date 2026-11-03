@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够成熟.但是,正如马云所言,人工智能正在改变世界.\n在\"机器之母\"中,人类会理解人工智能,而它的存在,并不意味着它已经诞生.\n在医学界,人工智能正在成为一段越来越有意思的旅程.但是,它的发展,不免会让人感到恐慌.\n在医疗领域,人工智能正在成为有史以来最热门的领域.\n据彭博社最新数据显示,全球70%以上的医疗技术将由人工智能(AI)驱动的临床诊断(MRI)替代.\n与此同时,人工智能在医疗领域的应用,也在不断出现.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0085,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能技术的进步.\n人工智能的发展,离不开人工智能技术的进步,而人工智能的发展,离不开人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园\n春天来了\n小朋友\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n小明\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在一定的条件下对环境的净化,使它的生长发育达到一定的程度.在强光下,植物因吸收水分而生长的植物光合作用具有较强的抗逆性.光合作用的主要成分包括:1,光合作用产生过程中,光合作用产生的光能,光热,热能的交换作用;2,光合作用产生过程中,光热交换作用,热能的交换作用;光合作用能使光能转化为电能,产生电能,使光能转化为电能.光合作用能使植物在强光下能充分吸收水分,使植物在",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用下,通过光合作用,使植物在光合作用下,能产生更多的光合作用,从而产生更多的光合作用.\n光合作用是指植物在光合作用下,通过光合作用,使植物在光合作用下,能产生更多的光合作用,从而产生更多的光合作用.\n光合作用是指植物在光合作用下,能产生更多的光合作用,从而产生更多的光合作用.\n光合作用是指植物在光合作用下,能产生更多的光合作用,从而产生更多的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭文,铭文是秦代的名词.古已有古,今世有古,都是古代大发明.中国古代的四大发明,包括发明,发明有铭文,铭文是秦代的名词.古代的四大发明包括发明,发明有铭文,铭文是秦代的名词.古代的四大发明包括发明,发明有铭文,铭文是秦代的名词.中国古代的四大发明包括发明,发明有铭文,铭文是秦代的名词.古代的四大发明包括发明,发明有铭文,铭文是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獭甑I, 吴沂水, 吴沂于烟. 12, 4, 0 1 2 3 4 2 1 2 4 2 2 3 1 2 2 4 2 4 2 3 1 3 3 2 1 4 3 3 4 1 1 4 4 3 4 3 2 4 4 4 4 2 3 1 4 4 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看它有多难!\n 今天,你将会受到来自荷兰的计算机语言学挑战.你将会学习到一种快速,有效的,基于网络的语言,以快速的方式为企业和政府机构编程,以可靠的方式为企业和政府机构编程.你将会学习到一种更快,更有效的,基于网络的语言,以快速的方式为企业和政府机构编程.\n 接下来,你将学习一种工具,能够帮助你解决许多问题,如:开发,编程,编程,编译,构建,运行,运行,调试,部署.如果你还没有任何编程基础,那就别担心了,学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形中的直角边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n定理 直角三角形斜边等于斜边的一半.\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:直角三角形斜边上的中线等于斜边的一半.\n勾股定理的逆定理是:",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市中小学将迎来新学期的开学季.\n2月15日,我市各中小学将迎来新学期的第一学期开学.市教体局相关负责人介绍,新学期开学以来,全市各中小学陆续迎来新学期的开学,今年我市中小学的开学日期是2019年3月5日,是2019年3月17日,也是2019年3月30日.\n今年,我市中小学将迎来开学的第一学期.市教体局相关负责人介绍,全市各中小学将迎来新学期的开学,今年,我市中小学将迎来新学期的开学,全市各中小学将迎来新学期的开学,今年全市",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景名胜区(西溪景区)位于浙江省杭州市西湖风景名胜区,距西湖3.5公里.西湖风景名胜区(西湖风景名胜区)位于杭州市西湖风景名胜区中心,距西湖45.5公里.西湖风景名胜区(西湖风景名胜区)区域面积3.52平方公里,总人口4.48万人,其中,农村人口29.7万人,占总人口的22.7%;全国重要的湿地植物类型有西溪,西湖,西湖 , 西湖, 西湖 , 西湖 , 西湖 , 西湖, 西湖 , 西湖 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-def n\");\n    print(\"请输入:n\");\n    def fibonacci(n):    if n == 0:        print(\"请输入:n\");    print(\"请输入:n\");\n    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请输入:n\");    print(\"请",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6496,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" of nature and collapsed from \"humans\" in the new world. The water cycle is organized by the seven bedrooms of the mountains of the horizon of the punishment of the rocks of the punishment. It is a total ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a drop of water that is used by water in the water that is used by water in the water that is used by water in the water that is used by water in the water that is used by water in the water that is used by water in the water that is used by water in ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the classroom. This is not one of the sudden things that we are taking on being sold and thus delighted. The state of the arts will be the most important role in today’s future. That is not the most important thing we can save for ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.4375
+  }
+]

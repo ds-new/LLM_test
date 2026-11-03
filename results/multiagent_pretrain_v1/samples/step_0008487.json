@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n人工智能已经发展到一种高度普及的智能产品,而其中有很多领域,如金融,汽车,智能车等,它们与人们生活息息相关.\n人工智能正在从汽车到智能汽车领域不断演进,尤其在汽车智能,智能汽车等领域.\n2018年,国家网信办,工信部等部门发布\"关于开展新一代人工智能发展规划(2018-2020年)的通知\",明确了人工智能的发展前景,这为人工智能的发展提供了政策引导.\n本次发布的\"人工智能发展规划(2018-2020年)\",在科技部,工信部,工信部等部门的支持下,将从5月14日起实施.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "鹂园看大鹏\n_ 0\n\"小鹏\"是神奇的猫,是可爱的猫.\n小鹏\n/\n小鹏\n小鹏\n❤\n今年,小鹏的妈妈和小鹏一起去看猫.\n这只猫是一只小鹏的猫,是猫的爸爸.\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏\n小鹏",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4615,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为防止植物死亡,保护植物健康,国家植物委员会决定在\"植物保护技术规范\"第四条中规定了\"植物保护工作指导意见\",并提出了\"植物保护技术规程\",并提出了\"植物保护技术规程\"和\"植物保护技术规程\"两部重要技术规程. \"植物保护技术规程\"由中央部属有关部门和单位共同签署,国家植物委员会制定. \"植物保护技术规程\"自1996年10月1日起施行,已连续6年施行. 植物保护技术规程共发布以下五个方面的标准: 1,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.0625
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9744,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,不同时期,同性,异性,异性,异形,异形,异面,异物,异人,异物,异质,异物,异物,异形,异形,异形,异物,异人,异物,异人,异人,异物,异物,异物,异物,异物,异人,异物,异物,异物,异人,异人,异物,异物,异物,异人,异",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綢?,也是长江最长的支流,最大的人工水库.\n12月4日至6月5日,由山东省人民政府指导,山东省水利厅,山东省自然资源厅,山东省自然资源厅,山东省水利厅,山东省水利厅,山东省交通运输厅,山东省水利厅,山东省交通厅,山东省自然资源厅,山东省水利厅,山东省自然资源厅,山东省交通厅,山东省自然资源厅,山东省自然资源厅,山东省交通运输厅,山东省港口集团,山东省港口集团,山东船舶集团有限公司,山东港集团,山东港集团,山东省船舶集团有限公司,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4017,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "速度,因为速度决定了你在语言中的感受,而不是你学完一门新语言就知道了.\n1.语言要快速,必须要快,不能慢,不能慢.\n2.语言要表达清楚,要清晰,要准确,要准确,要清晰.\n3.语言要优雅,要简洁,要简洁,要简洁,要鲜明.\n4.语言要迅速,要简明,要清晰,要清楚.\n5.语言要流畅,要清晰,要简洁,要鲜明.\n6.语言要流畅,要流畅,要鲜明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个锐角,它的锐角是直角.直角三角形中有一个锐角,其锐角是直角.\n直角三角形的锐角=锐角 锐角=钝角 锐角=钝角 锐角=钝角 锐角=锐角 锐角=钝角 锐角=钝角 锐角=锐角 锐角=钝角 锐角=锐角 锐角=钝角 锐角=钝角 锐角=钝角 锐角=锐角 锐角=锐角 锐角",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半,斜边上的中线",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行\"一带一策\"小学语文课后服务项目,共开展各类活动30余场次,涉及小学语文,初中语文,高中语文,高中语文,高中阶段学校语文,高中阶段学校语文,普通高中语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育学校语文,特殊教育",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6068,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩,讪属鹊桥,苍鹭岛,清流湖,大雁山,大雁塔,碧水蓝天,悬空洞,鱼王洞,双门洞,太白山,万壑亭,乌石廊,东天宫等风景名胜区,有鸟居,鸟居,鸟居,鸟居,仙居,仙居,仙居,仙居,仙宫,仙庭,仙社,仙居,仙庙,仙道,仙府,仙池,仙谷,仙崖,仙径",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-hello\") save fibonacci.open = 0 or save save save save save save save save save save save save save save save save save save save save save save save save save save save save save save save save ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " spread to create a permanent building, and how water spread to create a big yogon building. This is a trend of the sugar over the past two years. \"We have a very different concrete building,\" said Rowell Chery, a physician at the University of South Korea. \"The ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is the most important part of the world. The water cycle is the most important part of the world. The water cycle is the most important part of the world. The water cycle is the most important part of the world. The water cycle is the most important part of the world. The water cycle is the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not necessary, but that is important because it is possible for our students to learn and write and read through the same type of learning, or learn from those who work with other students, or for their own learning from other classes, or for their own research. In our perspective, we can read",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4375
+  }
+]

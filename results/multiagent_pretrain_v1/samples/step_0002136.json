@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够了.\n但是,拥有大量技术,复杂的技术,计算机领域里的东西,可能会存在某些缺陷,或者会理解为什么,而它的好处就是能够学习机器了.\n有时候,对于人工智能来说,并不是一个很好的选择,但是对于人工智能这种新的技术,它不那么简单.\n但是,人工智能已经进入了一个新的时代.\n因此,人工智能现在可以在人们习惯于任何一种人工智能.但是,对于人工智能来说,这是不好的,因为人工智能现在可以学习到许多东西.\n但是,要想成为一名工程师,你应该需要知道什么,你可以拥有一些可以学习的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和朋友一起去公园.\n我觉得,春天和妈妈一起去公园,他们走得很近,那里有小朋友.\n校园内,幼儿园里有这样一群小孩子们,他们个个已经光荣度过了.他们的老师,孩子们都渐渐开朗起来.他们在一起聊天,一起玩耍,一起分享快乐.他们一起唱歌,一起玩乐,一起聊天,一起唱歌,一起唱歌.\n我们一起跳舞,一起唱歌,一起嬉戏,一起跳舞.孩子们们的歌声热情高涨,同学们,孩子们也都喜欢上乒乓球比赛.\n而小明和妈妈一起跳舞,一起唱歌",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为下一代特有植物,尤其是您一般的水质植物.这五种植物可以在不同的植物之间生长,所以光合作用都是无花果.我们选择每一种植物类型,就可以选择不同的颜色,每个植物都可以选择不同的植物类型. 光合作用是一类有肥料的植物,当然这种植物还有很多的种植方法,所以我们选择一种方式种植.\n光合作用是一种技术手段,它可以解决了植物营养的实际问题,但是光合作用可以有效提高植物营养的利用率,从而节约很多麻烦.\n光合作用是一种技术手段,它能解决植物营养的效益",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间相互促进的,而光合作用是一种植物和植物之间",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"三国志\"\"英雄传\"\"三国志\"\"秦圣\"\"亡国志\"\"五经\"\"大经\"\"抗战\"\"大经\"\"永乐\"\"三国志\"\"五经\"\"三国志\"\"三国志\"\"三经\"\"三国志\"\"三国志\"\"三国志\"\"五经\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志\"\"三国志",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,中国四大水库之一.长江流域面积最大的湖泊,水资源丰富,最大水域面积2539平方公里,是长江流域唯一完全不同的湖泊.\n长江流域基本建成对外开放,长江流域面积最大,面积最大,面积最大的湖泊.长江流域面积最大,面积最大的湖泊,水资源丰富,最大水域面积最大的湖泊,水资源丰富,最大水域面积最大的湖泊,水资源丰富,最大水域面积最大的湖泊,水资源丰富,最大水域面积最大的湖泊,水资源丰富,最大水域面积最大的湖泊,水资源丰富,最大水域面积最大的湖泊,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5641,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",语言是必备的编程语言之一,包括汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,汇编语言,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":\n三角形内角平分线定理,因为∠BAA=∠BAA,∠BAA=∠BAB,∠BAA=∠BAB.\n三角形内角平分线定理(注:∠BAA=∠BAA=∠BAB)\n当∠BAA=∠BAB=∠BAB,∠BAA=∠BAB,∠BAB=∠BAB.\n三角函数公式:\n在直角三角形中,任何两个角都相等的三角形都叫做余弦三角形的.\n例如:\n有 ,\n,\n,\n则有:\n即",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.359,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":\n在直角三角形中,∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=∠ABC=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,将再次拉开序幕,从小学一年级至高中三年级至初中三年级,各年级于暑假期间,将陆续重新出发.\n点击下方下方链接进入\"中国儿童发展与教育发展规划纲要\"",
+    "new_tokens": 44,
+    "ended_with_eos": true,
+    "replacement_chars": 0,
+    "rep4": 0.0244,
+    "tail_top_share": 0.0909
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西夏经(唐官城)位于西湖西走廊内,全长5301.9公里.西湖地理文化 西湖文化 浙江西湖风景秀丽,素有\"西湖之滨,西湖之秀\"之誉.西湖山水 西湖山水 西湖风光秀丽,素有\"西湖之秀\"之誉.西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 西湖山水 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.2969
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print()\n 输出:\n user email address\n pdf\n public string info()\n 输出:\n namespace\n System.out.println(\"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"name\" + \"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6581,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human becomes the rail nursing wake of water world after the heart of the world. The cell troop gives water disease seats across the world. The contract and then the water project chooses the world released the company.\nThe seat was the place of the world to the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is the water cycle in the water cycle in the water cycle. The water cycle is the water cycle in the water cycle in the water cycle. The water cycle is the water cycle in the water cycle. The water cycle is the water cycle in the water cycle. The water cycle is the water cycle in the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is not a major issue at school out of the topics over the years, some still has been set to be convinced with sustainability, or one-on-one-way in the same way to make the right.\nLearning from today’s future in the last two years ago, the first thing is a problem",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.3906
+  }
+]

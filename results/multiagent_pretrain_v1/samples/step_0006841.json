@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景如何?\n关键词:人工智能;\nAI;\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 人工智能;\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)\n· 机器\n人工智能(AI)",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7863,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "菜场来吃大白菜.\n1,梅花吐菜白萝卜根部.茎秆直立,与茎秆比色,红褐色,长10-15厘米.\n2,紫红萝卜根部.茎秆直立,与茎秆比色,红褐色,与茎秆比色,红褐色,长10-15厘米,宽10厘米左右,茎秆为黑色,红褐色,宽线形,各条茎都浅棕色.\n3,黄萝卜根部.茎秆直立,与茎秆比色,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3419,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为下一代的植物,尤其是对南方人来说,植物光合作用是通过光合作用.\n光合作用中的有害物质包括:激素,维生素,维生素等.\n光合作用是一种常见的绿色植物,是植物根系中常绿,高盛,次花广泛的植物.光合作用对微生物和植物生长发育具有重要意义.\n光合作用和光合作用相互影响和相互作用.光合作用对生物体生长发育,生长发育和环境影响较为显著.\n光合作用对对生物体的生长发育,生长发育和生长发育产生影响.生物体生长发育主要是生长发育期间",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中的利用,包括光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,光合作用,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明.其中就包括有,如王道春,王希海等发明发明;陶冶陶冶,陶人用陶器.陶器都是已经出土的,与陶器相区别的是陶器.中国最早的陶器只有陶器,陶器是陶器的祖师,陶器是陶器祖师,陶器是陶器的主人,陶器是陶器的祖先.秦书.汉书.西汉文.高祖,虞世之发明.秦始皇时,秦的元人,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "綮淅I, 吴 锄 吴 蒿 吴 秶 屈 0 1 2 3 4 2 1 4 4 3 6 7 8 5 8 9 8 9 8 9 9 9 9 9 8 9 10 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门课要通俗易懂,语言通俗易懂,还要注重实践性,不可忽略,注重知识的讲解和讲解.同时,这门课要注重实践,要注重实践性.要注重实践性,要注重实践性.\n通过学习这门课,你不仅掌握了一门新的语言,而且还掌握了相应的语言用法,并掌握了如何编写程序,编写程序,注释程序等.而且,这门课应该贴近实际,增强学习效率,提高效率,培养动手能力,能够更好的吸收和学习新的知识和技能.\n这门课主要学习语法,函数,变量,表达式,过程,过程",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中每边边上的中线等于斜边的一半.设直角边为，,直角边为，,则∠=∠(∠+∠)∠(∠)∠.(cos∠=90° )∠=90° = ∠(180° )∠=90° = ∠(∠+∠)∠(∠-∠)∠.\n三角函数公式: 余弦公式: 余弦公式: 积余弦公式: 余弦公式: 余弦公式: 正切公式: 正割公式: ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2991,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线等于斜边的一半.\n在直角三角形中,直角边上的中线",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市将重点保障好全区中小学及幼儿园,特教学校,各类校外培训机构等校外培训服务,确保学有余力,学有余力.\n我市将全面推广\"互联网+\"教育资源,力争取得\"社会认可\",\"社会认可\"证书.全市\"互联网+\"学校,特教学校,各类培训机构,以及各类培训机构.\n为推进新时代教育公平,推动教育公平,让教育公平惠及全体幼儿,以实际行动开创教育事业的繁荣局面,我市将进一步加大\"互联网+\"教育投入,提高广大幼儿在课外,校外,劳逸结合,自主",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖,别有洞天,故名.天门山,天门山.浙江桐乡云溪,山名蓝花,碧水蓝天.西湖西岸,鱼儿闲,云里云里.山野草坡,水边石径.东面,南面,山谷间,三峰五谷,以翠绿,花香,色如白,竹气.溪水潺潺,溪水潺潺. 西湖胜境好,山胜水远. 西湖胜境好,山胜水远. 西湖胜境好",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def def(n):\n    def init(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def init(n):\n    def init(n):\n    def init(n):\n    def init(n):\n    def fibonacci(n):\n    def init(n):\n    def init(n):\n    def init(n):\n    def init(n):\n    def init(n):",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " related occurred in the \"light\" of water that wrote a \"wall\", is in the \"light\", but not \"trouble\" and \"light\" over the \"light\".\nThe water cycle describes its own contained water of water and water that route the water of water as opposed to a water from",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that is a natural environment that",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is not that we are in our business. This is not the same as it does not indicate that we were in our business. It does not indicate that we are in our business to make the big difference to our business through our business to make the big difference. And we have to be ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3248,
+    "tail_top_share": 0.4844
+  }
+]

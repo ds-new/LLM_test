@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,移动互联网,乃至全人类,都正正朝着一个方向去发展.\n而人工智能,也是源于人工智能.\n现在,人工智能正在为我们的生活提供哪些便利,比如智能交通,智能农业,智能安防,智能医疗,智能金融......\n而这一切,都源于人工智能.\n当然,人工智能的发展,还离不开人工智能.\n这其中有三个条件:\n其一,人工智能对各行各业的影响大.\n其二,人工智能的发展,还带来了一些新的变化.\n第三,人工智能的发展,催生了新的社会变革.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展,离不开人工智能.人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "菜市场,她们和爸爸一起去散步,他们和妈妈在公园里拍照,玩著,喝著咖啡.他们和爸爸一起玩耍,玩耍,体验.\n春寒料峭,花草茵茵,春意盎然,花香四溢.公园里的花花草草,绿草如茵,也是人山人海.\n新芽们和爸爸妈妈,和爸爸妈妈一起悠闲地玩耍.绿草如茵,绿叶,花映着海风,桑葚,梅花,向日葵,叶儿都是红豆,它们尽情享受夏日阳光,释放",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的生理活动中,利用空气,水和空气吸收了自身的能量.它是植物光合作用的一种方式,是一种包括光合作用在内的物质和化学,生物,化学等生命活动的物质和物质交换的一种方式.光合作用是一种有目的,有目的的物质的交换,是植物光合作用的一种途径,是植物光合作用的一种方式,是一种包括光合作用在内的物质和物质交换的一种方式,是一种包括光合作用在内的物质和物质交换的一种方式,是植物光合作用的一种方式,是一种包括光合作用之外的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3675,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在体内生长,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,开花,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹.比如发明不同时代的活字印刷术,发明不同时代的活字印刷术,发明不同时代的活字印刷术,发明不同时代的活字印刷术.\n古代四大发明有发明的痕迹,就是六朝时期的史籍记载.\n第一个是周朝史籍记载.\n我国在古代史籍记载中,大部分是周朝史籍记载中记载的,我国最早的史籍记载是东汉周朝史籍记载.\n西汉的周朝史,可以追溯到唐代,到元代时是周朝史籍记载",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2991,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐獞中,湖北鄂豫段保护面积1060.12万亩,占全省耕地面积的70%,占全省耕地面积的78%,占全省耕地面积的73%.\n 秦汉时期,他们创造了伟大的社会财富.当时,秦汉虽然被盗夺,但是统治者对汉武帝所赐的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "速度,因为速度是学习语言的最佳方法,而速度是学语言的基础.\n通常,学习任何一种编程语言,要快速的学习它,需要大量的知识,因为只有这样才能更好地适应它. 最有效的方法是学习语法,也就是学习各种编程语言,对于新手来说,学习一门语言必须很快,但是不知道如何下手,而且从入门到精通.\n不要担心,当我们遇到了困难时,我们需要及时的解决它.\n首先,学习语法:\n一旦你的语法掌握好了,它就可以很快地开始.如果你遇到困难,请不要马上拒绝它.\n学习",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边在斜边的延长线上,斜边比斜边小,斜边上的高比斜边大,斜边上的高比斜边小.\n 在直角三角形中,直角边为边,斜边为腰的直角三角形叫斜边斜边.\n 直角三角形中,斜边为边,斜边为角.\n 直角三角形中,直角三角形中,斜边为边,斜边为边.\n 在直角三角形中,直角边为边,斜边为腰的直角三角形叫斜边斜边.\n 勾股定理,勾股定理是古代著名数学公式之一",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3675,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,a,b,c,d,e,f,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期开学第一课.为了缓解新学期开学压力,我市各中小学于7月12日前陆续开展了新课,包括\"如何上好一堂好课\",\"如何上好一堂好课\",\"如何上好一堂好课\",\"如何上好一堂好课\"等6门课程,共30课,共800多节课,计划新学期开学前开展.\n今年暑假期间,我市各中小学于7月12日前陆续开展了新课,包括\"如何上好一堂好课\",\"如何上好一堂好课\"等6门课程,共30课,共800多节课,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩,讹属限,在西湖内人们可随处欣赏.浙江湖有云天,蓝蓝蓝的天空,碧蓝蓝的天空,翠蓝蓝的天空,两岸的云和蓝蓝蓝的天空,还有 [罗志祥] 说:杭州西湖,不是游览西湖,它是旅游,生活,娱乐的场所,这是杭州市民最喜爱的旅游胜地.\n[杭州西湖]西引寺位于西湖边,座落在西湖边.西湖于古时称为\"西湖\",是杭州中轴线,西经120°32′~",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"pythonnamespace\");\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"wd\")\n    print(\"w",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" of nearly all the sides of the water and the water set to the earth\" when they take part in the first of these words. \"The water cycle is the conversation between the occurred and the water set to the earth\" (p. 237). The book",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is the most important part of the world. The water is the most important part of the world. The water is the most important part of the world. The water is the most important part of the world. The water is the most important part of the world. The water is the most important part of the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the public domain as possible, and you can read it in the public domain.\nHow to Learn to read is important because it is in the public domain. The Civil War commute to the public is to not see it with the public votes of the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.4375
+  }
+]

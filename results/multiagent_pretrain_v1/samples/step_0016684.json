@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,只不过是计算机领域里的\"机器之母\",而作为人类,我们只是正在\"思考\"着人工智能.\n现在,我们都处在人工智能的\"黑箱\"时代,人工智能已经进入我们生活中的所有场景.\n尽管我们仍然不能理解人工智能,但是,我们已经看到,人工智能已经成为我们生活中不可或缺的一部分,比如,人们习惯用手机来聊天,但是,当我们真正要了解它的时候,仍然无法理解.\n但如果我们把人工智能融入我们的生活,甚至对于我们自己,也会变得更好.\n当我们拥有智慧的时候,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "菜市场，银滩_温暖的海湾,在公园里,还有一间儿童游戏室,小朋友与家长一起玩耍,透过小明和小明聊天的游戏故事.\n春天来了，小明和妈妈一起去公园，银滩_温暖的海湾,在公园里,还有一间儿童游戏室,小朋友与家长一起玩耍,透过小明和小明和小明聊天的游戏故事.\n公园里,萤火虫多,到处充满了幻想.\n小明和小明和小明,都是好朋友,知道什么事都可以与好朋友分享,但是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3162,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在绿色植物光合作用中的合成与降解,对植物进行光合作用,光合作用是光合作用与光合作用物质和化学合成的主要手段,是植物光合作用与光合作用合成与降解的基础. 植物光合作用包括光合作用,光合作用,光合作用和光合作用.光合作用可分为光合作用和光合作用两种.光合作用可分为光合作用和光合作用.光合作用可分为光合作用和光合作用. 植物光合作用包括",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3761,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收二氧化碳,从而产生光合作用.光合作用是指绿色植物在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收二氧化碳,从而产生光合作用.光合作用是指绿色植物在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收二氧化碳,从而产生光合作用.光合作用是指绿色植物在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收二氧化碳,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7179,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明创造的痕迹.比如,秦王秋意欲饮,即欲献文.\n此外,大运河中便有\n\"庄子\"篇\n,这\"庄子\"说:\"天下有\n中道\n,天下无\n,所以\n中道\n.此中道,谓天下有\n中道,谓天下无\n中道.\n这就说,\n\"庄子\"说:\"天下有\n中道,谓天下无\n中道.此中道,谓天下无\n中道.\"\n\"庄子\"说:\"天下",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2821,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.3594
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要看看它有多难!\n [热点]Python 3 不可忽略的5个特性,你知道吗?\n [问题] Python 3 vs Python 3.0 版本 2.7 或更高版本,你该如何选择?\n [热点]Python 3 vs Python 3.0 版本 2.7 或更高版本,你该如何选择?\n [问题] Python 3 vs Python 3.0 版本 2.7 或更高版本,你该如何选择?\n [问题]",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边在斜边之内的平方加此直角边平方和,即勾股定理.\n在直角三角形中,ABC=3/3,AB=2/3,BD=3/3,所以,ABC=BD.\n在直角三角形中,AB=2/3,BD=3/3,AB=2/3,BD=3/3,AB=2/3,所以,ABC=BD.\n在三角形中,BA=3/3,BD=3/3,BC=2/3,BD",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半.\n直角三角形斜边上的中线等于斜边的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市中小学将迎来新学期的开学,我市将结合\"双减\"政策,继续开展全市中小学寒假安全,消防安全,消防安全,交通安全,体育活动安全,交通安全,交通安全,消防安全,安全文明出游,校园周边安全,交通安全,交通安全,交通安全,交通安全,消防安全,消防安全\"五项重点安全内容.\n记者在市新时代文明实践站了解到,我市义务教育阶段校外教育将逐步加强,其中,校外教育主要包括义务教育,特殊教育,特殊教育,特殊教育,特殊教育\"五项重点安全内容\".\n市新时代文明实践站",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2308,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "西湖风景名胜区(西溪景区)位于杭州市西湖区西湖畔,距西湖3.5公里,环境优美,生态环境优美.西湖风景名胜区风景秀丽,气候宜人,被誉为中国第一西湖.\n杭州西湖景区分为两部分,一部分是西湖的精华部分,另一部分是西湖的标志性景点,分别位于杭州西湖景区的东湖(西湖),西湖区(西湖)和西湖(西湖)西岸.西湖是西湖的精华,也是西湖风景名胜区的精华.西湖风景名胜区风景秀丽,气候宜人,被誉为中国\"西湖第一园\".",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1026,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def read): save fibonacci( n ) to b n '\n def get_read(self):\n    print(\"self.read\")\n    print(\"new dirty fibonacci n\" + self.read)\n    print(\"new dirty fibonacci n\" + self.read)\n    print(\"new dirty fibonacci n\" + self.read)\n    print(\"new",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be perfect. Water for water is just fast. A big yoga of water that is intimidating is part of the overall Idaho issue. The water cycle is very different from an overall suburb of water from a larger heterogeneous place. It is very different ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taught in the water cycle of the water that is taught in the water cycle of the water that is taught in the water cycle of the water that is taught in the water cycle of the water that is taught in the water cycle of the water that is taught in the water cycle of",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of thinking about this sort of sense that it is in a way that we love to get into the future. The state of the state will be doing this very important because of the future in the process. We will be able to teach how to read",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.4844
+  }
+]

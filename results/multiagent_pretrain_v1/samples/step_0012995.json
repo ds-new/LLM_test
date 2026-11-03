@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,就像一场计算机革命一样,将直接改变人类社会.\n马云在2016年,人工智能曾提出一个巨大的愿景:\n\"让机器学习,让它做人类做不到的事情,让机器做不到的事情.\"\n尽管马云是第一个提出人工智能的企业家,但他的理想仍十分远大.\n有媒体报道,在2017年,马云就投资了汽车,智能家居,智能家居等方向.\n当时,距离马云的创业梦想还剩两年,但马云却早已开始规划未来的人工智能.\n马云说,在未来五年",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展,离不开大数据,人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "王猴捉蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾蟾�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.9573,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "生长过程中所需的碳酸氢根元素,其质量取决于植物自修复吸收/再利用.植物营养师可以通过植物吸收或利用植物生长所需的各种营养成分,以及植物自身所需的各种成分来增强植物的抗逆性.\n通过植物吸收,植物自身所需的各种营养成分(包括植物生长所需的营养成分)可以提升植物的抗逆性,促进植物的生长.通过植物吸收,植物自身所需的各种营养成分可以通过植物自身所需的各种营养成分,以及植物自身所需的各种营养成分(包括植物自身所需的各种营养成分)来增强植物的抗逆性.植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内生长,生长,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖,繁殖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有100多年,在历史长河中,只有王的发明有300多年,在中国古代,也只有王的发明有300多年,只有中国古代才有这300多年.中国古代的四大发明分为三六九等,与\"九章算术\"中的\"置筹于原,余置于今,盖代于今\".我国古代的四大发明有30多年,其中60多年只有\"孙子算经\"中的\"孙子算经\"中的\"孙子算经\"中的\"孙子率表\"的\"孙子算经\"中的\"率规表\"的\"孙子算经\"中的",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "睟?,也是长江最长的支流.\n相传,长江源头有一条河流,叫屈原.\n说屈原是春秋战国时期楚国的军事长官.屈原死后,这里成为中国的军事战场,荆楚争霸中,屈原向北方侵略者施战,荆楚争霸中,屈原又消灭了屈原.\n这时,屈原被杀.\n屈原在位,不与楚国争斗.\n\"楚霸王\"是东汉末年,屈原与关羽齐名",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0598,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要看看它,你真的了解它吗?\n其实学一门新语言,通常需要学习一些语法,语言的基本知识,并且需要考虑它们.如果你不知道如何开始学习,那么你可以去看看一些学习新语言的方法,或者看看一些文章,或者看看相关的视频.\n1. 了解语言的基本概念,语法,以及它的语法语法原理.\n2. 理解语言的基本功能,例如语法,语法,语法,以及它的语法语法原理.\n3. 了解语法,语法,以及它的语法原理,了解它的一些语法规则.\n2. ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1197,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边与边乘积为1,斜边与斜边乘积为2,则斜边=斜边的一半/2,斜边=斜边的一半/2.直角三角形中,斜边和斜边之比,叫做斜边,斜边上的中线比斜边上的中线长,叫做斜边上的中线.求斜边的方法 1.利用斜边定义及证明. [思路] 求斜边上的中线 求斜边上的中线 定理1 .设斜边AB的延长线为,则AB+BC+AC=",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,直角边为直角边,斜边为直角边,斜边为直角边,斜边为直角边.\n勾股定理的逆定理是:直角三角形中,直角边为直角边,斜边为直角边,斜边为直角边,斜边为直角边.\n勾股定理的逆定理是:直角三角形中,直角边为直角边,斜边为直角边,斜边为直角边,斜边为直角边,斜边为直角边.\n勾股定理的逆定理是:直角三角形中,直角边为直角边,斜边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.812,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了\"放寒假,带暑期\"措施.全市9所高校实现了秋季学期的寒假放寒假,共设置27个假期,305个暑假.\n\"我们严格实行'放寒假',保证暑假的'放寒假'时间\"\n\"大年初一,让我们好好放松放松,好好放松,一切就绪!\"2月1日,市教委副主任,市总工会主席邓伟华向市教育局领导和广大市民发放\"开学第一课\",他们为\"大年初一\"假期\"放寒假\"作业,为\"小年初一\"假期",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "衢别湖:相去看看,相去看看,下次一起去看看.\n浙江杭州有这样一座古城:古城城.从浙江杭州出发,从西施,从江南出发,从西湖东岸出发,从西施,从西湖西岸出发,从西施,从西湖西岸出发,从东施,从江南出发,从江南出发,从西湖西岸出发,从西施,从西湖西岸出发,从西施,从江南出发,从东施,从西施,从西湖西岸出发,从西施",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.2188
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    fibonacci(n)  def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air”, near the cold and surrounded. There are many new things that are intended for water and related to the surface, but there are many new things that are contained in the area of water (from the air), which are outsourced by the grace and",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used in the water system. The water system is a large part of the water system that is used in the water system. The water system is a large part of the water system that is used in the water system. The water system is a large part of the water system that is used in the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7265,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is essentially important.\nThis entry was posted on November 4, 2015 at 10:54 am, Fri, 7:30 pm, Oct. 6, in Royal Park, Mass. with a minimum of 10 minutes of an hour.\nThis entry was posted on November 4, ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.3594
+  }
+]

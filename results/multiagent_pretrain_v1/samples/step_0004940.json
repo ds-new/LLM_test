@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "前景广阔,产业应用场景广阔,既离不开机遇,也离不开机遇.\n随着人工智能的发展,人工智能技术也开始涌现.作为通用人工智能领域的龙头企业,远距离布局人工智能产业,已经成功应用于智能医疗,智慧医疗,智能医疗,智能交通,智慧农业,智能安防等领域.未来,远距离布局人工智能产业,将成为未来智慧医疗,智慧医疗,智能交通,智慧医疗等领域的有力策源,是未来智慧医疗,智慧医疗,智慧农业,智慧农业等领域的有力策源.未来,远距离布局人工智能产业,将成为未来智慧医疗,智慧医疗,智慧医疗",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2821,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展,是人工智能发展的必然趋势.\n人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明来玩,她忽然感到自己是个\"奇葩\"了,她连忙回答:\"小明,小朋友,你干什么啊,小明 -  - \"小明说:\"小明,你学什么啊,小明我怎么办呀,小明你怎么办呀,小明你怎么办呀,小明你怎么办呀,小明你怎么办呀,小明你怎么办呀,小明你怎么办呀,小明你怎么办呀,小明你怎么办呀,小明我怎么办呀,小明我怎么办呀,小明你怎么办呀,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5299,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用是指开放,开放的植物光合作用.光合作用是指开放,开放的植物光合作用是指开放,开放的植物光合作用. [1] 光合作用是指开放,开放的植物光合作用是指开放,开放的植物光合作用是指开放,开放的植物光合作用. [2] 光合作用是指开放,开放的植物光合作用是指开放,开放的植物光合作用. [3] 光合作用是指开放,开放的植物光合作用是指开放,开放的植物光合作用. [1] ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用过程中,通过光合作用,可以使植物在光合作用过程中,能够保持光合作用,从而提高植物的光合作用效率.\n光合作用是指植物的光合作用,可以使植物的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物的光合作用,可以使植物的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物的光合作用,可以使植物的光合作用,从而提高植物的光合作用效率.\n光合作用是指植物的光合作用,可以",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6752,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,和发明.其中发明,发明,发明,发明和发明都是人类创造创造的.中国古代的四大发明包括发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7607,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "睟�п�в鸢ˇ呌uв中в",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 2,
+    "rep4": 0.2821,
+    "tail_top_share": 0.3125
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",语言是完美的,而语言是完美的,并且会具有一些不可抗力.\n学习一门新语言最重要的是,语言是完美的,而且它们确实可以很好地运用.\n在学习一门新语言之前,我们需要了解编程语言是什么以及它们是怎么形成的.\n对于编程语言,我们需要学习一门新语言.\n我们不知道如何编写一门新语言,我们需要知道的是,编程语言是完美的.\n我们需要了解编程语言是什么以及它到底是不是正确的,我们应该如何编程.\n编程语言是完美的,但不是完美的,我们应该如何编写它们.\n编程语言是完美的,但不是完美的,我们要编写它们",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中有一个角∠N为∠N的直角三角形.设∠N为∠N的外接圆,∠N=90°,∠N=90°.则∠N是直角三角形中∠N的斜边.\n直角三角形中∠N与∠N=90°的中点.\n直角三角形中∠N是直角三角形中∠N的斜边.直角三角形中∠N为∠N的直角三角形中∠N=90°的中点.\n直角三角形中∠N=90°的中点.\n直角三角形中∠N=90°的中点.\n直角三角形中∠N",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边长分别为1.5,2.5,3.5,4.5,5.5,6.5,7.5,8.5,9.5,10.5,11.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13.5,13",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "市外中考招生实行\"绿色通道\"式招生.\n自8月23日以来,记者从市教育局了解到,针对新生的入学年龄,初中毕业生等,凡具备高中毕业,高中毕业,高中毕业,就读本校,社会工作或其他能力的,均须提供\"绿色通道\"申请,市外学籍校验.\n记者了解到,据了解,在昨日举行的市外中考招生发布会上,市教育局副局长李茂贤表示,今年本市中考招生统一网上预录取,考生通过在线报名,可自主填报普通高中,普通高中,普通高中等普通高中,录取结果和参加中考的招生院校",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "城区,经商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商,商",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "var name = n ll;\n    if (name  name = n ll && name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  name  ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human becomes available.\nWater for water science and the human becomes available.\nQ: There are many sections of the science and the human becomes. You may not take a little bit of the project. You may not get a little bit of the water science and the human becomes. You can",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4188,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a natural environment and the water is a natural environment. The water is a natural environment and the water is a natural environment. The water is a natural environment and the water is a natural environment. The water is a natural environment and the water is a natural environment. The water is a natural environment and the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our readings have grown back to school, and our knowledge will help students a better understanding of how they will read. We need a sense of the knowledge of our parents and students. We also hope to be able to read in the classroom of the classroom.\nOur student is encouraged to teach a man of",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.4531
+  }
+]

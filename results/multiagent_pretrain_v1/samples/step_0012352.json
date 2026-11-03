@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,就像太空船,正向着我们这些远征太空的人去飞.\n而人工智能,又会像航天飞机一样,飞得更高更远,飞得更高更远,越来越智能,越来越智能.\n2018年,我们(国家工程院)发布\"中国人工智能发展报告(2017)\"认为,2017年我国人工智能产业规模达25.5亿美元,年复合增长率达24.5%,比上年同期翻一番.\n从人工智能(AI)的发展速度来看,2017年中国的人工智能产业规模为14.5亿美元",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0625
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能成为现实.\n人工智能的发展,让人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9231,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来散步\n_     \n寒风阵阵,寒风阵阵,我给妈妈穿上了穿的衣服,陪着妈妈走出公园.\n在公园里,爸爸在公园里与妈妈们过意不去,不禁感叹:\n\"公园里你刚穿什么衣服?\"\n\"我刚从公园回来,看见爸爸,妈妈在我旁边.\n\"妈妈我倒在公园里,望过去,可我心里想:妈妈呢?\n\"你真",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为防止碳酸氢根堵塞,促进植物生长和生长,对植物的生长发育有重要作用.光合作用利用了光合作用植物的形态,结构,生长方式,繁殖速度,聚集,适应性,抗逆性等特征,为植物生长,生长提供科学依据.1.光合作用种植范围:以种植区为主,以种植技术为主,以种植技术为主.光合作用种植适宜的生长温度:1~10℃-15℃,相对湿度:75% - 90% - 85%,相对湿度:90% -",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在植物体内生长,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖,生长,繁殖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有铭牌,铭牌,铭牌,十字......,有五千年以上的传统儒家思想,五千年以上的礼仪文化,无与伦比的圣洁.我们今天来看,这些重要的文明建筑都是出自这里,这充分说明了历史古迹是中华民族智慧的结晶.中国传统文化的建筑是中国的瑰宝,因为它展示了中华民族的文化精华,使人铭记在心的生活方式.\n古代的古代建筑主要分为两种:一是建于唐代的砖雕,二是建于宋朝时期的砖雕,三是建于明朝的明代砖雕.此外,在明清时期,建筑的殿堂大多建筑",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0256,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟獟獟獟獟獟獟獟獟獟獟獟獟獟獟獟獟獟獟獟",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看这些新语言的学习方法,包括你现在会使用哪些库和框架,以及它的主要用途.\n 要快速了解新语言,最重要的还是阅读旧语言.要快速了解新语言,最好的方式就是阅读它.\n 学习一门新语言,最重要的还是阅读它.如果你已经有了一个新语言的基础,那么就开始进入它的领域.\n 学习一门新语言,最重要的还是阅读它.\n 学习一门新语言,最重要的还是阅读它.\n 学习一门新语言,最重要的还是阅读它.\n 学习一门新语言,最重要的还是阅读它.\n 学习一门新",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4444,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形三边长ABC,BC为C点,C为斜边,求斜边BC,C=BC.\n直角三角形的三边长AB,BC,CA分别是边BC的边BC,AC和BC,斜边BC的斜边BC与斜边BC的斜边BC的斜边BC分别与斜边BC的斜边BC,斜边BC的斜边BC,斜边BC的斜边BC的斜边BC,斜边BC的斜边BC和斜边BC的斜边BC与斜边BC的斜边BC和斜边",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4701,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半.\n直角三角形斜边上的中线等于斜边上的一半",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,我市实行了\"放寒假\",共安排2个班,9个班,16个班,16个班,27个班,30个班,2700余名学生,采取\"三全\"管理.\n在阳光底下,孩子们\"出\"成\"大器\".在阳光底下,孩子们\"出\"成\"大器\",他们把汗水洗干净,把汗水浇满油水,把汗水浇满雨伞,把雨伞浇满地.\n在三全之中,孩子们\"出\"成\"大器\",他们把汗水",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2222,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": " 大连 海口 宁波 大连 上海 苏州 杭州 上海 苏州 杭州 青岛 大连 大连 南京 南京 大连 武汉 杭州 上海 南京 郑州 南京 北京 大连 西安 天津 武汉 重庆 南京 武汉 武汉 广州 杭州 北京 大连 大连 西安 北京 西安 南京 武汉 武汉 上海 武汉 武汉 西安 天津 西安 北京 南京 沈阳 南京 西安 上海 苏州 西安 上海 武汉 武汉 南京",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2564,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-n\")\n    print(\"powder_n\")\n    print(\"powder_n\")\n    print(\"coder_n\")\n    print(\"python-n\")\n    print(\"powder_n\")\n    print(\"powder_n\")\n    print(\"coder_n\")\n    print(\"coder_n\")\n    print(\"powder_n\")\n    print(\"coder_n\")\n    print(\"coder_n\")\n    print(\"powder_n\")\n    print(\"powder_n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it occurred in the \"light\" when it occurred. One of the earth is the scene at the mountain of the Earth on the ground, the color of the mountain and the piano was chilled by the south and by the seven piano were chilled by the light",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle is growing up in the world. The water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.4531
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our data is a major issue of learning, and is important because our data is an important role in our district and our counselors. We need to make a key impact in our districts.\nWhile we are concerned with our success and future success, we are not ready to get an education and learn the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4375
+  }
+]

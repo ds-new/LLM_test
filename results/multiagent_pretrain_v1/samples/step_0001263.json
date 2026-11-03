@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",是中国人工智能产业发展的重要战略,也是继于\"数字中国\"战略之后,成为全球人工智能的\"大变革\",成为人工智能产业加速发展的根本力量.\n\"AI浪潮正在从\"制造业+制造\"的层面,加速\"数字中国\"走向\"数字中国\".\n\"AI浪潮正在从\"人工智能+\"和\"AI\"的进化,\"AI浪潮正在从\"人工智能\"到\"人工智能\",这应该是中国人工智能发展的核心力量.\n\"AI浪潮正在从\"人工智能\"到\"人工智能\",在\"互联网+\"的进程中,AI浪潮正在从\"感知\"和\"感知",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人们生活的一部分.人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,人工智能,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9145,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明入住6点.\n小明和妈妈陪在公园,他们玩玩的,那里有小朋友.小明和妈妈一起玩的,小明和妈妈一起玩的,家里有小朋友.小明和妈妈一起玩的,家里有小朋友.小明和妈妈一起玩的,家里有小朋友.小明和妈妈一起玩的,家里有小朋友.小明和妈妈一起玩的,家有小朋友.小明和妈妈一起玩的,家里有小朋友.小明和妈妈一起玩的,家里有小朋友.小明和妈妈",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6667,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为防止植物生长,促进植物生长,促进植物生长,促进植物生长.\n光合作用是指光合作用,包括光合作用,是指光合作用,是指光合作用,包括光合作用,是指光合作用,包括光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作用,是指光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物,植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"古学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学\"\"新学",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9573,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,是古人石门的记载,也是清朝以来的吴朝水之精华所在.相传唐代杨迁,是一位画家,但他并不完全地喜欢胡腐,却常常不客气地留在溪水上,开始沉默.\n1958年1月6日,吴朝水宣判为\"海运好水\".唐朝曾赋予当时江浙的\"水丰\"之情,称当时城隍,曾居右膝,后居左膝,后居右膝.\n\"水丰,是江浙的\"\n\"江浙的\"\n\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0427,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",一个人要精通一门编程语言,想要懂一门编程语言,就要掌握一门计算机语言,掌握一门语言,懂得一门语言,能够掌握一门计算机,具备一门编程语言,就能懂一门编程语言,才可以精通一门编程语言,就能懂一门语言,精通一门编程语言,才能够精通一门编程语言,就能懂一门编程语言,就能懂一门编程语言,能够熟练一门编程语言,能够识一门编程语言,具备一门计算机,就能懂一门编程语言,就能懂一门编程语言,就能懂一门编程语言,才能精通一门编程语言,方能精通一门编程语言,才可以懂一门编程语言,就能懂一门编程语言,都能懂",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3419,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在三角形中,正多边形的直角边与斜边比斜边数,斜边与斜边之比成正,直角边与斜边之比成正.\n 圆内接正多边形的直角边和斜边之比成正,直角边与斜边之比成正.\n 正方形中,正多边形的直角边与斜边之比成正,直角边与斜边之比成正,直角边与斜边之比成正,直角边与斜边之比成正,直角边与斜边之比成正,斜边之比成正,斜边之比成正",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形的边长是直角三角形的边长,直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长是直角三角形的边长",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间举办\"定向高校毕业生\"评选活动.\n报告显示,学校将招收高校毕业生,2022年高校毕业生,2022年高校毕业生,高校毕业生等新就业群体,并带动周边毕业生脱贫.\n近年来,该校切实加强自身建设,大力支持特殊高校毕业生定向高校毕业生,营造\"高校\"培养,就业,就业,就业等方面\"双双\"计划.在文旅业背景下,建设一批优秀学生队伍以及重点区域高校创新创业人才队伍,营造\"人才+就业\"的育人环境,培育一批具有中国特色,特色的特色鲜明的特色特长群体.\n围绕国家关于\"2022年高校毕业生\"评选活动",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩东经东,北去东,南去西,北去西,西去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,北去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西,南去西",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".ge(1,2): s b=d.text(2): s b= fibonacci(3): s b=d.text(2): s b=d.text(2): s b=d.text(3): s b=d.text(3): s b=d.text(3): s b=d.text(3): s b=d.text(3): s b=d.text(3):",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7521,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " car and tane of the sense of nine water car sense from the water by the water car or water car tane of the water car sense of sense of water car sense of water car sense of water car sense of water car sense of water car sense of water car sense ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6325,
+    "tail_top_share": 0.4375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is the water cycle of water cycle is the water cycle of water cycle is the water cycle of water cycle is the water cycle of water cycle is the water cycle of water cycle is the water cycle of water cycle is the water cycle of water cycle is the water cycle of water cycle is the water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " about a different process that it could be out of the topics of this three-year sound for an art and one of the future. This is the only students who is exposed to the broader art of the practice of the means and has been a separal process in the importance of the vot. ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.4531
+  }
+]

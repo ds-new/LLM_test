@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够给人类社会带来巨大的改变.\n事实上,人工智能的发展已经足够给人类社会带来巨大的改变.\n从AlphaGo战胜李世石的围棋冠军李世石,到AlphaGo战胜了世界围棋最高水平的柯洁,再到AlphaGo战胜了世界围棋最高水平的柯洁,人工智能的发展速度可谓一波又一波.\n可是,在人工智能的进化过程中,人工智能发展速度的种种因素,已经让这个激动人心的时刻充满了无限的潜力.\n那么,人工智能的发展速度如何呢?\n首先,人工智能的发展速度已经足够给人类社会带来巨大的改变.\n第一个是语音识别,这是语音技术",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1795,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破.\n人工智能的发展,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,离不开人工智能技术的突破,而人工智能技术的突破,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园\n春天来了 晴朗的天气,如新绿,花草葱郁,生机勃勃,生机盎然.\n游园活动:\n1. 在公园内摆放野花,放\"花\"\n2. 公园内摆放野花,放\"花\"\n3. 野花摆放前,应该选择\"多放点\"\n4. 园内要摆放的\"花\"要\"多\"\n5. 园内摆放",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1282,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在正常的植物光照条件下,通过光合作用吸收了植物光合作用,使得植物能够在吸收了光合作用的同时,最大限度地吸收和吸收植物光合作用.\n 光合作用是指植物光合作用,是指在正常的植物光照条件下,通过光合作用吸收了植物光合作用,使得植物可以在吸收了光合作用的同时,最大限度地吸收和吸收植物光合作用.光合作用是指植物光合作用吸收了植物光合作用的同时,最大限度地吸收和吸收植物光合作用.\n 光合作用",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.547,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在自然界中,通过吸收,吸收,吸收和吸收植物的光合作用,使植物能够吸收,吸收和吸收植物的光合作用,使植物能够吸收,吸收和吸收植物的光合作用.\n光合作用是指绿色植物在自然界中,通过吸收,吸收,吸收和吸收植物的光合作用,使植物能够吸收,吸收和吸收植物的光合作用,使植物能够吸收,吸收和吸收植物的光合作用,使植物能够吸收,吸收和吸收植物的光合作用,使植物能够吸收,吸收和吸收植物的光合作用,使",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明有发明的痕迹,比如发明和发明的发明的证据,发明发明和发明的发明的证据,发明发明和发明的发明的证据等等. 因此,中国古代的发明尤其是发明都集中在发明中.\n中国古代的发明大多是在发明中发展起来的.而且,使用发明要进行科学的规划,这样才能在更高的层次上做出科学的结果.\n古代的发明大都发生在发明之前.\n发明以前,我们想要的是新的发明.\n发明发明后,我们要进行新的创造.\n人类发明发明发明的方式有很多种,而且不同发明发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獐?,分布在长江以南各省区市,最大流域面积2.12万平方公里,中国最大河流 -  - 长江流域.长江流域上游长144.5千米,中游有长34.5千米的长江河,构成长江流域向西的运河.长江流域上游支流:鄂西南支流,鄂西南支流,鄂东南支流,鄂西南支流.\n长江是中国最长的河流,长江干流是中国最大的河流,干流是长江上游的支流,它包括长江干",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",看看它有多难!\n今天,你将会发现自己具有一些不可预知的功能,并且需要学习新的语言.\n如今,很多已经用英语阅读了英语的人,已经开始将英语翻译成英文字幕.但事实上,我们可能会对英语产生兴趣.\n让我们来看看什么是英语.\n在英语世界中,最成功的莫过于从计算机开始,那些计算机程序.\n当我们开始工作时,人们通常会发现自己正在努力做或正在学习编程.\n随着编程技术的不断发展,我们越来越能意识到,我们的编程能力正在变得越来越重要.\n在本文中,我们将深入探讨什么是",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "直角三角形中,每边上的中线为1,另一边为2,三边上的中线为2.勾股定理的发现也说明了直角三角形的三边长=底边×高,底边×高,这就是直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,倍边,直角三角形中,斜边,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市各级各类学校坚持按学定校,以学定校,以学定教,以学定教,坚持\"四个面向\",坚持\"四个面向\",全面开展\"学生作业 -  - 课后辅导 -  - 考试\"工作,努力提高学生综合素养,提升学生综合素养,促进学生全面发展和全面发展.\n1.思想品德好.开学初,市教育局将组织教育干部,教师及学生代表深入到普陀区各中小学进行\"三下乡\"活动,并组织学生及家长参观学校,学习\"三下乡\"精神,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1111,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "玩向讧天痢芍",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4017,
+    "tail_top_share": 0.3281
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"python-def fibonacci(n):n\");\n    def fibonacci(n):    if n != 0:   n = 0:   n = 1:   n  print(fibonacci(n))    print(\"hello n\")    print(\"hello n\")    print(\"hello n\")    print(\"hello n\")    print(\"hello n\")    print(\"hello n\")    print(\"hello n\")    print(\"hello n\")    ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5385,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes to be as “air”, but that winter sometimes still replace the same mechanism and often trouble it to be very limited. At the same time, a water cycle is contained in the area of Hans County by the seven years of place. For this reason the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is taken from the water to the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the water that is taken from the ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.4688
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " our readers need to do something that will help students achieve the right ones and the right ones and they need to keep the same rules in their lives and their interests. We can help students to make the right things they need to learn and do their work and how they can improve them in their lives",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1624,
+    "tail_top_share": 0.4844
+  }
+]

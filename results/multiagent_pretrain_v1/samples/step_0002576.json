@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够了.\n人工智能究竟是个怎样的语言?\n人工智能源于计算机领域,但机器语言仅仅是一个硬件,它能处理的是直接,动态的输入,也可以用于机器语言.\n1.什么是语言?\n语言是计算机语言开发的产物.语言可以翻译为机器语言(语言),包括语言和机器语言.\n语言的语言可以翻译为机器语言(语言),包括语言和机器语言.\n2.什么是语言?\n语言语言语言通常基于语言的表达,即用于生成语言(或机器语言)或程序(或语言)的语言.语言可以翻译",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人们生活的一部分.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能发展的基石,也是人工智能发展的基石.\n人工智能是人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8376,
+    "tail_top_share": 0.2656
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和爸爸一起去公园，小明和小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明和小明一起去公园，小明一起去公园，小明一起去公园，小明一起去公园，小明一起去公园，小明一起去公园，小明一起去公园，小明一起去公园，小明一起去公园",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8462,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",为绿色植物生长,生长环境. -  - 光合作用:光合作用是指绿色植物生长,生长环境. 光合作用是指绿色植物生长,生长环境. -  - 光合作用:光合作用是指绿色植物生长,生长环境. -  - 光合作用:光合作用是指绿色植物生长,生长环境. -  - 光合作用:光合作用是指绿色植物生长,生长环境. -  - 光合作用:光合作用是指绿色植物生长,生长环境",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7949,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9744,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"一统\",\"三统\",\"四经\",\"八圣\",\"八圣\",\"八圣\",\"八圣\",\"八圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣\",\"九圣",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "有:中国古人觉得长江是厚厚,厚厚,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重,厚重",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8803,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言通俗易懂,初学者容易懂,Python解释器具有强大的库和强大的库,所以Python学习起来容易.\n Python是当今最流行的编程语言之一,也是最流行的编程语言之一.本文主要是通过介绍如何学习Python解释器.\n 初学者入门Python解释器有三种:\n 1. 安装Python解释器有两种方式,一种是安装python解释器,一种是安装python解释器.\n 2. 安装python解释器\n 3. 安装python解释器有三种方式:\n 1. 安装python解释器\n 2. 安装python解释器\n 3. 安装python解释器\n 4. ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1966,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜角三角形内角等于斜边的三角形的内角和等于斜边的三角形的内角和等于斜边的三角形的内角和. 定理 直角三角形的内角和等于斜边的三角形的内角和等于斜边的三角形的内角和等于斜边的三角形的内角和. 证明:设 是直角三角形中∠ABC的交点,且∠ABC斜边角A'B'B'B'C'C'D'D'D'C'D'D'D'D'D'D'D'D'D'D'D'D'D'D'D'D'",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5556,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,∠ABBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC++ C++ C++ C++ C++ C++ C++ C++ C++ C++ C++ C++ C",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8632,
+    "tail_top_share": 0.625
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "全国普通高中学业水平考试(以下简称高中学业水平考试)将于9月17日于浙江省中学举办,高中部新课标于9月17日于浙江省中学举办.\n据介绍，高中学业水平考试(以下简称高中学业水平考试)以\"高中学业水平考试\"为依据,从中考成绩来看,，高中学业水平考试是高中部新课标对普通高中学校的适应性考核,综合素质评价的评估,素质教育进入高中阶段的考查.\n在普通高中阶段,普通高中阶段主要是以高中为中心,高中是以普通高中为主,高中阶段",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2137,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "(Kafa),宁波(宁波)方向是杭州西湖,宁波(宁波)方向是杭州西湖.据考证,西湖西湖是著名的旅游景点,西湖西湖是著名的旅游景点. 杭州西湖是著名的旅游景点,西湖西湖是著名的旅游景点. 杭州西湖位于浙江省东部的杭州西湖,西湖西湖位于杭州西湖. 杭州西湖西湖位于杭州西湖.西湖西湖位于西湖.西湖西湖是西湖的内部特色,西湖西湖位于西湖.西湖西湖位于西湖. 西湖西湖位于西湖.西湖西湖位于西湖.西湖西湖位于西湖.西湖西湖位于西湖.西湖",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4274,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):\n    def fibonacci(n):",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.0938
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and engineering could be \"lightening to forreduce the sacred world\" (7 percent), should be \"shelves the car of science from the selection of our sacred world, and there are we need you to be excellent for our future.\"\nIn the \"barely sacred world\" is the very",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.375
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much of the questions to say that the Stability of Teachers are not just the question about what is one of the same question about what is one of the way. But the fact is a problem in the climate in the case of the Belon has a kind of cornerstone who sees",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1538,
+    "tail_top_share": 0.4375
+  }
+]

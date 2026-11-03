@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": "主要得益于人工智能.\n人工智能的发展主要得益于人工智能的发展,人工智能的发展主要得益于人工智能.\n人工智能技术是一种非常重要的语言.\n人工智能主要分为两部分,一是它的底层工作是用于推理和推理的.人工智能的发展主要得益于人工智能,比如狗,狗,狗.\n人工智能的发展主要得益于人工智能.\n人工智能的发展主要得益于人工智能的崛起,以及人工智能的崛起.\n人工智能的发展主要得益于人工智能.\n人工智能的发展主要得益于人工智能.\n人工智能的发展主要得益于人工智能,比如狗.\n人工智能的发展主要得益于人工智能.\n人工智能的发展主要得益于人工智能.\n人工智能的发展主要得益于人工智能,而人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4872,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展,让人工智能的发展",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9658,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明和妈妈一起去公园，小明和妈妈一起去公园，小明和妈妈一起去公园，小明和小明和小明和妈妈一起去公园，小明和小明和妈妈一起去公园，小明和小明和小明和妈妈一起去公园，小明和小明和小明和小明和小明和小明和妈妈一起去公园，小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小明和小",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8718,
+    "tail_top_share": 0.3906
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 在绿色植物光合作用中,用绿伞,伞,伞,伞,伞,伞,伞,伞,伞,伞等自然光线,通过适当的遮挡遮挡,从而避免弯曲,倒立,挤压,转动等现象的发生.\n 从1.3.2米高的塑料丝表面,用塑料丝夹住薄膜,涂料和玻璃丝.\n 在1.5米高的塑料丝表面,用塑料丝夹住薄膜,涂料和玻璃丝,在薄膜和玻璃丝的表面,使用塑料丝以",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.2479,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": ",绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物,绿色植物",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9744,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": ":\"孙子定理\",\"孙子定理\",\"孙子定理\",\"孙子定理\",\"孙子定理\",\"孙子定理\",\"孙子定理\"和\"孙子定理\"等.其中\"孙子定理\"是\"孙子定理\"中最重要的数学公式之一,有\"孙子定理\",\"孙子定理\"以及\"孙子定理\"的鼻祖.有\"孙子定理\",\"孙子定理\"等.这些著作有:\"孙子定理\",\"孙子定理\",\"孙子定理\"等.其中\"孙子定理\"中最重要的数学公式之一,有\"孙子定理\"中最重要的数学公式之一,有\"孙子定理\",\"孙子定理\",\"孙子定理\"",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獢申淌,长江上游的长江上游,长江上游的长江,湖泊,湖泊,海岸线,都会被流水汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩汩�",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 1,
+    "rep4": 0.735,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "学习这门新语言,而学习一门新语言需要先学一门新语言,然后再学一门新语言.\n要学习一门新语言,首先必须要选择最适合自己喜爱的语言,其次需要选择最适合自己喜爱的语言,最后才能学习一门新的语言.\n学习一门新语言的方法是什么?\n我们不知道,最基础的知识是什么,最基础的那些知识是什么.\n当我们开始学习一门新语言之后,就会收获一种学习,获得一种学习,获得一种乐趣,这样就能学习一门新语言.\n学习一门新语言,首先必须掌握以下几方面的知识,掌握",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1368,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",在直角三角形中,∠E为∠BBCCBC-∠AKB=∠ADCBC-∠AKB=∠DBC-∠AKB=∠ADCBC-∠AKB=∠ADCBC-∠AKB=∠ADCBC-∠AKB=∠ADCBC-∠AKB=∠ADCBC-∠AKB=∠ADCBC-∠ADCBC=∠ADCBC-∠ADCBC=∠ADCBC-∠AKB=∠AD",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7436,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,∠A=∠B,∠C=∠C,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D=∠D,∠D",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8205,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,市教育局进一步积极推动义务教育阶段学生参加小学学科语文及数学考试,进一步提升学生的语文素养.\n据悉,根据市教育局新课标要求,依据\"义务教育课程标准\"和\"义务教育课程标准\",结合义务教育阶段学生参加小学学科语文及数学考试,全面提高学生语文素养.\n据悉,市教委将于2021年1月1日至2月3日开展试点课建设,每个年级原则上设置100分钟选课,允许跨年级选课,可进行选课,最高可进入选课时间.\n对于在非正式课程外选课的学生,学校可实行\"限选课\"模式,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "ng  江苏长宁地图 苏州交通: 长三角 苏州距离杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭温州大.杭",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "def ma(n):\n    s = 1, b = 0, b = 1, b = 1, b = 1, b = 2, d = 2, d = 3, d = 1, d = 1, d = 2, d = 1, d = 2, d = 1, d = 2, d = 1, d",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human beings of the water. The winter of the world is so much to me. What you should do is best about how to do you do is and do what you do you do you do is to do this for the world.\nThe greatest attendet was the greatest att",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.188,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is a water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle of the water cycle",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8974,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much of that one to say to the face of a certain impact. Those do not imagine to be convinced by having the side of the effects that the side of its face is deeply without a key means to be in a marker or measured usage. But if we are ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0513,
+    "tail_top_share": 0.4531
+  }
+]

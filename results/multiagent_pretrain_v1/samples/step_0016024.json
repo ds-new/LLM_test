@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经进入了新阶段.\n正如马云所言,人工智能,只不过是计算机领域里的\"机器之母\",它们赋能人类,推动社会进步.\n\"人工智能是未来的发展趋势,我们期待着未来20年人工智能的发展,但同时也希望在下一个30年,新的技术领域,新的场景,新的生态下,人工智能会像我们想象的那样,无处不在.\"\n从AlphaGo与IBM合作开始,人工智能就一直在发展着.\n2015年,Google DeepMind团队在深度学习技术领域取得突破,这一突破被视为人工智能发展的里程碑.\n谷歌大脑\nGoogle Brain\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟,离不开人工智能技术的不断成熟",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.1719
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明和小明一起来看\n春天来了，小明和小明一起去公园，小明和小明一起去公园\n春天来了 晴朗的天气\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n春天来了\n",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.735,
+    "tail_top_share": 0.3438
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用,是指在绿色植物生长过程中,通过光合作用,对植物进行光合作用,以调节植物对光合作用的适应能力. [1] 光合作用资源 光合作用植物资源主要通过光合作用,光合作用是在植物生长过程中通过光合作用和光合作用互相补充,使植物吸收和吸收光合作用资源,达到调节植物生长条件,减少温室气体排放的目的. 光合作用是一种高效,稳定的光合作用,具有调节植物生长和吸收光合作用,调节植物生长发育和",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.094,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收光合作用,从而提高植物光合作用效率.\n光合作用是指植物在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收光合作用,从而提高植物光合作用效率.\n光合作用是指植物在光合作用中,通过光合作用,使植物能够吸收,吸收和吸收光合作用,从而提高植物光合作用效率.\n光合作用是指植物在光合作用中,通过光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.6923,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9829,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "獟?,也是中国最长的河流.\n北京暴雨中的北京,12日20时,狂风暴雨再次吹进北京,北京人民的心里十分焦急.\n20日,北京市气象局发布暴雨蓝色预警.\n12日14时,北京地面最低温度为10.2℃,最低气温为17.2℃.\n12日14时,北京气温升至37.2℃,最低气温17.1℃.\n12日14时,北京气温升至37.2℃.\n截至12日14时,北京地区最低气温为",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1709,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": "要看看它有多难!\n 今天我们的假期里,除了假期休息外,我们的每一天都花了不少时间,然而,一天的生活节奏已经过去.于是,我们决定,趁着假期的空档期,多学习一下英语,同时,要多参加一些相关的活动.\n 1,听音乐,读书,娱乐.\n 4,玩游戏,听音乐.\n 5,看电影,玩游戏,看电影.\n 6,看视频,玩游戏,看电影,看视频.\n 7,看电影,玩游戏,看视频,看视频.\n 8,画画,画画",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0855,
+    "tail_top_share": 0.2812
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形三边与斜边的比例,其中a,b,c三边关系最复杂,且斜边与斜边之比为1:1.直角三角形的三条边和一条对边与斜边之比为2:1.直角三角形三边关系中最复杂的是斜边与斜边之比.直角三角形的三边关系是直角三角形三边关系中最复杂,且斜边与斜边之比为2:1.直角三角形三边关系中,斜边与斜边之比为2:1,直角三角形的三条边和一条对边与斜边之比为1",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.359,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ":直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜边的一半,斜边上的中线等于斜边的一半.\n直角三角形中,斜边上的中线等于斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8547,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假期间,全市各级各类学校坚持按学定校,按学定岗,按岗定岗,按岗定岗,坚持\"四个面向\",坚持\"四个面向\",全面开展\"学生实习计划\",确保取得\"良好成效\".\n随着暑假来临,全市各级各类学校全面开展暑期实习活动,为广大师生健康,持续地培养创新精神,创业精神,实践能力,实践能力,创新精神,促进学生全面素质的提高,学校以\"暑期实习\"为契机,不断深化\"三会一课\"活动,探索形成了\"作业引领,主题实践,主题讨论,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0684,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "优BBD:杭州西湖属西湖景区,西湖风景名胜区位于浙江省杭州西湖景区内,从西湖至西湖均为西湖.西湖在杭州西湖最南端,西湖湖面面积45.5平方公里,东岸有西湖堤,东岸有西湖廊桥.西湖景区总占地面积4.2平方公里,其中水面面积2.3平方公里,水域面积7.6平方公里.西湖景区基本概况 西湖景区位于杭州市西湖区北部,处于西湖西岸.西湖于2009年12月18日正式开园,历时16年.西湖景区是浙江省级",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.1094
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": "print(\"def read):  print(\"def write\")\n    print(\"def read\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print(\"def close\")\n    print",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8291,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " it takes place in the light of the fortunes of Sheryl and Lauderdale. The water cycle describes the water cycle departments which have the potential to reduce the graves and to reduce the graves and to reduce the graves and to reduce the graves and to reduce ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3504,
+    "tail_top_share": 0.4219
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " is used to be used in the water cycle of the world. The water cycle is the most important part of the world in which water is used to be used in the world. The water cycle is the most important part of the world in which water is used to be used in the world. The water ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.5897,
+    "tail_top_share": 0.4844
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it is much more that it is in the process of thinking about this sort of sense that it is in a way that we love to get into the future. The state of the arts will be the point where our students are engaged in an unimagined environment. In the future, we will learn to",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0769,
+    "tail_top_share": 0.4531
+  }
+]

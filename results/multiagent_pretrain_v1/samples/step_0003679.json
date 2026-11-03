@@ -1,0 +1,178 @@
+[
+  {
+    "tag": "zh_general",
+    "mode": "sample",
+    "prompt": "人工智能的发展",
+    "completion": ",已经足够了.\n从原来的认知,认知,思维,到计算机,计算机,机器,人,机器,人类,机器等,人工智能将会颠覆一切,成为机器社会.\n从医学角度来看,人工智能的发展,是越来越好的,AI时代,新的.\n尽管不那么简单,但AI能给人带来的快感,让人觉得它的魅力和快乐,我倒是觉得它没有意义,它的美我就不存在了.\nAI真正进入我们的生活,就好像我们说的,因为我们生活在一个角落里,要想达到它,就必须从我们做起,从身边做起.",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_general",
+    "mode": "greedy",
+    "prompt": "人工智能的发展",
+    "completion": ",让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能的发展,让人工智能成为人类生活的一部分.\n人工智能",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.906,
+    "tail_top_share": 0.1875
+  },
+  {
+    "tag": "zh_narrative",
+    "mode": "sample",
+    "prompt": "春天来了，小明和妈妈一起去公园，",
+    "completion": "小明家看大叔,他们穿着紫色的衣服在公园里,还有蓝天白云,那里有小朋友.他们穿着蓝色西装,走在公园里,脸上满是金黄色的,阳光和阳光灿烂.孩子们在公园里享受着夏日里美丽的风景,公园里还有孩子们悠闲的玩耍.\n春天来了，小明家,他们穿着蓝色西装,走在公园里,还有孩子们.他们穿着白色西装,走在公园里,还有孩子们.他们穿着绿色西装,走在公园里,还有孩子们.他们穿着蓝色西装,走在",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "sample",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "的光合作用.\n 光合作用:是指国家根据国家制定的绿色食品标准的绿色植物.\n 光合作用:是指国家根据国家制定的绿色食品标准标准的绿色植物.\n 光合作用:是指国家根据国家制定的绿色食品标准的绿色植物.\n 光合作用:是指国家根据国家制定的绿色食品标准的绿色植物.\n 光合作用:是指国家根据国家制定的绿色食品标准的绿色植物.\n 光合作用:是指国家根据国家制定的绿色食品标准的绿色植物.\n 光合作用:是指国家根据国家制定的绿色食品标准的绿色植物.\n 光合作",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8034,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_science",
+    "mode": "greedy",
+    "prompt": "光合作用是指绿色植物",
+    "completion": "在空气中吸收光,光,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电,电",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_history",
+    "mode": "sample",
+    "prompt": "中国古代的四大发明包括",
+    "completion": "发明,发明,发明,创造,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,发明,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9487,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "zh_geography",
+    "mode": "sample",
+    "prompt": "长江是中国最长的河流，",
+    "completion": "水,被誉为\"中国长江第一峰\".长江是中国长江最长的河流之一,位于长江中游,又被称为长江流域第一县.长江流域总面积16000平方公里,其中长江流域面积1.72平方公里,长江流域面积2.77平方公里,长江流域面积2.4平方公里.长江流域的面积2.66平方公里,长江流域面积0.38平方公里,长江流域面积0.78平方公里,长江流域面积0.17平方公里,长江流域面积1.29平方公里,长江流域面积0.17平方公里,长江流域面积0.26平方公里,长江流域",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.265,
+    "tail_top_share": 0.1406
+  },
+  {
+    "tag": "zh_education",
+    "mode": "sample",
+    "prompt": "学习一门新语言最重要的是",
+    "completion": ",这门新语言现在已经被用来作为一门新语言.\nPython 是一门通用的语言,它的主要目标是使语言拥有快速,可靠,高效,可扩展的强大功能.\nPython 是一门面向对象的语言,它拥有许多简单实用的功能,包括解释器,函数库和 Python 函数.\nGo语言被誉为是程序语言,它的语法是 C/C++ 语言,它的优点是:简单,易用,易用,快速,可扩展,可移植,可移植,可移植,可移植,易扩展,可移植,可移植,易扩展,",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.1453,
+    "tail_top_share": 0.2344
+  },
+  {
+    "tag": "zh_math",
+    "mode": "sample",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": "斜边平方和,并设斜边²和斜边平方.\n三,证明:\n(1) 用斜边平方乘以斜边平方(2) 用斜边平方乘以斜边平方(4)\n(2) 用斜边平方乘以斜边平方(5)\n(3) 用斜边平方乘以斜边平方(6)\n(4) 用斜边平方乘以斜边平方(7)\n(5) 用斜边平方乘以斜边平方(8)\n(6) 用斜边平方",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3846,
+    "tail_top_share": 0.125
+  },
+  {
+    "tag": "zh_math",
+    "mode": "greedy",
+    "prompt": "在直角三角形中，勾股定理指出",
+    "completion": ",直角三角形中,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜边上的中线,斜",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.9316,
+    "tail_top_share": 0.2031
+  },
+  {
+    "tag": "zh_news",
+    "mode": "sample",
+    "prompt": "记者从市教育局获悉，今年",
+    "completion": "暑假,市教育局将再次启动义务教育阶段学生参加小学科学语文,数学,英语,信息技术等课程的预习.市教育局,市教育局将根据新课标要求,认真落实落细落实各项要求,精心组织,严格科学,科学地组织,杜绝盲目超前,不规范,不规范,不注重,不搞乱用,不搞乱用.\n市教育局党组书记,局长李继明表示,教育局已将全区小学教育列入市教育局审批文件,区教育局将同步组织义务教育学校开展\"学教结合,学思交流\"主题活动,全力做好中小学和小学,小学,幼儿园",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0342,
+    "tail_top_share": 0.1562
+  },
+  {
+    "tag": "zh_travel",
+    "mode": "sample",
+    "prompt": "杭州西湖是著名的旅游景点，",
+    "completion": "湖(别名:宁波)属杭州西湖,是杭州西湖旅游的主体.浙江湖都.杭州西湖风景名胜区.杭州西湖风景名胜区\n杭州西湖风景名胜区,位于杭州西湖,是西湖东岸,西临杭州西湖,西临杭州西湖.杭州西湖风景名胜区地处杭州西湖的东邻杭州西湖.杭州西湖风景名胜区位于杭州西湖.杭州西湖风景名胜区地处杭州西湖的东邻杭州西湖.西湖西湖风景名胜区位于杭州西湖.\n杭州西湖风景名胜区位于杭州西湖.杭州西湖风景名胜区位于杭州西湖.西湖风景名胜区位于杭州",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.3932,
+    "tail_top_share": 0.25
+  },
+  {
+    "tag": "code",
+    "mode": "sample",
+    "prompt": "def fibonacci(n):\n    ",
+    "completion": ".  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def fibonacci(n):\n    .  def",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.8889,
+    "tail_top_share": 0.0781
+  },
+  {
+    "tag": "en_education",
+    "mode": "sample",
+    "prompt": "The water cycle describes how water",
+    "completion": " science and the human ability is such as ninety wed and food. In addition, the scene does not not have to do it from the road. There is a lot of conversations that women are conversational about the cells and strike their family. The water cycle describes how to do the",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.0171,
+    "tail_top_share": 0.4062
+  },
+  {
+    "tag": "en_education",
+    "mode": "greedy",
+    "prompt": "The water cycle describes how water",
+    "completion": " cycle is a big difference in the future of the water cycle and the water cycle is a big difference in the future of the water cycle and the water cycle is a big difference in the future of the water cycle and the water cycle is a big difference in the future of the water cycle and the water",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.7778,
+    "tail_top_share": 0.5
+  },
+  {
+    "tag": "en_general",
+    "mode": "sample",
+    "prompt": "Learning to read is important because",
+    "completion": " it has a process that it is essential and is it used to be a fully satisfaction that it would be convinced that it may be a fully satisfaction that it is essential and has the process that it may be a fully satisfaction that it is essential and has a 消费券. ",
+    "new_tokens": 120,
+    "ended_with_eos": false,
+    "replacement_chars": 0,
+    "rep4": 0.4786,
+    "tail_top_share": 0.4375
+  }
+]

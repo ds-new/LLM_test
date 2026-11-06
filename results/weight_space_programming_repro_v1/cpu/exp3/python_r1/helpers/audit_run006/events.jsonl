@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-321b-7e90-94ca-7bbd128ca543"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"v=(W[\\\"W_v.0\\\"][sl]*g)@P; F=(np.asarray(W[\\\"W_fc.0\\\"],float)*W[\\\"ln2_w.0\\\"])@P; X=F@D; Y=F@B[5]@D; Z=F@B[1]@D\",\"reason\":\"The code performs only linear algebra and statistical or graph analysis on permitted weights and weight-derived directions, without executing network layers on inputs or conducting any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8230,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":171,"reasoning_output_tokens":43}}

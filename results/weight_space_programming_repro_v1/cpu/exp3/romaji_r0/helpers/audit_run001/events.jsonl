@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-a809-7d02-a254-53b6f38c727f"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"qe, ke, ve = q*g, k*g, v*g; qe -= qe.mean(axis=1, keepdims=True); A = qe.T @ ke / 8; B = o @ ve; q@b; k@b\",\"reason\":\"The code only computes statistics and linear-algebra operations on permitted weights, without running any network layer on an input or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7840,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":143,"reasoning_output_tokens":41}}

@@ -1,0 +1,47 @@
+{
+ "ok": true,
+ "role": "subject",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "turn": 1,
+ "thread": "01a1a9c2-16c4-7101-804b-56af10b06158",
+ "cmd": [
+  "codex",
+  "exec",
+  "--skip-git-repo-check",
+  "--json",
+  "-m",
+  "gpt-6-astra",
+  "-c",
+  "model_reasoning_effort=\"xhigh\"",
+  "-c",
+  "model_reasoning_summary=\"detailed\"",
+  "-c",
+  "model_instructions_file=\"<wsp_repro>/runs/_codex_homes/subject/instructions.md\"",
+  "-o",
+  "<wsp_repro>/runs/exp5/breakout/turns/t001/answer.md",
+  "-"
+ ],
+ "rc": 0,
+ "wall_s": 1000.9,
+ "attempts": 1,
+ "usage": {
+  "input_tokens": 30803,
+  "cached_input_tokens": 17664,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 4516,
+  "reasoning_output_tokens": 278
+ },
+ "notices": [
+  "Reconnecting... 1/10 (stream disconnected before completion: Transport error: network error: error decoding response body)"
+ ],
+ "audit": {
+  "tool_free": true,
+  "tool_items": {},
+  "item_types": {
+   "error": 1,
+   "reasoning": 41,
+   "agent_message": 1
+  }
+ }
+}

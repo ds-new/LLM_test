@@ -1,0 +1,115 @@
+OUTPUT of run 4 of at most 100:
+```
+Common spectral modes of L0H5 and L0H1
+all dimensions 384
+H5eig (1.656+2.197j) H1projection (1.667+2.737j) phases 0.925 1.024 H1_collinearity 0.901
+H5eig (0.911+1.375j) H1projection (-0.177+0.152j) phases 0.986 2.433 H1_collinearity 0.666
+H5eig (1.237+0.675j) H1projection (0.045+0.217j) phases 0.5 1.366 H1_collinearity 0.658
+H5eig (0.278+1.326j) H1projection (-0.176+0.052j) phases 1.364 2.852 H1_collinearity 0.6
+H5eig (0.756+1.095j) H1projection (-0.074+0.18j) phases 0.966 1.959 H1_collinearity 0.567
+H5eig (-0.324+1.11j) H1projection (-0.935-1.113j) phases 1.855 -2.269 H1_collinearity 0.922
+H5eig (0.049+1.106j) H1projection (-0.159-0.072j) phases 1.526 -2.714 H1_collinearity 0.605
+H5eig (-0.36+0.966j) H1projection (-0.544-0.86j) phases 1.928 -2.135 H1_collinearity 0.888
+H5eig (-0.166+0.917j) H1projection (-0.559-0.293j) phases 1.75 -2.658 H1_collinearity 0.7
+H5eig (-0.124+0.307j) H1projection (-0.099-0.131j) phases 1.955 -2.216 H1_collinearity 0.316
+H5eig (0.099+0.264j) H1projection (-0.079-0.057j) phases 1.213 -2.515 H1_collinearity 0.1
+H5eig (-0.116+0.13j) H1projection (-0.067+0.072j) phases 2.299 2.319 H1_collinearity 0.202
+H5eig (-0.029+0.104j) H1projection (-0.077+0.009j) phases 1.839 3.026 H1_collinearity 0.131
+H5eig (0.039+0.088j) H1projection (-0.002-0.011j) phases 1.157 -1.75 H1_collinearity 0.319
+H5eig (0.076+0.052j) H1projection (0.147+0.046j) phases 0.598 0.303 H1_collinearity 0.471
+gain_gt_0.5 dimensions 59
+H5eig (1.571+2.117j) H1projection (1.611+2.66j) phases 0.932 1.026 H1_collinearity 0.923
+H5eig (0.582+0.973j) H1projection (-0.142+0.107j) phases 1.031 2.494 H1_collinearity 0.575
+H5eig (0.424+0.96j) H1projection (-0.216-0.046j) phases 1.154 -2.931 H1_collinearity 0.485
+H5eig (0.073+0.836j) H1projection (0.041-0.397j) phases 1.484 -1.467 H1_collinearity 0.623
+H5eig (0.757+0.358j) H1projection (-0.014+0.175j) phases 0.441 1.652 H1_collinearity 0.428
+H5eig (-0.229+0.75j) H1projection (-0.732-0.268j) phases 1.867 -2.791 H1_collinearity 0.814
+H5eig (-0.193+0.617j) H1projection (-0.32-0.595j) phases 1.875 -2.064 H1_collinearity 0.76
+H5eig (0.317+0.561j) H1projection (-0.082+0.102j) phases 1.056 2.248 H1_collinearity 0.337
+H5eig (-0.081+0.479j) H1projection (-0.416-0.235j) phases 1.739 -2.628 H1_collinearity 0.519
+H5eig (-0.127+0.181j) H1projection (-0.115-0.032j) phases 2.182 -2.873 H1_collinearity 0.315
+H5eig (0.019+0.175j) H1projection (-0.066+0.001j) phases 1.46 3.128 H1_collinearity 0.077
+
+Layer-0 MLP high-cosine connected components
+threshold 0.95 component sizes [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+threshold 0.9 component sizes [6, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+members [ 147  355  706  859 1228 1501] count 6 input_norm_median 1.861 input_coherence 0.963 output_norm 4.128 output_rank1_fraction 0.977 pos_gain_energy 0.029
+members [ 193  817 1204 1407] count 4 input_norm_median 1.747 input_coherence 0.975 output_norm 3.351 output_rank1_fraction 0.98 pos_gain_energy 0.056
+members [ 220  551 1270 1337] count 4 input_norm_median 1.641 input_coherence 0.979 output_norm 3.309 output_rank1_fraction 0.986 pos_gain_energy 0.045
+members [574 613 655 857] count 4 input_norm_median 1.606 input_coherence 0.974 output_norm 3.177 output_rank1_fraction 0.985 pos_gain_energy 0.022
+members [ 595  739 1409 1491] count 4 input_norm_median 1.605 input_coherence 0.981 output_norm 3.327 output_rank1_fraction 0.992 pos_gain_energy 0.016
+members [ 28 148 635] count 3 input_norm_median 3.023 input_coherence 0.979 output_norm 3.827 output_rank1_fraction 0.967 pos_gain_energy 0.041
+members [ 102  246 1145] count 3 input_norm_median 2.235 input_coherence 0.987 output_norm 3.28 output_rank1_fraction 0.992 pos_gain_energy 0.023
+members [174 185 914] count 3 input_norm_median 2.002 input_coherence 0.983 output_norm 3.435 output_rank1_fraction 0.977 pos_gain_energy 0.042
+members [ 183 1110 1507] count 3 input_norm_median 2.576 input_coherence 0.971 output_norm 3.496 output_rank1_fraction 0.969 pos_gain_energy 0.024
+members [ 293  875 1153] count 3 input_norm_median 1.969 input_coherence 0.989 output_norm 2.89 output_rank1_fraction 0.993 pos_gain_energy 0.054
+members [ 308  996 1192] count 3 input_norm_median 1.924 input_coherence 0.985 output_norm 3.093 output_rank1_fraction 0.988 pos_gain_energy 0.011
+members [353 789 903] count 3 input_norm_median 1.672 input_coherence 0.98 output_norm 2.913 output_rank1_fraction 0.986 pos_gain_energy 0.022
+members [ 399  761 1492] count 3 input_norm_median 2.442 input_coherence 0.977 output_norm 3.355 output_rank1_fraction 0.985 pos_gain_energy 0.027
+members [ 411 1325 1388] count 3 input_norm_median 1.538 input_coherence 0.988 output_norm 2.358 output_rank1_fraction 0.991 pos_gain_energy 0.024
+members [ 413 1085 1338] count 3 input_norm_median 1.941 input_coherence 0.986 output_norm 3.307 output_rank1_fraction 0.988 pos_gain_energy 0.049
+members [467 763 786] count 3 input_norm_median 2.933 input_coherence 0.993 output_norm 3.609 output_rank1_fraction 0.995 pos_gain_energy 0.04
+members [ 483  659 1332] count 3 input_norm_median 1.829 input_coherence 0.973 output_norm 2.752 output_rank1_fraction 0.983 pos_gain_energy 0.031
+members [ 488 1027 1354] count 3 input_norm_median 2.172 input_coherence 0.987 output_norm 3.377 output_rank1_fraction 0.989 pos_gain_energy 0.052
+members [510 696 912] count 3 input_norm_median 2.94 input_coherence 0.977 output_norm 3.451 output_rank1_fraction 0.961 pos_gain_energy 0.028
+members [536 594 809] count 3 input_norm_median 2.954 input_coherence 0.994 output_norm 3.569 output_rank1_fraction 0.993 pos_gain_energy 0.035
+members [ 546 1258 1478] count 3 input_norm_median 2.412 input_coherence 0.967 output_norm 3.485 output_rank1_fraction 0.959 pos_gain_energy 0.05
+members [ 676 1023 1075] count 3 input_norm_median 1.933 input_coherence 0.99 output_norm 2.946 output_rank1_fraction 0.994 pos_gain_energy 0.023
+members [ 764  773 1416] count 3 input_norm_median 2.083 input_coherence 0.99 output_norm 3.027 output_rank1_fraction 0.991 pos_gain_energy 0.031
+members [ 777 1113 1135] count 3 input_norm_median 1.608 input_coherence 0.99 output_norm 2.827 output_rank1_fraction 0.995 pos_gain_energy 0.025
+members [1030 1264 1531] count 3 input_norm_median 1.992 input_coherence 0.988 output_norm 3.138 output_rank1_fraction 0.993 pos_gain_energy 0.012
+members [1046 1449 1483] count 3 input_norm_median 2.946 input_coherence 0.979 output_norm 3.688 output_rank1_fraction 0.979 pos_gain_energy 0.03
+Center cosine matrix:
+[[ 1.   -0.01  0.02 -0.02  0.02  0.5   0.04  0.65  0.64  0.03  0.02  0.    0.01 -0.08  0.05  0.65  0.04  0.67  0.59  0.69  0.58  0.    0.03  0.03 -0.01  0.11]
+ [-0.01  1.   -0.   -0.01 -0.04  0.01 -0.07 -0.03  0.02 -0.02 -0.05 -0.14  0.02 -0.05 -0.03  0.04 -0.02 -0.03 -0.01  0.06 -0.05 -0.06 -0.02 -0.02 -0.03 -0.04]
+ [ 0.02 -0.    1.   -0.11 -0.    0.02 -0.01  0.01 -0.02 -0.05 -0.07 -0.02  0.04 -0.07 -0.   -0.04 -0.06  0.03  0.06  0.19  0.08 -0.05  0.01 -0.06 -0.11  0.01]
+ [-0.02 -0.01 -0.11  1.    0.01 -0.    0.    0.13 -0.01 -0.08  0.03 -0.04 -0.03  0.   -0.    0.04 -0.01 -0.02  0.08 -0.02  0.03 -0.12 -0.03 -0.06 -0.05  0.  ]
+ [ 0.02 -0.04 -0.    0.01  1.    0.04 -0.05 -0.02 -0.05 -0.01  0.   -0.01 -0.01 -0.08  0.03 -0.01 -0.06  0.11  0.06  0.04  0.27 -0.   -0.01 -0.03 -0.   -0.01]
+ [ 0.5   0.01  0.02 -0.    0.04  1.   -0.05  0.44  0.47  0.11  0.11  0.01 -0.05  0.09  0.08  0.46  0.05  0.46  0.4   0.49  0.49  0.15  0.07 -0.02 -0.02 -0.06]
+ [ 0.04 -0.07 -0.01  0.   -0.05 -0.05  1.    0.08  0.08 -0.01 -0.03 -0.06 -0.02 -0.02  0.01  0.11  0.02  0.06  0.03  0.06 -0.   -0.01 -0.06  0.03 -0.   -0.01]
+ [ 0.65 -0.03  0.01  0.13 -0.02  0.44  0.08  1.    0.59  0.01 -0.04  0.05  0.11  0.    0.15  0.61  0.03  0.61  0.57  0.57  0.53  0.04  0.04 -0.   -0.03  0.14]
+ [ 0.64  0.02 -0.02 -0.01 -0.05  0.47  0.08  0.59  1.    0.01  0.18  0.08  0.02 -0.05  0.11  0.59  0.08  0.56  0.56  0.61  0.51 -0.04  0.04  0.06  0.07  0.1 ]
+ [ 0.03 -0.02 -0.05 -0.08 -0.01  0.11 -0.01  0.01  0.01  1.   -0.03 -0.06 -0.02 -0.1  -0.09  0.16 -0.03  0.01  0.04 -0.04  0.01 -0.06 -0.01 -0.02 -0.02 -0.17]
+ [ 0.02 -0.05 -0.07  0.03  0.    0.11 -0.03 -0.04  0.18 -0.03  1.   -0.01 -0.04 -0.04  0.01 -0.01  0.03 -0.05  0.    0.02  0.1   0.   -0.01 -0.04  0.01  0.01]
+ [ 0.   -0.14 -0.02 -0.04 -0.01  0.01 -0.06  0.05  0.08 -0.06 -0.01  1.    0.01 -0.02 -0.01 -0.05  0.    0.24  0.05 -0.04  0.03 -0.03 -0.03 -0.06 -0.01 -0.05]
+ [ 0.01  0.02  0.04 -0.03 -0.01 -0.05 -0.02  0.11  0.02 -0.02 -0.04  0.01  1.   -0.03 -0.01 -0.01 -0.07  0.04 -0.01  0.07  0.04 -0.06 -0.03 -0.02 -0.   -0.  ]
+ [-0.08 -0.05 -0.07  0.   -0.08  0.09 -0.02  0.   -0.05 -0.1  -0.04 -0.02 -0.03  1.   -0.06  0.01 -0.14 -0.03  0.02  0.02 -0.05 -0.04 -0.03 -0.1  -0.06 -0.04]
+ [ 0.05 -0.03 -0.   -0.    0.03  0.08  0.01  0.15  0.11 -0.09  0.01 -0.01 -0.01 -0.06  1.   -0.01 -0.01  0.05  0.05  0.09  0.1   0.03 -0.01 -0.01 -0.    0.09]
+ [ 0.65  0.04 -0.04  0.04 -0.01  0.46  0.11  0.61  0.59  0.16 -0.01 -0.05 -0.01  0.01 -0.01  1.    0.05  0.61  0.61  0.56  0.55  0.01  0.08  0.05  0.05  0.07]
+ [ 0.04 -0.02 -0.06 -0.01 -0.06  0.05  0.02  0.03  0.08 -0.03  0.03  0.   -0.07 -0.14 -0.01  0.05  1.    0.06 -0.    0.06  0.04 -0.03 -0.05 -0.06  0.04  0.03]
+ [ 0.67 -0.03  0.03 -0.02  0.11  0.46  0.06  0.61  0.56  0.01 -0.05  0.24  0.04 -0.03  0.05  0.61  0.06  1.    0.62  0.65  0.58  0.04  0.06  0.07  0.02  0.18]
+ [ 0.59 -0.01  0.06  0.08  0.06  0.4   0.03  0.57  0.56  0.04  0.    0.05 -0.01  0.02  0.05  0.61 -0.    0.62  1.    0.61  0.51 -0.    0.12  0.07 -0.01  0.17]
+ [ 0.69  0.06  0.19 -0.02  0.04  0.49  0.06  0.57  0.61 -0.04  0.02 -0.04  0.07  0.02  0.09  0.56  0.06  0.65  0.61  1.    0.56  0.01  0.05  0.05 -0.09  0.17]
+ [ 0.58 -0.05  0.08  0.03  0.27  0.49 -0.    0.53  0.51  0.01  0.1   0.03  0.04 -0.05  0.1   0.55  0.04  0.58  0.51  0.56  1.    0.04  0.11 -0.05 -0.01  0.13]
+ [ 0.   -0.06 -0.05 -0.12 -0.    0.15 -0.01  0.04 -0.04 -0.06  0.   -0.03 -0.06 -0.04  0.03  0.01 -0.03  0.04 -0.    0.01  0.04  1.    0.02 -0.02 -0.08  0.03]
+ [ 0.03 -0.02  0.01 -0.03 -0.01  0.07 -0.06  0.04  0.04 -0.01 -0.01 -0.03 -0.03 -0.03 -0.01  0.08 -0.05  0.06  0.12  0.05  0.11  0.02  1.   -0.07 -0.06  0.02]
+ [ 0.03 -0.02 -0.06 -0.06 -0.03 -0.02  0.03 -0.    0.06 -0.02 -0.04 -0.06 -0.02 -0.1  -0.01  0.05 -0.06  0.07  0.07  0.05 -0.05 -0.02 -0.07  1.   -0.    0.02]
+ [-0.01 -0.03 -0.11 -0.05 -0.   -0.02 -0.   -0.03  0.07 -0.02  0.01 -0.01 -0.   -0.06 -0.    0.05  0.04  0.02 -0.01 -0.09 -0.01 -0.08 -0.06 -0.    1.    0.01]
+ [ 0.11 -0.04  0.01  0.   -0.01 -0.06 -0.01  0.14  0.1  -0.17  0.01 -0.05 -0.   -0.04  0.09  0.07  0.03  0.18  0.17  0.17  0.13  0.03  0.02  0.02  0.01  1.  ]]
+threshold 0.8 component sizes [7, 7, 6, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+
+Common output directions of L0H4 and their linear coupling to later QK weights
+L0H4 first two singular values [13.878  9.65 ]
+Layer 1
+H0: query_energy=0.011 key_energy=0.221 QK_right_energy=0.308 QK_left_energy=0.041 2x2=[[0.17, -0.36], [0.59, 0.45]]
+H1: query_energy=0.012 key_energy=0.460 QK_right_energy=0.569 QK_left_energy=0.067 2x2=[[0.07, -1.49], [2.21, 0.91]]
+H2: query_energy=0.012 key_energy=0.428 QK_right_energy=0.520 QK_left_energy=0.065 2x2=[[0.11, -1.1], [1.6, 0.74]]
+H3: query_energy=0.016 key_energy=0.470 QK_right_energy=0.581 QK_left_energy=0.093 2x2=[[0.04, -1.43], [2.12, 0.95]]
+H4: query_energy=0.013 key_energy=0.448 QK_right_energy=0.545 QK_left_energy=0.076 2x2=[[0.08, -1.23], [1.77, 0.83]]
+H5: query_energy=0.010 key_energy=0.411 QK_right_energy=0.479 QK_left_energy=0.050 2x2=[[0.13, -1.19], [1.69, 0.7]]
+Layer 2
+H0: query_energy=0.003 key_energy=0.063 QK_right_energy=0.048 QK_left_energy=0.006 2x2=[[0.14, -0.56], [0.74, 0.3]]
+H1: query_energy=0.002 key_energy=0.004 QK_right_energy=0.003 QK_left_energy=0.002 2x2=[[0.08, -0.05], [0.06, 0.14]]
+H2: query_energy=0.005 key_energy=0.122 QK_right_energy=0.064 QK_left_energy=0.013 2x2=[[0.1, -1.24], [1.71, 0.66]]
+H3: query_energy=0.005 key_energy=0.126 QK_right_energy=0.088 QK_left_energy=0.016 2x2=[[0.17, -1.04], [1.32, 0.49]]
+H4: query_energy=0.006 key_energy=0.108 QK_right_energy=0.090 QK_left_energy=0.016 2x2=[[0.32, -1.08], [1.44, 0.61]]
+H5: query_energy=0.002 key_energy=0.045 QK_right_energy=0.039 QK_left_energy=0.004 2x2=[[0.06, -0.33], [0.4, 0.15]]
+Layer 3
+H0: query_energy=0.001 key_energy=0.014 QK_right_energy=0.015 QK_left_energy=0.001 2x2=[[0.08, -0.1], [0.13, 0.1]]
+H1: query_energy=0.001 key_energy=0.006 QK_right_energy=0.007 QK_left_energy=0.001 2x2=[[0.12, 0.01], [-0.02, 0.08]]
+H2: query_energy=0.002 key_energy=0.029 QK_right_energy=0.023 QK_left_energy=0.002 2x2=[[0.08, -0.24], [0.27, 0.05]]
+H3: query_energy=0.002 key_energy=0.009 QK_right_energy=0.007 QK_left_energy=0.003 2x2=[[-0.02, -0.1], [0.09, 0.01]]
+H4: query_energy=0.002 key_energy=0.022 QK_right_energy=0.024 QK_left_energy=0.002 2x2=[[0.1, -0.14], [0.2, 0.05]]
+H5: query_energy=0.002 key_energy=0.003 QK_right_energy=0.003 QK_left_energy=0.001 2x2=[[0.18, 0.03], [-0.05, 0.1]]
+
+```

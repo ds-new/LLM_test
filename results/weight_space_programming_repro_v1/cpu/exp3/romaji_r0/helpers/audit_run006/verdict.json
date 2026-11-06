@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "The code computes SVDs, eigendecompositions, weight-matrix products, subspace overlaps, and the weight-only transformation `a-a.mean(1,keepdims=True)`.",
+ "reason": "All operations analyze permitted weights as linear-algebra objects; no input is passed through a network layer and no search is performed."
+}

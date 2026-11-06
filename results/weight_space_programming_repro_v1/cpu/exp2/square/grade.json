@@ -1,0 +1,10 @@
+{
+ "answer_line": "My best inference is **a thin white, hollow rectangle on black**, with variable width, height, and placement; squares may occur too. Sides are approximately one pixel thick, mainly within rows and columns 1–10, leaving a black outer margin. The precise size distribution is less certain.",
+ "guess": "square",
+ "true": "square",
+ "correct": true,
+ "via": "keywords",
+ "confidence": 72.0,
+ "drawn_as_outline": true,
+ "tool_free": true
+}

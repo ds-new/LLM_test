@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "centered(W[...].astype(float)*g); svd(Pstack,full_matrices=False); svdvals(Q.T@K/8); np.linalg.norm(a@P)**2",
+ "reason": "The code performs only permitted linear-algebra computations on allowed block weights and weight-derived subspaces, without running any network layer on inputs or performing a search."
+}

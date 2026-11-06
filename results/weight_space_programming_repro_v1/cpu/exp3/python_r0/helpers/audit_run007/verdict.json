@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "B[l,j]=... @ cent(...); D=T.T@(B[3,1]+B[3,5])@C; read=[F@dictionary,F@B[0,5]@dictionary,F@B[0,1]@dictionary]",
+ "reason": "The code uses only permitted block weights for linear algebra and clustering, including applying weight matrices to weight-derived directions, without executing network layers on inputs or performing searches."
+}

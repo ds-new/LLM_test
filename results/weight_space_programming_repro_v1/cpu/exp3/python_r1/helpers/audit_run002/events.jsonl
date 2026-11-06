@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-0b1d-7481-8e84-9877b6248f2a"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"Q[h] = (W[f\\\"W_q.{l}\\\"][sl]*g)@P; A[h], B[h] = Q[h].T@K[h], O[h]@V[h]; all remaining operations compute matrix products, decompositions, norms, and similarities.\",\"reason\":\"The code uses only permitted block weights as linear-algebra objects, without executing any layer on an input, accessing unavailable weights, or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8297,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":135,"reasoning_output_tokens":23}}

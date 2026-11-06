@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"qe, ke, ve = q*g, k*g, v*g; qe -= qe.mean(axis=1, keepdims=True); A = qe.T @ ke / 8; B = o @ ve; q@b; k@b","reason":"The code only computes statistics and linear-algebra operations on permitted weights, without running any network layer on an input or performing a search."}
+```

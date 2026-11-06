@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"eff computes z = a*w and row-centers weight matrices; all subsequent operations are matrix products, decompositions, norms, traces, and similarity statistics.","reason":"The code analyzes only permitted block weights as linear-algebra objects without running any layer on an input or performing a search."}
+```

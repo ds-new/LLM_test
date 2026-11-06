@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-c322-7280-b29b-67fd6b066738"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"svd(p, full_matrices=False); clean = p - B @ (B.T @ p); v -= v.mean(axis=1,keepdims=True); a = W[\\\"W_o.0\\\"][:,z].astype(float)@v\",\"reason\":\"The code performs only linear-algebra operations on permitted internal weights, including weight scaling and centering, without running any layer on an input or conducting a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7617,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":159,"reasoning_output_tokens":51}}

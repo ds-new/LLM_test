@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "svd(a,compute_uv=False); ica.fit_transform(Z); KMeans(...).fit(X); F=W[\"W_fc.0\"].astype(float)*W[\"ln2_w.0\"].astype(float)",
+ "reason": "The code only performs permitted linear algebra and statistical analysis on allowed block weights, without running any network layer on an input, accessing excluded weights, or conducting searches."
+}

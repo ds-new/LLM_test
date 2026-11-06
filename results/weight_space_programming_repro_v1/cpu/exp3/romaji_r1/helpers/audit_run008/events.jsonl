@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-4e1e-7ce1-8a67-a4a5b3268eef"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"target=W[\\\"W_q.0\\\"][320:324].astype(np.float64); a=torch.randn((nrows,384),generator=gen,dtype=torch.float32).numpy(); dots=a@target[0].astype(np.float32)\",\"reason\":\"The code compares allowed query weights against locally generated random vectors using linear algebra, without executing any network layer or looking anything up.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7586,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":137,"reasoning_output_tokens":36}}

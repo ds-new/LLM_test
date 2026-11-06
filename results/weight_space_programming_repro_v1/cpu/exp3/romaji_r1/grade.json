@@ -1,0 +1,30 @@
+{
+ "corpus_guess": "romaji",
+ "true": "romaji",
+ "corpus_correct": true,
+ "order_guess": "as is",
+ "probability_of_guess": 0.7,
+ "probabilities": {
+  "python": 0.06,
+  "romaji": 0.7,
+  "english": 0.24
+ },
+ "copy_named": [
+  "L3H3"
+ ],
+ "copy_true": [
+  "L3H3"
+ ],
+ "copy_exact_match": true,
+ "copy_false_pos": [],
+ "copy_missed": [],
+ "runs": 9,
+ "via": "regex",
+ "audit": {
+  "runs": 9,
+  "violations": 0,
+  "unsure": 0,
+  "flagged": []
+ },
+ "tool_free": true
+}

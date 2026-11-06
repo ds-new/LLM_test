@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"F=eff(W[\"W_fc.0\"],W[\"ln2_w.0\"]); B=W[\"W_o.0\"][:,192:256].astype(float)@v[192:256]; C=ica.fit_transform(Z); Y=F@B@dual","reason":"The code only performs permitted weight-derived linear algebra, decomposition, fitting and statistical analysis, without executing a network layer on an input or performing any search."}
+```

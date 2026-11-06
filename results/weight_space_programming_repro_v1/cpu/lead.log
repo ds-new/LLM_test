@@ -1,0 +1,269 @@
+[2026-11-04 14:32:28] daemon: watching <wsp_repro>/runs/control/inbox (pid 52688)
+[2026-11-05 10:52:33] daemon: watching <wsp_repro>/runs/control/inbox (pid 76012)
+[2026-11-05 10:53:03] daemon: m0_check check {}
+[2026-11-05 10:53:12] daemon: m0_check done
+[2026-11-05 10:53:22] daemon: m1_exp1_breakout run {"exp": ["exp1"], "units": {"exp1": ["breakout"]}, "stage": "all", "no_reporter": true}
+[2026-11-05 10:53:22] stage subject: 1 conversations, 2 at a time
+[2026-11-05 10:53:22] exp1/breakout: start (new)
+[2026-11-05 10:56:59] subject turn 1 attempt 1: codex failed (rc 0); waiting 60 s. ["Reconnecting... 2/5 (request timed out)", "Reconnecting... 3/5 (request timed out)", "Reconnecting... 4/5 (request timed out)", "Reconnecting... 5/5 (request timed out)"]
+[2026-11-05 11:01:27] subject turn 1 attempt 2: codex failed (rc 0); waiting 300 s. ["Reconnecting... 2/5 (request timed out)", "Reconnecting... 3/5 (request timed out)", "Reconnecting... 4/5 (request timed out)", "Reconnecting... 5/5 (request timed out)"]
+[2026-11-05 11:09:42] subject turn 1 attempt 3: codex failed (rc 1); waiting 900 s. ["Reconnecting... 2/5 (request timed out)", "Reconnecting... 3/5 (request timed out)", "Reconnecting... 4/5 (request timed out)", "Reconnecting... 5/5 (request timed out)"]
+[2026-11-05 11:09:47] daemon: watching <wsp_repro>/runs/control/inbox (pid 79126); network keys carried from your Codex config: []
+[2026-11-05 11:09:47] daemon: m1a_probe probe {"model": "gpt-6-astra"}
+[2026-11-05 11:11:51] probe: your CODEX_HOME, default model: rc 0, 123.9 s, reply 'OK'
+[2026-11-05 11:13:52] probe: your CODEX_HOME, gpt-6-astra: rc 0, 121.5 s, reply 'OK'
+[2026-11-05 11:15:53] probe: isolated subject home, gpt-6-astra: rc 0, 120.7 s, reply 'OK'
+[2026-11-05 11:15:53] daemon: m1a_probe done
+[2026-11-05 11:23:09] daemon: m1b_restart restart {}
+[2026-11-05 11:23:09] daemon: m1b_restart done
+[2026-11-05 11:23:09] daemon: restarting to load new code
+[2026-11-05 11:23:11] daemon: watching <wsp_repro>/runs/control/inbox (pid 79126); network keys carried from your Codex config: ['openai_http (HTTPS only)']
+[2026-11-05 11:23:11] daemon: m1c_probe probe {"model": "gpt-6-astra", "variants": ["isolated"]}
+[2026-11-05 11:23:21] probe: isolated subject home, gpt-6-astra: rc 0, 10.1 s, reply 'OK'
+[2026-11-05 11:23:21] daemon: m1c_probe done
+[2026-11-05 11:23:31] daemon: m1d_exp1_breakout run {"exp": ["exp1"], "units": {"exp1": ["breakout"]}, "stage": "all", "no_reporter": true}
+[2026-11-05 11:23:31] stage subject: 1 conversations, 2 at a time
+[2026-11-05 11:23:31] exp1/breakout: start (new)
+[2026-11-05 11:25:10] exp1/breakout: answered (turns 1, tool-free True)
+[2026-11-05 11:25:10] exp1/breakout: grading
+[2026-11-05 11:25:10] exp1/breakout: graded {"answer_line": "**Breakout — a small grid-based brick-breaker.**", "guess": "breakout", "true": "breakout", "correct": true}
+[2026-11-05 11:25:10] wrote <wsp_repro>/runs/results.md
+[2026-11-05 11:25:10] daemon: m1d_exp1_breakout done
+[2026-11-05 11:25:30] daemon: m2_exp1_exp2 run {"exp": ["exp1", "exp2"], "stage": "all", "no_reporter": true}
+[2026-11-05 11:25:30] exp1/breakout: already answered, skipped
+[2026-11-05 11:25:30] stage subject: 6 conversations, 2 at a time
+[2026-11-05 11:25:30] exp1/pong: start (new)
+[2026-11-05 11:25:31] exp1/pacman: start (new)
+[2026-11-05 11:26:37] exp1/pacman: answered (turns 1, tool-free True)
+[2026-11-05 11:26:37] exp1/freeway: start (new)
+[2026-11-05 11:26:43] exp1/pong: answered (turns 1, tool-free True)
+[2026-11-05 11:26:43] exp2/circle: start (new)
+[2026-11-05 11:27:51] exp1/freeway: answered (turns 1, tool-free True)
+[2026-11-05 11:27:51] exp2/square: start (new)
+[2026-11-05 11:28:25] exp2/circle: answered (turns 1, tool-free True)
+[2026-11-05 11:28:25] exp2/triangle: start (new)
+[2026-11-05 11:30:16] exp2/triangle: answered (turns 1, tool-free True)
+[2026-11-05 11:30:24] exp2/square: answered (turns 1, tool-free True)
+[2026-11-05 11:30:24] exp1/pong: grading
+[2026-11-05 11:30:24] exp1/pong: graded {"answer_line": "Pong—most likely a single-player, left-paddle wall-bouncing variant.**", "guess": "pong", "true": "pong", "correct": true}
+[2026-11-05 11:30:25] exp1/pacman: grading
+[2026-11-05 11:30:25] exp1/pacman: graded {"answer_line": "A small-grid **Pac-Man-style maze game**.", "guess": "pacman", "true": "pacman", "correct": true}
+[2026-11-05 11:30:25] exp1/freeway: grading
+[2026-11-05 11:30:25] exp1/freeway: graded {"answer_line": "Frogger — a simplified grid-based road-crossing variant.**", "guess": "freeway", "true": "freeway", "correct": true}
+[2026-11-05 11:30:25] exp2/circle: grading
+[2026-11-05 11:30:25] exp2/circle: graded {"answer_line": "Most likely **one white circular or oval outline on black**, with a black hole inside. Typically centered, roughly **7–10 pixels across**, with a thin, approximately **1–2-pixel stroke**. Size, position, and roundness likely vary somewhat.", "guess": "circle", "true": "circle", "correct": true}
+[2026-11-05 11:30:25] exp2/square: grading
+[2026-11-05 11:30:26] exp2/square: graded {"answer_line": "My best inference is **a thin white, hollow rectangle on black**, with variable width, height, and placement; squares may occur too. Sides are approximately one pixel thick, mainly within rows and columns 1–10, leaving a black outer margin. The precise size distribution is less certain.", "guess": "square", "true": "square", "correct": true}
+[2026-11-05 11:30:26] exp2/triangle: grading
+[2026-11-05 11:30:26] exp2/triangle: graded {"answer_line": "White, approximately one-pixel-thick **hollow triangles on black backgrounds**, pointing upward. Typically they occupy most of the central canvas: roughly 8–10 pixels across and 7–10 pixels tall, with an apex near the upper middle and a horizontal base near the bottom. Position, proportions, and sla", "guess": "triangle", "true": "triangle", "correct": true}
+[2026-11-05 11:30:29] wrote <wsp_repro>/runs/results.md
+[2026-11-05 11:30:29] daemon: m2_exp1_exp2 done
+[2026-11-05 11:30:29] daemon: m3_exp5 run {"exp": ["exp5"], "stage": "all", "no_reporter": true}
+[2026-11-05 11:30:29] stage subject: 3 conversations, 2 at a time
+[2026-11-05 11:30:29] exp5/breakout: start (new)
+[2026-11-05 11:30:30] exp5/seaquest: start (new)
+[2026-11-05 11:47:11] exp5/breakout: answered (turns 1, tool-free True)
+[2026-11-05 11:47:11] exp5/asterix: start (new)
+[2026-11-05 11:49:07] exp5/seaquest: answered (turns 1, tool-free True)
+[2026-11-05 12:05:50] exp5/asterix: answered (turns 1, tool-free True)
+[2026-11-05 12:05:50] exp5/breakout: grading
+[2026-11-05 12:06:13] exp5/breakout: grading FAILED Environment.__init__() got an unexpected keyword argument 'random_seed'
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ~~~~^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "<wsp_repro>/wsp/minatar_eval.py", line 63, in _episodes
+    env, ch, kind = _make_env(game, src, s)
+                    ~~~~~~~~~^^^^^^^^^^^^^^
+  File "<wsp_repro>/wsp/minatar_eval.py", line 51, in _make_env
+    env = Environment(game, sticky_action_prob=STICKY, difficulty_ramping=True, random_seed=seed)
+TypeError: Environment.__init__() got an unexpected keyword argument 'random_seed'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<wsp_repro>/wsp/lead.py", line 178, in stage_grade
+    g = exp.grade(u, udir)
+  File "<wsp_repro>/wsp/experiments.py", line 291, in grade
+    ev = evaluate(unit, W, str(env_p), self.lead.cfg["eval"]["minatar_episodes"], self.lead.cfg["eval"]["workers"])
+  File "<wsp_repro>/wsp/minatar_eval.py", line 91, in evaluate
+    res = [r for part in pool.map(_episodes, chunks) for r in part]
+                         ~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 367, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 774, in get
+    raise self._value
+TypeError: Environment.__init__() got an unexpected keyword argument 'random_seed'
+
+[2026-11-05 12:06:13] exp5/seaquest: grading
+[2026-11-05 12:06:18] exp5/seaquest: grading FAILED Environment.__init__() got an unexpected keyword argument 'random_seed'
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ~~~~^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "<wsp_repro>/wsp/minatar_eval.py", line 63, in _episodes
+    env, ch, kind = _make_env(game, src, s)
+                    ~~~~~~~~~^^^^^^^^^^^^^^
+  File "<wsp_repro>/wsp/minatar_eval.py", line 51, in _make_env
+    env = Environment(game, sticky_action_prob=STICKY, difficulty_ramping=True, random_seed=seed)
+TypeError: Environment.__init__() got an unexpected keyword argument 'random_seed'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<wsp_repro>/wsp/lead.py", line 178, in stage_grade
+    g = exp.grade(u, udir)
+  File "<wsp_repro>/wsp/experiments.py", line 291, in grade
+    ev = evaluate(unit, W, str(env_p), self.lead.cfg["eval"]["minatar_episodes"], self.lead.cfg["eval"]["workers"])
+  File "<wsp_repro>/wsp/minatar_eval.py", line 91, in evaluate
+    res = [r for part in pool.map(_episodes, chunks) for r in part]
+                         ~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 367, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 774, in get
+    raise self._value
+TypeError: Environment.__init__() got an unexpected keyword argument 'random_seed'
+
+[2026-11-05 12:06:18] exp5/asterix: grading
+[2026-11-05 12:06:25] exp5/asterix: grading FAILED Environment.__init__() got an unexpected keyword argument 'random_seed'
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ~~~~^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "<wsp_repro>/wsp/minatar_eval.py", line 63, in _episodes
+    env, ch, kind = _make_env(game, src, s)
+                    ~~~~~~~~~^^^^^^^^^^^^^^
+  File "<wsp_repro>/wsp/minatar_eval.py", line 51, in _make_env
+    env = Environment(game, sticky_action_prob=STICKY, difficulty_ramping=True, random_seed=seed)
+TypeError: Environment.__init__() got an unexpected keyword argument 'random_seed'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<wsp_repro>/wsp/lead.py", line 178, in stage_grade
+    g = exp.grade(u, udir)
+  File "<wsp_repro>/wsp/experiments.py", line 291, in grade
+    ev = evaluate(unit, W, str(env_p), self.lead.cfg["eval"]["minatar_episodes"], self.lead.cfg["eval"]["workers"])
+  File "<wsp_repro>/wsp/minatar_eval.py", line 91, in evaluate
+    res = [r for part in pool.map(_episodes, chunks) for r in part]
+                         ~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 367, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Caskroom/miniforge/base/lib/python3.14/multiprocessing/pool.py", line 774, in get
+    raise self._value
+TypeError: Environment.__init__() got an unexpected keyword argument 'random_seed'
+
+[2026-11-05 12:06:25] wrote <wsp_repro>/runs/results.md
+[2026-11-05 12:06:25] daemon: m3_exp5 done
+[2026-11-05 12:06:25] daemon: m4_exp3 run {"exp": ["exp3"], "stage": "all", "no_reporter": true}
+[2026-11-05 12:06:25] stage subject: 6 conversations, 2 at a time
+[2026-11-05 12:06:25] exp3/python_r0: start (new)
+[2026-11-05 12:06:25] exp3/python_r1: start (new)
+[2026-11-05 12:07:34] exp3/python_r1 turn 1: run 1 (2,315 chars of code, 8,839 chars out, 1.53 s, isolation sandbox-exec)
+[2026-11-05 12:07:42] exp3/python_r0 turn 1: run 1 (3,412 chars of code, 14,004 chars out, 1.19 s, isolation sandbox-exec)
+[2026-11-05 12:08:44] exp3/python_r1 turn 2: run 2 (3,053 chars of code, 8,539 chars out, 1.49 s, isolation sandbox-exec)
+[2026-11-05 12:09:27] exp3/python_r0 turn 2: run 2 (3,656 chars of code, 6,474 chars out, 0.85 s, isolation sandbox-exec)
+[2026-11-05 12:09:43] exp3/python_r1 turn 3: run 3 (2,156 chars of code, 5,539 chars out, 0.78 s, isolation sandbox-exec)
+[2026-11-05 12:10:55] exp3/python_r1 turn 4: run 4 (3,286 chars of code, 13,054 chars out, 1.09 s, isolation sandbox-exec)
+[2026-11-05 12:12:21] exp3/python_r0 turn 3: run 3 (3,101 chars of code, 6,361 chars out, 1.04 s, isolation sandbox-exec)
+[2026-11-05 12:12:54] exp3/python_r1 turn 5: run 5 (2,392 chars of code, 9,802 chars out, 1.08 s, isolation sandbox-exec)
+[2026-11-05 12:14:17] exp3/python_r0 turn 4: run 4 (3,071 chars of code, 3,265 chars out, 3.34 s, isolation sandbox-exec)
+[2026-11-05 12:14:33] exp3/python_r1 turn 6: run 6 (3,285 chars of code, 6,189 chars out, 0.81 s, isolation sandbox-exec)
+[2026-11-05 12:16:07] exp3/python_r1 turn 7: run 7 (2,911 chars of code, 5,716 chars out, 1.43 s, isolation sandbox-exec)
+[2026-11-05 12:17:09] exp3/python_r1 turn 8: run 8 (2,686 chars of code, 4,736 chars out, 1.42 s, isolation sandbox-exec)
+[2026-11-05 12:17:10] exp3/python_r0 turn 5: run 5 (3,086 chars of code, 7,160 chars out, 5.02 s, isolation sandbox-exec)
+[2026-11-05 12:18:46] exp3/python_r1 turn 9: run 9 (3,272 chars of code, 616 chars out, 1.23 s, isolation sandbox-exec)
+[2026-11-05 12:19:17] exp3/python_r1 turn 10: run 10 (3,274 chars of code, 8,750 chars out, 0.89 s, isolation sandbox-exec)
+[2026-11-05 12:20:10] exp3/python_r0 turn 6: run 6 (3,395 chars of code, 4,343 chars out, 0.68 s, isolation sandbox-exec)
+[2026-11-05 12:21:51] exp3/python_r0 turn 7: run 7 (3,325 chars of code, 3,090 chars out, 5.23 s, isolation sandbox-exec)
+[2026-11-05 12:23:03] exp3/python_r1 turn 11: run 11 (3,100 chars of code, 4,373 chars out, 1.01 s, isolation sandbox-exec)
+[2026-11-05 12:24:41] exp3/python_r1: answered (turns 12, tool-free True)
+[2026-11-05 12:24:41] exp3/romaji_r0: start (new)
+[2026-11-05 12:25:43] exp3/romaji_r0 turn 1: run 1 (2,009 chars of code, 10,503 chars out, 1.53 s, isolation sandbox-exec)
+[2026-11-05 12:26:30] exp3/romaji_r0 turn 2: run 2 (2,318 chars of code, 19,931 chars out, 0.97 s, isolation sandbox-exec)
+[2026-11-05 12:26:42] exp3/python_r0: answered (turns 8, tool-free True)
+[2026-11-05 12:26:42] exp3/romaji_r1: start (new)
+[2026-11-05 12:27:30] exp3/romaji_r0 turn 3: run 3 (2,472 chars of code, 12,757 chars out, 1.59 s, isolation sandbox-exec)
+[2026-11-05 12:27:34] exp3/romaji_r1 turn 1: run 1 (1,968 chars of code, 17,194 chars out, 1.46 s, isolation sandbox-exec)
+[2026-11-05 12:28:50] exp3/romaji_r1 turn 2: run 2 (2,434 chars of code, 16,761 chars out, 4.19 s, isolation sandbox-exec)
+[2026-11-05 12:29:10] exp3/romaji_r0 turn 4: run 4 (2,901 chars of code, 10,790 chars out, 5.99 s, isolation sandbox-exec)
+[2026-11-05 12:30:06] exp3/romaji_r1 turn 3: run 3 (3,246 chars of code, 5,648 chars out, 1.32 s, isolation sandbox-exec)
+[2026-11-05 12:30:40] exp3/romaji_r0 turn 5: run 5 (2,328 chars of code, 8,807 chars out, 5.19 s, isolation sandbox-exec)
+[2026-11-05 12:31:53] exp3/romaji_r1 turn 4: run 4 (2,371 chars of code, 6,056 chars out, 4.96 s, isolation sandbox-exec)
+[2026-11-05 12:32:59] exp3/romaji_r0 turn 6: run 6 (2,027 chars of code, 4,803 chars out, 0.94 s, isolation sandbox-exec)
+[2026-11-05 12:33:24] exp3/romaji_r1 turn 5: run 5 (2,210 chars of code, 4,054 chars out, 4.47 s, isolation sandbox-exec)
+[2026-11-05 12:34:25] exp3/romaji_r0 turn 7: run 7 (1,992 chars of code, 5,905 chars out, 5.75 s, isolation sandbox-exec)
+[2026-11-05 12:34:29] exp3/romaji_r1 turn 6: run 6 (2,082 chars of code, 4,781 chars out, 3.09 s, isolation sandbox-exec)
+[2026-11-05 12:35:22] exp3/romaji_r0 turn 8: run 8 (1,875 chars of code, 2,524 chars out, 4.37 s, isolation sandbox-exec)
+[2026-11-05 12:36:37] exp3/romaji_r0 turn 9: run 9 (2,411 chars of code, 9,444 chars out, 3.24 s, isolation sandbox-exec)
+[2026-11-05 12:36:39] exp3/romaji_r1 turn 7: run 7 (2,717 chars of code, 4,794 chars out, 0.84 s, isolation sandbox-exec)
+[2026-11-05 12:38:58] exp3/romaji_r0 turn 10: run 10 (2,035 chars of code, 1,373 chars out, 2.09 s, isolation sandbox-exec)
+[2026-11-05 12:39:13] exp3/romaji_r1 turn 8: run 8 (1,283 chars of code, 852 chars out, 8.19 s, isolation sandbox-exec)
+[2026-11-05 12:40:24] exp3/romaji_r0: answered (turns 11, tool-free True)
+[2026-11-05 12:40:24] exp3/english_r0: start (new)
+[2026-11-05 12:41:02] exp3/english_r0 turn 1: run 1 (1,475 chars of code, 10,934 chars out, 1.43 s, isolation sandbox-exec)
+[2026-11-05 12:41:09] exp3/romaji_r1 turn 9: run 9 (1,509 chars of code, 4,590 chars out, 3.38 s, isolation sandbox-exec)
+[2026-11-05 12:41:45] exp3/english_r0 turn 2: run 2 (2,352 chars of code, 18,673 chars out, 2.83 s, isolation sandbox-exec)
+[2026-11-05 12:42:58] exp3/english_r0 turn 3: run 3 (2,977 chars of code, 7,727 chars out, 1.42 s, isolation sandbox-exec)
+[2026-11-05 12:43:51] exp3/romaji_r1: answered (turns 10, tool-free True)
+[2026-11-05 12:43:51] exp3/english_r1: start (new)
+[2026-11-05 12:44:11] exp3/english_r0 turn 4: run 4 (2,492 chars of code, 8,829 chars out, 2.07 s, isolation sandbox-exec)
+[2026-11-05 12:44:46] exp3/english_r1 turn 1: run 1 (2,141 chars of code, 7,390 chars out, 1.12 s, isolation sandbox-exec)
+[2026-11-05 12:45:52] exp3/english_r1 turn 2: run 2 (2,480 chars of code, 8,708 chars out, 1.58 s, isolation sandbox-exec)
+[2026-11-05 12:46:30] exp3/english_r0 turn 5: run 5 (2,631 chars of code, 5,700 chars out, 2.96 s, isolation sandbox-exec)
+[2026-11-05 12:46:42] exp3/english_r1 turn 3: run 3 (2,645 chars of code, 8,003 chars out, 3.76 s, isolation sandbox-exec)
+[2026-11-05 12:47:57] exp3/english_r1 turn 4: run 4 (2,222 chars of code, 5,141 chars out, 1.01 s, isolation sandbox-exec)
+[2026-11-05 12:48:13] exp3/english_r0 turn 6: run 6 (1,506 chars of code, 1,258 chars out, 0.86 s, isolation sandbox-exec)
+[2026-11-05 12:49:47] exp3/english_r0: answered (turns 7, tool-free True)
+[2026-11-05 12:49:50] exp3/english_r1 turn 5: run 5 (1,921 chars of code, 2,426 chars out, 4.59 s, isolation sandbox-exec)
+[2026-11-05 12:52:53] exp3/english_r1 turn 6: run 6 (2,366 chars of code, 2,370 chars out, 0.69 s, isolation sandbox-exec)
+[2026-11-05 12:54:53] exp3/english_r1 turn 7: run 7 (2,106 chars of code, 1,359 chars out, 3.59 s, isolation sandbox-exec)
+[2026-11-05 12:56:19] exp3/english_r1: answered (turns 8, tool-free True)
+[2026-11-05 12:56:19] exp3/python_r0: grading
+[2026-11-05 12:56:45] exp3/python_r0: graded {"corpus_guess": "english", "true": "python", "corpus_correct": false, "order_guess": "as is"}
+[2026-11-05 12:56:45] exp3/python_r1: grading
+[2026-11-05 12:57:26] exp3/python_r1: graded {"corpus_guess": "python", "true": "python", "corpus_correct": true, "order_guess": "as is"}
+[2026-11-05 12:57:26] exp3/romaji_r0: grading
+[2026-11-05 12:57:58] exp3/romaji_r0: graded {"corpus_guess": "english", "true": "romaji", "corpus_correct": false, "order_guess": "as is"}
+[2026-11-05 12:57:58] exp3/romaji_r1: grading
+[2026-11-05 12:58:28] exp3/romaji_r1: graded {"corpus_guess": "romaji", "true": "romaji", "corpus_correct": true, "order_guess": "as is"}
+[2026-11-05 12:58:28] exp3/english_r0: grading
+[2026-11-05 12:58:50] exp3/english_r0: graded {"corpus_guess": "english", "true": "english", "corpus_correct": true, "order_guess": "as is"}
+[2026-11-05 12:58:50] exp3/english_r1: grading
+[2026-11-05 12:59:10] exp3/english_r1: graded {"corpus_guess": "english", "true": "english", "corpus_correct": true, "order_guess": "as is"}
+[2026-11-05 12:59:10] wrote <wsp_repro>/runs/results.md
+[2026-11-05 12:59:10] daemon: m4_exp3 done
+[2026-11-05 12:59:10] daemon: m5a_restart restart {}
+[2026-11-05 12:59:10] daemon: m5a_restart done
+[2026-11-05 12:59:10] daemon: restarting to load new code
+[2026-11-05 12:59:11] daemon: watching <wsp_repro>/runs/control/inbox (pid 79126); network keys carried from your Codex config: ['openai_http (HTTPS only)']
+[2026-11-05 12:59:11] daemon: m5b_exp5_grade run {"exp": ["exp5"], "stage": "grade", "regrade": true, "no_reporter": true}
+[2026-11-05 12:59:11] exp5/breakout: grading
+[2026-11-05 12:59:57] exp5/breakout: graded {"score": 502.2, "se": 5.7, "episodes": 1000, "mean_length": 8336}
+[2026-11-05 12:59:57] exp5/seaquest: grading
+[2026-11-05 13:00:08] exp5/seaquest: graded {"score": 33.9, "se": 1.0, "episodes": 1000, "mean_length": 995}
+[2026-11-05 13:00:08] exp5/asterix: grading
+[2026-11-05 13:00:19] exp5/asterix: graded {"score": 50.8, "se": 0.9, "episodes": 1000, "mean_length": 849}
+[2026-11-05 13:00:19] daemon: m5b_exp5_grade done
+[2026-11-05 13:19:40] daemon: m5c_report run {"exp": ["exp1", "exp2", "exp3", "exp5"], "stage": "report"}
+[2026-11-05 13:19:40] wrote <wsp_repro>/runs/results.md
+[2026-11-05 13:20:20] wrote <wsp_repro>/runs/REPORT.md
+[2026-11-05 13:20:20] daemon: m5c_report done

@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-0b1f-7490-ad6e-17589449a12f"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"The code computes SVDs, norms, correlations, weight-row cosine similarities, and projections such as basis.T@W[name], using only permitted block weights.\",\"reason\":\"All operations are weight-only linear-algebra analyses; none runs a network layer on an input, accesses excluded weights, or performs a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7883,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":125,"reasoning_output_tokens":41}}

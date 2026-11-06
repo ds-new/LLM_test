@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "qg, kg, vg = q*g, k*g, v*g; a, m = qg.T@kg, o@vg; la.eigvals(kg@qg.T); la.eigvals(vg@o); norm(q@b), norm(k@b), norm(v@b)",
+ "reason": "The code only computes statistics and linear-algebra operations on permitted weights, including weight-derived directions, without running any layer on an input or performing a search."
+}

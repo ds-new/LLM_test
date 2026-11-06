@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-f2d4-7740-8ced-71dc45999e54"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"centered(W[...].astype(float)*g); svd(Pstack,full_matrices=False); svdvals(Q.T@K/8); np.linalg.norm(a@P)**2\",\"reason\":\"The code performs only permitted linear-algebra computations on allowed block weights and weight-derived subspaces, without running any network layer on inputs or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7927,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":143,"reasoning_output_tokens":48}}

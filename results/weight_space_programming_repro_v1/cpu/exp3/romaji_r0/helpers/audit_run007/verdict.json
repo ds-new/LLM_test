@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "F=eff(\"W_fc\",0,\"ln2_w\"); coefficients=F@np.linalg.pinv(D.T,rcond=1e-5); As.append(q[sl].T@k[sl]/8); c=As[h]@Bs[z]",
+ "reason": "The code uses only permitted block weights for linear-algebra analysis and fitting, without evaluating a network layer on inputs or performing any search."
+}

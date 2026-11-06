@@ -1,0 +1,64 @@
+OUTPUT of run 4 of at most 100:
+```
+L0H3 value singular values: [0.57  0.513 0.504 0.472 0.47  0.45  0.44  0.434 0.425 0.411 0.39  0.383 0.379 0.367 0.359 0.342 0.339 0.336 0.324 0.297 0.286 0.276 0.273 0.266 0.254 0.248 0.245 0.241 0.237
+ 0.231 0.225 0.223 0.22  0.21  0.206 0.204 0.197 0.194 0.183 0.18  0.173 0.169 0.16  0.151 0.15  0.138 0.133 0.132 0.124 0.121 0.116 0.11  0.108 0.107 0.103 0.101 0.097 0.093
+ 0.09  0.087 0.085 0.081 0.077 0.072]
+L0H3 output singular values: [2.133 2.11  2.076 1.975 1.963 1.937 1.913 1.891 1.878 1.845 1.823 1.813 1.78  1.737 1.713 1.678 1.632 1.457 1.395 1.326 1.286 1.272 1.214 1.201 1.19  1.131 1.101 1.078 1.065
+ 1.011 0.994 0.956 0.935 0.916 0.864 0.817 0.756 0.74  0.713 0.688 0.634 0.562 0.535 0.469 0.423 0.373 0.357 0.349 0.321 0.297 0.28  0.267 0.259 0.249 0.235 0.228 0.217 0.216
+ 0.198 0.187 0.184 0.172 0.145 0.127]
+Value-input/output top24 subspace overlap: [0.458 0.421 0.362 0.344 0.311 0.281 0.265 0.256 0.214 0.198 0.19  0.165 0.161 0.134 0.117 0.109 0.096 0.087 0.08  0.065 0.05  0.046 0.014 0.006]
+
+First-layer OV principal directions:
+H0 mode0 s=0.957 output coordinates [(336, np.float64(0.193)), (96, np.float64(0.158)), (291, np.float64(-0.15)), (327, np.float64(0.149)), (203, np.float64(-0.14)), (202, np.float64(-0.128)), (330, np.float64(0.12)), (68, np.float64(-0.117))] input coordinates [(373, np.float64(0.176)), (225, np.float64(-0.163)), (134, np.float64(-0.158)), (158, np.float64(-0.154)), (7, np.float64(0.153))]
+H0 mode1 s=0.898 output coordinates [(39, np.float64(0.263)), (6, np.float64(0.193)), (282, np.float64(-0.186)), (156, np.float64(-0.147)), (163, np.float64(-0.137)), (152, np.float64(-0.133)), (342, np.float64(-0.129)), (219, np.float64(0.128))] input coordinates [(226, np.float64(0.167)), (301, np.float64(-0.152)), (358, np.float64(0.147)), (21, np.float64(0.146)), (220, np.float64(0.132))]
+H1 mode0 s=3.380 output coordinates [(39, np.float64(0.692)), (58, np.float64(-0.51)), (99, np.float64(0.358)), (21, np.float64(-0.212)), (184, np.float64(0.201)), (153, np.float64(-0.054)), (336, np.float64(-0.038)), (63, np.float64(0.037))] input coordinates [(184, np.float64(0.347)), (180, np.float64(0.315)), (99, np.float64(0.271)), (39, np.float64(0.267)), (56, np.float64(-0.254))]
+H1 mode1 s=2.023 output coordinates [(21, np.float64(0.961)), (39, np.float64(0.158)), (58, np.float64(-0.129)), (184, np.float64(0.072)), (306, np.float64(-0.032)), (173, np.float64(-0.029)), (225, np.float64(-0.028)), (232, np.float64(-0.026))] input coordinates [(211, np.float64(0.34)), (223, np.float64(-0.262)), (228, np.float64(-0.244)), (65, np.float64(0.231)), (173, np.float64(-0.23))]
+H2 mode0 s=2.643 output coordinates [(39, np.float64(-0.659)), (58, np.float64(0.494)), (21, np.float64(0.373)), (99, np.float64(-0.355)), (184, np.float64(-0.162)), (153, np.float64(0.045)), (383, np.float64(-0.035)), (165, np.float64(-0.029))] input coordinates [(184, np.float64(-0.365)), (180, np.float64(-0.304)), (99, np.float64(-0.298)), (317, np.float64(0.248)), (56, np.float64(0.234))]
+H2 mode1 s=1.363 output coordinates [(21, np.float64(0.91)), (39, np.float64(0.221)), (99, np.float64(0.207)), (58, np.float64(-0.201)), (184, np.float64(0.053)), (252, np.float64(-0.03)), (351, np.float64(-0.03)), (153, np.float64(-0.029))] input coordinates [(211, np.float64(0.3)), (173, np.float64(-0.273)), (223, np.float64(-0.256)), (162, np.float64(0.227)), (256, np.float64(-0.225))]
+H3 mode0 s=1.126 output coordinates [(92, np.float64(0.179)), (86, np.float64(-0.169)), (188, np.float64(0.162)), (18, np.float64(-0.16)), (131, np.float64(-0.158)), (303, np.float64(-0.156)), (215, np.float64(-0.148)), (173, np.float64(-0.138))] input coordinates [(223, np.float64(0.225)), (26, np.float64(0.196)), (200, np.float64(0.17)), (48, np.float64(0.167)), (359, np.float64(-0.145))]
+H3 mode1 s=0.955 output coordinates [(65, np.float64(-0.19)), (125, np.float64(-0.179)), (320, np.float64(0.173)), (202, np.float64(0.168)), (86, np.float64(0.157)), (287, np.float64(0.152)), (20, np.float64(-0.142)), (350, np.float64(-0.136))] input coordinates [(200, np.float64(0.229)), (124, np.float64(0.181)), (53, np.float64(-0.177)), (329, np.float64(0.168)), (74, np.float64(-0.167))]
+H4 mode0 s=1.454 output coordinates [(39, np.float64(-0.696)), (58, np.float64(0.511)), (99, np.float64(-0.32)), (184, np.float64(-0.227)), (21, np.float64(-0.182)), (153, np.float64(0.057)), (336, np.float64(0.042)), (350, np.float64(0.039))] input coordinates [(184, np.float64(-0.413)), (180, np.float64(-0.289)), (256, np.float64(0.28)), (56, np.float64(0.243)), (100, np.float64(0.236))]
+H4 mode1 s=0.723 output coordinates [(21, np.float64(-0.942)), (99, np.float64(0.24)), (39, np.float64(0.097)), (58, np.float64(-0.092)), (184, np.float64(-0.042)), (148, np.float64(0.033)), (52, np.float64(0.032)), (381, np.float64(-0.031))] input coordinates [(211, np.float64(-0.352)), (228, np.float64(0.274)), (124, np.float64(0.219)), (65, np.float64(-0.219)), (26, np.float64(-0.214))]
+H5 mode0 s=16.278 output coordinates [(21, np.float64(-0.864)), (99, np.float64(-0.357)), (58, np.float64(0.236)), (39, np.float64(-0.232)), (184, np.float64(0.024)), (153, np.float64(0.019)), (303, np.float64(0.019)), (6, np.float64(0.017))] input coordinates [(162, np.float64(-0.328)), (211, np.float64(-0.306)), (223, np.float64(0.278)), (65, np.float64(-0.235)), (354, np.float64(0.203))]
+H5 mode1 s=8.778 output coordinates [(39, np.float64(-0.608)), (58, np.float64(0.486)), (21, np.float64(0.469)), (99, np.float64(-0.405)), (180, np.float64(-0.036)), (165, np.float64(-0.026)), (153, np.float64(0.021)), (86, np.float64(-0.015))] input coordinates [(99, np.float64(-0.369)), (180, np.float64(-0.315)), (184, np.float64(-0.309)), (162, np.float64(-0.224)), (100, np.float64(0.209))]
+
+Neuron weight projections: input-read and output-write subspaces.
+Energy fractions 0.2759429149944655 0.24333915827215938
+read clusters 18 silhouette 0.07 sizes [249 216 189  96  90  75  68  67  65  64  60  59  53  49  45  31  31  29]
+read clusters 22 silhouette 0.076 sizes [194 176 151 117 101  75  72  69  67  60  56  56  54  47  39  38  35  30  30  28  24  17]
+read clusters 26 silhouette 0.078 sizes [171 152 143  94  92  67  61  59  58  55  52  49  44  43  43  42  40  38  37  36  32  29  28  28  24  19]
+read clusters 28 silhouette 0.08 sizes [139 134 115 113 102  76  75  59  57  56  55  50  48  44  42  39  37  36  34  32  32  28  27  25  23  22  19  17]
+read clusters 32 silhouette 0.086 sizes [160 117  98  98  96  83  63  58  54  47  47  46  46  41  39  38  38  35  34  32  29  28  25  25  24  23  22  22  22  20  14  12]
+write clusters 18 silhouette 0.04 sizes [117 112 111 109 100  97  96  93  87  81  73  71  70  69  69  69  68  44]
+write clusters 22 silhouette 0.042 sizes [112 107 103  99  86  84  81  79  66  66  65  64  63  60  60  55  54  50  48  47  44  43]
+write clusters 26 silhouette 0.045 sizes [91 86 81 81 81 78 77 76 69 66 63 56 56 55 55 51 51 49 48 45 42 39 37 36 34 33]
+write clusters 28 silhouette 0.043 sizes [85 79 78 78 74 73 71 59 59 57 56 54 53 53 52 52 51 49 49 46 45 44 43 42 41 39 32 22]
+write clusters 32 silhouette 0.042 sizes [84 79 68 67 64 62 58 55 53 50 48 48 48 47 47 45 44 44 44 43 43 43 40 40 39 38 37 34 34 33 32 25]
+
+QK key-only affine term and positional-weight coupling:
+L0H0 key-linear norm 0.043 key-linear along shared4 [ 0.005 -0.003  0.006 -0.002] QK key-energy in shared4 0.06 QK query-energy in shared4 0.107
+L0H1 key-linear norm 0.013 key-linear along shared4 [ 0.001  0.001 -0.001  0.001] QK key-energy in shared4 0.037 QK query-energy in shared4 0.077
+L0H2 key-linear norm 0.007 key-linear along shared4 [ 0.     0.001 -0.001  0.001] QK key-energy in shared4 0.032 QK query-energy in shared4 0.03
+L0H3 key-linear norm 0.043 key-linear along shared4 [-0.01  -0.006 -0.001  0.007] QK key-energy in shared4 0.059 QK query-energy in shared4 0.045
+L0H4 key-linear norm 0.017 key-linear along shared4 [ 0.001 -0.001 -0.001  0.002] QK key-energy in shared4 0.027 QK query-energy in shared4 0.073
+L0H5 key-linear norm 0.005 key-linear along shared4 [ 0.  0. -0.  0.] QK key-energy in shared4 0.02 QK query-energy in shared4 0.165
+L1H0 key-linear norm 3.975 key-linear along shared4 [ 2.919 -2.202  0.326  0.194] QK key-energy in shared4 0.42 QK query-energy in shared4 0.077
+L1H1 key-linear norm 3.689 key-linear along shared4 [ 2.664 -2.1    0.327  0.123] QK key-energy in shared4 0.454 QK query-energy in shared4 0.099
+L1H2 key-linear norm 3.051 key-linear along shared4 [ 2.223 -1.723  0.144  0.112] QK key-energy in shared4 0.478 QK query-energy in shared4 0.069
+L1H3 key-linear norm 3.39 key-linear along shared4 [ 2.395 -1.996  0.329  0.035] QK key-energy in shared4 0.484 QK query-energy in shared4 0.1
+L1H4 key-linear norm 2.329 key-linear along shared4 [ 1.467 -1.46   0.223  0.162] QK key-energy in shared4 0.439 QK query-energy in shared4 0.044
+L1H5 key-linear norm 3.895 key-linear along shared4 [ 2.787 -2.252  0.48   0.077] QK key-energy in shared4 0.444 QK query-energy in shared4 0.106
+L2H0 key-linear norm 2.02 key-linear along shared4 [ 1.418 -1.172  0.13   0.07 ] QK key-energy in shared4 0.245 QK query-energy in shared4 0.093
+L2H1 key-linear norm 1.88 key-linear along shared4 [ 1.283 -1.098  0.257  0.114] QK key-energy in shared4 0.097 QK query-energy in shared4 0.042
+L2H2 key-linear norm 1.608 key-linear along shared4 [ 1.06  -0.933  0.219  0.126] QK key-energy in shared4 0.128 QK query-energy in shared4 0.048
+L2H3 key-linear norm 1.06 key-linear along shared4 [ 0.58  -0.593  0.077  0.054] QK key-energy in shared4 0.092 QK query-energy in shared4 0.022
+L2H4 key-linear norm 2.305 key-linear along shared4 [ 1.648 -1.301  0.087  0.122] QK key-energy in shared4 0.164 QK query-energy in shared4 0.061
+L2H5 key-linear norm 2.023 key-linear along shared4 [ 1.488 -1.118  0.21   0.046] QK key-energy in shared4 0.105 QK query-energy in shared4 0.042
+L3H0 key-linear norm 0.5 key-linear along shared4 [ 0.3   -0.286  0.044  0.007] QK key-energy in shared4 0.045 QK query-energy in shared4 0.012
+L3H1 key-linear norm 0.28 key-linear along shared4 [ 0.118 -0.153  0.006  0.023] QK key-energy in shared4 0.064 QK query-energy in shared4 0.017
+L3H2 key-linear norm 0.495 key-linear along shared4 [ 0.272 -0.278  0.055  0.018] QK key-energy in shared4 0.067 QK query-energy in shared4 0.023
+L3H3 key-linear norm 0.22 key-linear along shared4 [-0.018 -0.007 -0.009  0.012] QK key-energy in shared4 0.005 QK query-energy in shared4 0.005
+L3H4 key-linear norm 0.144 key-linear along shared4 [ 0.024 -0.014 -0.01   0.038] QK key-energy in shared4 0.02 QK query-energy in shared4 0.019
+L3H5 key-linear norm 0.493 key-linear along shared4 [ 0.323 -0.268  0.018  0.04 ] QK key-energy in shared4 0.066 QK query-energy in shared4 0.014
+
+```

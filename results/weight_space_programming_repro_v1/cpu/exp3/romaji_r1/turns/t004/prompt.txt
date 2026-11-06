@@ -1,0 +1,91 @@
+OUTPUT of run 3 of at most 100:
+```
+Within-layer QK matrix cosines:
+L 0
+[[ 1.     0.012  0.008  0.137  0.013  0.044]
+ [ 0.012  1.     0.691 -0.026  0.57   0.026]
+ [ 0.008  0.691  1.    -0.063  0.493 -0.075]
+ [ 0.137 -0.026 -0.063  1.    -0.044  0.01 ]
+ [ 0.013  0.57   0.493 -0.044  1.     0.033]
+ [ 0.044  0.026 -0.075  0.01   0.033  1.   ]]
+L 1
+[[1.    0.357 0.372 0.345 0.334 0.376]
+ [0.357 1.    0.371 0.361 0.302 0.398]
+ [0.372 0.371 1.    0.368 0.375 0.351]
+ [0.345 0.361 0.368 1.    0.32  0.394]
+ [0.334 0.302 0.375 0.32  1.    0.288]
+ [0.376 0.398 0.351 0.394 0.288 1.   ]]
+L 2
+[[1.    0.128 0.161 0.117 0.179 0.134]
+ [0.128 1.    0.116 0.086 0.121 0.116]
+ [0.161 0.116 1.    0.101 0.144 0.123]
+ [0.117 0.086 0.101 1.    0.092 0.093]
+ [0.179 0.121 0.144 0.092 1.    0.134]
+ [0.134 0.116 0.123 0.093 0.134 1.   ]]
+L 3
+[[1.    0.058 0.082 0.06  0.007 0.108]
+ [0.058 1.    0.069 0.034 0.041 0.075]
+ [0.082 0.069 1.    0.031 0.036 0.094]
+ [0.06  0.034 0.031 1.    0.036 0.058]
+ [0.007 0.041 0.036 0.036 1.    0.027]
+ [0.108 0.075 0.094 0.058 0.027 1.   ]]
+
+L0 value singular values: [3.339 2.305 1.516 0.814 0.773 0.711 0.682 0.672 0.651 0.633 0.618 0.597
+ 0.574 0.561 0.558 0.537 0.525 0.508 0.498 0.487 0.476 0.469 0.461 0.45
+ 0.432 0.427 0.417 0.41  0.408 0.395 0.388 0.382 0.38  0.376 0.363 0.359
+ 0.356 0.348 0.342 0.334 0.333 0.326 0.317 0.308 0.307]
+L0H3 positional-subspace / candidate content-subspace fractions:
+L0H0 QK both-pos/left-pos/right-pos/content [0.79  0.876 0.888 0.162] OV source-pos/source-content [0.288 0.893]
+L0H1 QK both-pos/left-pos/right-pos/content [0.537 0.852 0.621 0.18 ] OV source-pos/source-content [0.898 0.416]
+L0H2 QK both-pos/left-pos/right-pos/content [0.607 0.887 0.672 0.168] OV source-pos/source-content [0.919 0.362]
+L0H3 QK both-pos/left-pos/right-pos/content [0.966 0.974 0.988 0.031] OV source-pos/source-content [0.319 0.895]
+L0H4 QK both-pos/left-pos/right-pos/content [0.502 0.826 0.605 0.215] OV source-pos/source-content [0.882 0.404]
+L0H5 QK both-pos/left-pos/right-pos/content [0.318 0.905 0.358 0.217] OV source-pos/source-content [0.965 0.258]
+
+L0H5 OV top singular values: [16.278  8.778  2.833  1.117  1.039  0.631  0.533  0.448  0.413  0.326
+  0.266  0.221]
+Top 4 right singular vectors' squared positional/content projection:
+0 0.9488 0.05
+1 0.9276 0.0691
+2 0.7316 0.2536
+3 0.23 0.7292
+
+Later QK energy on L0H5 top TWO output directions:
+L1H0 QK left/right/both fractions [0.198 0.63  0.181] bias-key norm 3.975 bias-key projection [-2.944  2.178]
+L1H1 QK left/right/both fractions [0.223 0.656 0.204] bias-key norm 3.689 bias-key projection [-2.687  2.081]
+L1H2 QK left/right/both fractions [0.177 0.677 0.161] bias-key norm 3.051 bias-key projection [-2.243  1.699]
+L1H3 QK left/right/both fractions [0.218 0.68  0.199] bias-key norm 3.39 bias-key projection [-2.417  1.979]
+L1H4 QK left/right/both fractions [0.15  0.651 0.134] bias-key norm 2.329 bias-key projection [-1.483  1.45 ]
+L1H5 QK left/right/both fractions [0.236 0.648 0.217] bias-key norm 3.895 bias-key projection [-2.81   2.237]
+L2H0 QK left/right/both fractions [0.25  0.477 0.229] bias-key norm 2.02 bias-key projection [-1.432  1.156]
+L2H1 QK left/right/both fractions [0.17  0.297 0.156] bias-key norm 1.88 bias-key projection [-1.294  1.09 ]
+L2H2 QK left/right/both fractions [0.174 0.343 0.16 ] bias-key norm 1.608 bias-key projection [-1.069  0.926]
+L2H3 QK left/right/both fractions [0.101 0.294 0.091] bias-key norm 1.06 bias-key projection [-0.586  0.585]
+L2H4 QK left/right/both fractions [0.198 0.389 0.182] bias-key norm 2.305 bias-key projection [-1.664  1.281]
+L2H5 QK left/right/both fractions [0.169 0.309 0.155] bias-key norm 2.023 bias-key projection [-1.501  1.107]
+L3H0 QK left/right/both fractions [0.097 0.199 0.081] bias-key norm 0.5 bias-key projection [-0.304  0.282]
+L3H1 QK left/right/both fractions [0.097 0.241 0.078] bias-key norm 0.28 bias-key projection [-0.12  0.15]
+L3H2 QK left/right/both fractions [0.128 0.248 0.107] bias-key norm 0.495 bias-key projection [-0.274  0.275]
+L3H3 QK left/right/both fractions [0.023 0.033 0.005] bias-key norm 0.22 bias-key projection [0.018 0.006]
+L3H4 QK left/right/both fractions [0.066 0.087 0.018] bias-key norm 0.144 bias-key projection [-0.024  0.013]
+L3H5 QK left/right/both fractions [0.097 0.245 0.08 ] bias-key norm 0.493 bias-key projection [-0.326  0.263]
+
+MLP output spectra, positions 15..34:
+0 [5.363 5.259 5.206 5.171 5.153 5.057 5.018 4.96  4.88  4.821 4.788 4.77
+ 4.73  4.643 4.579 4.546 4.529 4.505 4.493 4.44 ]
+1 [6.053 6.012 5.96  5.914 5.901 5.845 5.833 5.816 5.764 5.744 5.705 5.68
+ 5.656 5.651 5.594 5.563 5.549 5.526 5.508 5.489]
+2 [6.803 6.736 6.659 6.459 6.431 6.34  6.319 6.253 6.231 6.158 6.073 6.017
+ 6.    5.963 5.904 5.886 5.792 5.762 5.741 5.731]
+3 [13.438 12.667 12.455 12.317 11.531 11.047  9.084  8.353  8.24   6.37
+  5.836  4.626  4.583  3.777  3.61   3.252  3.183  3.086  2.941  2.865]
+
+L3H3 compositional diagnostics in candidate content subspace:
+L3H0 trace/nuclear=-0.1299 symcos=0.0240 positive_symmetric_mass=0.4166 top sv [0.0478 0.0414 0.0365 0.0292 0.0285]
+L3H1 trace/nuclear=-0.0286 symcos=-0.0155 positive_symmetric_mass=0.4821 top sv [0.0251 0.0211 0.0193 0.0168 0.0149]
+L3H2 trace/nuclear=0.0114 symcos=0.1124 positive_symmetric_mass=0.5070 top sv [0.0244 0.0233 0.0216 0.0191 0.0177]
+L3H3 trace/nuclear=0.7271 symcos=0.5248 positive_symmetric_mass=0.9099 top sv [0.0641 0.0533 0.0493 0.0449 0.0391]
+L3H4 trace/nuclear=0.1437 symcos=-0.0047 positive_symmetric_mass=0.5930 top sv [0.0123 0.0096 0.0084 0.0078 0.0077]
+L3H5 trace/nuclear=-0.0487 symcos=0.0694 positive_symmetric_mass=0.4690 top sv [0.0302 0.0271 0.0264 0.0253 0.0205]
+
+```

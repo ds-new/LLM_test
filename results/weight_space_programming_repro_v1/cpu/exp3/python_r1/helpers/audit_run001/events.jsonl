@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-0b32-7083-81b0-7728db80e83e"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"qg, kg, vg = q*g, k*g, v*g; a, m = qg.T@kg, o@vg; la.eigvals(kg@qg.T); la.eigvals(vg@o); norm(q@b), norm(k@b), norm(v@b)\",\"reason\":\"The code only computes statistics and linear-algebra operations on permitted weights, including weight-derived directions, without running any layer on an input or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8030,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":147,"reasoning_output_tokens":26}}

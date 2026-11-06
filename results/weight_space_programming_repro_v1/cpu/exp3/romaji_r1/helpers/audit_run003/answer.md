@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"Q[l,j]=(W[f\"W_q.{l}\"][sl].astype(float)*g)@P; A[l,j]=Q[l,j].T@K[l,j]/8; B[l,j]=O[l,j]@V[l,j]; svd(...); np.linalg.eigvalsh(...)","reason":"The code performs only permitted linear-algebra computations on allowed block weights and weight-derived directions, without evaluating network layers on inputs, accessing excluded weights, or searching."}
+```

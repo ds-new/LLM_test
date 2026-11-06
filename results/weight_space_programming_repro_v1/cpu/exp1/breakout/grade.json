@@ -1,0 +1,9 @@
+{
+ "answer_line": "**Breakout — a small grid-based brick-breaker.**",
+ "guess": "breakout",
+ "true": "breakout",
+ "correct": true,
+ "via": "keywords",
+ "confidence": 97.0,
+ "tool_free": true
+}

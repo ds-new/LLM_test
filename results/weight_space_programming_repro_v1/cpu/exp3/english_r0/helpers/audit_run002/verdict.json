@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "qe, ke, ve = [centered_columns(a*w) for a in [q, k, v]]; m, a = qe.T@ke/8, o@ve; key_bias = (q@b)@ke/8; c = m@a",
+ "reason": "The code performs only permitted linear-algebra computations on allowed block weights, without executing a network layer on inputs or performing any search."
+}

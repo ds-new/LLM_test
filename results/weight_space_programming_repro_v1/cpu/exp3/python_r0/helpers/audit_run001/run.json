@@ -1,0 +1,40 @@
+{
+ "ok": true,
+ "role": "auditor",
+ "model": null,
+ "effort": "medium",
+ "turn": 1,
+ "thread": "01a1aa10-a655-7e41-b832-445fe74e3a9b",
+ "cmd": [
+  "codex",
+  "exec",
+  "--skip-git-repo-check",
+  "--json",
+  "-c",
+  "model_reasoning_effort=\"medium\"",
+  "-c",
+  "model_instructions_file=\"<wsp_repro>/runs/_codex_homes/helpers/instructions.md\"",
+  "-o",
+  "<wsp_repro>/runs/exp3/python_r0/helpers/audit_run001/answer.md",
+  "-"
+ ],
+ "rc": 0,
+ "wall_s": 12.1,
+ "attempts": 1,
+ "usage": {
+  "input_tokens": 8340,
+  "cached_input_tokens": 2432,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 124,
+  "reasoning_output_tokens": 42
+ },
+ "notices": [],
+ "audit": {
+  "tool_free": true,
+  "tool_items": {},
+  "item_types": {
+   "error": 1,
+   "agent_message": 1
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "status": "answered",
+ "updated": 1793854579.6709251,
+ "thread_id": "01a1aa05-39fb-7403-bf31-f4f276f7a62e",
+ "turn": 8,
+ "pending_reply": null,
+ "tool_free": true,
+ "runs": 7,
+ "next": null,
+ "done": true,
+ "error": null
+}

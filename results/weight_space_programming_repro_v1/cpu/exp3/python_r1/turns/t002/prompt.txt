@@ -1,0 +1,75 @@
+OUTPUT of run 1 of at most 100:
+```
+LayerNorm parameters: mean, std, min, max, L2 norm
+ln1_w.0: 0.26771 0.21465 0.01655 1.01343 6.7241
+ln1_b.0: 0.00065 0.03660 -0.12149 0.14178 0.7172
+ln2_w.0: 0.81684 0.33119 0.04681 1.64118 17.2723
+ln2_b.0: 0.01796 0.06667 -0.55371 0.16628 1.3530
+ln1_w.1: 0.47536 0.09639 0.19793 1.20958 9.5046
+ln1_b.1: 0.02203 0.15318 -1.05050 0.91025 3.0327
+ln2_w.1: 1.01109 0.15820 0.01391 1.47066 20.0543
+ln2_b.1: 0.02753 0.14421 -0.37441 0.36524 2.8769
+ln1_w.2: 0.73433 0.07120 0.34448 0.90474 14.4574
+ln1_b.2: 0.02439 0.13153 -0.94167 0.73256 2.6214
+ln2_w.2: 1.27500 0.11256 0.07753 1.50181 25.0820
+ln2_b.2: 0.01881 0.14735 -0.41571 0.36355 2.9110
+ln1_w.3: 0.76938 0.04688 0.45102 0.87783 15.1046
+ln1_b.3: 0.01021 0.09447 -0.51407 0.62854 1.8619
+ln2_w.3: 1.25516 0.08883 0.26190 1.45679 24.6574
+ln2_b.3: 0.01399 0.12666 -0.51123 0.38081 2.4972
+
+Matrix summaries: Frobenius norm, top 8 singular values, spectral participation rank
+W_q.0: norm=22.704 top=[5.039 4.999 4.703 4.377 4.343 4.294 4.058 4.032] rank=42.85
+W_k.0: norm=23.214 top=[6.204 5.052 4.572 4.537 4.391 4.289 4.284 4.208] rank=39.33
+W_v.0: norm=18.197 top=[4.553 4.024 3.738 3.497 3.465 3.367 3.279 3.215] rank=39.74
+W_o.0: norm=19.600 top=[6.678 5.237 2.835 2.679 2.62  2.581 2.55  2.515] rank=36.89
+W_fc.0: norm=51.650 top=[18.11  12.28   8.473  7.902  7.779  7.442  7.146  7.109] rank=36.49
+W_proj.0: norm=45.806 top=[10.932  7.576  6.628  6.293  6.166  5.924  5.886  5.769] rank=86.43
+W_q.1: norm=31.676 top=[8.984 7.137 6.079 5.874 5.19  5.102 4.973 4.885] rank=45.00
+W_k.1: norm=28.602 top=[10.967  9.448  5.438  4.842  4.539  4.481  4.235  4.11 ] rank=23.16
+W_v.1: norm=28.469 top=[5.35  5.064 4.979 4.819 4.69  4.585 4.519 4.419] rank=66.98
+W_o.1: norm=26.151 top=[4.19  3.651 3.385 3.352 3.24  3.216 3.141 3.115] rank=110.15
+W_fc.1: norm=80.261 top=[20.796 14.143 13.826 13.428 13.122 12.883 12.764 12.474] rank=57.23
+W_proj.1: norm=75.119 top=[7.625 7.359 6.908 6.489 6.344 6.223 6.192 6.02 ] rank=278.49
+W_q.2: norm=37.483 top=[5.067 4.742 4.456 4.39  4.314 4.26  4.157 4.097] rank=150.03
+W_k.2: norm=36.356 top=[8.293 7.348 5.059 4.467 4.306 3.912 3.776 3.773] rank=102.35
+W_v.2: norm=34.746 top=[3.89  3.824 3.791 3.654 3.644 3.628 3.602 3.582] rank=166.35
+W_o.2: norm=34.205 top=[4.442 4.073 3.768 3.455 3.44  3.365 3.35  3.297] rank=182.06
+W_fc.2: norm=79.454 top=[14.829  8.048  7.921  7.76   7.66   7.586  7.522  7.509] rank=187.52
+W_proj.2: norm=77.477 top=[10.095  8.985  8.075  7.909  7.791  7.656  7.588  7.375] rank=231.72
+W_q.3: norm=33.940 top=[4.154 3.946 3.875 3.601 3.521 3.428 3.419 3.379] rank=173.05
+W_k.3: norm=33.221 top=[4.888 3.928 3.62  3.437 3.381 3.287 3.263 3.246] rank=173.45
+W_v.3: norm=38.939 top=[4.697 4.356 4.255 4.208 4.171 4.131 4.096 4.028] rank=164.02
+W_o.3: norm=39.017 top=[9.175 6.63  4.442 4.111 4.054 4.04  4.006 3.975] rank=109.67
+W_fc.3: norm=78.189 top=[14.373  8.176  7.973  7.83   7.036  6.757  6.711  6.594] rank=215.94
+W_proj.3: norm=85.089 top=[28.175 20.293 19.292 19.135 18.708 18.57  18.139 17.776] rank=23.66
+
+Head summaries (linear weight products only)
+QK = (W_q diag(ln1_w))^T (W_k diag(ln1_w)); OV = W_o W_v diag(ln1_w)
+sym = <M,M^T>/||M||_F^2; eigsign = sum Re(eigenvalues)/sum |eigenvalues|
+L0H0: q/k/v/o=4.13/4.91/5.35/5.21 QKnorm=0.91 QKrank=2.0 QKsym=0.181 QKeigsign=-0.447 OVnorm=4.32 OVrank=2.0 OVsym=0.104 OVeigsign=0.607 qb/kb/vb=0.34/0.22/0.68 QKtop=[0.71 0.54 0.11 0.06 0.04] OVtop=[3.43 2.47 0.53 0.4  0.35]
+L0H1: q/k/v/o=12.46/12.64/9.26/10.20 QKnorm=7.02 QKrank=3.7 QKsym=-0.100 QKeigsign=-0.198 OVnorm=3.49 OVrank=21.9 OVsym=0.005 OVeigsign=0.045 qb/kb/vb=0.67/0.83/0.76 QKtop=[4.81 2.99 2.38 1.69 1.59] OVtop=[1.   0.92 0.89 0.86 0.84]
+L0H2: q/k/v/o=6.46/6.83/5.99/5.54 QKnorm=1.40 QKrank=2.7 QKsym=0.403 QKeigsign=0.171 OVnorm=2.03 OVrank=6.2 OVsym=0.009 OVeigsign=0.010 qb/kb/vb=0.31/0.61/0.53 QKtop=[1.06 0.64 0.35 0.25 0.22] OVtop=[1.06 0.9  0.81 0.66 0.54]
+L0H3: q/k/v/o=6.63/6.82/4.88/5.47 QKnorm=1.92 QKrank=2.8 QKsym=0.209 QKeigsign=-0.611 OVnorm=1.62 OVrank=5.1 OVsym=0.043 OVeigsign=0.158 qb/kb/vb=0.65/0.96/0.34 QKtop=[1.32 1.12 0.65 0.25 0.23] OVtop=[1.03 0.56 0.46 0.44 0.35]
+L0H4: q/k/v/o=2.17/2.62/8.28/8.94 QKnorm=0.07 QKrank=12.2 QKsym=0.023 QKeigsign=-0.154 OVnorm=17.16 OVrank=1.9 OVsym=0.070 OVeigsign=0.746 qb/kb/vb=0.06/0.09/0.96 QKtop=[0.04 0.02 0.02 0.02 0.02] OVtop=[13.88  9.65  2.51  0.97  0.59]
+L0H5: q/k/v/o=15.90/15.96/9.41/10.60 QKnorm=7.77 QKrank=12.2 QKsym=-0.228 QKeigsign=0.311 OVnorm=3.71 OVrank=20.6 OVsym=-0.000 OVeigsign=-0.469 qb/kb/vb=0.64/0.66/0.90 QKtop=[3.28 2.89 2.19 2.03 1.96] OVtop=[1.06 1.04 0.96 0.95 0.91]
+L1H0: q/k/v/o=10.56/9.83/12.95/11.17 QKnorm=5.16 QKrank=7.0 QKsym=0.020 QKeigsign=-0.302 OVnorm=13.44 OVrank=13.7 OVsym=0.083 OVeigsign=-0.826 qb/kb/vb=3.28/5.96/2.02 QKtop=[2.83 2.01 1.75 1.34 1.26] OVtop=[4.95 4.69 4.26 4.01 3.58]
+L1H1: q/k/v/o=14.53/12.80/11.06/10.66 QKnorm=12.69 QKrank=3.2 QKsym=-0.003 QKeigsign=-0.521 OVnorm=9.60 OVrank=20.3 OVsym=0.060 OVeigsign=-0.771 qb/kb/vb=5.13/11.82/1.45 QKtop=[9.17 5.29 3.69 2.61 1.99] OVtop=[2.93 2.8  2.57 2.47 2.27]
+L1H2: q/k/v/o=12.69/11.35/12.12/11.19 QKnorm=9.91 QKrank=3.5 QKsym=-0.015 QKeigsign=-0.416 OVnorm=11.50 OVrank=19.8 OVsym=0.072 OVeigsign=-0.812 qb/kb/vb=4.40/9.97/1.28 QKtop=[6.47 5.55 2.67 1.65 1.44] OVtop=[3.33 3.27 3.1  3.02 2.95]
+L1H3: q/k/v/o=12.70/11.75/11.32/10.14 QKnorm=10.49 QKrank=3.1 QKsym=-0.043 QKeigsign=-0.351 OVnorm=10.04 OVrank=16.6 OVsym=0.051 OVeigsign=-0.717 qb/kb/vb=4.81/11.43/1.40 QKtop=[7.31 5.6  2.49 1.63 1.42] OVtop=[3.42 3.13 2.81 2.7  2.64]
+L1H4: q/k/v/o=12.59/11.51/10.92/9.91 QKnorm=10.02 QKrank=3.4 QKsym=-0.036 QKeigsign=-0.318 OVnorm=9.56 OVrank=16.4 OVsym=0.044 OVeigsign=-0.721 qb/kb/vb=4.71/10.49/1.35 QKtop=[6.82 5.24 2.73 1.71 1.53] OVtop=[3.07 2.93 2.82 2.68 2.68]
+L1H5: q/k/v/o=14.14/12.58/11.23/10.92 QKnorm=11.70 QKrank=3.7 QKsym=0.010 QKeigsign=-0.554 OVnorm=9.83 OVrank=21.7 OVsym=0.071 OVeigsign=-0.833 qb/kb/vb=4.58/10.92/1.44 QKtop=[8.08 4.44 3.85 3.62 1.94] OVtop=[2.82 2.67 2.53 2.44 2.38]
+L2H0: q/k/v/o=15.22/14.53/13.81/13.64 QKnorm=16.37 QKrank=34.9 QKsym=-0.003 QKeigsign=-0.128 OVnorm=18.70 OVrank=41.1 OVsym=0.080 OVeigsign=-0.773 qb/kb/vb=2.89/5.49/1.23 QKtop=[4.15 3.88 3.67 3.33 3.26] OVtop=[4.08 3.82 3.73 3.57 3.53]
+L2H1: q/k/v/o=14.68/14.47/14.68/14.21 QKnorm=15.58 QKrank=38.8 QKsym=0.040 QKeigsign=0.541 OVnorm=21.45 OVrank=31.6 OVsym=0.071 OVeigsign=-0.811 qb/kb/vb=2.80/2.26/1.67 QKtop=[3.68 3.37 3.17 3.15 2.94] OVtop=[6.41 4.71 4.68 4.65 4.5 ]
+L2H2: q/k/v/o=17.26/16.72/12.99/13.00 QKnorm=22.44 QKrank=29.5 QKsym=0.032 QKeigsign=0.238 OVnorm=16.79 OVrank=41.8 OVsym=0.068 OVeigsign=-0.711 qb/kb/vb=3.38/7.73/1.14 QKtop=[5.67 5.57 5.41 5.08 4.89] OVtop=[3.49 3.39 3.31 3.18 3.15]
+L2H3: q/k/v/o=15.01/14.61/14.46/14.25 QKnorm=15.81 QKrank=34.4 QKsym=-0.012 QKeigsign=-0.094 OVnorm=20.62 OVrank=40.7 OVsym=0.090 OVeigsign=-0.783 qb/kb/vb=2.55/7.12/1.41 QKtop=[4.57 3.39 3.3  3.14 3.1 ] OVtop=[4.63 4.33 4.25 3.98 3.91]
+L2H4: q/k/v/o=15.58/15.20/13.47/13.50 QKnorm=17.62 QKrank=25.6 QKsym=0.000 QKeigsign=0.012 OVnorm=18.42 OVrank=38.0 OVsym=0.096 OVeigsign=-0.853 qb/kb/vb=3.30/7.48/1.76 QKtop=[6.26 4.71 3.88 3.44 3.33] OVtop=[4.   3.85 3.8  3.74 3.62]
+L2H5: q/k/v/o=13.84/13.30/15.55/15.08 QKnorm=13.24 QKrank=37.1 QKsym=-0.006 QKeigsign=-0.198 OVnorm=23.77 OVrank=35.7 OVsym=0.053 OVeigsign=-0.686 qb/kb/vb=2.45/4.13/1.25 QKtop=[3.36 3.31 2.88 2.56 2.52] OVtop=[6.35 5.48 5.2  4.78 4.61]
+L3H0: q/k/v/o=14.95/14.54/15.59/15.37 QKnorm=16.62 QKrank=48.3 QKsym=0.020 QKeigsign=0.390 OVnorm=24.50 OVrank=43.4 OVsym=0.067 OVeigsign=-0.760 qb/kb/vb=1.56/1.76/0.96 QKtop=[3.24 3.19 3.08 3.01 2.92] OVtop=[5.52 4.97 4.69 4.61 4.42]
+L3H1: q/k/v/o=13.43/13.31/15.61/15.27 QKnorm=13.56 QKrank=49.2 QKsym=0.022 QKeigsign=0.545 OVnorm=25.73 OVrank=34.1 OVsym=0.082 OVeigsign=-0.814 qb/kb/vb=1.65/1.74/1.05 QKtop=[2.58 2.52 2.47 2.43 2.4 ] OVtop=[7.22 5.31 5.21 5.19 5.04]
+L3H2: q/k/v/o=14.99/14.47/15.92/16.03 QKnorm=16.49 QKrank=47.9 QKsym=-0.007 QKeigsign=0.163 OVnorm=26.87 OVrank=31.1 OVsym=0.074 OVeigsign=-0.759 qb/kb/vb=1.56/1.79/1.10 QKtop=[3.47 3.29 3.13 2.9  2.87] OVtop=[9.01 6.04 5.3  5.02 4.92]
+L3H3: q/k/v/o=10.54/10.52/17.86/18.20 QKnorm=8.43 QKrank=42.0 QKsym=-0.007 QKeigsign=0.001 OVnorm=37.94 OVrank=20.0 OVsym=0.066 OVeigsign=-0.678 qb/kb/vb=1.53/1.46/1.21 QKtop=[2.1  1.9  1.66 1.62 1.55] OVtop=[14.68  9.62  9.36  8.9   8.72]
+L3H4: q/k/v/o=13.65/13.26/16.27/16.26 QKnorm=13.88 QKrank=44.0 QKsym=0.004 QKeigsign=0.001 OVnorm=28.45 OVrank=28.4 OVsym=0.039 OVeigsign=-0.588 qb/kb/vb=1.53/1.59/1.13 QKtop=[3.21 2.96 2.86 2.59 2.5 ] OVtop=[9.18 7.9  6.62 5.9  5.57]
+L3H5: q/k/v/o=15.03/14.81/13.87/14.16 QKnorm=16.94 QKrank=49.6 QKsym=0.221 QKeigsign=0.896 OVnorm=23.69 OVrank=17.7 OVsym=0.205 OVeigsign=-0.917 qb/kb/vb=1.81/2.08/1.29 QKtop=[3.23 3.12 3.07 2.96 2.92] OVtop=[9.98 5.45 5.21 5.07 4.93]
+
+```

@@ -1,0 +1,53 @@
+OUTPUT of run 5 of at most 100:
+```
+Positional-subspace tests: these compare matrix factors, not position inputs.
+L0H5 rank 8 left/right subspace angle cosines: [0.9491 0.9419 0.9024 0.8879 0.8125 0.7388 0.6926 0.4865]
+L0H5 rank 12 left/right subspace angle cosines: [0.9733 0.9577 0.9539 0.9481 0.9362 0.9218 0.8943 0.8685 0.8241 0.7407 0.6433 0.4302]
+L0H5 rank 16 left/right subspace angle cosines: [0.9848 0.9763 0.9732 0.9677 0.96   0.9518 0.9504 0.9442 0.9296 0.9139 0.8878 0.8614 0.7881 0.7369 0.4511 0.1284]
+L0H5 rank 20 left/right subspace angle cosines: [0.9939 0.9899 0.9847 0.9819 0.9795 0.9748 0.9671 0.9654 0.9565 0.9494 0.9343 0.9308 0.9137 0.9101 0.888  0.8589 0.8407 0.8086 0.7045 0.5443]
+L0H5 rank 24 left/right subspace angle cosines: [0.9953 0.9914 0.9913 0.9879 0.9854 0.9826 0.9802 0.9775 0.972  0.9696 0.9623 0.9582 0.9533 0.9386 0.9323 0.921  0.9081 0.8934 0.874  0.8493 0.7177 0.619  0.4688 0.0615]
+L0H5 rank 32 left/right subspace angle cosines: [0.9961 0.9947 0.9933 0.9927 0.9897 0.9888 0.9872 0.9868 0.9843 0.9824 0.9792 0.9758 0.974  0.9665 0.9606 0.9591 0.9564 0.953  0.9405 0.9331 0.9209 0.8971 0.8781 0.8101 0.7708
+ 0.7486 0.7258 0.6421 0.5621 0.5298 0.4494 0.1264]
+
+Rank 12 polar-factor eigenphases/pi: [-0.468  -0.3882 -0.3086 -0.2947 -0.1869 -0.0092  0.0092  0.1869  0.2947  0.3086  0.3882  0.468 ]
+H0 top (matrix cosine, relative power): [(np.float64(0.2148), 2), (np.float64(0.2135), 8), (np.float64(0.1897), -5), (np.float64(0.1639), 1), (np.float64(0.1482), -6)]
+H1 top (matrix cosine, relative power): [(np.float64(0.5034), 2), (np.float64(0.4268), -6), (np.float64(0.3759), 8), (np.float64(0.3645), 1), (np.float64(0.3587), 7)]
+H2 top (matrix cosine, relative power): [(np.float64(0.3353), -7), (np.float64(0.3214), 6), (np.float64(0.3201), 0), (np.float64(0.2972), 7), (np.float64(0.2959), -1)]
+H3 top (matrix cosine, relative power): [(np.float64(0.2621), 3), (np.float64(0.2588), -3), (np.float64(0.2407), -4), (np.float64(0.2139), 4), (np.float64(0.0532), 2)]
+
+Rank 16 polar-factor eigenphases/pi: [-0.6225 -0.5351 -0.4557 -0.3355 -0.2955 -0.2808 -0.188  -0.0337  0.0337  0.188   0.2808  0.2955  0.3355  0.4557  0.5351  0.6225]
+H0 top (matrix cosine, relative power): [(np.float64(0.2403), -5), (np.float64(0.1918), 8), (np.float64(0.1788), 2), (np.float64(0.1702), -6), (np.float64(0.1634), 1)]
+H1 top (matrix cosine, relative power): [(np.float64(0.5979), 2), (np.float64(0.3581), -5), (np.float64(0.3235), 8), (np.float64(0.2055), 1), (np.float64(0.1275), -6)]
+H2 top (matrix cosine, relative power): [(np.float64(0.2856), -7), (np.float64(0.2721), 7), (np.float64(0.2652), 6), (np.float64(0.2638), 0), (np.float64(0.2426), -1)]
+H3 top (matrix cosine, relative power): [(np.float64(0.2152), -3), (np.float64(0.2105), 3), (np.float64(0.1898), 4), (np.float64(0.1761), -4), (np.float64(0.0989), -2)]
+
+Rank 20 polar-factor eigenphases/pi: [-0.6374 -0.6198 -0.5864 -0.4926 -0.4415 -0.323  -0.2975 -0.2649 -0.1721 -0.0279  0.0279  0.1721  0.2649  0.2975  0.323   0.4415  0.4926  0.5864  0.6198  0.6374]
+H0 top (matrix cosine, relative power): [(np.float64(0.2137), 8), (np.float64(0.2127), -5), (np.float64(0.1969), 2), (np.float64(0.1595), 1), (np.float64(0.0951), -6)]
+H1 top (matrix cosine, relative power): [(np.float64(0.6511), 2), (np.float64(0.3204), 8), (np.float64(0.3155), -5), (np.float64(0.235), -1), (np.float64(0.2064), -4)]
+H2 top (matrix cosine, relative power): [(np.float64(0.2516), 7), (np.float64(0.234), -7), (np.float64(0.2217), 6), (np.float64(0.2164), 0), (np.float64(0.2116), -1)]
+H3 top (matrix cosine, relative power): [(np.float64(0.1725), -3), (np.float64(0.1515), 4), (np.float64(0.1486), 3), (np.float64(0.1394), -4), (np.float64(0.0717), -2)]
+
+Rank 24 polar-factor eigenphases/pi: [-0.6495 -0.6249 -0.585  -0.5654 -0.4783 -0.4214 -0.3613 -0.3035 -0.2702 -0.1784 -0.0854  0.      0.0854  0.1784  0.2702  0.3035  0.3613  0.4214  0.4783  0.5654  0.585   0.6249
+  0.6495  1.    ]
+H0 top (matrix cosine, relative power): [(np.float64(0.2103), -5), (np.float64(0.1877), 1), (np.float64(0.1725), 3), (np.float64(0.1668), -7), (np.float64(0.1626), -1)]
+H1 top (matrix cosine, relative power): [(np.float64(0.5266), 2), (np.float64(0.3182), -1), (np.float64(0.2616), -5), (np.float64(0.2603), 5), (np.float64(0.2039), -4)]
+H2 top (matrix cosine, relative power): [(np.float64(0.1916), -1), (np.float64(0.1737), -6), (np.float64(0.1698), 0), (np.float64(0.1628), -7), (np.float64(0.1537), 5)]
+H3 top (matrix cosine, relative power): [(np.float64(0.0286), -2), (np.float64(0.0219), 8), (np.float64(0.0193), 2), (np.float64(0.0176), -4), (np.float64(0.0115), -5)]
+
+Rank 32 polar-factor eigenphases/pi: [-0.8747 -0.7218 -0.6881 -0.6248 -0.6104 -0.5778 -0.5172 -0.4683 -0.4053 -0.3759 -0.2961 -0.2466 -0.2134 -0.1787 -0.0535  0.      0.0535  0.1787  0.2134  0.2466  0.2961  0.3759
+  0.4053  0.4683  0.5172  0.5778  0.6104  0.6248  0.6881  0.7218  0.8747  1.    ]
+H0 top (matrix cosine, relative power): [(np.float64(0.0738), 2), (np.float64(0.0716), -4), (np.float64(0.0704), -1), (np.float64(0.057), 5), (np.float64(0.029), 8)]
+H1 top (matrix cosine, relative power): [(np.float64(0.3086), 2), (np.float64(0.2767), -1), (np.float64(0.2288), -5), (np.float64(0.1566), -7), (np.float64(0.1559), 1)]
+H2 top (matrix cosine, relative power): [(np.float64(0.0881), -2), (np.float64(0.0814), 7), (np.float64(0.0765), 0), (np.float64(0.0747), -1), (np.float64(0.0703), 1)]
+H3 top (matrix cosine, relative power): [(np.float64(0.0488), 5), (np.float64(0.0083), -6), (np.float64(0.0042), -7), (np.float64(0.0015), -1), (np.float64(-0.0032), 2)]
+
+View-centered weight-row clusters:
+view 0 cosine quantiles [0.3669 0.4951 0.7247] counts [ 78  23  49  41 149  19  50  30  78  44   1  33  45  29  78 171  18  49  30   4  42  56  38  58  33  53  74 163]
+view 1 cosine quantiles [0.3555 0.4791 0.6281] counts [ 34 132  42  22  11 126  92 103  23   2   0  17  53   7  38   4   3  69 123 168  71  16  50  82 115  77  51   5]
+view 2 cosine quantiles [0.3392 0.4542 0.6194] counts [ 26  33  28  69  16  22  21  19 100 127 185 128  55 166  14  24 181  41  10   1  56  53  52  34   7  32  21  15]
+view 1 clear rows 310 same-cluster fraction 0.14516129032258066
+largest pairs [(np.int64(12), 27, 19), (np.int64(9), 15, 19), (np.int64(9), 2, 19), (np.int64(6), 15, 24), (np.int64(6), 14, 14), (np.int64(6), 2, 2), (np.int64(5), 15, 5), (np.int64(5), 15, 1), (np.int64(4), 27, 1), (np.int64(4), 26, 26), (np.int64(4), 25, 7), (np.int64(4), 14, 18), (np.int64(4), 12, 26), (np.int64(4), 12, 12), (np.int64(4), 0, 0), (np.int64(3), 26, 25), (np.int64(3), 26, 19), (np.int64(3), 25, 25), (np.int64(3), 25, 2), (np.int64(3), 23, 23)]
+view 2 clear rows 254 same-cluster fraction 0.2952755905511811
+largest pairs [(np.int64(10), 27, 10), (np.int64(8), 15, 16), (np.int64(7), 0, 0), (np.int64(6), 12, 12), (np.int64(6), 2, 2), (np.int64(5), 21, 21), (np.int64(5), 15, 13), (np.int64(5), 15, 10), (np.int64(5), 9, 9), (np.int64(5), 6, 6), (np.int64(5), 0, 16), (np.int64(4), 25, 25), (np.int64(4), 23, 23), (np.int64(4), 22, 22), (np.int64(4), 13, 13), (np.int64(3), 27, 13), (np.int64(3), 26, 26), (np.int64(3), 23, 3), (np.int64(3), 21, 11), (np.int64(3), 21, 10)]
+
+```

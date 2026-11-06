@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-f633-7083-8a22-d90032b53092"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"eff computes weight scaling and centering; A, B and r are weight products; svd, projections, norms and coordinate permutations analyze those products.\",\"reason\":\"The code performs only permitted linear-algebra computations on available block weights, without running any network layer on inputs or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7801,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":110,"reasoning_output_tokens":30}}

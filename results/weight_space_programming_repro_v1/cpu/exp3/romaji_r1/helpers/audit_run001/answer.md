@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"a = q.T @ k / 8; b = o @ v; spectrum(a); spectrum(b); np.linalg.eigvals(k @ q.T / 8); np.linalg.eigvals(v @ o)","reason":"The code only inspects allowed weights and computes permitted linear-algebra statistics and products, without running any network layer on inputs or performing a search."}
+```

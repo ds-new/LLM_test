@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-cf3a-7ae2-9b71-3708c963b242"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"svd(a,compute_uv=False); ica.fit_transform(Z); KMeans(...).fit(X); F=W[\\\"W_fc.0\\\"].astype(float)*W[\\\"ln2_w.0\\\"].astype(float)\",\"reason\":\"The code only performs permitted linear algebra and statistical analysis on allowed block weights, without running any network layer on an input, accessing excluded weights, or conducting searches.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7880,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":159,"reasoning_output_tokens":55}}

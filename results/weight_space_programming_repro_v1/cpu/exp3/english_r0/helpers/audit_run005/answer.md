@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"eff(t,w); qe.T@ke/8; W[f\"W_o.{l}\"][:,z].astype(float)@ve; svd(common,full_matrices=False); np.einsum(\"ij,ji->\",m,a[perm])","reason":"The code performs only permitted weight-based linear algebra and statistical analysis, without evaluating any network layer on inputs or conducting any search."}
+```

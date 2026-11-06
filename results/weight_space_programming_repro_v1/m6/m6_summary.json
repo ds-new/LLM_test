@@ -1,0 +1,23 @@
+{
+  "what": "Re-evaluation of the authors' released Qwen3.5-0.8B weight edits (exp8 of lm_understand-logs), rebuilt bit for bit",
+  "hardware": "AutoDL, 1 x NVIDIA GeForce RTX 4080 SUPER 32GB, 12 CPU cores, 62 GB RAM",
+  "software": {"vllm": "0.33.0", "grading": "math-verify via the authors' mathqa.py"},
+  "model": {"repo": "Qwen/Qwen3.5-0.8B", "revision": "2fc06364715b967f1860aea9cf38778875588b17",
+            "downloaded_from": "ModelScope (weights) + hf-mirror (other files); identical to the HF revision: every base tensor's sha256 matched the edit manifests"},
+  "build": {
+    "p50c": {"tensors": 2, "changed_entries": 130188, "sha256": "all match"},
+    "p10c": {"tensors": 30, "changed_entries": 72986982, "sha256": "all match"},
+    "p25c": {"tensors": 1, "changed_entries": 262144, "sha256": "all match"}
+  },
+  "protocol": {"name": "think35", "thinking": true, "temperature": 0.6, "top_p": 0.95, "top_k": 20,
+               "presence_penalty": 1.5, "max_tokens": 32768, "seed": 0, "samples_per_problem": {"math500": 4},
+               "prompt_suffix": "Please reason step by step, and put your final answer within \\boxed{}."},
+  "results": {
+    "base_math500": {"acc": 0.082, "ok": 164, "total": 2000, "cut_share": 0.9235, "mean_tokens": 30741.7,
+                     "wall_seconds": 30735, "paper_acc": 0.079, "paper_cut_share": 0.930},
+    "p50c_math500": {"acc": 0.505, "cut_share": 0.324, "mean_tokens": 21997, "paper_acc": 0.481, "paper_cut_share": 0.3305}
+  },
+  "not_run": ["GSM8K", "p10c and p25c evaluations", "AMC23 / Minerva / OlympiadBench / MMLU-Pro / GPQA / IFEval"],
+  "timeline_local_time": {"start": "2026-11-05 20:19", "base_math500_done": "2026-11-06 05:35",
+                          "p50c_math500_start": "2026-11-06 05:35", "p50c_math500_done": "about 12:00", "shutdown": "10 min after the script ended"}
+}

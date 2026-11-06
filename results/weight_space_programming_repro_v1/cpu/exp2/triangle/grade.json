@@ -1,0 +1,10 @@
+{
+ "answer_line": "White, approximately one-pixel-thick **hollow triangles on black backgrounds**, pointing upward. Typically they occupy most of the central canvas: roughly 8–10 pixels across and 7–10 pixels tall, with an apex near the upper middle and a horizontal base near the bottom. Position, proportions, and sla",
+ "guess": "triangle",
+ "true": "triangle",
+ "correct": true,
+ "via": "keywords",
+ "confidence": 88.0,
+ "drawn_as_outline": true,
+ "tool_free": true
+}

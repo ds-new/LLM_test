@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-594f-76a1-aa1a-e4249f3771e0"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"All operations use permitted block weights: SVD, clustering normalized weight rows, matrix products such as F@B[5]@D, and eigenvalue analysis.\",\"reason\":\"The code treats weights and weight-derived directions as linear-algebra objects without simulating any network layer on an input or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8049,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":122,"reasoning_output_tokens":38}}

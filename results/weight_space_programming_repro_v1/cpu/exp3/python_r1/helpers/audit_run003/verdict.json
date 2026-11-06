@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "The code computes SVDs, norms, correlations, weight-row cosine similarities, and projections such as basis.T@W[name], using only permitted block weights.",
+ "reason": "All operations are weight-only linear-algebra analyses; none runs a network layer on an input, accesses excluded weights, or performs a search."
+}

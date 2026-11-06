@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa10-d3e0-70c3-b489-96676126a5a9"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"All weight operations are centering, scaling, matrix products, SVDs, norms, and comparisons; max_mass_128 is calculated from a coefficient-norm bound.\",\"reason\":\"The code uses only permitted block weights as linear-algebra objects, performs no network or layer forward pass on an input, and conducts no search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8322,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":119,"reasoning_output_tokens":32}}

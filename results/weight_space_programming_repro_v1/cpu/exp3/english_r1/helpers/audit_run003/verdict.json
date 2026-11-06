@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "q=Q*g; q-=q.mean(1,keepdims=True); A.append(q.T@k/8); B.append(O@v); KL.append(k.T@(Q@b)/8); C=A[h]@B[2]",
+ "reason": "The code uses only permitted block weights for matrix algebra and spectral diagnostics, without executing any network layer on an input or performing a search."
+}

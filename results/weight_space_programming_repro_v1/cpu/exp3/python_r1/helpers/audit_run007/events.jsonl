@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-3a03-7a22-b506-30a30986dbd4"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"q=(W[\\\"W_q.0\\\"][sl]*g)@P; B.append(W[\\\"W_o.0\\\"][:,sl].astype(float)@v); coef=[F@D,F@B[5]@D,F@B[1]@D]\",\"reason\":\"The code uses only permitted block weights for linear algebra and clustering, without executing LayerNorm, attention, an MLP forward pass, or any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8209,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":158,"reasoning_output_tokens":44}}

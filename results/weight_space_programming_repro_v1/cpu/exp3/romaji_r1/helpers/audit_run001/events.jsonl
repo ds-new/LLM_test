@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-2695-7d51-b9db-92ebb85d35d8"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"a = q.T @ k / 8; b = o @ v; spectrum(a); spectrum(b); np.linalg.eigvals(k @ q.T / 8); np.linalg.eigvals(v @ o)\",\"reason\":\"The code only inspects allowed weights and computes permitted linear-algebra statistics and products, without running any network layer on inputs or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7843,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":133,"reasoning_output_tokens":35}}

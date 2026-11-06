@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-60ff-73b3-96cc-a529570b6efd"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"The code forms weight products such as q.T@k, computes SVDs and eigenvectors, and clusters and compares weight-derived directions.\",\"reason\":\"All operations are linear-algebra analyses of permitted weights, with no forward pass, unavailable weights, or search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8219,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":111,"reasoning_output_tokens":37}}

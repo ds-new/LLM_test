@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "q=(qr*g)@P; k=(kr*g)@P; A[l,j]=q.T@k/8; c=t.T@A[3,j]@B[0,3]@t; svd(...); np.linalg.matrix_power(rot,n)",
+ "reason": "The code uses only permitted stored weights for linear-algebra analysis, without executing any network layer on an input, accessing excluded parameters, or performing a search."
+}

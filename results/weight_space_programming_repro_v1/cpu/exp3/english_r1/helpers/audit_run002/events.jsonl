@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-f2d3-7773-b989-dcadcd92c98c"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"Qg, Kg, Vg = Q*g, K*g, V*g; A = Qg.T@Kg/8; B = O@Vg; key_linear = Kg.T@(Q@b)/8; svd(A,full_matrices=False); eigvals(Kg@Qg.T/8)\",\"reason\":\"The code performs only permitted linear-algebra analyses of allowed weights, without executing a network layer on input or conducting any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8007,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":141,"reasoning_output_tokens":27}}

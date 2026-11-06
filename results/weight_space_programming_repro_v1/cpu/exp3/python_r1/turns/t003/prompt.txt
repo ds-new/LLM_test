@@ -1,0 +1,88 @@
+OUTPUT of run 2 of at most 100:
+```
+L0 QK matrix cosine similarities
+[[ 1.     0.179  0.112  0.206  0.063  0.093]
+ [ 0.179  1.     0.21  -0.15   0.005  0.414]
+ [ 0.112  0.21   1.    -0.247 -0.006  0.114]
+ [ 0.206 -0.15  -0.247  1.    -0.027 -0.098]
+ [ 0.063  0.005 -0.006 -0.027  1.    -0.004]
+ [ 0.093  0.414  0.114 -0.098 -0.004  1.   ]]
+L0 OV matrix cosine similarities
+[[ 1.     0.007  0.197  0.466  0.804  0.008]
+ [ 0.007  1.     0.065  0.024  0.009 -0.041]
+ [ 0.197  0.065  1.     0.212  0.095  0.032]
+ [ 0.466  0.024  0.212  1.     0.358  0.008]
+ [ 0.804  0.009  0.095  0.358  1.     0.003]
+ [ 0.008 -0.041  0.032  0.008  0.003  1.   ]]
+
+Induction-style key-composition diagnostics.
+For each later head: preceding OV heads with largest trace(A_l B_earlier)/nuclear_norm(A_l B_earlier).
+These are matrix signatures, not attention measurements.
+L1H0: L0H4 trace/nuc=0.039 eigsign=0.812 overlap=0.263 norm=34.93; L0H3 trace/nuc=0.020 eigsign=0.201 overlap=0.073 norm=1.20; L0H0 trace/nuc=0.014 eigsign=0.268 overlap=0.201 norm=7.09; L0H1 trace/nuc=-0.000 eigsign=-0.002 overlap=0.063 norm=1.02
+L1H1: L0H5 trace/nuc=0.080 eigsign=0.342 overlap=0.057 norm=2.41; L0H1 trace/nuc=0.060 eigsign=0.243 overlap=0.036 norm=1.31; L0H4 trace/nuc=0.027 eigsign=0.365 overlap=0.380 norm=118.47; L0H3 trace/nuc=0.022 eigsign=0.263 overlap=0.085 norm=3.46
+L1H2: L0H4 trace/nuc=0.046 eigsign=0.923 overlap=0.370 norm=88.02; L0H3 trace/nuc=0.035 eigsign=0.369 overlap=0.082 norm=2.75; L0H0 trace/nuc=0.007 eigsign=0.201 overlap=0.274 norm=17.63; L0H1 trace/nuc=0.005 eigsign=0.023 overlap=0.040 norm=1.08
+L1H3: L0H5 trace/nuc=0.068 eigsign=0.273 overlap=0.056 norm=1.90; L0H4 trace/nuc=0.057 eigsign=0.970 overlap=0.387 norm=98.23; L0H3 trace/nuc=0.024 eigsign=0.282 overlap=0.086 norm=3.15; L0H0 trace/nuc=0.012 eigsign=0.434 overlap=0.289 norm=19.89
+L1H4: L0H4 trace/nuc=0.062 eigsign=0.605 overlap=0.380 norm=90.39; L0H5 trace/nuc=0.049 eigsign=0.229 overlap=0.056 norm=1.93; L0H3 trace/nuc=0.044 eigsign=0.417 overlap=0.085 norm=2.90; L0H1 trace/nuc=0.018 eigsign=0.073 overlap=0.040 norm=1.05
+L1H5: L0H5 trace/nuc=0.062 eigsign=0.286 overlap=0.062 norm=2.64; L0H1 trace/nuc=0.034 eigsign=0.151 overlap=0.041 norm=1.38; L0H3 trace/nuc=-0.002 eigsign=-0.017 overlap=0.081 norm=2.72; L0H4 trace/nuc=-0.006 eigsign=-0.086 overlap=0.360 norm=101.45
+L2H0: L0H4 trace/nuc=0.044 eigsign=0.396 overlap=0.139 norm=44.95; L0H3 trace/nuc=0.036 eigsign=0.217 overlap=0.058 norm=1.76; L0H0 trace/nuc=0.023 eigsign=0.164 overlap=0.113 norm=9.02; L1H5 trace/nuc=0.022 eigsign=0.100 overlap=0.052 norm=8.21
+L2H1: L0H5 trace/nuc=0.212 eigsign=0.776 overlap=0.073 norm=4.39; L1H3 trace/nuc=0.175 eigsign=0.702 overlap=0.069 norm=11.08; L1H1 trace/nuc=0.149 eigsign=0.583 overlap=0.064 norm=9.59; L1H4 trace/nuc=0.148 eigsign=0.616 overlap=0.068 norm=10.24
+L2H2: L0H4 trace/nuc=0.075 eigsign=0.661 overlap=0.191 norm=70.43; L0H0 trace/nuc=0.047 eigsign=0.324 overlap=0.142 norm=14.21; L0H3 trace/nuc=0.007 eigsign=0.050 overlap=0.059 norm=2.78; L1H3 trace/nuc=-0.028 eigsign=-0.109 overlap=0.055 norm=12.51
+L2H3: L0H4 trace/nuc=0.130 eigsign=0.933 overlap=0.195 norm=58.16; L0H0 trace/nuc=0.064 eigsign=0.672 overlap=0.145 norm=11.66; L0H3 trace/nuc=0.027 eigsign=0.180 overlap=0.062 norm=2.24; L1H1 trace/nuc=0.019 eigsign=0.089 overlap=0.049 norm=7.43
+L2H4: L0H4 trace/nuc=0.081 eigsign=0.737 overlap=0.181 norm=65.48; L0H3 trace/nuc=0.042 eigsign=0.280 overlap=0.064 norm=2.51; L0H0 trace/nuc=0.028 eigsign=0.272 overlap=0.142 norm=13.21; L0H5 trace/nuc=0.006 eigsign=0.035 overlap=0.059 norm=3.98
+L2H5: L0H4 trace/nuc=0.093 eigsign=0.850 overlap=0.119 norm=33.23; L0H0 trace/nuc=0.047 eigsign=0.399 overlap=0.099 norm=6.57; L1H2 trace/nuc=0.039 eigsign=0.193 overlap=0.051 norm=7.52; L1H1 trace/nuc=0.033 eigsign=0.165 overlap=0.050 norm=6.24
+L3H0: L2H2 trace/nuc=0.072 eigsign=0.286 overlap=0.052 norm=14.52; L0H4 trace/nuc=0.071 eigsign=0.778 overlap=0.071 norm=26.76; L0H0 trace/nuc=0.070 eigsign=0.603 overlap=0.062 norm=5.15; L0H5 trace/nuc=0.066 eigsign=0.317 overlap=0.055 norm=3.50
+L3H1: L2H2 trace/nuc=0.288 eigsign=0.840 overlap=0.061 norm=13.95; L0H5 trace/nuc=0.179 eigsign=0.705 overlap=0.066 norm=3.48; L1H3 trace/nuc=0.164 eigsign=0.654 overlap=0.057 norm=7.68; L1H4 trace/nuc=0.160 eigsign=0.653 overlap=0.059 norm=7.67
+L3H2: L0H4 trace/nuc=0.082 eigsign=0.779 overlap=0.096 norm=32.29; L0H0 trace/nuc=0.040 eigsign=0.399 overlap=0.077 norm=6.03; L0H2 trace/nuc=0.008 eigsign=0.058 overlap=0.056 norm=1.89; L1H1 trace/nuc=0.005 eigsign=0.026 overlap=0.050 norm=7.76
+L3H3: L0H4 trace/nuc=0.070 eigsign=0.579 overlap=0.062 norm=9.46; L2H4 trace/nuc=0.050 eigsign=0.227 overlap=0.049 norm=7.49; L0H0 trace/nuc=0.038 eigsign=0.310 overlap=0.056 norm=2.00; L2H3 trace/nuc=0.034 eigsign=0.149 overlap=0.049 norm=8.34
+L3H4: L0H4 trace/nuc=0.074 eigsign=0.764 overlap=0.085 norm=27.78; L0H0 trace/nuc=0.055 eigsign=0.539 overlap=0.070 norm=5.31; L0H5 trace/nuc=0.041 eigsign=0.211 overlap=0.049 norm=2.49; L2H4 trace/nuc=0.034 eigsign=0.146 overlap=0.050 norm=12.57
+L3H5: L2H2 trace/nuc=0.390 eigsign=0.949 overlap=0.073 norm=21.42; L1H3 trace/nuc=0.200 eigsign=0.682 overlap=0.069 norm=11.98; L0H5 trace/nuc=0.187 eigsign=0.753 overlap=0.074 norm=4.91; L1H4 trace/nuc=0.171 eigsign=0.617 overlap=0.068 norm=11.30
+
+L0 joint query/key and value spectra
+QK singular values: [5.682 4.22  2.647 2.597 2.532 2.414 2.342 2.272 2.202 2.166 2.134 2.056
+ 2.02  1.963 1.931 1.871 1.813 1.794 1.745 1.683 1.591 1.53  1.473 1.436
+ 1.268 1.229 1.194 1.125 1.085 1.01  0.982 0.941 0.931 0.881 0.854 0.837
+ 0.818 0.799 0.786 0.775 0.745 0.725 0.714 0.694 0.662 0.657 0.65  0.63
+ 0.629 0.606 0.589 0.587 0.564 0.559 0.554 0.542 0.539 0.535 0.524 0.514
+ 0.506 0.496 0.483 0.479 0.461 0.459 0.451 0.449 0.44  0.433]
+V singular values: [3.195 2.304 1.316 0.88  0.809 0.771 0.73  0.704 0.685 0.662 0.638 0.629
+ 0.623 0.621 0.604 0.595 0.582 0.567 0.554 0.55  0.542 0.541 0.522 0.513
+ 0.496 0.487 0.479 0.475 0.464 0.457 0.447 0.431 0.428 0.424 0.41  0.399
+ 0.389 0.383 0.373 0.369 0.358 0.345 0.334 0.333 0.319 0.313 0.308 0.305
+ 0.302 0.3   0.295 0.292 0.286 0.281 0.278 0.275 0.27  0.265 0.263 0.258
+ 0.253 0.25  0.247 0.246 0.242 0.24  0.235 0.232 0.227 0.225]
+V_heads1_5 singular values: [0.639 0.622 0.594 0.59  0.571 0.543 0.537 0.529 0.516 0.514 0.494 0.488
+ 0.475 0.471 0.467 0.453 0.448 0.445 0.436 0.422 0.415 0.396 0.381 0.38
+ 0.362 0.356 0.353 0.334 0.327 0.309 0.299 0.289 0.286 0.276 0.273 0.259
+ 0.256 0.252 0.244 0.237 0.23  0.226 0.223 0.221 0.202 0.192 0.183 0.179
+ 0.174 0.171 0.171 0.165 0.162 0.155 0.148 0.146 0.143 0.142 0.141 0.134
+ 0.133 0.128 0.126 0.124 0.123 0.12  0.116 0.114 0.113 0.112]
+
+Fraction of L0 Q/K/V squared norm in the 27 leading shared value directions of H1,H5
+L0H0 Q=0.051 K=0.192 V=0.123
+L0H1 Q=0.168 K=0.126 V=0.777
+L0H2 Q=0.187 K=0.266 V=0.445
+L0H3 Q=0.130 K=0.245 V=0.276
+L0H4 Q=0.083 K=0.102 V=0.085
+L0H5 Q=0.114 K=0.097 V=0.725
+
+L0 QK within and outside that value subspace
+L0H0: total=0.910 tokenblock=0.095 otherblock=0.714 token_sym=0.196 other_sym=0.234 other_eigs=[-0.351+0.j     0.042+0.065j  0.042-0.065j -0.022+0.j    -0.015+0.j
+ -0.006+0.012j -0.006-0.012j -0.007+0.009j -0.007-0.009j -0.01 +0.005j
+ -0.01 -0.005j -0.009+0.j   ]
+L0H1: total=7.020 tokenblock=1.436 otherblock=6.323 token_sym=0.851 other_sym=-0.193 other_eigs=[ 1.737+2.663j  1.737-2.663j -0.915+1.08j  -0.915-1.08j  -0.981+0.j
+ -0.689+0.644j -0.689-0.644j  0.194+0.245j  0.194-0.245j -0.202+0.238j
+ -0.202-0.238j -0.312+0.j   ]
+L0H2: total=1.396 tokenblock=0.289 otherblock=1.154 token_sym=0.426 other_sym=0.514 other_eigs=[ 0.692+0.j     0.431+0.j     0.08 +0.j    -0.07 +0.j    -0.062+0.j
+ -0.043+0.j    -0.035+0.012j -0.035-0.012j -0.016+0.022j -0.016-0.022j
+ -0.024+0.008j -0.024-0.008j]
+L0H3: total=1.916 tokenblock=0.299 otherblock=1.556 token_sym=0.041 other_sym=0.261 other_eigs=[-0.596+0.j    -0.543+0.j     0.022+0.125j  0.022-0.125j -0.088+0.j
+ -0.046+0.016j -0.046-0.016j -0.028-0.004j -0.028+0.004j  0.001+0.028j
+  0.001-0.028j -0.025+0.j   ]
+L0H4: total=0.074 tokenblock=0.008 otherblock=0.067 token_sym=0.042 other_sym=0.029 other_eigs=[-0.009+0.004j -0.009-0.004j -0.003+0.004j -0.003-0.004j  0.002+0.005j
+  0.002-0.005j -0.005+0.j    -0.002+0.004j -0.002-0.004j  0.004+0.j
+  0.003+0.002j  0.003-0.002j]
+L0H5: total=7.764 tokenblock=0.744 otherblock=7.127 token_sym=-0.348 other_sym=-0.195 other_eigs=[ 1.597+2.036j  1.597-2.036j  0.816+1.265j  0.816-1.265j  1.348+0.j
+  1.18 +0.644j  1.18 -0.644j  0.226+1.215j  0.226-1.215j  0.725+1.001j
+  0.725-1.001j -0.305-0.968j]
+
+```

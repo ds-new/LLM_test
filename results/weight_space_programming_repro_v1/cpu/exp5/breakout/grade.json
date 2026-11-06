@@ -1,0 +1,13 @@
+{
+ "score": 502.2,
+ "se": 5.7,
+ "episodes": 1000,
+ "mean_length": 8336,
+ "env": "minatar",
+ "statements": 99,
+ "applied": 99,
+ "edit_errors": [],
+ "nonzero_weights": 1437,
+ "eval_seconds": 45.7,
+ "tool_free": true
+}

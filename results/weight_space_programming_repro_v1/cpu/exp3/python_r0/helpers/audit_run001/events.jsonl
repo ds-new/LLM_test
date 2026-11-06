@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa10-a655-7e41-b832-445fe74e3a9b"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"q = centered_columns(qr * gamma); A = q.T @ k / 8.0; B = o @ v; biases = fc @ b2\",\"reason\":\"The code performs only weight-derived linear algebra and summary statistics, with no network or layer evaluation on inputs and no search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8340,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":124,"reasoning_output_tokens":42}}

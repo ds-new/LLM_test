@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-a80d-7f83-82a0-557d2ebff29d"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"svd(...); a-a.mean(1,keepdims=True); qs[l][s].T@ks[l][s]/8; W[f\\\"W_o.{l}\\\"][:,s].astype(float)@vs[l][s]; eigvals(c)\",\"reason\":\"The code performs only weight-derived linear algebra, including scaling and centering weight matrices, without executing any network layer on inputs or conducting searches.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8018,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":148,"reasoning_output_tokens":42}}

@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-de8f-7f62-af32-36768a248b5b"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"eff(...) performs weight scaling and centering; svd(...), residual=F-(F@U)@U.T, KMeans(...).fit(Z), and ica.fit_transform(Z) analyze weight-derived matrices.\",\"reason\":\"The code performs only permitted linear algebra and statistical fitting on available weights, without running any network layer on an input or conducting a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7801,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":134,"reasoning_output_tokens":39}}

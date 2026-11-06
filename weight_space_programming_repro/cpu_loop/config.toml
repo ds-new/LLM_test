@@ -1,0 +1,60 @@
+# Weight-Space Programming reproduction — multi-agent loop config (CPU-only experiments 1, 2, 3, 5).
+
+[paths]
+# Clone of https://github.com/RikiyaT/lm_understand-logs (setup.sh clones it here if missing).
+logs_dir = "data/lm_understand-logs"
+# Everything this loop produces: transcripts, grades, report.
+runs_dir = "runs"
+
+[codex]
+binary = "codex"
+# Extra flags put right after `codex exec` (e.g. ["--strict-config"] if your Codex supports it).
+extra_flags = []
+# Seconds to wait before each retry when a Codex call fails (usage limit, network...). The last value repeats.
+retry_waits = [60, 300, 900, 1800, 3600]
+max_wait_hours = 12
+# Carry the network/provider part of your own ~/.codex/config.toml (model_provider, model_providers, base URLs,
+# proxy, stream timeouts) into the isolated homes. Nothing else of your config is used.
+inherit_network = true
+# Isolated homes talk to the ChatGPT backend over HTTPS/SSE only (no WebSocket). Set false to use Codex's default
+# transport. Ignored if your own config sets a model_provider.
+http_only = true
+stream_idle_timeout_ms = 1800000
+
+[subject]
+# The model under test ("Astra" in the post). Same settings as the paper, per experiment.
+model = "gpt-6-astra"
+reasoning_summary = "detailed"
+
+[helpers]
+# Auditor / extractor / reporter agents. Empty model = your Codex default.
+model = ""
+effort = "medium"
+# "flag" (default): audit after the fact, as the authors did. "gate": a code run the auditor rejects is
+# not executed and the subject is told why (changes the protocol; not used in the paper).
+audit_mode = "flag"
+report_language = "zh"
+
+[run]
+# How many subject conversations run at the same time (keep low on a ChatGPT plan: usage limits).
+concurrency = 2
+# Experiments and units to run. Units: exp1 breakout/pong/pacman/freeway; exp2 circle/square/triangle;
+# exp3 python_r0 python_r1 romaji_r0 romaji_r1 english_r0 english_r1; exp5 breakout/seaquest/asterix.
+experiments = ["exp1", "exp2", "exp3", "exp5"]
+# Optional: restrict units, e.g. units = { exp3 = ["python_r0"] }
+units = {}
+# Pause for your approval between stages (subject -> grade -> report).
+gate_between_stages = false
+
+[sandbox]
+# Python used for the subject's code runs in exp3 (needs numpy scipy scikit-learn torch pandas sympy networkx).
+python = ".venv-sandbox/bin/python"
+timeout_s = 600
+max_output_chars = 20000
+max_runs = 100
+# Never true for real runs: without isolation the subject's code could read the answer keys.
+allow_unisolated = false
+
+[eval]
+minatar_episodes = 1000
+workers = 0   # 0 = all CPU cores

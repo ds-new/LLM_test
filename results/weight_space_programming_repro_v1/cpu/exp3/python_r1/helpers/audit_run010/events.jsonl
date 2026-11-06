@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-5943-72c0-8f1c-bcd7abdc2201"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"v=(W[\\\"W_v.0\\\"][sl]*g)@P; A.append(q.T@k); sectors=[D,B[5]@D,B[1]@D]; m=F@e\",\"reason\":\"The code performs only permitted weight-derived linear algebra and statistical analysis, without running a network layer on an input or performing any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8303,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":133,"reasoning_output_tokens":36}}

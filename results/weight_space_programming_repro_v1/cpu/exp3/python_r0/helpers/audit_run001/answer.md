@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"q = centered_columns(qr * gamma); A = q.T @ k / 8.0; B = o @ v; biases = fc @ b2","reason":"The code performs only weight-derived linear algebra and summary statistics, with no network or layer evaluation on inputs and no search."}
+```

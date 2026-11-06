@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"A.append(Q[-1].T@K[-1]); B.append(O[-1]@V[-1]); f=(np.asarray(W[\"W_fc.0\"],dtype=float)*W[\"ln2_w.0\"])@P; coupling=np.array([la.norm(c@bb) for bb in B])","reason":"The code uses only permitted block weights for linear algebra, subspace analysis and clustering, without executing a network layer on an input or performing any search."}
+```

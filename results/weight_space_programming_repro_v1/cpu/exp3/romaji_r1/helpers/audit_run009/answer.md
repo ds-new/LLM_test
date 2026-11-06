@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"svd(...), np.linalg.qr(...), F@T, and ica.fit_transform(z) operate solely on weights or weight-derived matrices.","reason":"The code performs permitted linear algebra and statistical fitting on allowed weights, without simulating any network layer on inputs or conducting a search."}
+```

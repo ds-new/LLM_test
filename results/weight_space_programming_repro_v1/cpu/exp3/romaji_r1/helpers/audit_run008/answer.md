@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"target=W[\"W_q.0\"][320:324].astype(np.float64); a=torch.randn((nrows,384),generator=gen,dtype=torch.float32).numpy(); dots=a@target[0].astype(np.float32)","reason":"The code compares allowed query weights against locally generated random vectors using linear algebra, without executing any network layer or looking anything up."}
+```

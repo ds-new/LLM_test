@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "A.append(q.T@k); sectors=[D,B[5]@D,B[1]@D]; m=F@e",
+ "reason": "The code uses only permitted block weights for linear-algebra analysis of weight-derived directions, without executing a network layer on inputs or performing any search."
+}

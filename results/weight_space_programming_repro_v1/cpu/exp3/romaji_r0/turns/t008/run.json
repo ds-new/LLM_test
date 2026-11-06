@@ -1,0 +1,44 @@
+{
+ "ok": true,
+ "role": "subject",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "turn": 8,
+ "thread": "01a1a9f3-aebb-7be3-b962-7cedf6c5ba8b",
+ "cmd": [
+  "codex",
+  "exec",
+  "resume",
+  "--skip-git-repo-check",
+  "--json",
+  "-m",
+  "gpt-6-astra",
+  "-c",
+  "model_reasoning_effort=\"xhigh\"",
+  "-c",
+  "model_instructions_file=\"<wsp_repro>/runs/_codex_homes/subject/instructions.md\"",
+  "-o",
+  "<wsp_repro>/runs/exp3/romaji_r0/turns/t008/answer.md",
+  "01a1a9f3-aebb-7be3-b962-7cedf6c5ba8b",
+  "-"
+ ],
+ "rc": 0,
+ "wall_s": 52.2,
+ "attempts": 1,
+ "usage": {
+  "input_tokens": 321131,
+  "cached_input_tokens": 273152,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 15767,
+  "reasoning_output_tokens": 8943
+ },
+ "notices": [],
+ "audit": {
+  "tool_free": true,
+  "tool_items": {},
+  "item_types": {
+   "error": 1,
+   "agent_message": 1
+  }
+ }
+}

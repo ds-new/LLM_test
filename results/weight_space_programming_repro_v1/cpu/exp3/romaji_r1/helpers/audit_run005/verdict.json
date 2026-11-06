@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "T=tv[:rank].T/np.maximum(g[:,None],.08); T=np.linalg.qr(P@T)[0]; z=F@T; KMeans(...).fit(z)",
+ "reason": "All computations analyze permitted weights and weight-derived directions using linear algebra or clustering, without evaluating a network layer on an input or performing any search."
+}

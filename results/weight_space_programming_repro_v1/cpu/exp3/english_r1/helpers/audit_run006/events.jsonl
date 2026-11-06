@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa13-19af-7cc1-a852-8092c3574b8f"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"B=O@ctr(V*g); A=q.T@k/8; X=F@T; Y=F@B@T; svd(...); eigh(...); np.linalg.eigvals(...)\",\"reason\":\"The code only performs permitted linear-algebra computations on allowed transformer-block weights and weight-derived directions, without evaluating network layers on inputs or conducting searches.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7977,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":131,"reasoning_output_tokens":34}}

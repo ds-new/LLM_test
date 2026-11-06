@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-cf0d-7f61-88ed-2132d8bd131d"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"The code computes SVDs, eigendecompositions, weight-matrix products, subspace overlaps, and the weight-only transformation `a-a.mean(1,keepdims=True)`.\",\"reason\":\"All operations analyze permitted weights as linear-algebra objects; no input is passed through a network layer and no search is performed.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7844,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":135,"reasoning_output_tokens":47}}

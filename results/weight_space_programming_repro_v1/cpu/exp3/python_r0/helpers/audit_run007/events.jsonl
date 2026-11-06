@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa10-d3dd-7423-a0b9-5e1156d82a7b"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"B[l,j]=... @ cent(...); D=T.T@(B[3,1]+B[3,5])@C; read=[F@dictionary,F@B[0,5]@dictionary,F@B[0,1]@dictionary]\",\"reason\":\"The code uses only permitted block weights for linear algebra and clustering, including applying weight matrices to weight-derived directions, without executing network layers on inputs or performing searches.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8231,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":155,"reasoning_output_tokens":44}}

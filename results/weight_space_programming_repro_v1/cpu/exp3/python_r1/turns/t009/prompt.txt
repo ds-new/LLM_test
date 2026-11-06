@@ -1,0 +1,50 @@
+OUTPUT of run 8 of at most 100:
+```
+Duplicate character-like features: input/output direction cosine and affine LN-bias contraction
+5 input_output_cos 0.373 ln_bias_contraction -0.145
+35 input_output_cos 0.395 ln_bias_contraction -0.281
+81 input_output_cos 0.534 ln_bias_contraction -0.156
+102 input_output_cos 0.543 ln_bias_contraction -0.062
+126 input_output_cos 0.318 ln_bias_contraction 0.058
+193 input_output_cos 0.439 ln_bias_contraction 0.046
+220 input_output_cos 0.297 ln_bias_contraction 0.034
+293 input_output_cos 0.326 ln_bias_contraction 0.074
+308 input_output_cos 0.466 ln_bias_contraction 0.052
+353 input_output_cos 0.458 ln_bias_contraction 0.059
+399 input_output_cos 0.369 ln_bias_contraction -0.265
+411 input_output_cos 0.326 ln_bias_contraction 0.022
+413 input_output_cos 0.486 ln_bias_contraction -0.238
+451 input_output_cos 0.447 ln_bias_contraction -0.22
+483 input_output_cos 0.284 ln_bias_contraction -0.081
+574 input_output_cos 0.347 ln_bias_contraction 0.081
+595 input_output_cos 0.46 ln_bias_contraction 0.072
+650 input_output_cos 0.37 ln_bias_contraction -0.183
+676 input_output_cos 0.44 ln_bias_contraction 0.096
+764 input_output_cos 0.382 ln_bias_contraction -0.028
+777 input_output_cos 0.368 ln_bias_contraction 0.094
+959 input_output_cos 0.46 ln_bias_contraction -0.028
+1030 input_output_cos 0.408 ln_bias_contraction 0.067
+1046 input_output_cos 0.469 ln_bias_contraction -0.436
+1102 input_output_cos 0.474 ln_bias_contraction -0.31
+Input/output cross-Gram diagonal: [0.373 0.395 0.534 0.543 0.318 0.439 0.297 0.326 0.466 0.458 0.369 0.326 0.486 0.447 0.284 0.347 0.46  0.37  0.44  0.382 0.368 0.46  0.408 0.469 0.474]
+Input/output cross-Gram off-diagonal RMS: 0.051
+
+Coefficient extrema pairings for input_dual
+sign 1 neurons 377 pairs [((483, 411), 26), ((411, 411), 14), ((483, 193), 8), ((220, 411), 7), ((483, 126), 6), ((483, 1030), 6), ((411, 483), 5), ((293, 411), 5), ((595, 595), 5), ((293, 293), 5), ((353, 1030), 5), ((220, 220), 5), ((483, 483), 4), ((126, 126), 4), ((411, 193), 4), ((353, 574), 4), ((220, 483), 4), ((411, 574), 4), ((126, 411), 4), ((764, 764), 4), ((777, 777), 4), ((411, 777), 4), ((483, 777), 4), ((293, 353), 3), ((220, 777), 3)]
+sign -1 neurons 49 pairs [((5, 959), 2), ((411, 483), 2), ((5, 764), 2), ((5, 413), 2), ((764, 1102), 1), ((5, 483), 1), ((220, 411), 1), ((5, 220), 1), ((5, 1046), 1), ((764, 1046), 1), ((959, 308), 1), ((5, 1102), 1), ((126, 35), 1), ((574, 399), 1), ((483, 411), 1), ((5, 574), 1), ((126, 483), 1), ((676, 959), 1), ((293, 411), 1), ((777, 411), 1), ((5, 35), 1), ((308, 1046), 1), ((293, 35), 1), ((411, 399), 1), ((293, 220), 1)]
+
+Coefficient extrema pairings for output_directions
+sign 1 neurons 186 pairs [((411, 411), 9), ((220, 411), 6), ((595, 595), 5), ((676, 411), 4), ((483, 411), 4), ((308, 483), 4), ((483, 483), 4), ((353, 411), 4), ((764, 483), 4), ((220, 483), 3), ((676, 413), 3), ((220, 574), 3), ((574, 5), 3), ((676, 676), 3), ((353, 1046), 2), ((451, 451), 2), ((102, 102), 2), ((193, 483), 2), ((353, 5), 2), ((5, 777), 2), ((676, 483), 2), ((574, 1102), 2), ((777, 1030), 2), ((353, 595), 2), ((220, 777), 2)]
+sign -1 neurons 87 pairs [((5, 293), 8), ((777, 293), 6), ((5, 764), 4), ((650, 293), 4), ((293, 293), 4), ((764, 293), 3), ((777, 308), 3), ((126, 293), 2), ((193, 193), 2), ((308, 293), 2), ((777, 193), 2), ((5, 676), 2), ((777, 353), 2), ((193, 293), 2), ((5, 353), 2), ((193, 102), 1), ((102, 293), 1), ((399, 764), 1), ((650, 676), 1), ((574, 102), 1), ((193, 959), 1), ((959, 293), 1), ((451, 102), 1), ((411, 411), 1), ((959, 193), 1)]
+
+Coefficient extrema pairings for negative_output_directions
+sign 1 neurons 87 pairs [((5, 293), 8), ((777, 293), 6), ((5, 764), 4), ((650, 293), 4), ((293, 293), 4), ((764, 293), 3), ((777, 308), 3), ((126, 293), 2), ((193, 193), 2), ((308, 293), 2), ((777, 193), 2), ((5, 676), 2), ((777, 353), 2), ((193, 293), 2), ((5, 353), 2), ((193, 102), 1), ((102, 293), 1), ((399, 764), 1), ((650, 676), 1), ((574, 102), 1), ((193, 959), 1), ((959, 293), 1), ((451, 102), 1), ((411, 411), 1), ((959, 193), 1)]
+sign -1 neurons 186 pairs [((411, 411), 9), ((220, 411), 6), ((595, 595), 5), ((676, 411), 4), ((483, 411), 4), ((308, 483), 4), ((483, 483), 4), ((353, 411), 4), ((764, 483), 4), ((220, 483), 3), ((676, 413), 3), ((220, 574), 3), ((574, 5), 3), ((676, 676), 3), ((353, 1046), 2), ((451, 451), 2), ((102, 102), 2), ((193, 483), 2), ((353, 5), 2), ((5, 777), 2), ((676, 483), 2), ((574, 1102), 2), ((777, 1030), 2), ((353, 595), 2), ((220, 777), 2)]
+
+Direct linear MLP weight products: trace and symmetric-part energy
+0 trace 89.182 norm 203.545 eigsign 0.152
+1 trace -322.781 norm 173.129 eigsign -0.275
+2 trace -791.202 norm 202.565 eigsign -0.355
+3 trace -943.792 norm 232.981 eigsign -0.717
+
+```

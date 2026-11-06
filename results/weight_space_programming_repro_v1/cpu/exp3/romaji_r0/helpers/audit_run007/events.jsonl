@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa11-cf4c-7da3-b9c3-09acb236705e"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"F=eff(\\\"W_fc\\\",0,\\\"ln2_w\\\"); coefficients=F@np.linalg.pinv(D.T,rcond=1e-5); As.append(q[sl].T@k[sl]/8); c=As[h]@Bs[z]\",\"reason\":\"The code uses only permitted block weights for linear-algebra analysis and fitting, without evaluating a network layer on inputs or performing any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7852,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":129,"reasoning_output_tokens":22}}

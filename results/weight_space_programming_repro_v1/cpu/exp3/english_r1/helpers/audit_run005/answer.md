@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"svd(ctr(V*g),full_matrices=False); ov=W[\"W_o.0\"][:,128:192].astype(float)@ctr(V*g); z=fc@basis; KMeans(...).fit(z)","reason":"The code only analyzes permitted block weights using linear algebra and clustering, without executing a network layer on inputs or performing any search."}
+```

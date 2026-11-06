@@ -1,0 +1,10 @@
+{
+ "answer_line": "Most likely **one white circular or oval outline on black**, with a black hole inside. Typically centered, roughly **7–10 pixels across**, with a thin, approximately **1–2-pixel stroke**. Size, position, and roundness likely vary somewhat.",
+ "guess": "circle",
+ "true": "circle",
+ "correct": true,
+ "via": "keywords",
+ "confidence": 84.0,
+ "drawn_as_outline": true,
+ "tool_free": true
+}

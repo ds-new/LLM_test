@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-4e20-7d21-9423-ea464280ef0a"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"B=W[\\\"W_o.0\\\"][:,192:256].astype(float)@(v*g)@P; F=(W[\\\"W_fc.0\\\"].astype(float)*W[\\\"ln2_w.0\\\"].astype(float))@P; X=F@T; Y=F@B@T; S=ica.fit_transform(X)\",\"reason\":\"The code only decomposes, transforms, and statistically analyzes permitted weights, without executing LayerNorm, attention softmax, an MLP with ReLU, or any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":7834,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":166,"reasoning_output_tokens":32}}

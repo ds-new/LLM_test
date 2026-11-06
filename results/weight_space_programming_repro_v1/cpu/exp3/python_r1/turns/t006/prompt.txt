@@ -1,0 +1,108 @@
+OUTPUT of run 5 of at most 100:
+```
+L0 head value spectra: raw, and gain-scaled
+H 0 raw [2.214 2.066 1.611 1.282 1.259 1.034 0.964 0.915 0.843 0.762 0.716 0.68  0.652 0.649 0.609 0.606 0.593 0.551 0.54  0.516 0.51  0.498 0.489 0.473 0.455 0.451
+ 0.447 0.434 0.427 0.413 0.408 0.404 0.398 0.396 0.386 0.378]
+H 0 scaled [1.331 1.075 0.446 0.374 0.304 0.294 0.256 0.247 0.237 0.224 0.218 0.205 0.203 0.199 0.188 0.181 0.18  0.174 0.169 0.162 0.162 0.155 0.151 0.147 0.146 0.138
+ 0.136 0.132 0.13  0.126 0.125 0.122 0.121 0.118 0.117 0.114]
+H 1 raw [2.25  2.127 2.089 2.055 1.991 1.973 1.958 1.933 1.869 1.832 1.808 1.785 1.717 1.69  1.639 1.611 1.584 1.554 1.496 1.48  1.419 1.37  1.277 1.193 1.14  1.094
+ 1.028 0.906 0.744 0.693 0.682 0.659 0.638 0.587 0.538 0.527]
+H 1 scaled [0.48  0.455 0.448 0.429 0.421 0.41  0.403 0.385 0.379 0.373 0.37  0.36  0.353 0.341 0.33  0.327 0.322 0.313 0.309 0.303 0.295 0.287 0.281 0.278 0.27  0.255
+ 0.253 0.241 0.226 0.216 0.209 0.201 0.198 0.171 0.164 0.159]
+H 2 raw [2.164 2.047 2.012 1.723 1.514 1.361 1.273 1.115 1.036 0.993 0.908 0.857 0.765 0.74  0.681 0.628 0.618 0.592 0.58  0.57  0.535 0.526 0.512 0.477 0.471 0.46
+ 0.458 0.445 0.444 0.433 0.423 0.409 0.408 0.401 0.397 0.392]
+H 2 scaled [0.5   0.482 0.462 0.399 0.361 0.337 0.296 0.283 0.268 0.261 0.245 0.223 0.217 0.21  0.199 0.19  0.182 0.179 0.177 0.17  0.167 0.158 0.156 0.153 0.15  0.147
+ 0.145 0.137 0.135 0.129 0.127 0.124 0.12  0.117 0.115 0.113]
+H 3 raw [1.443 1.28  1.237 1.154 1.129 1.076 1.038 1.013 0.958 0.917 0.897 0.841 0.816 0.734 0.696 0.67  0.64  0.604 0.581 0.568 0.529 0.519 0.513 0.475 0.471 0.464
+ 0.457 0.446 0.432 0.417 0.414 0.404 0.395 0.391 0.386 0.379]
+H 3 scaled [0.588 0.386 0.342 0.308 0.294 0.277 0.273 0.246 0.242 0.24  0.23  0.216 0.209 0.206 0.195 0.192 0.187 0.178 0.175 0.172 0.168 0.158 0.153 0.151 0.149 0.143
+ 0.143 0.141 0.138 0.13  0.128 0.125 0.124 0.121 0.118 0.116]
+H 4 raw [4.102 3.344 2.539 2.115 1.785 1.548 1.482 1.422 1.387 1.323 1.196 1.164 1.145 1.022 0.967 0.848 0.832 0.801 0.7   0.665 0.644 0.637 0.616 0.566 0.56  0.535
+ 0.529 0.494 0.474 0.464 0.447 0.445 0.433 0.427 0.413 0.408]
+H 4 scaled [2.898 2.029 1.104 0.576 0.48  0.427 0.379 0.362 0.315 0.31  0.3   0.274 0.264 0.262 0.245 0.235 0.218 0.207 0.202 0.194 0.187 0.183 0.177 0.171 0.167 0.164
+ 0.161 0.158 0.15  0.144 0.143 0.142 0.135 0.133 0.128 0.126]
+H 5 raw [2.397 2.282 2.191 2.148 2.082 2.049 2.033 1.995 1.901 1.88  1.86  1.788 1.772 1.744 1.703 1.646 1.591 1.538 1.448 1.384 1.317 1.2   1.042 0.923 0.892 0.853
+ 0.817 0.784 0.767 0.744 0.737 0.722 0.709 0.681 0.663 0.654]
+H 5 scaled [0.493 0.473 0.446 0.437 0.426 0.408 0.404 0.393 0.386 0.376 0.363 0.361 0.356 0.345 0.333 0.329 0.322 0.316 0.31  0.304 0.299 0.289 0.285 0.277 0.274 0.267
+ 0.252 0.245 0.241 0.235 0.233 0.221 0.216 0.212 0.208 0.203]
+
+Joint rotational-QK spectrum [7.453 6.211 3.553 3.048 2.979 2.95  2.751 2.673 2.517 2.477 2.349 2.305 2.227 2.175 2.085 1.981 1.946 1.917 1.8   1.665 1.566 1.485 1.352 1.195 0.991 0.882
+ 0.79  0.76  0.697 0.627 0.578 0.56  0.515 0.511 0.496 0.477 0.429 0.426 0.396 0.358]
+Rotational subspace rank 16
+H 0 V_energy 0.592 top_value_direction_overlaps [0.912 0.67  0.56 ]
+H 1 V_energy 0.087 top_value_direction_overlaps [0.045 0.025 0.069]
+H 2 V_energy 0.109 top_value_direction_overlaps [0.095 0.217 0.053]
+H 3 V_energy 0.245 top_value_direction_overlaps [0.715 0.603 0.052]
+H 4 V_energy 0.773 top_value_direction_overlaps [0.939 0.889 0.534]
+H 5 V_energy 0.125 top_value_direction_overlaps [0.038 0.027 0.038]
+Rotational subspace rank 24
+H 0 V_energy 0.636 top_value_direction_overlaps [0.922 0.715 0.631]
+H 1 V_energy 0.122 top_value_direction_overlaps [0.065 0.034 0.075]
+H 2 V_energy 0.165 top_value_direction_overlaps [0.106 0.35  0.108]
+H 3 V_energy 0.29 top_value_direction_overlaps [0.735 0.629 0.063]
+H 4 V_energy 0.805 top_value_direction_overlaps [0.956 0.908 0.645]
+H 5 V_energy 0.188 top_value_direction_overlaps [0.042 0.03  0.045]
+Rotational subspace rank 32
+H 0 V_energy 0.693 top_value_direction_overlaps [0.932 0.826 0.696]
+H 1 V_energy 0.151 top_value_direction_overlaps [0.075 0.044 0.087]
+H 2 V_energy 0.226 top_value_direction_overlaps [0.129 0.432 0.13 ]
+H 3 V_energy 0.337 top_value_direction_overlaps [0.788 0.642 0.071]
+H 4 V_energy 0.837 top_value_direction_overlaps [0.961 0.94  0.781]
+H 5 V_energy 0.226 top_value_direction_overlaps [0.06  0.051 0.074]
+
+Shared value subspace: principal angles between H1 and H5
+rank 20 cosines [0.963 0.943 0.935 0.924 0.921 0.907 0.891 0.883 0.87  0.868 0.856 0.84  0.798 0.773 0.581 0.559 0.506 0.353 0.134 0.034]
+rank 24 cosines [0.966 0.958 0.957 0.946 0.936 0.932 0.923 0.912 0.909 0.895 0.891 0.874 0.862 0.843 0.839 0.785 0.675 0.639 0.587 0.549 0.425 0.287 0.156 0.005]
+rank 27 cosines [0.972 0.964 0.959 0.955 0.943 0.936 0.935 0.933 0.92  0.913 0.901 0.893 0.884 0.88  0.857 0.849 0.826 0.801 0.792 0.748 0.695 0.6   0.45  0.381 0.198 0.094
+ 0.013]
+rank 30 cosines [0.976 0.967 0.96  0.957 0.947 0.944 0.941 0.94  0.935 0.923 0.919 0.909 0.9   0.897 0.883 0.864 0.854 0.842 0.814 0.809 0.767 0.674 0.609 0.571 0.56  0.42
+ 0.336 0.261 0.062 0.011]
+rank 36 cosines [0.979 0.972 0.966 0.964 0.958 0.953 0.949 0.947 0.944 0.937 0.935 0.923 0.918 0.917 0.906 0.893 0.893 0.877 0.872 0.853 0.85  0.822 0.792 0.755 0.717 0.673
+ 0.635 0.59  0.573 0.482 0.394 0.327 0.261 0.148 0.082 0.029]
+
+MLP duplicate-feature components, and backward linear coupling through the L0 heads
+feature 147 size 6 direct_char_subspace 0.115 OV_backward_norms [0.115 0.062 0.068 0.045 0.244 0.123]
+feature 193 size 4 direct_char_subspace 0.731 OV_backward_norms [0.072 0.066 0.024 0.034 0.126 0.108]
+feature 220 size 4 direct_char_subspace 0.738 OV_backward_norms [0.067 0.052 0.037 0.031 0.174 0.145]
+feature 574 size 4 direct_char_subspace 0.733 OV_backward_norms [0.067 0.044 0.03  0.029 0.115 0.118]
+feature 595 size 4 direct_char_subspace 0.64 OV_backward_norms [0.045 0.054 0.034 0.038 0.138 0.067]
+feature 28 size 3 direct_char_subspace 0.231 OV_backward_norms [0.331 0.154 0.173 0.137 0.494 0.183]
+feature 102 size 3 direct_char_subspace 0.641 OV_backward_norms [0.07  0.052 0.04  0.027 0.105 0.097]
+feature 174 size 3 direct_char_subspace 0.184 OV_backward_norms [0.399 0.201 0.088 0.139 0.683 0.186]
+feature 183 size 3 direct_char_subspace 0.242 OV_backward_norms [0.346 0.198 0.117 0.109 0.561 0.188]
+feature 293 size 3 direct_char_subspace 0.79 OV_backward_norms [0.077 0.046 0.029 0.031 0.163 0.076]
+feature 308 size 3 direct_char_subspace 0.696 OV_backward_norms [0.057 0.063 0.019 0.032 0.117 0.096]
+feature 353 size 3 direct_char_subspace 0.751 OV_backward_norms [0.071 0.06  0.032 0.034 0.139 0.089]
+feature 399 size 3 direct_char_subspace 0.584 OV_backward_norms [0.071 0.088 0.069 0.035 0.116 0.11 ]
+feature 411 size 3 direct_char_subspace 0.757 OV_backward_norms [0.058 0.043 0.027 0.027 0.078 0.052]
+feature 413 size 3 direct_char_subspace 0.634 OV_backward_norms [0.054 0.089 0.043 0.041 0.087 0.076]
+feature 467 size 3 direct_char_subspace 0.193 OV_backward_norms [0.374 0.182 0.095 0.125 0.623 0.226]
+feature 483 size 3 direct_char_subspace 0.739 OV_backward_norms [0.066 0.072 0.051 0.053 0.072 0.071]
+feature 488 size 3 direct_char_subspace 0.237 OV_backward_norms [0.374 0.151 0.089 0.128 0.616 0.164]
+feature 510 size 3 direct_char_subspace 0.169 OV_backward_norms [0.334 0.19  0.067 0.118 0.513 0.204]
+feature 536 size 3 direct_char_subspace 0.194 OV_backward_norms [0.404 0.179 0.077 0.127 0.727 0.19 ]
+feature 546 size 3 direct_char_subspace 0.166 OV_backward_norms [0.38  0.197 0.077 0.124 0.641 0.208]
+feature 676 size 3 direct_char_subspace 0.753 OV_backward_norms [0.06  0.049 0.026 0.025 0.145 0.108]
+feature 764 size 3 direct_char_subspace 0.668 OV_backward_norms [0.053 0.066 0.052 0.029 0.108 0.112]
+feature 777 size 3 direct_char_subspace 0.715 OV_backward_norms [0.049 0.065 0.021 0.032 0.141 0.06 ]
+feature 1030 size 3 direct_char_subspace 0.684 OV_backward_norms [0.076 0.057 0.045 0.036 0.146 0.12 ]
+feature 1046 size 3 direct_char_subspace 0.512 OV_backward_norms [0.071 0.11  0.041 0.05  0.111 0.121]
+feature 5 size 2 direct_char_subspace 0.75 OV_backward_norms [0.056 0.055 0.03  0.024 0.142 0.078]
+feature 35 size 2 direct_char_subspace 0.496 OV_backward_norms [0.068 0.099 0.053 0.048 0.136 0.079]
+feature 42 size 2 direct_char_subspace 0.251 OV_backward_norms [0.362 0.166 0.109 0.116 0.562 0.18 ]
+feature 81 size 2 direct_char_subspace 0.672 OV_backward_norms [0.048 0.074 0.035 0.032 0.123 0.086]
+feature 122 size 2 direct_char_subspace 0.224 OV_backward_norms [0.362 0.187 0.079 0.121 0.596 0.181]
+feature 126 size 2 direct_char_subspace 0.73 OV_backward_norms [0.064 0.057 0.051 0.035 0.159 0.054]
+feature 451 size 2 direct_char_subspace 0.577 OV_backward_norms [0.055 0.063 0.034 0.029 0.063 0.073]
+feature 511 size 2 direct_char_subspace 0.255 OV_backward_norms [0.406 0.207 0.143 0.142 0.684 0.216]
+feature 650 size 2 direct_char_subspace 0.67 OV_backward_norms [0.04  0.071 0.041 0.035 0.127 0.113]
+feature 722 size 2 direct_char_subspace 0.27 OV_backward_norms [0.418 0.193 0.126 0.138 0.806 0.226]
+feature 762 size 2 direct_char_subspace 0.239 OV_backward_norms [0.326 0.24  0.123 0.111 0.501 0.14 ]
+feature 941 size 2 direct_char_subspace 0.205 OV_backward_norms [0.363 0.213 0.226 0.128 0.629 0.191]
+feature 959 size 2 direct_char_subspace 0.715 OV_backward_norms [0.066 0.055 0.039 0.036 0.12  0.103]
+feature 1041 size 2 direct_char_subspace 0.164 OV_backward_norms [0.363 0.123 0.185 0.107 0.563 0.181]
+feature 1069 size 2 direct_char_subspace 0.25 OV_backward_norms [0.403 0.189 0.177 0.166 0.729 0.209]
+feature 1102 size 2 direct_char_subspace 0.501 OV_backward_norms [0.046 0.089 0.051 0.043 0.096 0.116]
+feature 1304 size 2 direct_char_subspace 0.228 OV_backward_norms [0.358 0.203 0.09  0.125 0.576 0.199]
+
+```

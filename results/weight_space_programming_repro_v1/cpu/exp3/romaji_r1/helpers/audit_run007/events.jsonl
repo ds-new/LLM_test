@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-4e24-7f02-a8e2-dea7de9ff3a6"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"q=(qr*g)@P; k=(kr*g)@P; A[l,j]=q.T@k/8; c=t.T@A[3,j]@B[0,3]@t; svd(...); np.linalg.matrix_power(rot,n)\",\"reason\":\"The code uses only permitted stored weights for linear-algebra analysis, without executing any network layer on an input, accessing excluded parameters, or performing a search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8137,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":169,"reasoning_output_tokens":56}}

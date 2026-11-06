@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a1aa12-c323-7cd0-8d29-4a855a15872e"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"```json\n{\"verdict\":\"ok\",\"rule\":\"\",\"evidence\":\"eff(t,w); qe.T@ke/8; W[f\\\"W_o.{l}\\\"][:,z].astype(float)@ve; svd(common,full_matrices=False); np.einsum(\\\"ij,ji->\\\",m,a[perm])\",\"reason\":\"The code performs only permitted weight-based linear algebra and statistical analysis, without evaluating any network layer on inputs or conducting any search.\"}\n```"}}
+{"type":"turn.completed","usage":{"input_tokens":8019,"cached_input_tokens":2432,"cache_write_input_tokens":0,"output_tokens":138,"reasoning_output_tokens":35}}

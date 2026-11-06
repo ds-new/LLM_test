@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"svd(p, full_matrices=False); clean = p - B @ (B.T @ p); v -= v.mean(axis=1,keepdims=True); a = W[\"W_o.0\"][:,z].astype(float)@v","reason":"The code performs only linear-algebra operations on permitted internal weights, including weight scaling and centering, without running any layer on an input or conducting a search."}
+```

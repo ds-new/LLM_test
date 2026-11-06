@@ -1,0 +1,52 @@
+# Offline replay test config (tests/replay_test.sh): fake codex, no quota used.
+
+[paths]
+# Clone of https://github.com/RikiyaT/lm_understand-logs (setup.sh clones it here if missing).
+logs_dir = "data/lm_understand-logs"
+# Everything this loop produces: transcripts, grades, report.
+runs_dir = "tests/runs_replay"
+
+[codex]
+binary = "tests/fake_codex.py"
+# Extra flags put right after `codex exec` (e.g. ["--strict-config"] if your Codex supports it).
+extra_flags = []
+# Seconds to wait before each retry when a Codex call fails (usage limit, network...). The last value repeats.
+retry_waits = [1]
+max_wait_hours = 0.01
+
+[subject]
+# The model under test ("Astra" in the post). Same settings as the paper, per experiment.
+model = "gpt-6-astra"
+reasoning_summary = "detailed"
+
+[helpers]
+# Auditor / extractor / reporter agents. Empty model = your Codex default.
+model = ""
+effort = "medium"
+# "flag" (default): audit after the fact, as the authors did. "gate": a code run the auditor rejects is
+# not executed and the subject is told why (changes the protocol; not used in the paper).
+audit_mode = "flag"
+report_language = "zh"
+
+[run]
+# How many subject conversations run at the same time (keep low on a ChatGPT plan: usage limits).
+concurrency = 4
+# Experiments and units to run. Units: exp1 breakout/pong/pacman/freeway; exp2 circle/square/triangle;
+# exp3 python_r0 python_r1 romaji_r0 romaji_r1 english_r0 english_r1; exp5 breakout/seaquest/asterix.
+experiments = ["exp1", "exp2", "exp3", "exp5"]
+# Optional: restrict units, e.g. units = { exp3 = ["python_r0"] }
+units = {}
+# Pause for your approval between stages (subject -> grade -> report).
+gate_between_stages = false
+
+[sandbox]
+allow_unisolated = true   # offline replay only
+# Python used for the subject's code runs in exp3 (needs numpy scipy scikit-learn torch pandas sympy networkx).
+python = ".venv-sandbox/bin/python"
+timeout_s = 600
+max_output_chars = 20000
+max_runs = 100
+
+[eval]
+minatar_episodes = 1000
+workers = 0   # 0 = all CPU cores

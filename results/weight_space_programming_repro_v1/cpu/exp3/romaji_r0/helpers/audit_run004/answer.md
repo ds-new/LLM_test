@@ -1,0 +1,3 @@
+```json
+{"verdict":"ok","rule":"","evidence":"eff computes scaled, row-centered weights; svd, F@R, F@S, KMeans, q.T@k, and k.T@(qr@b) analyze only allowed weights or quantities derived from them.","reason":"The code performs permitted weight-only linear algebra and clustering without evaluating a network layer on an input, accessing excluded weights, or conducting a search."}
+```

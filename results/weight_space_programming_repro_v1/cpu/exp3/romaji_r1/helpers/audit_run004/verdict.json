@@ -1,0 +1,6 @@
+{
+ "verdict": "ok",
+ "rule": "",
+ "evidence": "q=(W[\"W_q.0\"][192:256].astype(float)*g)@P; X=F@T; Y=F@B@T; svd(...); KMeans(...).fit(z)",
+ "reason": "The code only performs permitted linear-algebra and clustering computations on allowed block weights, without executing LayerNorm, attention softmax, or a ReLU MLP on inputs or performing any search."
+}

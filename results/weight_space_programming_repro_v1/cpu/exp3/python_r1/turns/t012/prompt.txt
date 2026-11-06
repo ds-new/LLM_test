@@ -1,0 +1,50 @@
+OUTPUT of run 11 of at most 100:
+```
+Other duplicate-feature groups: closest input and output character-like groups
+group 28 size 3 input_output_cos 0.076 input_matches [(1102, 0.378), (676, 0.147), (293, 0.107)] output_matches [(1102, 0.437), (1046, -0.099), (81, -0.08)]
+group 42 size 2 input_output_cos -0.132 input_matches [(1046, 0.163), (126, 0.149), (399, 0.139)] output_matches [(126, 0.124), (777, 0.122), (193, -0.079)]
+group 122 size 2 input_output_cos -0.055 input_matches [(193, 0.182), (35, 0.15), (1046, 0.114)] output_matches [(193, 0.269), (411, 0.073), (764, 0.07)]
+group 147 size 6 input_output_cos 0.13 input_matches [(1046, 0.107), (1102, 0.101), (411, -0.075)] output_matches [(411, 0.238), (676, 0.142), (293, 0.131)]
+group 174 size 3 input_output_cos -0.049 input_matches [(413, 0.147), (1046, 0.14), (574, 0.133)] output_matches [(574, 0.181), (353, 0.137), (411, 0.126)]
+group 183 size 3 input_output_cos -0.132 input_matches [(308, 0.182), (413, 0.109), (1046, 0.099)] output_matches [(308, 0.247), (411, 0.11), (574, 0.104)]
+group 467 size 3 input_output_cos -0.132 input_matches [(293, 0.159), (35, 0.112), (102, 0.106)] output_matches [(293, 0.121), (353, 0.089), (777, 0.077)]
+group 488 size 3 input_output_cos -0.102 input_matches [(353, 0.244), (1046, 0.18), (1102, 0.117)] output_matches [(353, 0.19), (574, 0.135), (411, 0.132)]
+group 510 size 3 input_output_cos -0.026 input_matches [(959, 0.235), (1046, 0.168), (35, 0.148)] output_matches [(959, 0.262), (483, 0.09), (193, 0.082)]
+group 511 size 2 input_output_cos -0.114 input_matches [(102, 0.217), (1046, 0.144), (293, 0.086)] output_matches [(102, 0.248), (35, -0.058), (777, -0.055)]
+group 536 size 3 input_output_cos 0.066 input_matches [(220, 0.186), (1046, 0.168), (1102, 0.147)] output_matches [(220, 0.251), (764, 0.088), (1102, -0.071)]
+group 546 size 3 input_output_cos -0.069 input_matches [(595, 0.269), (1046, 0.127), (764, 0.107)] output_matches [(595, 0.155), (1102, -0.065), (126, 0.063)]
+group 722 size 2 input_output_cos -0.094 input_matches [(764, 0.235), (1046, 0.107), (293, -0.102)] output_matches [(764, 0.216), (35, -0.071), (193, -0.062)]
+group 762 size 2 input_output_cos -0.016 input_matches [(413, 0.304), (1046, 0.173), (764, 0.101)] output_matches [(413, 0.272), (399, 0.109), (353, 0.079)]
+group 941 size 2 input_output_cos -0.123 input_matches [(399, 0.184), (35, 0.135), (1046, 0.119)] output_matches [(399, 0.332), (102, 0.089), (777, 0.064)]
+group 1041 size 2 input_output_cos -0.113 input_matches [(1102, 0.155), (451, 0.133), (1046, 0.127)] output_matches [(483, 0.238), (81, -0.087), (411, -0.087)]
+group 1069 size 2 input_output_cos -0.145 input_matches [(650, 0.116), (1046, 0.1), (1102, 0.081)] output_matches [(777, 0.092), (483, 0.092), (574, 0.077)]
+group 1304 size 2 input_output_cos -0.044 input_matches [(650, 0.192), (1046, 0.151), (413, 0.101)] output_matches [(650, 0.326), (293, 0.085), (35, -0.071)]
+
+Rotation-phase consistency: H1 compared with integer multiples of H5's phase
+Rows: H5 magnitude, H5 phase, H1 projected phase, collinearity
+[[ 2.752  0.925  1.024  0.901]
+ [ 1.649  0.986  2.433  0.666]
+ [ 1.409  0.5    1.366  0.658]
+ [ 1.355  1.364  2.852  0.6  ]
+ [ 1.331  0.966  1.959  0.567]
+ [ 1.156  1.855 -2.269  0.922]
+ [ 1.107  1.526 -2.714  0.605]
+ [ 1.031  1.928 -2.135  0.888]
+ [ 0.932  1.75  -2.658  0.7  ]]
+Exclude largest mode pair: False
+phase multiple 1 weighted cosine 0.217
+phase multiple 2 weighted cosine 0.876
+phase multiple 3 weighted cosine 0.258
+phase multiple 4 weighted cosine -0.576
+Exclude largest mode pair: True
+phase multiple 1 weighted cosine -0.062
+phase multiple 2 weighted cosine 0.947
+phase multiple 3 weighted cosine 0.415
+phase multiple 4 weighted cosine -0.461
+
+Magnitude and positional-mode concentration of the two dominant input value directions of L0H4
+mode 0 singular_value 2.898 rotational_QK_subspace_energy 0.956 character_detector_subspace_energy 0.004 top_char_detector_cosines [(35, -0.024), (413, -0.023), (483, -0.022), (1030, -0.02)]
+mode 1 singular_value 2.029 rotational_QK_subspace_energy 0.908 character_detector_subspace_energy 0.03 top_char_detector_cosines [(308, -0.051), (676, -0.041), (81, -0.039), (595, -0.035)]
+mode 2 singular_value 1.104 rotational_QK_subspace_energy 0.645 character_detector_subspace_energy 0.029 top_char_detector_cosines [(413, -0.04), (81, -0.039), (308, -0.037), (193, -0.036)]
+
+```

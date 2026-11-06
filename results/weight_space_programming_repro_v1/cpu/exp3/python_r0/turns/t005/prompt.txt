@@ -1,0 +1,27 @@
+OUTPUT of run 4 of at most 100:
+```
+Principal-angle cosines between L0H1/H5 top-27 value-input spaces:
+[0.972 0.967 0.959 0.953 0.949 0.941 0.936 0.934 0.928 0.923 0.916 0.907 0.898 0.887 0.878 0.873 0.847 0.844 0.826 0.798 0.753 0.613 0.472 0.428 0.263 0.099 0.012]
+
+Weight-row clustering quality, current / via H5 / via H1:
+0 cosine quantiles [0.387 0.451 0.523 0.614 0.731] cluster counts [ 74   4  33   3  10 163  42  20 165  51  14   3  45 175  25  25 213  65  41  59  43  40  44  28  53  32  25  41]
+1 cosine quantiles [0.353 0.429 0.52  0.605 0.682] cluster counts [ 20 181  24 200   3   2  35 124  17  38 228   6  16  20   1 140  13  77  56  28  32  23  46   0  56   8  88  54]
+2 cosine quantiles [0.353 0.411 0.484 0.576 0.657] cluster counts [  8   4 102  12 268  19  69  14   8  35   2 198  26  22 239  12   6  15  26  21  41  63  42 120  22  82  18  42]
+Cluster-center cosine quantiles: [-0.601 -0.203 -0.03   0.204  0.569]
+
+Current versus upstream index 1 clear-neuron count 235
+Diagonal counts: [3 0 1 0 0 0 0 0 0 2 0 0 1 0 0 1 0 0 4 1 1 0 3 0 3 0 0 0]
+Largest (count,current_cluster,upstream_cluster): [(np.int64(17), 16, 3), (np.int64(15), 16, 10), (np.int64(13), 13, 10), (np.int64(12), 16, 1), (np.int64(10), 19, 1), (np.int64(10), 8, 3), (np.int64(9), 5, 3), (np.int64(8), 8, 1), (np.int64(6), 13, 3), (np.int64(6), 13, 1), (np.int64(6), 8, 10), (np.int64(6), 5, 15), (np.int64(5), 16, 15), (np.int64(4), 18, 18), (np.int64(4), 16, 7), (np.int64(3), 24, 24), (np.int64(3), 22, 22), (np.int64(3), 20, 26), (np.int64(3), 13, 26), (np.int64(3), 5, 10), (np.int64(3), 5, 7), (np.int64(3), 0, 0), (np.int64(2), 27, 1), (np.int64(2), 25, 3), (np.int64(2), 22, 10), (np.int64(2), 19, 15), (np.int64(2), 18, 10), (np.int64(2), 17, 26), (np.int64(2), 17, 10), (np.int64(2), 17, 1), (np.int64(2), 16, 26), (np.int64(2), 14, 7), (np.int64(2), 13, 17), (np.int64(2), 13, 15), (np.int64(2), 13, 7)]
+Pair mutual information 0.7729; same-cluster fraction 0.0851
+
+Current versus upstream index 2 clear-neuron count 200
+Diagonal counts: [1 0 1 0 0 0 6 0 0 2 0 0 1 0 2 0 0 1 6 3 2 4 5 5 2 3 0 1]
+Largest (count,current_cluster,upstream_cluster): [(np.int64(13), 5, 4), (np.int64(10), 16, 14), (np.int64(8), 13, 14), (np.int64(8), 13, 11), (np.int64(6), 18, 18), (np.int64(6), 16, 11), (np.int64(6), 13, 4), (np.int64(6), 8, 4), (np.int64(6), 6, 6), (np.int64(5), 23, 23), (np.int64(5), 22, 22), (np.int64(5), 12, 4), (np.int64(5), 5, 14), (np.int64(4), 21, 21), (np.int64(4), 16, 4), (np.int64(4), 8, 14), (np.int64(4), 5, 11), (np.int64(3), 25, 25), (np.int64(3), 24, 23), (np.int64(3), 22, 2), (np.int64(3), 19, 19), (np.int64(3), 19, 4), (np.int64(3), 16, 23), (np.int64(3), 12, 11), (np.int64(3), 0, 12), (np.int64(3), 0, 4), (np.int64(2), 27, 14), (np.int64(2), 24, 25), (np.int64(2), 24, 24), (np.int64(2), 21, 6), (np.int64(2), 20, 20), (np.int64(2), 17, 14), (np.int64(2), 17, 4), (np.int64(2), 14, 14), (np.int64(2), 13, 23)]
+Pair mutual information 1.1187; same-cluster fraction 0.2250
+
+ICA on the same weight-row sample:
+Iterations: 54
+Sorted component excess kurtoses: [262.357 194.465 108.357  97.57   93.264  85.365  77.969  67.255  64.037  63.239  59.665  58.503  55.369  41.048  40.33   38.417  36.987  31.961  31.67   31.249  29.024  27.224
+  26.82   23.334  22.205  22.06   20.66 ]
+
+```

@@ -1,0 +1,34 @@
+{
+ "corpus_guess": "python",
+ "true": "python",
+ "corpus_correct": true,
+ "order_guess": "as is",
+ "probability_of_guess": 0.52,
+ "probabilities": {
+  "python": 0.52,
+  "romaji": 0.11,
+  "english": 0.37
+ },
+ "copy_named": [
+  "L2H1",
+  "L3H1",
+  "L3H5"
+ ],
+ "copy_true": [
+  "L2H1",
+  "L3H1",
+  "L3H5"
+ ],
+ "copy_exact_match": true,
+ "copy_false_pos": [],
+ "copy_missed": [],
+ "runs": 11,
+ "via": "regex",
+ "audit": {
+  "runs": 11,
+  "violations": 0,
+  "unsure": 0,
+  "flagged": []
+ },
+ "tool_free": true
+}

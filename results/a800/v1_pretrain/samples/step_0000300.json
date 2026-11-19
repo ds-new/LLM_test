@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "，让学生这样关注女性社会、社会人、全球性的、理论等。\n但是，只有一个接近富的物质的和一个社会，对而是心体的。\n但是，在又通过世界的的\"对不了\"，\n我们上课就最大的物体是学习的。\n该创造出有之，是因为我们不能坚持说大。\n而今天，它们可能会不如下。\n因此，我们会有人，我都不能发现，而有些不调的，可就是封所行的，更不是人能就不妨一归。\n在我们，我们就知道大上，当然不是孩子，他将他的时候，只是你的话。\n一旦他提前到，他们都是客观，因为一些随机的人，就可能会没知道，有作用；\n根本或者更高",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，我们，我们，我们，我们，我们，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9618
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "我也觉得你的孩子从不可受的起源，这个频繁，你当然这个老真更为眼前。首先，感到一个人，他们很提亩。这时，而这种好车，就是说是父母小榷，有时有成熟的状态，没有制定，也是人让人说，引导他们少见，很多事，也只会写出来，那就好了的人，你可能会这样做，就担心，而\"游加气\"\"。这更没有谈\"计\"从理中，即人都是漏亲，那么那是一教字，如果因为相蒙是，是\"神\"的，有\"了，然后有一强，若为词，也是又长之。这个东西，就得也来。为什么，要不源，众生不去过自己",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "血管内刺下，一年就陈大刺性微作以去画食品与水住水，经过用来喝硬之水，是炎症所出现。\n如表内彩对微尘中的免疫乙酸是一个具有支配的。\n1.连接技术是使用受偿的，则只靠其形成。\n2.大量的方式有家属，抗性，则是指与生物、二、银等。\n2.说明拉瑞（图2)。\n3.3.3 二、（2） 3.4.3.4 3.5 和3.4 4.4 和 4.1 4.1 7.4 5.3 4 6.4 5.4",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0382
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "，在水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水，水水",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9682
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " 相、 。 那，夜碎的， 再称\" 尽服， 化。 水法： 不为 。\" 此着， 人」 \" \" 点 ， 等 亦 \" \" \" \" \" \" ， \" \" ， 。 \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6242
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "还是一个一种拒绝价值。当时我们，因为当年小编应该需要这个精英父母，于是他找的一起来，这个强风，最后，但是我们既可以做孩子，白癜风会愉悦，但是就会感到你说 如这，但才会有很多，也许，，但是，也有最后才能。一旦完成，我见过，那么，而这个人格非常走，因为引导学生一起，还主要是明白，这时的人，是主导的。 哪些是否定这个，了解自己，没有信任，真正的人！",
+      "new_tokens": 108,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "们，例如才总结集中发展、成功，也很相似，现在都却很有效的。\n第二次的法律，或许对学习比较长，才会无法得到问题，而是对这一目标。\n从社会人，人类对法院可能会受到人的复杂性，但是对实际而言，来迅速地理解的是，但谁是转让。\n三是要求这同证，然后，要么到了人类的因素。\n这主要是对国家的对行为问题，是对因引领的讨论，而以后，说的大人的社会保障。\n因为又把事件来理解，又相斗争，这个素质就是一种。\n因此，我们都希望过一些，而且不能产生已达到，我们就可以从自身上，就能接受，如果把做证明，没有学习，而且，所以我们要",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "，小与镇的高于会皆为环保。在书中，老是智。\n现代中，自单的。把我们的现实，这种宗旨是用于起点，比不断产生把，有现申，或被中外，少是否导致女的。\n即此，只要是相互接，而努力向我们，其基本就是不直接，而也不人，而他们可能我们要能够开始，而不是一个债务的，故理如他，只会养成，她认为，听人不能有道德，为科还，而他，\"它吧，有，可这就会引起学生的。\n山人，是生活，那么，能像个，又想，指主要在于，但是，不能发出，如果在故所附中，其实是一个",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "在2020年来自街到2018年了。经过很多，宝宝在对越棵。",
+      "new_tokens": 20,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9873
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " the school will been in the real-sciences of the sound that the introduction of the identification of the area of the ground.\nThe self-common to be her only due to the context of the recers that the real old and we can all the graph of its basic system. If the period of the other move, the main is to the subtle all in the missed of the as of the city. The",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1338
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is the same of the same of the same of the same of the same of the same of the same of the same of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the number of the",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9236
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " it. And the review of the time when the method of the technology of the Christian and the distin, and the United States are provided in the to reas. As this is a full of the most calor of the symbols of the shade (1902-20): the multi-alpha km/h (E/Y. 4).\n\n3. It is a Get to the now these so for an edge of the question, because it ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1019
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " = 1 - 5 + 4. Then the right equation of the array of the x = 3.\n\nThe formula of 4 = 3 to 1 as the area of the D = 2 + 4 + 2 = 6.\n\n(4) = -5 = 7.5 + 4 + 3 – 2 + 6 + 1 = 4. A = 1/3 = 3 + 4 + 2 = 5. R + 6 + 6 +",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2038
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "二十个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "细胞核",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "望远镜",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "科学家",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "扇子",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "凉鞋",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给学生上课",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "睡觉",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "4",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 100 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Earth",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " happy",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " chick",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 3",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 7",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " plt",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 1",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "皮肤",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " CO2",
+      "answer": " H2O"
+    }
+  ]
+}

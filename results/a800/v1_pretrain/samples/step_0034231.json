@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "\n作者：程建中（浙江大学人工智能研究院院长、教授、博士生导师）\n人工智能（AI）是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学，它通过使机器拥有类似人类智能的智能行为，从而让机器具备了自我学习、不断自我进化、自我优化、自我组织、自我学习的能力，让机器具有类似人一样的行为和智能。而人工智能的发展目前正在进入一个瓶颈期，未来将更具有“智能”二字，而这也正是我们当前所面临的最大挑战。\n一、人工智能发展的背景\n（一）人工智能发展的背景\n1956年，人工智能创始人托尔曼在《人工智能》一书中第一次提出“人工智能”的概念，标志着人工智能时代的开始。",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，已经从最初的\"黑箱\"阶段，进入到\"白盒\"阶段，即人工智能的\"黑箱\"阶段。人工智能的\"黑箱\"阶段，就是让人工智能的\"黑箱\"阶段，也就是让人工智能的\"白盒\"阶段。人工智能的\"白盒\"阶段，就是让人工智能的\"黑箱\"阶段，也就是让人工智能的\"黑箱\"阶段。人工智能的\"黑箱\"阶段，就是让人工智能的\"白盒\"阶段，也就是让人工智能的\"黑箱\"阶段。人工智能的\"黑箱\"阶段，就是让人工智能的\"白盒\"阶段，也就是让人工智能的\"黑箱\"阶段。人工智能的\"黑箱\"阶段，就是让人工智能的\"白盒\"阶段，也就是让人工智能的",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7707
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现公园里有很多树叶，到处都是黄黄的，小明心里真是不甘心，再过几天小明就能摘下树叶回家了，这可是一举多得的好事啊！ 于是，小明和妈妈开始给小明带一些树叶回去。 小明和小妈妈也看了不少树叶，还问妈妈：\"妈妈，我为什么没有摘树叶回家呢？\"妈妈说：\"树叶颜色不同，形状也不一样，颜色从浅黄色到深黄色，形状也从有棱角到无棱角，颜色颜色不同，树叶的形状也不一样。叶子有毛的，有无毛的，有黄的，有白的，有红的，还有淡黄的。\" 听了妈妈的话，小明一点都不甘心了",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用光能将二氧化碳和水合成有机物的过程。\n光合作用是一种利用二氧化碳和水合成有机物的过程，这个过程依赖于光合作用产生的绿色植物，而绿色植物利用光能将二氧化碳和水合成有机物的过程依赖于光合作用。\n光合作用包括两种基本类型的光合作用：叶绿素和光合作用。\n光合作用将二氧化碳和水转化为有机物的过程，是通过叶绿素的分解和光合作用的进行来实现的。\n叶绿素是光合作用中一种非常重要的物质。它是将二氧化碳和水分解成有机物的关键酶。\n光合作用产生的有机物在植物体内主要是储存和利用能量的，而这些能量是通过叶绿素进行的。\n光合作用光合作用是一种利用光能将二氧化碳和水合成",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1783
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用光能，把二氧化碳和水转化成储存能量的有机物，并释放出氧气的过程。光合作用包括光合作用和呼吸作用。光合作用是指绿色植物利用光能，把二氧化碳和水转化成储存能量的有机物，并释放出氧气的过程。光合作用包括光合作用和呼吸作用。光合作用是指绿色植物利用光能，把二氧化碳和水转化成储存能量的有机物，并释放出氧气的过程。光合作用是指绿色植物利用光能，把二氧化碳和水转化成储存能量的有机物，并释放出氧气的过程。光合作用是指绿色植物利用光能，把二氧化碳和水转化成储存能量的有机物，并释放出氧气的过程。光合作用是指绿色植物利用光能，把二氧化碳和水转化成储存能量的有机物，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7771
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " ① 四大发明之一的指南针 ② 四大发明之一的造纸术 ③ 四大发明之一的火药 ④ 四大发明之一的活字印刷术 ⑤ 四大发明之一的火药 a. ①②③④⑤ b. ①②③④⑤ c. ①②④⑤⑥ d. ①②③④⑤⑥ 6. 下列哪个发明是近代科技史上的重大突破？ a. 蒸汽机的发明 b. 轮船的发明 c. 电报发明 d. 电话发明 7. 下列哪项发明最先传入我国？ a. 古代造船技术 b. 火药发明 c. 印刷术发明 d. 指南针发明 8",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1783
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "也是中国最长的流域。长江从它的发源地巴拉圭一直流到中国腹地，穿过最长的中美洲，又穿过最长的非洲大陆，最后与非洲大陆融为一体。 在中国领土面积的22.6万平方千米中，长江流域有33个省级行政区，包括33个地级市，15个县级市。这个最大的区域如果加以细致的分析，就涉及了中国56个民族。 中国沿海的15个城市，有10个位于长江中下游地区，有8个位于长江中上游地区，还有4个处在珠江三角洲地区，它们分别是上海、杭州、武汉、南京、西安、重庆、南京、合肥、苏州、武汉、重庆、郑州、郑州、长沙、武汉、广州、成都、成都",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要付出汗水， 用功不懈， 要精益求精。 当我们学了一种语言后， 对学习它的乐趣， 那将是我们终身的财富。 学一门新语言， 贵在坚持， 贵在用功。 为了学好一门新语言， 首先要有强烈的求知欲。 只有对这门语言产生浓厚的兴趣， 才会愿意去学习。 其次， 要具备掌握这门语言的能力。 只有具备了掌握这门语言的能力， 才会在学语言的过程中能更好的掌握这门语言。 第三， 要具备钻研这门语言的能力。 只有具备钻研这门语言的能力， 才会在学习和掌握这门语言的过程中能更好地掌握这门语言。 第四， 要具备学习这门语言的优势。 ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1083
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：直角三角形的斜边长等于斜边的正弦。 (4)在直角三角形中，正弦定理指出：直角三角形斜边上的中点到斜边上各点的距离等于斜边中点到斜边上的中点距离的倒数。 (5)在直角三角形中，平行弦定理指出：平行弦定理指出：平行弦中一点到另一点之间距离等于两直线距离的倒数。 (6)在直角三角形中，三角函数的定义定理指出：三角函数的定义定理指出：三角函数的定义式中，对角线上的元素之积等于斜边的元素。 (7)在直角三角形中，平分线定理指出：平分线定理指出：平分线",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2293
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "我市中小学校继续开展减负工作，对不合理超前教学和作业总量实行\"双减\"，引导学校科学用书，减少作业量，不给教师布置超量作业。同时，严禁超标补课，严禁将作业答案作为评优、评先的依据。\n市教育局要求，各县（市、区）要进一步深化教育教学改革，积极探索作业改革。要按照\"双减\"要求，及时调整作业负担。义务教育阶段，作业总量一般不高于国家规定的总量控制指标；高中阶段，作业总量一般不高于本学科课程标准规定总课时数的20%，初中阶段不超过国家规定的90%；小学阶段，作业总量一般不高于本学期国家规定的90%；幼儿园阶段，作业总量一般不高于本学段国家规定的80",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0955
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "#    return n + 1\n#    return fibonacci(n - 1)\n#    return fibonacci(n - 2)\n#    return fibonacci(n - 3)\n#    return fibonacci(n - 4)\n#    return fibonacci(n - 5)\n#    return fibonacci(n - 6)\n#    return fibonacci(n - 7)\n#    return fibonacci(n - 8)\n#    return fibonacci(n - 9)\n#    return fibon",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6433
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor and heat in the atmosphere is produced by the different types of biological processes and how the water cycle is affected by external factors. In particular, it is an important process that contributes to the overall climate. Water cycle is a major issue in many areas of science and engineering, including those of energy and civil engineering. In this book, we will be examining how water cycle is related to many important scientific areas ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is used in the environment and how it is used by plants and animals. It is a complex system that involves many different processes and is a key component of many natural processes. In this unit, we will explore the water cycle and its importance in the ecosystem and human life.\n\nTo begin, let's define what we mean by \"water cycle.\" It refers to the process by which water is used in the environment and",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0955
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived in a cozy burrow with his mom. One day, he heard a loud noise outside and it made him feel scared. He had to get up and get out of the hiding place. That's when he met a new friend, a scientist named Dr. Scientist. They told him about the strange phenomenon called Radio Frequency Radiation (RF) which can affect everything from our bodies to our",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of x that make this equation true. In this case, x = -3, and the values of x that satisfy this equation are -1, -2, and -1. Once we have these values, we can substitute them in the equation to find the values of x. 2(-3) + 3 = 11 - 3 = 11 - 3 = -2 The solution of the equation is -2. ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2102
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "东海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "8",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 0 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " bed",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 9",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

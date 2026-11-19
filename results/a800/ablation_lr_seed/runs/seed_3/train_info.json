@@ -1,0 +1,11 @@
+{
+  "steps": 11016,
+  "total_steps": 11016,
+  "tokens": 2887778304,
+  "train_hours": 4.84,
+  "tok_s": 165692,
+  "diverged": false,
+  "final_loss": 2.6376,
+  "clip_fraction": 0.009,
+  "update_ratio_median": 0.00401
+}

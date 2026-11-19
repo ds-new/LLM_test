@@ -1,0 +1,18 @@
+PASS schedules wsd / 1-sqrt / cosine / linear / 步数换算
+/root/autodl-tmp/verl_megatron_sglang/decoder_from_scratch/a800/lab_selftest.py:106: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)
+  l0 = float(loss) if l0 is None else l0
+PASS optimizer_adamw loss 10.391 → 2.689，读回差 0.0e+00
+PASS optimizer_muon loss 10.391 → 3.226，读回差 0.0e+00
+PASS optimizer_soap loss 10.391 → 2.781，读回差 0.0e+00
+PASS optimizer_sf_adamw loss 10.391 → 5.137，读回差 0.0e+00
+PASS muon_rms 更新 RMS 0.170，奇异值 0.68–1.14
+PASS soap_basis 特征基正交误差 6.0e-07
+PASS schedule_free_modes eval/train 往返误差 6.0e-08
+PASS mup_init_groups m=4：q std 0.0100，o std 0.0050，嵌入 std 0.0200，lr_mult {'hidden': 0.25, 'embed': 1.0, 'vector': 1.0}
+PASS coord_check {'sp': {'embed': 0.031, 'attn': 1.706, 'ffn': 2.448, 'block': 2.173, 'logits': 0.722}, 'mup': {'embed': 0.018, 'attn': -0.07, 'ffn': -0.169, 'block': -0.08, 'logits': 0.006}}
+/root/a800_venv/lib/python3.12/site-packages/torch/backends/__init__.py:46: UserWarning: Please use the new API settings to control TF32 behavior, such as torch.backends.cudnn.conv.fp32_precision = 'tf32' or torch.backends.cuda.matmul.fp32_precision = 'ieee'. Old settings, e.g, torch.backends.cuda.matmul.allow_tf32 = True, torch.backends.cudnn.allow_tf32 = True, allowTF32CuDNN() and allowTF32CuBLAS() will be deprecated after Pytorch 2.9. Please see https://pytorch.org/docs/main/notes/cuda.html#tensorfloat-32-tf32-on-ampere-and-later-devices (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:80.)
+  self.setter(val)
+PASS end_to_end {'main_bpb': 3.1096, 'cool_bpb': 3.2389, 'arith': 0.0, 'branch_diff': 2.2351741790771484e-08, 'rerun_diff': 0.003196127712726593, 'resume_diff': 0.0002999999999997449, 'max_attn': [1.48, 1.88]}
+PASS plan {'jobs': 148, 'blocks': {'mup': 67, 'scaling': 18, 'data': 7, 'sched': 18, 'opt': 38}, 'gpu_hours_est': 178.4}
+ALL PASS -> /root/autodl-tmp/lab_selftest_gpu_wdrp5c2f/selftest.json

@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来发展趋势[J]. 计算机科学与技术， 2016 (7): 142-325.",
+      "new_tokens": 25,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，带来了许多新的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能的发展，带来了许多新的挑战，包括人工智能的智能化和智能化的挑战。人工智能",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.879
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "和孩子们一起坐上户外活动，想想玩游戏，看看打篮球，看真球，小明和妈妈一起玩，玩了好几个游戏，他第一次玩，小朋友就问小明，小明要玩了，小明开始玩，小明也不敢玩了。小明已经很乖了，而妈妈也觉得不玩了，开始玩了很久，小明又开始玩了，后来小明也经常玩，小明从我开始玩，小明玩得很开心，结果，小明玩了半天，小明也还玩了好几次，小明还闹了，小明又玩了好几次，小明又玩了好多次，小明真的很乖。还有一点小明不喜欢小",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0892
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用过程中产生的光合作用， 简称光合作用。 光合作用 光合作用是指在光合作用过程中，光合作用时产生光合作用， 简称光合作用。 光合作用和光合作用的关系 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合作用 光合",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7452
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用，是光合作用的一种。光合作用是指植物光合作用，是植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指植物光合作用的一种。光合作用是指",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8854
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "蒸汽机、蒸汽机、电热水器、电动空调、汽车空调、计算机、微波炉、气缸、水缸、气缸、热水器、汽车空调、空调、空调、空调、冰箱、空调、空调、浴室、浴室、浴室、浴池、浴池、游泳池等。 然而，在大部分的生产过程中，都会存在蒸汽爆炸、水蒸气爆炸、煤气爆炸、煤气爆炸、电热水器爆炸、电热水器爆炸、水电锅炉爆炸等事故。 因此，尽管古代有很多的发明和发明，但真正流传下来的文献却很少。 3.1 古代奴隶制社会与奴隶制社会 奴隶制社会中，奴隶制社会是奴隶主阶级的财产，奴隶主阶级受奴役",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1274
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "也是长江与黄河的咽喉要道，长江水系分布广泛，素有\"世界江河湖泊\"、\"中国最美水库\"、\"长江大河\"之称。长江是中华文明与文明的发源地，也是中华民族的发源地。 在远古时代，长江流域是中华民族的发祥地，也是华夏文明的发祥地。 春秋战国时期，长江流域是以长江水为水源，注入长江流域的通航线路。后来，随着水能的开发利用，长江流域流域的河流用钢浇注，出现了淡水湖，并逐步演变成\"山清水秀\"的河流。 春秋战国时期，长江流域的水文特征不仅表现在水流形式上的丰富，还体现在水流速度和水位。 战国时期，黄河下游的河床形成，黄河下游的水文特征就",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0255
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要提高自己的才艺 -  - 如何学好语文？ 语文教育是促进人的全面发展，提高人的综合素养，使学生全面发展，促进人的全面发展。语文教育要以培养掌握祖国语言文字和规范的基本功，分析能力，民族文化的基本知识，掌握良好的人格品质，为受教育者提供语文学习的机会，不断提高他们的语文素养。\n语文教育是一个漫长的过程，因为语文教育是一项综合性很强的学科，必须要从整体上掌握和把握，这就要求语文教师必须具备扎实的语文基础知识。语文教学必须要有扎实的语文基础，必须具有扎实的语文基本功，必须具有扎实的语文知识，必须具有深厚的人文底蕴，必须具有扎实的语文基础知识。\n语文教育需要更新教育观念，促进语文教学改革。语文教育需要培养具有强烈的人文关怀",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0573
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "： 在直角三角形中， 当直角三角形（ ) = ( )( ) 。 直角三角形（ ) = ( ) ，在直角三角形中， 当直角三角形（ ) = ( ) ，在直角三角形中， 当直角三角形（ ) = ( ) ，在直角三角形（ ) = ( ) ，在直角三角形（ ) = ( ) ，在直角三角形（ ) = ( ) ，在直角三角形（ ) = ( ) ，在直角三角形（ ) = ( ) ，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7898
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "暑假，一场来自宁德实验校的校园文化活动，不仅在县里或小学进行，在校园内外也有不少活动，如\"李风文明\"\"少年颂\"\"学雷锋\"\"学雷锋\"\"爱眼文化\"\"雷锋网\"\"爱国之星\"\"国旗下的马\",\"学雷锋\"\"飞扬的青年\"\"学雷锋\"\"学雷锋\"\"学雷锋\"等等，都是我们校园开展的校园文化建设。今年暑假，我校还开展了以\"爱国有我\"\"共筑和谐\"为主题的校园文化建设活动。 今年暑假，学校不仅组织学生开展了丰富多彩的校园文化活动，还开展丰富多彩的校园文化艺术活动，在校园里为全省教育事业做出了贡献。 今年暑假，我校将继续通过主题教育活动，如\"文明之家\"\"小",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1083
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fibonacci(n):\n    \"\"\"返回第 n ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8471
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor moves within the fluid and is at its highest level for a given fluid. This measurement is also called “Newton’s law.” It is often used to measure water vapor pressure in fluid and therefore is often used to measure the internal fluid pressure in fluid and therefore is sometimes used to measure the pressure of fluid in fluid and also is sometimes used to measure the pressure of fluid in fluid. This article ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3439
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is formed and how it is formed and how it is formed. The water cycle describes how water is formed and how it is formed. The water cycle describes how water is formed and how it is formed. The water cycle describes how water is formed and how it is formed. The water cycle describes how water is formed and how it is formed. The water cycle describes how water is formed and how it is formed.",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8344
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " wanted to make a living with his love for music and dance. As he went on to become a master artist, he taught him how to make himself as a secret artist and dreamt.\n\nOne day, while working on a project he had just recently started by a scientist at a local store, the idea was to help him make a comfortable shop so he could do it all by his own time. So",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0318
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of the variables by using the fact that the sum of all the variables will equal the sum of the squared is equal to the sum of the squared times the squared is equal to the sum of the squared times the squared. This is to find the values of the variables by using the fact that the sum of all the squared is equal to the sum of the squared is equal to ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6051
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "凉鞋",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "6",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 30 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Earth",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " puppy",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 3",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " NaCl",
+      "answer": " H2O"
+    }
+  ]
+}

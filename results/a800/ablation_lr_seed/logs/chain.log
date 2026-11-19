@@ -1,0 +1,6 @@
+2026-11-18 00:53:04 对照结论：**差异不大：路线 A 优先，v2 留作下一代模型时再换**；种子噪声检验：False；路线 A 中途检查：关闭
+2026-11-18 00:53:05 已清理对照实验 / 第一批消融的 token 数据与缓存（保留报告、tokenizer、对照模型、receipts）
+2026-11-18 00:53:05 路线 A 冒烟测试开始（micro 缩小 1 倍）
+2026-11-18 01:13:55 冒烟测试检查：{"returncode_0": true, "phase_done": true, "final_analysis": true, "midcheck": true, "long_context": true, "ckpt_avg": true, "baseline": true}
+2026-11-18 01:13:55   baseline={'val_loss': 2.2879, 'val_4096': 4.4205} midcheck=2.288 final=2.2879 long_context={'val_4096': 4.3946, 'baseline_val_4096': 4.4205, 'val_1024': 2.2879, 'baseline_val_1024': 2.2879} ckpt_avg={'steps': [3, 5], 'val_avg': 2.2878, 'val_final': 2.2879, 'val_avg_4096': 4.4054, 'val_final_4096': 4.3946, 'better': True}
+2026-11-18 01:13:56 路线 A 已启动：/root/autodl-tmp/a800_cpt_v1

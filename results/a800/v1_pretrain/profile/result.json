@@ -1,0 +1,205 @@
+{
+  "time": "2026-11-15 15:54:29",
+  "minutes": 1.9,
+  "plan": {
+    "micro_batch": 32,
+    "accum": 16,
+    "seq_len": 1024,
+    "precision": "bf16",
+    "compile": true
+  },
+  "tokens_per_step": 524288,
+  "step_seconds": 11.164,
+  "tok_s": 46964,
+  "eager_step_seconds": null,
+  "compile_speedup": null,
+  "eager_note": "不编译时显存不足（OOM）：torch.compile 的算子融合也省下了中间激活的显存",
+  "peak_mem_gb": 62.73,
+  "flops_per_token": 3405250560,
+  "params_layers": 450887680,
+  "params_head": 32768000,
+  "attention_flops_share": 0.1478,
+  "achieved_tflops": 159.9,
+  "mfu": 0.5126,
+  "profiled_wall_s": 11.701,
+  "gpu_kernel_s": 11.041,
+  "gpu_busy": 0.9436,
+  "by_category": {
+    "矩阵乘（GEMM）": {
+      "seconds": 7.11,
+      "share": 0.644
+    },
+    "Triton 融合 kernel": {
+      "seconds": 2.222,
+      "share": 0.2013
+    },
+    "注意力（FlashAttention 等）": {
+      "seconds": 1.603,
+      "share": 0.1452
+    },
+    "其它": {
+      "seconds": 0.087,
+      "share": 0.0079
+    },
+    "优化器": {
+      "seconds": 0.013,
+      "share": 0.0012
+    },
+    "拷贝 / 清零": {
+      "seconds": 0.006,
+      "share": 0.0005
+    }
+  },
+  "top_kernels": [
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_128x128_ldg8_f2f_stages_32x5_tn",
+      "seconds": 1.5453,
+      "share": 0.14,
+      "calls": 2560
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_128x256_ldg8_f2f_stages_64x3_nt",
+      "seconds": 1.1753,
+      "share": 0.1064,
+      "calls": 1280
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_128x128_ldg8_f2f_stages_32x5_nn",
+      "seconds": 1.0924,
+      "share": 0.0989,
+      "calls": 3200
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_128x256_ldg8_f2f_stages_64x3_nn",
+      "seconds": 1.0911,
+      "share": 0.0988,
+      "calls": 1280
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_256x128_ldg8_f2f_stages_64x3_nt",
+      "seconds": 1.0792,
+      "share": 0.0978,
+      "calls": 1936
+    },
+    {
+      "name": "void pytorch_flash::flash_bwd_dq_dk_dv_loop_seqk_parallel_kernel<Flash_bwd_kernel_traits<64, 128, 128, 8, 4, 4, 4, false",
+      "seconds": 1.0122,
+      "share": 0.0917,
+      "calls": 640
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_128x256_ldg8_f2f_stages_64x3_tn",
+      "seconds": 0.861,
+      "share": 0.078,
+      "calls": 1936
+    },
+    {
+      "name": "void pytorch_flash::flash_fwd_kernel<Flash_fwd_kernel_traits<64, 128, 128, 4, false, false, cutlass::bfloat16_t, Flash_k",
+      "seconds": 0.3862,
+      "share": 0.035,
+      "calls": 640
+    },
+    {
+      "name": "triton_poi_fused__unsafe_view_add_fill_mul_sigmoid_silu_sub_view_5",
+      "seconds": 0.3429,
+      "share": 0.0311,
+      "calls": 640
+    },
+    {
+      "name": "triton_per_fused__to_copy__unsafe_view_add_mean_mul_pow_rsqrt_11",
+      "seconds": 0.2889,
+      "share": 0.0262,
+      "calls": 1248
+    },
+    {
+      "name": "triton_per_fused__to_copy_add_div_expand_mul_pow_sum_view_16",
+      "seconds": 0.2374,
+      "share": 0.0215,
+      "calls": 624
+    },
+    {
+      "name": "triton_per_fused__to_copy_add_div_expand_mul_pow_sum_view_7",
+      "seconds": 0.2162,
+      "share": 0.0196,
+      "calls": 624
+    },
+    {
+      "name": "triton_poi_fused__unsafe_view_mul_silu_9",
+      "seconds": 0.2065,
+      "share": 0.0187,
+      "calls": 640
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_256x128_ldg8_f2f_stages_64x3_nn",
+      "seconds": 0.1414,
+      "share": 0.0128,
+      "calls": 16
+    },
+    {
+      "name": "triton_red_fused__to_copy_add_mul_sum_view_15",
+      "seconds": 0.139,
+      "share": 0.0126,
+      "calls": 624
+    },
+    {
+      "name": "void pytorch_flash::flash_bwd_dot_do_o_kernel<true, Flash_bwd_kernel_traits<64, 128, 128, 8, 4, 4, 4, false, false, cutl",
+      "seconds": 0.12,
+      "share": 0.0109,
+      "calls": 640
+    },
+    {
+      "name": "ampere_bf16_s16816gemm_bf16_128x128_ldg8_f2f_stages_64x3_nt",
+      "seconds": 0.1152,
+      "share": 0.0104,
+      "calls": 1280
+    },
+    {
+      "name": "triton_red_fused__to_copy_add_mul_sum_view_6",
+      "seconds": 0.1126,
+      "share": 0.0102,
+      "calls": 624
+    },
+    {
+      "name": "triton_poi_fused__to_copy_add_mul_neg_select_slice_slice_backward_unsqueeze_view_10",
+      "seconds": 0.0856,
+      "share": 0.0077,
+      "calls": 640
+    },
+    {
+      "name": "void pytorch_flash::flash_bwd_convert_dq_kernel<Flash_bwd_kernel_traits<64, 128, 128, 8, 4, 4, 4, false, false, cutlass:",
+      "seconds": 0.0849,
+      "share": 0.0077,
+      "calls": 640
+    },
+    {
+      "name": "triton_poi_fused__to_copy__unsafe_view_add_clone_expand_mul_slice_stack_sub_transpose_unsqueeze_view_4",
+      "seconds": 0.0806,
+      "share": 0.0073,
+      "calls": 640
+    },
+    {
+      "name": "void at::native::vectorized_elementwise_kernel<4, at::native::CUDAFunctor_add<float>, std::array<char*, 3ul> >(int, at::",
+      "seconds": 0.0676,
+      "share": 0.0061,
+      "calls": 5430
+    },
+    {
+      "name": "triton_red_fused__log_softmax__log_softmax_backward_data__to_copy__unsafe_view_add_clone_nll_loss_backward_nll_loss_forw",
+      "seconds": 0.0627,
+      "share": 0.0057,
+      "calls": 16
+    },
+    {
+      "name": "triton_poi_fused__unsafe_view_clone_transpose_view_14",
+      "seconds": 0.0515,
+      "share": 0.0047,
+      "calls": 640
+    },
+    {
+      "name": "triton_poi_fused__to_copy__unsafe_view_add_mul_slice_stack_sub_transpose_unsqueeze_view_3",
+      "seconds": 0.0514,
+      "share": 0.0047,
+      "calls": 640
+    }
+  ]
+}

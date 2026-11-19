@@ -1,0 +1,22 @@
+[2026-11-16 14:30:42] decision -> all (phase): {"phase": "sample"}
+[2026-11-16 14:30:43] decision -> data (directive): {"task": "tokenizer_sample", "files": 20, "chars": 600000000}
+[2026-11-16 14:33:54] data -> decision (report): {"action": "tokenizer_sample_done", "chars": 586932812}
+[2026-11-16 14:33:54] decision -> all (phase): {"phase": "tokenizer"}
+[2026-11-16 14:52:46] data -> decision (report): {"action": "tokenizer_v2", "minutes": 18.9, "vocab": 32000, "examples": {"12345 + 678 = 13023": ["1", "2", "3", "4", "5", "Ġ+", "Ġ", "6", "7", "8", "Ġ=", "Ġ", "1", "3", "0", "2", "3"], "Hello world, this is a test of the tokenizer.": ["Hel", "lo", "Ġworld", ",", "Ġthis", "Ġis", "Ġa", "Ġtest", "Ġof", "Ġthe", "Ġtoken", "izer", "."], "人工智能的发展非常迅速。": ["äººå·¥æĻºèĥ½", "çļĦåıĳå±ķ", "éĿŀå¸¸", "è¿ħéĢŁ", "ãĢĤ"], "def foo(x):\n    return x * 2\n": ["def", "Ġf", "oo", "(x", "):Ċ", "ĠĠĠ", "Ġreturn", "Ġx", "
+[2026-11-16 14:52:52] decision -> all (phase): {"phase": "build"}
+[2026-11-16 14:52:52] decision -> data (directive): {"task": "build", "jobs": 130}
+[2026-11-16 15:37:54] data -> decision (report): {"action": "build_done", "tokens_v1": 2887859914, "tokens_v2": 2448548968, "v2_over_v1": 0.8479}
+[2026-11-16 15:37:54] decision -> all (phase): {"phase": "val"}
+[2026-11-16 15:37:55] evaluator -> decision (report): {"action": "val_docs", "docs": 2313, "roundtrip_checked": 50, "roundtrip_mismatch": 0}
+[2026-11-16 15:37:56] decision -> all (phase): {"phase": "train_v1"}
+[2026-11-16 15:38:01] trainer -> decision (report): {"action": "initialized", "run": "v1", "step": 0, "total_steps": 11016, "tokens": 2887859914, "params": 125264640}
+[2026-11-16 20:26:00] trainer -> decision (report): {"action": "run_done", "run": "v1", "steps": 11016, "tokens": 2887778304, "train_hours": 4.8, "tok_s": 167237, "final_loss": 2.6462}
+[2026-11-16 20:26:00] decision -> all (phase): {"phase": "train_v2"}
+[2026-11-16 20:26:03] trainer -> decision (report): {"action": "initialized", "run": "v2", "step": 0, "total_steps": 9340, "tokens": 2448548968, "params": 125264640}
+[2026-11-17 00:39:02] trainer -> decision (report): {"action": "run_done", "run": "v2", "steps": 9340, "tokens": 2448424960, "train_hours": 4.21, "tok_s": 161401, "final_loss": 3.1583}
+[2026-11-17 00:39:03] decision -> all (phase): {"phase": "eval"}
+[2026-11-17 00:40:39] evaluator -> decision (report): {"action": "eval", "run": "v1", "bpb_weighted": 1.0563, "arith_mean": 0.8912, "rare_tokens": {"zero": 69, "lt100": 268, "lt1000": 806}}
+[2026-11-17 00:42:47] evaluator -> decision (report): {"action": "eval", "run": "v2", "bpb_weighted": 1.0629, "arith_mean": 0.9681, "rare_tokens": {"zero": 17, "lt100": 59, "lt1000": 212}}
+[2026-11-17 00:42:47] decision -> all (phase): {"phase": "report"}
+[2026-11-17 00:42:47] analyst -> decision (report): {"action": "report", "verdict": "**差异不大：路线 A 优先，v2 留作下一代模型时再换**", "bpb_gain": -0.0062, "arith_v1": 0.8912, "arith_v2": 0.9681}
+[2026-11-17 00:42:47] decision -> all (decision): {"decision": "complete", "why": "对照实验完成，报告见 REPORT.md；守护脚本将关机"}

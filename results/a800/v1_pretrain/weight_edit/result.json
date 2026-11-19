@@ -1,0 +1,520 @@
+{
+  "time": "2026-11-15 15:29:49",
+  "minutes": 13.3,
+  "passes_used": 25,
+  "budget": 50,
+  "practice_before": {
+    "loop_rate": 0.3677,
+    "rep4": 0.4256,
+    "distinct2": 0.4616,
+    "eos_rate": 0.0053,
+    "loss": 2.07169
+  },
+  "practice_after": {
+    "loop_rate": 0.3677,
+    "rep4": 0.4256,
+    "distinct2": 0.4616,
+    "eos_rate": 0.0053,
+    "loss": 2.07169
+  },
+  "heldout_before": {
+    "val_loss": 2.2879,
+    "test_loss": 2.2611,
+    "val_by_source": {
+      "zh_cci3": 3.0808,
+      "zh_fwedu": 3.072,
+      "zh_industry": 2.9145,
+      "en_fwedu": 1.651,
+      "en_cosmo": 1.0918,
+      "code": 1.1013,
+      "math": 1.382
+    },
+    "test_by_source": {
+      "zh_cci3": 3.0905,
+      "zh_fwedu": 2.8258,
+      "zh_industry": 3.0122,
+      "en_fwedu": 1.6131,
+      "en_cosmo": 1.0468,
+      "code": 1.1328,
+      "math": 1.3625
+    },
+    "cloze_acc": 0.8947,
+    "cloze_by_cat": {
+      "zh_知识": 0.818,
+      "zh_常识": 1.0,
+      "zh_数学": 0.5,
+      "en_knowledge": 1.0,
+      "en_common": 1.0,
+      "en_math": 1.0,
+      "code": 1.0
+    },
+    "probe_sample_rep4": 0.1396,
+    "probe_greedy_rep4": 0.6481,
+    "heldout_greedy": {
+      "loop_rate": 0.3571,
+      "rep4": 0.4273,
+      "distinct2": 0.4576,
+      "eos_rate": 0.0159
+    },
+    "heldout_sample": {
+      "loop_rate": 0.0238,
+      "rep4": 0.1128,
+      "distinct2": 0.7323,
+      "eos_rate": 0.0397
+    }
+  },
+  "heldout_after": {
+    "val_loss": 2.2879,
+    "test_loss": 2.2611,
+    "val_by_source": {
+      "zh_cci3": 3.0808,
+      "zh_fwedu": 3.072,
+      "zh_industry": 2.9145,
+      "en_fwedu": 1.651,
+      "en_cosmo": 1.0918,
+      "code": 1.1013,
+      "math": 1.382
+    },
+    "test_by_source": {
+      "zh_cci3": 3.0905,
+      "zh_fwedu": 2.8258,
+      "zh_industry": 3.0122,
+      "en_fwedu": 1.6131,
+      "en_cosmo": 1.0468,
+      "code": 1.1328,
+      "math": 1.3625
+    },
+    "cloze_acc": 0.8947,
+    "cloze_by_cat": {
+      "zh_知识": 0.818,
+      "zh_常识": 1.0,
+      "zh_数学": 0.5,
+      "en_knowledge": 1.0,
+      "en_common": 1.0,
+      "en_math": 1.0,
+      "code": 1.0
+    },
+    "probe_sample_rep4": 0.1396,
+    "probe_greedy_rep4": 0.6481,
+    "heldout_greedy": {
+      "loop_rate": 0.3571,
+      "rep4": 0.4273,
+      "distinct2": 0.4576,
+      "eos_rate": 0.0159
+    },
+    "heldout_sample": {
+      "loop_rate": 0.0238,
+      "rep4": 0.1128,
+      "distinct2": 0.7323,
+      "eos_rate": 0.0397
+    }
+  },
+  "edits": [],
+  "weights_changed": 0,
+  "total_weights": 483738624,
+  "candidates": [
+    {
+      "round": 1,
+      "layers": [
+        11
+      ],
+      "columns": 32,
+      "alpha": 1.0,
+      "weights_changed": 32768,
+      "loop_rate": 0.3862,
+      "rep4": 0.4291,
+      "distinct2": 0.4587,
+      "eos_rate": 0.0079,
+      "loss": 2.07171,
+      "loss_ok": true,
+      "pass": 2
+    },
+    {
+      "round": 1,
+      "layers": [
+        11
+      ],
+      "columns": 32,
+      "alpha": 0.5,
+      "weights_changed": 32768,
+      "loop_rate": 0.4021,
+      "rep4": 0.4307,
+      "distinct2": 0.458,
+      "eos_rate": 0.0053,
+      "loss": 2.07166,
+      "loss_ok": true,
+      "pass": 3
+    },
+    {
+      "round": 1,
+      "layers": [
+        11
+      ],
+      "columns": 64,
+      "alpha": 1.0,
+      "weights_changed": 65536,
+      "loop_rate": 0.3783,
+      "rep4": 0.4281,
+      "distinct2": 0.459,
+      "eos_rate": 0.0106,
+      "loss": 2.07163,
+      "loss_ok": true,
+      "pass": 4
+    },
+    {
+      "round": 1,
+      "layers": [
+        11
+      ],
+      "columns": 64,
+      "alpha": 0.5,
+      "weights_changed": 65536,
+      "loop_rate": 0.3783,
+      "rep4": 0.426,
+      "distinct2": 0.4614,
+      "eos_rate": 0.0053,
+      "loss": 2.07163,
+      "loss_ok": true,
+      "pass": 5
+    },
+    {
+      "round": 1,
+      "layers": [
+        11
+      ],
+      "columns": 128,
+      "alpha": 1.0,
+      "weights_changed": 131072,
+      "loop_rate": 0.3783,
+      "rep4": 0.4258,
+      "distinct2": 0.4618,
+      "eos_rate": 0.0053,
+      "loss": 2.07166,
+      "loss_ok": true,
+      "pass": 6
+    },
+    {
+      "round": 1,
+      "layers": [
+        11
+      ],
+      "columns": 128,
+      "alpha": 0.5,
+      "weights_changed": 131072,
+      "loop_rate": 0.3783,
+      "rep4": 0.4262,
+      "distinct2": 0.4617,
+      "eos_rate": 0.0079,
+      "loss": 2.07164,
+      "loss_ok": true,
+      "pass": 7
+    },
+    {
+      "round": 1,
+      "layers": [
+        12
+      ],
+      "columns": 32,
+      "alpha": 1.0,
+      "weights_changed": 32768,
+      "loop_rate": 0.3889,
+      "rep4": 0.4284,
+      "distinct2": 0.4614,
+      "eos_rate": 0.0106,
+      "loss": 2.07174,
+      "loss_ok": true,
+      "pass": 8
+    },
+    {
+      "round": 1,
+      "layers": [
+        12
+      ],
+      "columns": 32,
+      "alpha": 0.5,
+      "weights_changed": 32768,
+      "loop_rate": 0.373,
+      "rep4": 0.4235,
+      "distinct2": 0.4639,
+      "eos_rate": 0.0053,
+      "loss": 2.07165,
+      "loss_ok": true,
+      "pass": 9
+    },
+    {
+      "round": 1,
+      "layers": [
+        12
+      ],
+      "columns": 64,
+      "alpha": 1.0,
+      "weights_changed": 65536,
+      "loop_rate": 0.3677,
+      "rep4": 0.4253,
+      "distinct2": 0.4612,
+      "eos_rate": 0.0106,
+      "loss": 2.07162,
+      "loss_ok": true,
+      "pass": 10
+    },
+    {
+      "round": 1,
+      "layers": [
+        12
+      ],
+      "columns": 64,
+      "alpha": 0.5,
+      "weights_changed": 65536,
+      "loop_rate": 0.3783,
+      "rep4": 0.4217,
+      "distinct2": 0.4658,
+      "eos_rate": 0.0079,
+      "loss": 2.07179,
+      "loss_ok": true,
+      "pass": 11
+    },
+    {
+      "round": 1,
+      "layers": [
+        12
+      ],
+      "columns": 128,
+      "alpha": 1.0,
+      "weights_changed": 131072,
+      "loop_rate": 0.3757,
+      "rep4": 0.4226,
+      "distinct2": 0.4617,
+      "eos_rate": 0.0079,
+      "loss": 2.07171,
+      "loss_ok": true,
+      "pass": 12
+    },
+    {
+      "round": 1,
+      "layers": [
+        12
+      ],
+      "columns": 128,
+      "alpha": 0.5,
+      "weights_changed": 131072,
+      "loop_rate": 0.3942,
+      "rep4": 0.4323,
+      "distinct2": 0.4577,
+      "eos_rate": 0.0079,
+      "loss": 2.07164,
+      "loss_ok": true,
+      "pass": 13
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12
+      ],
+      "columns": 32,
+      "alpha": 1.0,
+      "weights_changed": 65536,
+      "loop_rate": 0.3704,
+      "rep4": 0.4235,
+      "distinct2": 0.4603,
+      "eos_rate": 0.0106,
+      "loss": 2.07177,
+      "loss_ok": true,
+      "pass": 14
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12
+      ],
+      "columns": 32,
+      "alpha": 0.5,
+      "weights_changed": 65536,
+      "loop_rate": 0.3836,
+      "rep4": 0.426,
+      "distinct2": 0.4608,
+      "eos_rate": 0.0079,
+      "loss": 2.0717,
+      "loss_ok": true,
+      "pass": 15
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12
+      ],
+      "columns": 64,
+      "alpha": 1.0,
+      "weights_changed": 131072,
+      "loop_rate": 0.3519,
+      "rep4": 0.4212,
+      "distinct2": 0.4625,
+      "eos_rate": 0.0079,
+      "loss": 2.07176,
+      "loss_ok": true,
+      "pass": 16
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12
+      ],
+      "columns": 64,
+      "alpha": 0.5,
+      "weights_changed": 131072,
+      "loop_rate": 0.3677,
+      "rep4": 0.4203,
+      "distinct2": 0.4658,
+      "eos_rate": 0.0079,
+      "loss": 2.0717,
+      "loss_ok": true,
+      "pass": 17
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12
+      ],
+      "columns": 128,
+      "alpha": 1.0,
+      "weights_changed": 262144,
+      "loop_rate": 0.3598,
+      "rep4": 0.4252,
+      "distinct2": 0.459,
+      "eos_rate": 0.0079,
+      "loss": 2.07173,
+      "loss_ok": true,
+      "pass": 18
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12
+      ],
+      "columns": 128,
+      "alpha": 0.5,
+      "weights_changed": 262144,
+      "loop_rate": 0.3836,
+      "rep4": 0.4274,
+      "distinct2": 0.4602,
+      "eos_rate": 0.0053,
+      "loss": 2.07169,
+      "loss_ok": true,
+      "pass": 19
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12,
+        15
+      ],
+      "columns": 32,
+      "alpha": 1.0,
+      "weights_changed": 98304,
+      "loop_rate": 0.3836,
+      "rep4": 0.4264,
+      "distinct2": 0.4602,
+      "eos_rate": 0.0079,
+      "loss": 2.07187,
+      "loss_ok": true,
+      "pass": 20
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12,
+        15
+      ],
+      "columns": 32,
+      "alpha": 0.5,
+      "weights_changed": 98304,
+      "loop_rate": 0.3889,
+      "rep4": 0.4302,
+      "distinct2": 0.4582,
+      "eos_rate": 0.0106,
+      "loss": 2.07172,
+      "loss_ok": true,
+      "pass": 21
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12,
+        15
+      ],
+      "columns": 64,
+      "alpha": 1.0,
+      "weights_changed": 196608,
+      "loop_rate": 0.3571,
+      "rep4": 0.4237,
+      "distinct2": 0.4612,
+      "eos_rate": 0.0079,
+      "loss": 2.07182,
+      "loss_ok": true,
+      "pass": 22
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12,
+        15
+      ],
+      "columns": 64,
+      "alpha": 0.5,
+      "weights_changed": 196608,
+      "loop_rate": 0.3968,
+      "rep4": 0.428,
+      "distinct2": 0.4604,
+      "eos_rate": 0.0079,
+      "loss": 2.07164,
+      "loss_ok": true,
+      "pass": 23
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12,
+        15
+      ],
+      "columns": 128,
+      "alpha": 1.0,
+      "weights_changed": 393216,
+      "loop_rate": 0.3783,
+      "rep4": 0.4286,
+      "distinct2": 0.4565,
+      "eos_rate": 0.0079,
+      "loss": 2.07184,
+      "loss_ok": true,
+      "pass": 24
+    },
+    {
+      "round": 1,
+      "layers": [
+        11,
+        12,
+        15
+      ],
+      "columns": 128,
+      "alpha": 0.5,
+      "weights_changed": 393216,
+      "loop_rate": 0.381,
+      "rep4": 0.4276,
+      "distinct2": 0.4589,
+      "eos_rate": 0.0079,
+      "loss": 2.07167,
+      "loss_ok": true,
+      "pass": 25
+    }
+  ],
+  "verdict": "no_edit"
+}

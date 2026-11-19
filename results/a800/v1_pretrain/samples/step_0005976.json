@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来\n人工智能是对人类智能的极大发展和提升。人工智能是研究、开发、应用和改造计算机科学（包括工程学、通信学、控制科学、计算机科学、心理学等）的学科。人工智能对发展人类社会具有重大意义。人工智能为人类带来了许多的便利，促进了社会发展。因此，人工智能在当今社会具有重要的意义。\n人工智能的发展是当今社会与未来的必然。人工智能的应用领域非常广泛，包括金融、商业、管理等领域。人工智能的应用领域非常广泛，包括医疗、农业、金融、电信、医疗诊断等领域。人工智能的发展将推动人类社会的变革。人工智能将为我们带来更多的发展机遇和机会，同时也为人类的健康和可持续发展带来更多的挑战。\n人工智能的发展是当今社会与未来的必然。人工智能的发展将推动人类社会的变革。人工智能",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1338
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，人工智能的快速发展，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用，人工智能的广泛应用",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.949
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明家屋正旺旺的，小明把小明叫到了花园里，小明妈妈在花园里看到小明在花园里玩耍，他惊呆了，就问小明：\"你在哪里呢？\"小明问：\"小明，那为什么是花园呢？\"小明回答说：\"花园是小明爸爸的花园，爸爸是小明最疼爱的女儿，而小明则是小明最疼爱的妹妹。小明看了看花园里的花，问道：\"你怎么这么有才智，这么爱画画？\"小明妈妈就问：\"你怎么这么有才智，这么爱画画？\"小明妈妈说：\"你也是小明最疼爱的妹妹。\"小明妈妈听了就皱了皱眉。原来是小明和妹妹",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1083
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用的实质，即植物光合作用的实质是光合作用。\n植物光合作用的特点是：\n1．光合作用的过程是光从植物体内输送到植物体的全部过程，因而要经历从光到物质的输运过程，经过光合作用才能使光从植物体内输送到植物体内。植物光合作用的实质是光从植物体内输送到植物体的过程。\n2．光合作用的过程是植物体内物质进行光合作用的总过程，同时，光合作用是植物体内物质进行光合作用的途径。\n3．光合作用的过程是植物体内物质进行光合作用的途径，同时，光合作用是植物体内物质进行光合作用的途径。\n4．光合作用的过程是植物体内物质",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3376
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用光能，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳转化为有机物，并放出氧气，将二氧化碳",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9108
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "火药、造纸、指南针、印刷术、指南针网。\n丝绸之路是中国古代“丝绸之路”向西、向东延伸的路线。这条路线是由古代中国向西往来的路线，起始于西汉时期，西行到中亚、西亚、北非地区。古丝绸之路主要是指由中国向东，经中亚、西亚，经中亚、西亚的陆上丝绸之路。这条路线是古代中国向西往来的路线，起始于隋朝时期，西行到中亚、西亚，经中亚、西亚，再向东行到欧洲，甚至到印度。\n丝绸之路是中国古代“丝绸之路”向西、向东延伸的路线。这条路线是由古代中国向西往来的路线，起始于隋朝时期，西行到中亚、西亚，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3885
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它支流虽然不长，但它的长度却超过了五大湖，是名副其实的\"天府之国\"。长江又分为许多支流，据说是\"南水北调，北流注江\"，如长江、淮河、扬子江、嘉陵江、汀江、嘉陵江等。由于长江的水文地质条件复杂，如果现在把长江水位涨落涨落也看成是一个水位变化的过程，那么，长江水位涨落涨落就是长江的\"水位曲线\"。因此，只要是涨落涨落，水位变化就十分频繁，涨落涨落并不是水位变化的必然，而是水位涨落涨落的结果。 二 江水涨落涨落的原因 江水涨落",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0892
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要付出长期的努力， 才能真正地学习， 要学英语， 必须先学这门语言， 而学习一门语言的最基本要求就是\"学\"。 学外语也是学习一门语言最根本的要求， 当然也是最重要的， 也是最根本的， 学外语并不是要你死学英语， 而是要你死学外语， 因为只有学了外语， 你才能更好的学习英语。 那么怎样才能学好外语呢？ 1、 学好外语一定要对英语有一个正确的认识。 学习外语就是要学会学习。 学习外语就是要会学习。 会学习就是会用。 在学习外语的过程中， 你会发现， 当你学外语的时候， 你就会发现， 学习外语的过程， 其实是学英语的过程。 学习英语",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0191
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "： 与直角三角形有类似性质的两个直角三角形（ ) 如果两条直角边相等，那么两边的和 是等腰直角三角形，则 是等腰直角三角形。 如果两条直角边相等，那么两边的和 是等腰直角三角形，则 是等腰直角三角形。 ⑴如图，锐角三角形 的顶点， ∠ A = ∠ B = ∠ C = ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.5096
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "我市将着力开展\"减负\"工作，深入实施\"减负\"行动。全市小学家庭作业总量减少了40%，其中，低年级课业负担减轻25%，作业量减少15%，作业时间减少10%，作业量减少50%，作业内容减少50%，作业量减少50%，作业次数减少50%，作业时间减少10%.同时，对家庭作业进行规范，将小学生家庭作业纳入学校德育常规，鼓励学生养成阅读，作文，书法，绘画等良好的习惯。",
+      "new_tokens": 103,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.1
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "def fib_fib(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fib_fib_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fib_fib_prime_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fib_fib_prime_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fib_fib_prime_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\ndef fib_fib_prime_prime_prime(n):\n    \"\"\"返回第 ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7834
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "def fib(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return n % 2\n\n\ndef fib_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return n % 2\n\n\ndef fib_prime_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return n % 2\n\n\ndef fib_prime_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return n % 2\n\n\ndef fib_prime_prime(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return n ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.758
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves from the ground to the ocean. This changes the way the water moves from the ground to the ocean.\nThere are two types of river channels in the water cycle: the River Aquifer and the River Bird. The river and the river channel are both large estuary that flows out of the surrounding water.\nThe River Aquifer has a very strong source of drinking water to flow from the river. It is",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1656
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is transported from the Earth to the surface of the Earth. The water cycle is a process that involves the movement of water from the surface of the Earth to the surface of the Earth. The water cycle is a process that involves the movement of water from the surface of the Earth to the surface of the Earth. The water cycle is a process that involves the movement of water from the surface of the Earth to",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7006
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived near a big tree with lots of different kinds of animals like giraffes, rabbits, and fish. The rabbit was very excited and loved to play together. But this made a big mess - the rabbit needed to be friendly and help each other out.\n\nThe rabbit was a kind of big child, like a big cat or a dog. Sometimes, rabbits would get scared while talking and want to play",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0701
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of x that make this equation true. To do this, we multiply both sides of the equation by 2 to get x + 3, which is the value we found for x = -3. We then substitute in the value of x to find the values of x that make this equation true. Once we have a value of x that makes this equation true, we can plug this value into",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2229
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "200摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 30 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Earth",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " puppy",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " the gym",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 300",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " NaCl",
+      "answer": " H2O"
+    }
+  ]
+}

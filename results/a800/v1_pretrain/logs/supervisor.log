@@ -1,0 +1,82 @@
+2026-11-02 23:19:05 启动 loop（累计失败 0 次）
+2026-11-02 23:29:05 loop 退出，退出码 143
+2026-11-02 23:31:05 启动 loop（累计失败 1 次）
+2026-11-03 10:50:01 loop 退出，退出码 75
+2026-11-03 10:50:06 启动 loop（累计失败 1 次）
+2026-11-04 22:03:53 loop 退出，退出码 75
+2026-11-04 22:03:58 启动 loop（累计失败 1 次）
+2026-11-05 10:00:54 loop 退出，退出码 75
+2026-11-05 10:00:59 启动 loop（累计失败 1 次）
+2026-11-05 10:34:59 loop 退出，退出码 75
+2026-11-05 10:35:04 启动 loop（累计失败 1 次）
+2026-11-14 16:08:00 启动 loop（累计失败 0 次）
+2026-11-14 16:09:00 loop 退出，退出码 1
+2026-11-14 16:11:00 启动 loop（累计失败 1 次）
+2026-11-14 16:12:00 loop 退出，退出码 1
+2026-11-14 16:13:25 启动 loop（累计失败 0 次）
+2026-11-14 16:20:12 启动 loop（累计失败 0 次）
+2026-11-15 15:55:08 loop 退出，退出码 0
+{
+  "running": false,
+  "phase": "done",
+  "started": "2026-11-02 23:19:05",
+  "heartbeat_age_s": 39,
+  "phase_hours": {
+    "selftest": 0.002,
+    "benchmark": 0.034,
+    "sample": 0.065,
+    "compile_check": 0.137,
+    "tokenizer": 0.356,
+    "fast_tokenizer": 0.07,
+    "build_data": 1.423,
+    "plan": 0.0,
+    "train": 22.94,
+    "final_eval": 0.047,
+    "weight_edit": 0.222,
+    "passk_probe": 0.379,
+    "token_probe": 0.001,
+    "profile": 0.031,
+    "analysis": 0.0
+  },
+  "plan": {
+    "name": "d1024_l40",
+    "params": 483738624,
+    "total_steps": 47683,
+    "planned_tokens": 24999624704,
+    "micro_batch": 32,
+    "accum": 16
+  },
+  "step": 47683,
+  "tokens_B": 25.0,
+  "tok_s": 46387,
+  "train_loss": 2.1448,
+  "last_eval": {
+    "step": 47683,
+    "val_loss": 2.2879,
+    "cloze_acc": 0.8947,
+    "sample_rep4": 0.1396
+  },
+  "best_val": {
+    "val_loss": 2.2879,
+    "step": 47683
+  },
+  "last_error": "AssertionError: duplicate template name",
+  "stop_file": false,
+  "failed": false
+}
+2026-11-15 15:29:49 decision->all [decision] {"decision": "weight_edit_done", "why": "参数空间编辑实验完成（no_edit）：改动 0 个权重；测试集续写贪心复读率 0.3571→0.3571，测试 loss 2.2611→2.2611，选择题 89%→89%。报告：/root/autodl-tmp/a800_pretrain_v1/weight_edit/REPORT.md"}
+2026-11-15 15:29:49 decision->all [phase] {"phase": "passk_probe"}
+2026-11-15 15:29:49 decision->passk_probe [directive] {"task": "passk_probe", "n": 16}
+2026-11-15 15:29:51 passk_probe->decision [progress] {"action": "start", "tasks": ["两位数加减", "三位数加减", "两位数×一位数", "一元一次方程", "比较大小", "中文应用题", "英文应用题", "GSM8K（3-shot 思维链）"], "n": 16}
+2026-11-15 15:52:33 decision->all [decision] {"decision": "passk_done", "why": "pass@k 能力探测完成（22.7 分钟）：适合直接 RLVR 的任务 ['一元一次方程', '比较大小', '中文应用题', '英文应用题']；详见 /root/autodl-tmp/a800_pretrain_v1/passk/REPORT.md"}
+2026-11-15 15:52:33 decision->all [phase] {"phase": "token_probe"}
+2026-11-15 15:52:33 decision->token_probe [directive] {"task": "token_probe"}
+2026-11-15 15:52:33 token_probe->decision [progress] {"action": "start"}
+2026-11-15 15:52:38 decision->all [decision] {"decision": "token_probe_done", "why": "token 探测完成（0.1 分钟）：用真实频次检验：范数 AUC 0.9971，方向指标 AUC 1.0（≥0.8 说明权重本身就能认出罕见 token）；复述成功率：最可疑组 0%，高频组 89%；欠训练 token 明显；GSM8K 13-gram 强重叠 题目 0.003、答案 0.0；详见 /root/autodl-tmp/a800_pretrain_v1/token_probe/RE
+2026-11-15 15:52:38 decision->all [phase] {"phase": "profile"}
+2026-11-15 15:52:38 decision->profiler [directive] {"task": "profile"}
+2026-11-15 15:54:29 decision->all [decision] {"decision": "profile_done", "why": "profiler 完成：每步 11.164 s，46,964 tok/s，MFU 51.3%，GPU 忙碌 94%；详见 /root/autodl-tmp/a800_pretrain_v1/profile/REPORT.md"}
+2026-11-15 15:54:29 decision->all [phase] {"phase": "analysis"}
+2026-11-15 15:54:30 analyst->decision [report] {"action": "final_analysis", "final_val": 2.2879, "test_loss": 2.2611, "decay_gain": 0.1148, "next_steps": ["恒定学习率阶段末期每 1B token 验证 loss 只变化 -0.0065，数据已重复约 2.2 遍：同一份数据继续加训收益很低；若继续预训练，应先扩充唯一数据（尤其是中文和数学），而不是加步数。", "衰减阶段带来 0.1148 的下降，明显大于恒定阶段末
+2026-11-15 15:54:30 decision->all [decision] {"decision": "analysis_done", "why": "结果分析完成：最终验证 loss 2.2879，测试 loss 2.2611；下一步建议 5 条，详见 /root/autodl-tmp/a800_pretrain_v1/analysis/FINAL_ANALYSIS.md；守护脚本将在 2 分钟后关机"}
+2026-11-15 15:55:08 结束（done），2 分钟后关机

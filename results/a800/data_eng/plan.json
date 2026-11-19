@@ -1,0 +1,156 @@
+{
+ "zh_cci3": {
+  "0": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  },
+  "1": {
+   "files": 13,
+   "gb": 13.77,
+   "est_tokens_B": 2.92
+  },
+  "2": {
+   "files": 4,
+   "gb": 4.22,
+   "est_tokens_B": 0.9
+  },
+  "3": {
+   "files": 1,
+   "gb": 1.2,
+   "est_tokens_B": 0.25
+  }
+ },
+ "zh_fwedu": {
+  "0": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  },
+  "1": {
+   "files": 431,
+   "gb": 4.24,
+   "est_tokens_B": 1.4
+  },
+  "2": {
+   "files": 141,
+   "gb": 2.75,
+   "est_tokens_B": 0.91
+  },
+  "3": {
+   "files": 71,
+   "gb": 0.65,
+   "est_tokens_B": 0.22
+  }
+ },
+ "zh_industry": {
+  "0": {
+   "files": 7,
+   "gb": 7.68,
+   "est_tokens_B": 1.66
+  },
+  "1": {
+   "files": 6,
+   "gb": 6.47,
+   "est_tokens_B": 1.4
+  },
+  "2": {
+   "files": 2,
+   "gb": 2.2,
+   "est_tokens_B": 0.48
+  },
+  "3": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  }
+ },
+ "en_fwedu": {
+  "0": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  },
+  "1": {
+   "files": 2,
+   "gb": 4.79,
+   "est_tokens_B": 2.36
+  },
+  "2": {
+   "files": 1,
+   "gb": 2.39,
+   "est_tokens_B": 1.18
+  },
+  "3": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  }
+ },
+ "en_cosmo": {
+  "0": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  },
+  "1": {
+   "files": 3,
+   "gb": 3.53,
+   "est_tokens_B": 0.89
+  },
+  "2": {
+   "files": 3,
+   "gb": 3.53,
+   "est_tokens_B": 0.89
+  },
+  "3": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  }
+ },
+ "code": {
+  "0": {
+   "files": 0,
+   "gb": 0.0,
+   "est_tokens_B": 0.0
+  },
+  "1": {
+   "files": 7,
+   "gb": 2.55,
+   "est_tokens_B": 1.32
+  },
+  "2": {
+   "files": 4,
+   "gb": 1.54,
+   "est_tokens_B": 0.79
+  },
+  "3": {
+   "files": 1,
+   "gb": 0.35,
+   "est_tokens_B": 0.18
+  }
+ },
+ "math": {
+  "0": {
+   "files": 6,
+   "gb": 1.72,
+   "est_tokens_B": 1.03
+  },
+  "1": {
+   "files": 5,
+   "gb": 1.44,
+   "est_tokens_B": 0.86
+  },
+  "2": {
+   "files": 5,
+   "gb": 1.43,
+   "est_tokens_B": 0.85
+  },
+  "3": {
+   "files": 2,
+   "gb": 0.57,
+   "est_tokens_B": 0.34
+  }
+ }
+}

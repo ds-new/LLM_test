@@ -1,0 +1,1104 @@
+{
+  "time": "2026-11-15 15:52:36",
+  "minutes": 0.1,
+  "config": {
+    "enabled": true,
+    "ngram": 13,
+    "chunk_tokens": 67108864,
+    "repeat_samples": 100,
+    "suspicious_top": 50,
+    "batch": 256
+  },
+  "freq": {
+    "total_tokens": 12835208371,
+    "vocab_non_special": 31996,
+    "zero": 21,
+    "lt100": 113,
+    "lt1000": 354,
+    "tokens_to_cover": {
+      "50%": 441,
+      "90%": 11264,
+      "99%": 26309
+    },
+    "zipf_slope_rank10_10000": -0.897,
+    "buckets": {
+      "0 次": 21,
+      "1–99": 92,
+      "100–999": 241,
+      "1千–1万": 887,
+      "1万–10万": 16185,
+      "10万–100万": 12943,
+      "≥100万": 1627
+    }
+  },
+  "tokens_seen": 24999624704,
+  "train_unique_tokens": 12853991421,
+  "epochs_equiv": 1.945,
+  "embedding": {
+    "d": 1024,
+    "init_norm_expected": 0.64,
+    "decay_factor": 0.1798,
+    "never_updated_norm_expected": 0.1151,
+    "reference": "训练数据中出现 0 次的 21 个 token",
+    "spearman_logcount_norm": -0.3419,
+    "spearman_logcount_indicator": 0.2296,
+    "auc_rare_low_norm": 0.9971,
+    "auc_rare_high_indicator": 1.0,
+    "rare_tokens(<100)": 113,
+    "common_tokens(>=1000)": 31642,
+    "buckets": [
+      {
+        "bucket": "0 次",
+        "tokens": 21,
+        "norm_median": 0.7616,
+        "norm_p10": 0.7609,
+        "norm_p90": 0.7622,
+        "indicator_median": 0.9943
+      },
+      {
+        "bucket": "1–99",
+        "tokens": 92,
+        "norm_median": 0.784,
+        "norm_p10": 0.763,
+        "norm_p90": 0.9153,
+        "indicator_median": 0.8967
+      },
+      {
+        "bucket": "100–999",
+        "tokens": 241,
+        "norm_median": 1.0754,
+        "norm_p10": 0.912,
+        "norm_p90": 1.2327,
+        "indicator_median": 0.3266
+      },
+      {
+        "bucket": "1千–1万",
+        "tokens": 887,
+        "norm_median": 1.2502,
+        "norm_p10": 1.1621,
+        "norm_p90": 1.354,
+        "indicator_median": 0.0028
+      },
+      {
+        "bucket": "1万–10万",
+        "tokens": 16185,
+        "norm_median": 1.1338,
+        "norm_p10": 1.0454,
+        "norm_p90": 1.2314,
+        "indicator_median": -0.0144
+      },
+      {
+        "bucket": "10万–100万",
+        "tokens": 12943,
+        "norm_median": 1.0946,
+        "norm_p10": 1.002,
+        "norm_p90": 1.1912,
+        "indicator_median": 0.0126
+      },
+      {
+        "bucket": "≥100万",
+        "tokens": 1627,
+        "norm_median": 1.0804,
+        "norm_p10": 0.9692,
+        "norm_p90": 1.1757,
+        "indicator_median": 0.0185
+      }
+    ]
+  },
+  "suspicious": [
+    {
+      "id": 4,
+      "text": "",
+      "count": 0,
+      "norm": 0.7616,
+      "indicator": 0.9952
+    },
+    {
+      "id": 14788,
+      "text": "�尬",
+      "count": 0,
+      "norm": 0.7612,
+      "indicator": 0.9947
+    },
+    {
+      "id": 258,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7618,
+      "indicator": 0.9947
+    },
+    {
+      "id": 251,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7615,
+      "indicator": 0.9946
+    },
+    {
+      "id": 19867,
+      "text": "竞技叠杯运动",
+      "count": 0,
+      "norm": 0.7608,
+      "indicator": 0.9945
+    },
+    {
+      "id": 197,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7625,
+      "indicator": 0.9945
+    },
+    {
+      "id": 250,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7611,
+      "indicator": 0.9945
+    },
+    {
+      "id": 252,
+      "text": "�",
+      "count": 0,
+      "norm": 0.761,
+      "indicator": 0.9945
+    },
+    {
+      "id": 257,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7616,
+      "indicator": 0.9945
+    },
+    {
+      "id": 29859,
+      "text": "叠杯法",
+      "count": 0,
+      "norm": 0.7618,
+      "indicator": 0.9943
+    },
+    {
+      "id": 5,
+      "text": "\u0000",
+      "count": 0,
+      "norm": 0.7621,
+      "indicator": 0.9943
+    },
+    {
+      "id": 256,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7608,
+      "indicator": 0.9943
+    },
+    {
+      "id": 18,
+      "text": "\r",
+      "count": 0,
+      "norm": 0.7615,
+      "indicator": 0.9942
+    },
+    {
+      "id": 29422,
+      "text": "帮扶项目资产",
+      "count": 0,
+      "norm": 0.7621,
+      "indicator": 0.9942
+    },
+    {
+      "id": 22277,
+      "text": "ptFont",
+      "count": 0,
+      "norm": 0.7622,
+      "indicator": 0.9942
+    },
+    {
+      "id": 254,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7617,
+      "indicator": 0.9942
+    },
+    {
+      "id": 253,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7626,
+      "indicator": 0.9942
+    },
+    {
+      "id": 260,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7611,
+      "indicator": 0.9942
+    },
+    {
+      "id": 255,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7609,
+      "indicator": 0.9941
+    },
+    {
+      "id": 259,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7621,
+      "indicator": 0.9941
+    },
+    {
+      "id": 198,
+      "text": "�",
+      "count": 0,
+      "norm": 0.7622,
+      "indicator": 0.994
+    },
+    {
+      "id": 24530,
+      "text": "�徊",
+      "count": 2,
+      "norm": 0.7611,
+      "indicator": 0.9903
+    },
+    {
+      "id": 29904,
+      "text": "Tuscaloos",
+      "count": 1,
+      "norm": 0.7622,
+      "indicator": 0.9885
+    },
+    {
+      "id": 25872,
+      "text": "张文进制",
+      "count": 22,
+      "norm": 0.7632,
+      "indicator": 0.9864
+    },
+    {
+      "id": 26440,
+      "text": "被告马美华",
+      "count": 56,
+      "norm": 0.759,
+      "indicator": 0.986
+    },
+    {
+      "id": 30833,
+      "text": "短篇集第",
+      "count": 2,
+      "norm": 0.7657,
+      "indicator": 0.9805
+    },
+    {
+      "id": 21006,
+      "text": "格涅兹",
+      "count": 3,
+      "norm": 0.7681,
+      "indicator": 0.979
+    },
+    {
+      "id": 25471,
+      "text": "肖中根",
+      "count": 12,
+      "norm": 0.7654,
+      "indicator": 0.9753
+    },
+    {
+      "id": 30817,
+      "text": "brotherNode",
+      "count": 46,
+      "norm": 0.762,
+      "indicator": 0.9751
+    },
+    {
+      "id": 23182,
+      "text": "马美华",
+      "count": 13,
+      "norm": 0.764,
+      "indicator": 0.9736
+    },
+    {
+      "id": 31307,
+      "text": "吊干杏",
+      "count": 10,
+      "norm": 0.7623,
+      "indicator": 0.9727
+    },
+    {
+      "id": 23577,
+      "text": "杨荆石",
+      "count": 66,
+      "norm": 0.7693,
+      "indicator": 0.9713
+    },
+    {
+      "id": 27705,
+      "text": "EnterpriseNumber",
+      "count": 8,
+      "norm": 0.7562,
+      "indicator": 0.9696
+    },
+    {
+      "id": 29289,
+      "text": "原告肖中根",
+      "count": 49,
+      "norm": 0.7669,
+      "indicator": 0.9679
+    },
+    {
+      "id": 31873,
+      "text": "黄三枝",
+      "count": 44,
+      "norm": 0.763,
+      "indicator": 0.9671
+    },
+    {
+      "id": 23080,
+      "text": "百利原",
+      "count": 12,
+      "norm": 0.7646,
+      "indicator": 0.9661
+    },
+    {
+      "id": 30733,
+      "text": "BeEnterpriseNumber",
+      "count": 46,
+      "norm": 0.7645,
+      "indicator": 0.966
+    },
+    {
+      "id": 246,
+      "text": "�",
+      "count": 46,
+      "norm": 0.7591,
+      "indicator": 0.9655
+    },
+    {
+      "id": 30187,
+      "text": "田溥",
+      "count": 10,
+      "norm": 0.771,
+      "indicator": 0.9644
+    },
+    {
+      "id": 26927,
+      "text": "boletoDados",
+      "count": 55,
+      "norm": 0.7687,
+      "indicator": 0.9637
+    }
+  ],
+  "repeat": {
+    "指标最可疑的 50 个": {
+      "n": 50,
+      "ok_rate": 0.0,
+      "examples": [
+        {
+          "id": 4,
+          "text": "",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 14788,
+          "text": "�尬",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 258,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 251,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 19867,
+          "text": "竞技叠杯运动",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 197,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 250,
+          "text": "�",
+          "output": "张佩纶\n原文",
+          "ok": false
+        },
+        {
+          "id": 252,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        }
+      ]
+    },
+    "出现 0 次": {
+      "n": 21,
+      "ok_rate": 0.0,
+      "examples": [
+        {
+          "id": 4,
+          "text": "",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 5,
+          "text": "\u0000",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 18,
+          "text": "\r",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 197,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 198,
+          "text": "�",
+          "output": "张佩纶\n原文",
+          "ok": false
+        },
+        {
+          "id": 250,
+          "text": "�",
+          "output": "张佩纶\n原文",
+          "ok": false
+        },
+        {
+          "id": 251,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        },
+        {
+          "id": 252,
+          "text": "�",
+          "output": "SOFTWARE",
+          "ok": false
+        }
+      ]
+    },
+    "1–99 次": {
+      "n": 92,
+      "ok_rate": 0.1087,
+      "examples": [
+        {
+          "id": 16,
+          "text": "\u000b",
+          "output": "寅\n原文",
+          "ok": false
+        },
+        {
+          "id": 246,
+          "text": "�",
+          "output": "�",
+          "ok": false
+        },
+        {
+          "id": 247,
+          "text": "�",
+          "output": "�",
+          "ok": false
+        },
+        {
+          "id": 6472,
+          "text": "urther",
+          "output": "ream\n原文",
+          "ok": false
+        },
+        {
+          "id": 12795,
+          "text": "�芦",
+          "output": "�",
+          "ok": false
+        },
+        {
+          "id": 14680,
+          "text": "竞技叠杯",
+          "output": "SOFT\n",
+          "ok": false
+        },
+        {
+          "id": 15030,
+          "text": "riculum",
+          "output": "curriculum\n原文",
+          "ok": false
+        },
+        {
+          "id": 16214,
+          "text": "蒂冈",
+          "output": "�",
+          "ok": false
+        },
+        {
+          "id": 14402,
+          "text": "industr",
+          "output": "industries\n",
+          "ok": true
+        },
+        {
+          "id": 24837,
+          "text": "Irel",
+          "output": "Ireland\n原文",
+          "ok": true
+        },
+        {
+          "id": 25297,
+          "text": "收杯",
+          "output": "收杯\n原文",
+          "ok": true
+        }
+      ]
+    },
+    "1千–1万次": {
+      "n": 100,
+      "ok_rate": 0.89,
+      "examples": [
+        {
+          "id": 19168,
+          "text": "ginx",
+          "output": "nginx\n原文",
+          "ok": false
+        },
+        {
+          "id": 22694,
+          "text": "初为",
+          "output": "初\n原文",
+          "ok": false
+        },
+        {
+          "id": 22866,
+          "text": "实实在",
+          "output": "实在\n原文",
+          "ok": false
+        },
+        {
+          "id": 24787,
+          "text": "ikip",
+          "output": "\n原文：",
+          "ok": false
+        },
+        {
+          "id": 26543,
+          "text": "INSTALL",
+          "output": "install\n原文",
+          "ok": false
+        },
+        {
+          "id": 27760,
+          "text": "實",
+          "output": "实\n原文",
+          "ok": false
+        },
+        {
+          "id": 28508,
+          "text": "elihood",
+          "output": "likelihood\n原文",
+          "ok": false
+        },
+        {
+          "id": 28973,
+          "text": "]}\"",
+          "output": "\n原文：",
+          "ok": false
+        },
+        {
+          "id": 2276,
+          "text": "�",
+          "output": "齑\n",
+          "ok": true
+        },
+        {
+          "id": 3410,
+          "text": "生素",
+          "output": "生素\n原文",
+          "ok": true
+        },
+        {
+          "id": 5130,
+          "text": "萄",
+          "output": "萄\n原文",
+          "ok": true
+        }
+      ]
+    },
+    "≥10万次": {
+      "n": 100,
+      "ok_rate": 0.89,
+      "examples": [
+        {
+          "id": 1756,
+          "text": "----",
+          "output": "数据\n原文",
+          "ok": false
+        },
+        {
+          "id": 2225,
+          "text": "比如",
+          "output": "数据\n原文",
+          "ok": false
+        },
+        {
+          "id": 2832,
+          "text": "出的",
+          "output": "出\n原文",
+          "ok": false
+        },
+        {
+          "id": 4628,
+          "text": "na",
+          "output": "n\n原文",
+          "ok": false
+        },
+        {
+          "id": 5447,
+          "text": "在这个",
+          "output": "这个\n原文",
+          "ok": false
+        },
+        {
+          "id": 7453,
+          "text": "的光",
+          "output": "光\n原文",
+          "ok": false
+        },
+        {
+          "id": 10864,
+          "text": "在内的",
+          "output": "\n原文：",
+          "ok": false
+        },
+        {
+          "id": 10976,
+          "text": "充分利用",
+          "output": "利用\n原文",
+          "ok": false
+        },
+        {
+          "id": 464,
+          "text": "进",
+          "output": "进\n原文",
+          "ok": true
+        },
+        {
+          "id": 643,
+          "text": "但",
+          "output": "但\n原文",
+          "ok": true
+        },
+        {
+          "id": 865,
+          "text": "战",
+          "output": "战\n原文",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "contamination": {
+    "ngram": 13,
+    "all_test": {
+      "items": 1319,
+      "question": {
+        "any_overlap": 0.6422,
+        "strong_overlap": 0.003
+      },
+      "answer": {
+        "any_overlap": 0.3457,
+        "strong_overlap": 0.0
+      },
+      "answer_clean": {
+        "any_overlap": 0.3783,
+        "strong_overlap": 0.0
+      },
+      "any_field_any_overlap": 0.7491
+    },
+    "probed_first_200": {
+      "items": 200,
+      "question": {
+        "any_overlap": 0.65,
+        "strong_overlap": 0.005
+      },
+      "answer": {
+        "any_overlap": 0.32,
+        "strong_overlap": 0.0
+      },
+      "answer_clean": {
+        "any_overlap": 0.35,
+        "strong_overlap": 0.0
+      },
+      "any_field_any_overlap": 0.745
+    },
+    "hit_positions_by_source": {
+      "zh_cci3": 59,
+      "en_fwedu": 18432,
+      "math": 50357,
+      "en_cosmo": 6471,
+      "code": 472,
+      "zh_industry": 10,
+      "zh_fwedu": 6
+    },
+    "distinct_hit_ngrams": 5754,
+    "worst_items": [
+      {
+        "index": 855,
+        "question": {
+          "ngrams": 84,
+          "found": 63,
+          "frac": 0.75
+        },
+        "answer": {
+          "ngrams": 199,
+          "found": 7,
+          "frac": 0.035
+        },
+        "answer_clean": {
+          "ngrams": 199,
+          "found": 7,
+          "frac": 0.035
+        }
+      },
+      {
+        "index": 523,
+        "question": {
+          "ngrams": 99,
+          "found": 70,
+          "frac": 0.707
+        },
+        "answer": {
+          "ngrams": 110,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 89,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 597,
+        "question": {
+          "ngrams": 72,
+          "found": 39,
+          "frac": 0.542
+        },
+        "answer": {
+          "ngrams": 59,
+          "found": 3,
+          "frac": 0.051
+        },
+        "answer_clean": {
+          "ngrams": 47,
+          "found": 3,
+          "frac": 0.064
+        }
+      },
+      {
+        "index": 28,
+        "question": {
+          "ngrams": 75,
+          "found": 40,
+          "frac": 0.533
+        },
+        "answer": {
+          "ngrams": 74,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 60,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 547,
+        "question": {
+          "ngrams": 85,
+          "found": 36,
+          "frac": 0.424
+        },
+        "answer": {
+          "ngrams": 117,
+          "found": 3,
+          "frac": 0.026
+        },
+        "answer_clean": {
+          "ngrams": 96,
+          "found": 5,
+          "frac": 0.052
+        }
+      },
+      {
+        "index": 278,
+        "question": {
+          "ngrams": 55,
+          "found": 21,
+          "frac": 0.382
+        },
+        "answer": {
+          "ngrams": 98,
+          "found": 1,
+          "frac": 0.01
+        },
+        "answer_clean": {
+          "ngrams": 84,
+          "found": 1,
+          "frac": 0.012
+        }
+      },
+      {
+        "index": 595,
+        "question": {
+          "ngrams": 29,
+          "found": 10,
+          "frac": 0.345
+        },
+        "answer": {
+          "ngrams": 111,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 99,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 416,
+        "question": {
+          "ngrams": 70,
+          "found": 24,
+          "frac": 0.343
+        },
+        "answer": {
+          "ngrams": 152,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 147,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 24,
+        "question": {
+          "ngrams": 53,
+          "found": 18,
+          "frac": 0.34
+        },
+        "answer": {
+          "ngrams": 85,
+          "found": 4,
+          "frac": 0.047
+        },
+        "answer_clean": {
+          "ngrams": 85,
+          "found": 4,
+          "frac": 0.047
+        }
+      },
+      {
+        "index": 496,
+        "question": {
+          "ngrams": 51,
+          "found": 17,
+          "frac": 0.333
+        },
+        "answer": {
+          "ngrams": 49,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 35,
+          "found": 0,
+          "frac": 0.0
+        }
+      }
+    ]
+  },
+  "hit_examples": [
+    {
+      "text": " is equal to the sum of ",
+      "positions": 4182,
+      "sources": {
+        "en_fwedu": 183,
+        "en_cosmo": 66,
+        "code": 25,
+        "math": 3908
+      }
+    },
+    {
+      "text": ", on the other hand, is ",
+      "positions": 3959,
+      "sources": {
+        "zh_cci3": 5,
+        "en_fwedu": 2249,
+        "en_cosmo": 864,
+        "code": 3,
+        "math": 838
+      }
+    },
+    {
+      "text": " both sides of the equation by ",
+      "positions": 2152,
+      "sources": {
+        "en_fwedu": 31,
+        "en_cosmo": 80,
+        "math": 2041
+      }
+    },
+    {
+      "text": " in the second half of the ",
+      "positions": 1802,
+      "sources": {
+        "zh_cci3": 1,
+        "zh_industry": 2,
+        "en_fwedu": 1616,
+        "en_cosmo": 23,
+        "code": 5,
+        "math": 155
+      }
+    },
+    {
+      "text": ", on the other hand, was ",
+      "positions": 861,
+      "sources": {
+        "en_fwedu": 399,
+        "en_cosmo": 439,
+        "math": 23
+      }
+    },
+    {
+      "text": " What is the difference between the ",
+      "positions": 779,
+      "sources": {
+        "zh_fwedu": 1,
+        "en_fwedu": 103,
+        "en_cosmo": 5,
+        "math": 670
+      }
+    },
+    {
+      "text": " at the end of the first ",
+      "positions": 760,
+      "sources": {
+        "zh_cci3": 3,
+        "en_fwedu": 357,
+        "en_cosmo": 7,
+        "code": 16,
+        "math": 377
+      }
+    },
+    {
+      "text": " in terms of the number of ",
+      "positions": 662,
+      "sources": {
+        "en_fwedu": 301,
+        "en_cosmo": 11,
+        "code": 7,
+        "math": 343
+      }
+    },
+    {
+      "text": " at the end of the year ",
+      "positions": 662,
+      "sources": {
+        "en_fwedu": 282,
+        "en_cosmo": 6,
+        "math": 374
+      }
+    },
+    {
+      "text": " on the first day of the ",
+      "positions": 654,
+      "sources": {
+        "zh_cci3": 8,
+        "en_fwedu": 569,
+        "en_cosmo": 24,
+        "code": 4,
+        "math": 49
+      }
+    },
+    {
+      "text": " depends on the size of the ",
+      "positions": 581,
+      "sources": {
+        "zh_cci3": 1,
+        "en_fwedu": 311,
+        "en_cosmo": 19,
+        "code": 10,
+        "math": 240
+      }
+    },
+    {
+      "text": " divide both sides of the equation ",
+      "positions": 556,
+      "sources": {
+        "en_fwedu": 4,
+        "en_cosmo": 23,
+        "math": 529
+      }
+    },
+    {
+      "text": " at the end of the year.",
+      "positions": 548,
+      "sources": {
+        "zh_fwedu": 1,
+        "en_fwedu": 322,
+        "en_cosmo": 20,
+        "code": 2,
+        "math": 203
+      }
+    },
+    {
+      "text": "divide both sides of the equation by",
+      "positions": 546,
+      "sources": {
+        "en_fwedu": 4,
+        "en_cosmo": 21,
+        "math": 521
+      }
+    },
+    {
+      "text": " by the end of the year.",
+      "positions": 527,
+      "sources": {
+        "zh_industry": 1,
+        "en_fwedu": 486,
+        "en_cosmo": 8,
+        "math": 32
+      }
+    }
+  ],
+  "scan_minutes": 11.7,
+  "errors": [],
+  "plots": [
+    "zipf.png",
+    "norm_vs_freq.png",
+    "indicator_vs_freq.png"
+  ]
+}

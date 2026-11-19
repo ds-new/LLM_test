@@ -1,0 +1,80 @@
+{
+ "_origin": "tokenizer 对照实验的训练数据（v1 编码）",
+ "zh_cci3": {
+  "docs": 516177,
+  "mean": 1427.8,
+  "median": 1013,
+  "p90": 2735,
+  "p99": 7139,
+  "docs_gt_1024": 0.4939,
+  "docs_gt_4096": 0.0422,
+  "tokens_beyond_1024": 0.4176,
+  "tokens_beyond_4096": 0.0745
+ },
+ "zh_fwedu": {
+  "docs": 204503,
+  "mean": 1723.0,
+  "median": 1152,
+  "p90": 3433,
+  "p99": 9441,
+  "docs_gt_1024": 0.5577,
+  "docs_gt_4096": 0.072,
+  "tokens_beyond_1024": 0.4984,
+  "tokens_beyond_4096": 0.116
+ },
+ "zh_industry": {
+  "docs": 548352,
+  "mean": 827.4,
+  "median": 550,
+  "p90": 1687,
+  "p99": 4563,
+  "docs_gt_1024": 0.2375,
+  "docs_gt_4096": 0.013,
+  "tokens_beyond_1024": 0.2751,
+  "tokens_beyond_4096": 0.0387
+ },
+ "en_fwedu": {
+  "docs": 250368,
+  "mean": 1976.9,
+  "median": 1144,
+  "p90": 3780,
+  "p99": 16388,
+  "docs_gt_1024": 0.5513,
+  "docs_gt_4096": 0.0888,
+  "tokens_beyond_1024": 0.5782,
+  "tokens_beyond_4096": 0.2353
+ },
+ "en_cosmo": {
+  "docs": 140288,
+  "mean": 1370.8,
+  "median": 1278,
+  "p90": 2002,
+  "p99": 2841,
+  "docs_gt_1024": 0.7844,
+  "docs_gt_4096": 0.0,
+  "tokens_beyond_1024": 0.2802,
+  "tokens_beyond_4096": 0.0
+ },
+ "code": {
+  "docs": 529922,
+  "mean": 662.4,
+  "median": 288,
+  "p90": 1531,
+  "p99": 5621,
+  "docs_gt_1024": 0.1669,
+  "docs_gt_4096": 0.0192,
+  "tokens_beyond_1024": 0.3584,
+  "tokens_beyond_4096": 0.0846
+ },
+ "math": {
+  "docs": 101020,
+  "mean": 2245.8,
+  "median": 1374,
+  "p90": 4373,
+  "p99": 16076,
+  "docs_gt_1024": 0.6526,
+  "docs_gt_4096": 0.1102,
+  "tokens_beyond_1024": 0.5996,
+  "tokens_beyond_4096": 0.2243
+ }
+}

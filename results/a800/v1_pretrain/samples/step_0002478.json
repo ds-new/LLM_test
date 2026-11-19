@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "方向在于：提高人类生产活动的智能化程度，提高产品或服务的利用率，提高产品的消费力；提高生产效率，提高产品的附加值，提升劳动生产率。 人工智能发展前景 在人工智能领域，高技术对生产效率提升的贡献是非常大的，而新材料和器件是创新的主要动力。因此，我们认为，随着人工智能的发展，将会促使工业领域不断革新，促进产业进步。 1. 强化技术创新，带动产业升级 产业升级是一个动态的过程，是一个综合因素影响的过程，包括技术创新、技术创新和产品升级。技术创新包括：技术创新所需要的知识、技术、技术、经验、经验和知识。技术创新包括：创新成果的获取、知识和能力开发、科技创新活动促进技术和产品更新、技术改进和改进、行业管理和科技创新；技术创新包括：信息",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展方向，人工智能的发展",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9745
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "我也和妈妈去了。 又到了夏天，小明和小妈妈去公园游玩，看到了一个小河，小河小河很漂亮。 小河的河边是一棵树，小河的水果很美。 公园的街道是\"大河风景区\"，湖水清澈，河岸平坦。 公园的草坪和灌木丛，是大自然赐给孩子们和爸爸妈妈\"游乐场\"的美妙景色。 小河的公园里，到处是盛装素雅的《西游记》和充满情趣的《西游记》。 小河的水果是那么鲜美，让人心醉，小河的公园又长又长，又像一座山，像一座庙。 园子里还有许多美丽的花草树木，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.051
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用过程中细胞生长环境光合作用而发生的各种现象的总和。\n光合作用的特点\n1、光合作用产生的最主要条件是光照，如光照的强度、光照的强度和光照的时间等。\n2、光合作用产生的条件是光照，光合作用是形成光合作用的条件。\n3、光合作用的条件是光照，即光照对光合作用的影响。\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的光合作用\n光照条件下的",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4268
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "的光合作用，光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8981
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "蒸汽机、水机、电机和电热工作台。\n蒸汽机\n蒸汽机是19世纪发明，1895年在美国阿姆斯特丹国公司发明的。蒸汽机是一个用蒸汽推动蒸汽机运转，并由蒸汽机带动的机器。蒸汽机由蒸汽机和电机的两个部分组成。蒸汽机将蒸汽加热到一定温度，然后蒸汽机把蒸汽传递给机械上的一个装置，通过发电机，将蒸汽传给电机的另一个部分。\n水机\n蒸汽机是19世纪发明，19世纪发明，19世纪发明，19世纪发明，19世纪发明。蒸汽机是19世纪发明，19世纪发明，19世纪发明，19世纪发明，19世纪发明。蒸汽机是19世纪发明，19世纪",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2994
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "最长的河流，长江中下游大部分地区都位于江河流域，上游分布着长江上游流域，最南端有长江，最后流入大兴安岭南麓的西江。 在中国领土面积近 10 万平方公里，面积之大，包罗万象，是我国四大河流中最大的河流，也是我国长江中上游上游支流的重要河流，也是我国长江上游全流域中流经人口最广，流量最大，水运客流最为密集的河流。 长江下游，冲积平原，高寒地带，是我国最北部和北部水运通道，也是\"五湖四海\"的入海口。 长江中下游，江水常年滚滚，是长江中下游的北流，入海口，是\"江中",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0127
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要理解世界，了解世界。\n学习一门新语言，首先应学习如何通过有效的学习来解决这些问题。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所包含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习一门新语言，首先应了解这门语言所蕴含的意义。\n学习",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7771
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "： 在直角三角形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四边形中，平行四",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9299
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "上半年，全市中小学幼儿园共接待校内幼儿1.7万名，对全市幼儿园及幼儿园共接待的幼儿园及幼儿园内幼儿分别进行了走访，分析，调查。\n目前，市教育局共接待了全市幼儿园共接待校内幼儿1.7万名，对全市幼儿园及幼儿园共接待的幼儿园及幼儿园内幼儿分别进行了走访，分析，分析，分析，分析，分析，分析，对全市幼儿园及幼儿园共接待的幼儿园及幼儿园内幼儿分别进行了走访，分析，分析，分析，分析，对全市幼儿园及幼儿园共接待校内幼儿进行了走访，分析，分析，分析，分析，对全市幼儿园及幼儿园共接待校内幼儿进行了走访，分析，分析，分析，分析，分析，分析，分析，对全市",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6688
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "# n = int(input())\n# print(n)\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n))\n# print(fibonacci(n",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.828
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor and air in the air is produced when the temperature changes. The water vapor decreases and the air vapor decreases. This is called the water cycle. It is defined to occur when the temperature decreases and the air vapor decreases. This is called the flux (flux) or flux of the air. This flux is called flux flux flux flux. It is defined to occur when",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3694
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " travels from one place to another in a given time period. The water cycle is a time of rapid change in the time period of the year. The water cycle is a time of rapid change in the time period of the year. The water cycle is a time of rapid change in the time period of the year. The water cycle is a time of rapid change in the time period of the year. The water",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6497
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " wanted to make a special expedition to the Rome to Italy. However, as the sixth century Napoleon III and his bronze battle, there was an actual Roman home there. They had decided to send the expedition to Italy to revisit it and that was when they returned to Italy for some years. The expedition was one of the most important occasions in the history of Spain.\nNapoleon III was a famous Spanish ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.051
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of the quadratic equation whose graph is (2, 3). We first need to find the values of the quadratic equation whose graph is (3, 5). Now we need to find the values of the quadratic equation whose graph is (3, 5). We then need to find the values of the quadratic equation whose graph is (3, 5). We then need to find the values of the quadratic equation whose",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6688
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "细胞核",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "南海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "凉鞋",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "8",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 30 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " chick",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 3",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 13",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

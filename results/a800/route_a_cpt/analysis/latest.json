@@ -1,0 +1,106 @@
+{
+  "time": "2026-11-19 08:47:23",
+  "step": 7997,
+  "tokens_B": 4.193,
+  "window_start_step": 5757,
+  "enough_data": true,
+  "sources": {
+    "code": {
+      "latest": 1.1275,
+      "best": 1.1013,
+      "status": "plateau",
+      "sigma": 0.002,
+      "per_B": -0.0001,
+      "t": -0.06,
+      "window_change": -0.0001
+    },
+    "en_cosmo": {
+      "latest": 1.1185,
+      "best": 1.0918,
+      "status": "plateau",
+      "sigma": 0.0021,
+      "per_B": -0.0015,
+      "t": -0.67,
+      "window_change": -0.0018
+    },
+    "en_fwedu": {
+      "latest": 1.685,
+      "best": 1.651,
+      "status": "plateau",
+      "sigma": 0.0018,
+      "per_B": 0.0035,
+      "t": 2.81,
+      "window_change": 0.0041
+    },
+    "math": {
+      "latest": 1.4009,
+      "best": 1.382,
+      "status": "plateau",
+      "sigma": 0.0012,
+      "per_B": -0.0004,
+      "t": -0.37,
+      "window_change": -0.0005
+    },
+    "zh_cci3": {
+      "latest": 3.129,
+      "best": 3.0808,
+      "status": "plateau",
+      "sigma": 0.0012,
+      "per_B": 0.002,
+      "t": 1.13,
+      "window_change": 0.0023
+    },
+    "zh_fwedu": {
+      "latest": 3.1252,
+      "best": 3.072,
+      "status": "plateau",
+      "sigma": 0.0024,
+      "per_B": 0.0069,
+      "t": 1.88,
+      "window_change": 0.0081
+    },
+    "zh_industry": {
+      "latest": 3.0026,
+      "best": 2.9145,
+      "status": "regressing",
+      "sigma": 0.0041,
+      "per_B": 0.0175,
+      "t": 4.31,
+      "window_change": 0.0205
+    }
+  },
+  "overall": {
+    "latest": 2.333,
+    "best": 2.2879,
+    "status": "regressing",
+    "sigma": 0.0012,
+    "per_B": 0.0042,
+    "t": 7.34
+  },
+  "regressing_sources": [
+    "zh_industry"
+  ],
+  "train_val_gap": {
+    "now": 0.032,
+    "window_start": 0.0491
+  },
+  "cloze": {
+    "acc": 0.8684,
+    "n": 38,
+    "ci95": [
+      0.727,
+      0.942
+    ]
+  },
+  "segment": {
+    "tok_s": 46424,
+    "anomalies": []
+  },
+  "eta_hours": 35.79,
+  "findings": [
+    "最近 8 次评估总体验证 loss 每 1B token 变化 +0.0042（t=7.34，单次噪声 σ≈0.0012），判定 regressing",
+    "显著变差的来源：zh_industry（窗口内拟合 +0.0205，σ≈0.0041）",
+    "选择题 87%（n=38，95% 区间 73%–94%），只作参考",
+    "剩余 11,076 步，预计 35.8 小时（含评估开销）"
+  ]
+}

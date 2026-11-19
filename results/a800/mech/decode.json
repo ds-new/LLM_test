@@ -1,0 +1,377 @@
+{
+ "strategies": {
+  "human_reference": {
+   "nll": 1.9656679651566915,
+   "rep4": 0.04085714285714286
+  },
+  "greedy": {
+   "rep4": 0.42828571428571427,
+   "distinct2": 0.31304495527120374,
+   "nll": 0.4726120428315231,
+   "eos_rate": 0.007142857142857143,
+   "mean_len": 127.15714285714286,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.5036,
+     "nll": 0.6352444738149643
+    },
+    "zh_fwedu": {
+     "rep4": 0.544,
+     "nll": 0.5531005203723908
+    },
+    "zh_industry": {
+     "rep4": 0.592,
+     "nll": 0.5487762816250324
+    },
+    "en_fwedu": {
+     "rep4": 0.4008,
+     "nll": 0.5003533974289894
+    },
+    "en_cosmo": {
+     "rep4": 0.0632,
+     "nll": 0.35701794251799585
+    },
+    "code": {
+     "rep4": 0.5456000000000001,
+     "nll": 0.34187353067100046
+    },
+    "math": {
+     "rep4": 0.3488,
+     "nll": 0.37191815339028833
+    }
+   }
+  },
+  "greedy+rep_penalty1.2": {
+   "rep4": 0.051134807256235836,
+   "distinct2": 0.5999292953099222,
+   "nll": 0.9125853343068488,
+   "eos_rate": 0.09285714285714286,
+   "mean_len": 122.22857142857143,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.014800000000000002,
+     "nll": 1.4293089419603349
+    },
+    "zh_fwedu": {
+     "rep4": 0.04840000000000001,
+     "nll": 1.1891666918992996
+    },
+    "zh_industry": {
+     "rep4": 0.0616,
+     "nll": 1.2990221932530404
+    },
+    "en_fwedu": {
+     "rep4": 0.01160000000000001,
+     "nll": 0.7925427377223968
+    },
+    "en_cosmo": {
+     "rep4": 0.004400000000000004,
+     "nll": 0.5034967973828316
+    },
+    "code": {
+     "rep4": 0.12514285714285717,
+     "nll": 0.599907040130347
+    },
+    "math": {
+     "rep4": 0.09200079365079365,
+     "nll": 0.5746529377996922
+    }
+   }
+  },
+  "greedy+no_repeat_3gram": {
+   "rep4": 0.0,
+   "distinct2": 0.6117944070429829,
+   "nll": 1.295963463612965,
+   "eos_rate": 0.2571428571428571,
+   "mean_len": 111.34285714285714,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.0,
+     "nll": 1.4484401524066925
+    },
+    "zh_fwedu": {
+     "rep4": 0.0,
+     "nll": 1.2529517233371734
+    },
+    "zh_industry": {
+     "rep4": 0.0,
+     "nll": 1.4292395174503327
+    },
+    "en_fwedu": {
+     "rep4": 0.0,
+     "nll": 1.4339819103479385
+    },
+    "en_cosmo": {
+     "rep4": 0.0,
+     "nll": 1.0183854907751084
+    },
+    "code": {
+     "rep4": 0.0,
+     "nll": 1.3305978178977966
+    },
+    "math": {
+     "rep4": 0.0,
+     "nll": 1.1581476330757141
+    }
+   }
+  },
+  "sample_t1.0": {
+   "rep4": 0.02811428571428572,
+   "distinct2": 0.6729677565849228,
+   "nll": 2.3085455930658747,
+   "eos_rate": 0.02142857142857143,
+   "mean_len": 126.82857142857142,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.009600000000000008,
+     "nll": 3.4795904994010924
+    },
+    "zh_fwedu": {
+     "rep4": 0.0036000000000000034,
+     "nll": 3.4047377347946166
+    },
+    "zh_industry": {
+     "rep4": 0.028000000000000004,
+     "nll": 3.4056925058364866
+    },
+    "en_fwedu": {
+     "rep4": 0.015200000000000009,
+     "nll": 1.7482686996459962
+    },
+    "en_cosmo": {
+     "rep4": 0.03040000000000001,
+     "nll": 1.0719249337911605
+    },
+    "code": {
+     "rep4": 0.06200000000000001,
+     "nll": 1.6597355335950852
+    },
+    "math": {
+     "rep4": 0.04800000000000001,
+     "nll": 1.3898692443966865
+    }
+   }
+  },
+  "sample_t0.7": {
+   "rep4": 0.11674564459930313,
+   "distinct2": 0.5352854553692795,
+   "nll": 1.1295615120657854,
+   "eos_rate": 0.014285714285714285,
+   "mean_len": 127.11428571428571,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.09,
+     "nll": 1.7540716260671616
+    },
+    "zh_fwedu": {
+     "rep4": 0.08000000000000002,
+     "nll": 1.4987230062484742
+    },
+    "zh_industry": {
+     "rep4": 0.12121951219512195,
+     "nll": 1.669122689962387
+    },
+    "en_fwedu": {
+     "rep4": 0.1316,
+     "nll": 0.9673172265291214
+    },
+    "en_cosmo": {
+     "rep4": 0.013200000000000007,
+     "nll": 0.623705980181694
+    },
+    "code": {
+     "rep4": 0.192,
+     "nll": 0.7367988787591457
+    },
+    "math": {
+     "rep4": 0.18919999999999998,
+     "nll": 0.6571911767125129
+    }
+   }
+  },
+  "top_k40": {
+   "rep4": 0.05976832932111384,
+   "distinct2": 0.5958404558404559,
+   "nll": 1.5264716848731041,
+   "eos_rate": 0.03571428571428571,
+   "mean_len": 126.35714285714286,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.05760000000000002,
+     "nll": 2.195575273036957
+    },
+    "zh_fwedu": {
+     "rep4": 0.024644155844155857,
+     "nll": 2.0580209314823152
+    },
+    "zh_industry": {
+     "rep4": 0.05807118644067798,
+     "nll": 2.1060314893722536
+    },
+    "en_fwedu": {
+     "rep4": 0.05,
+     "nll": 1.2692173272371292
+    },
+    "en_cosmo": {
+     "rep4": 0.02000000000000001,
+     "nll": 0.8647831290960312
+    },
+    "code": {
+     "rep4": 0.10446296296296298,
+     "nll": 1.1327716410160065
+    },
+    "math": {
+     "rep4": 0.1036,
+     "nll": 1.0589020028710365
+    }
+   }
+  },
+  "top_p0.9": {
+   "rep4": 0.04994285714285715,
+   "distinct2": 0.6216092741705214,
+   "nll": 1.7205670053405422,
+   "eos_rate": 0.02142857142857143,
+   "mean_len": 126.07857142857142,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.025200000000000007,
+     "nll": 2.7074961185455324
+    },
+    "zh_fwedu": {
+     "rep4": 0.01720000000000001,
+     "nll": 2.355778819322586
+    },
+    "zh_industry": {
+     "rep4": 0.040400000000000005,
+     "nll": 2.6998195707798005
+    },
+    "en_fwedu": {
+     "rep4": 0.045200000000000004,
+     "nll": 1.3620834469795227
+    },
+    "en_cosmo": {
+     "rep4": 0.02360000000000001,
+     "nll": 0.8373290717601776
+    },
+    "code": {
+     "rep4": 0.11399999999999999,
+     "nll": 1.129392022639513
+    },
+    "math": {
+     "rep4": 0.08399999999999999,
+     "nll": 0.9520699873566627
+    }
+   }
+  },
+  "min_p0.05": {
+   "rep4": 0.09237434402332363,
+   "distinct2": 0.5490329533208553,
+   "nll": 1.152289149590901,
+   "eos_rate": 0.014285714285714285,
+   "mean_len": 126.93571428571428,
+   "by_source": {
+    "zh_cci3": {
+     "rep4": 0.0728,
+     "nll": 1.8315031945705413
+    },
+    "zh_fwedu": {
+     "rep4": 0.07,
+     "nll": 1.5951441884040833
+    },
+    "zh_industry": {
+     "rep4": 0.11742040816326531,
+     "nll": 1.606045451760292
+    },
+    "en_fwedu": {
+     "rep4": 0.0824,
+     "nll": 0.9719100326299668
+    },
+    "en_cosmo": {
+     "rep4": 0.01080000000000001,
+     "nll": 0.6527524203062057
+    },
+    "code": {
+     "rep4": 0.16399999999999998,
+     "nll": 0.7165982596576214
+    },
+    "math": {
+     "rep4": 0.1292,
+     "nll": 0.6920704998075962
+    }
+   }
+  }
+ },
+ "examples": {
+  "zh_cci3": {
+   "prompt": "如果你真的相信孩子是我们的未来，那么你就应该去教育孩子让他们改变这个社会。给孩子灌输价值观让他们成为认真负责、敢于创新的领导者。你应当帮助他们变得有责任、有意识、能够跳出条条框框",
+   "human": "来思考。如果你想改变我们社会的未来，那么遵循下面的步骤教育孩子吧。 教育他们有意识 01 让你的孩子变得有爱心。你的孩子可能还太小，不懂得\"给予\"的重要性，不明白哪怕是向一个需要帮助的人露齿一笑这样的小事，也有巨大的意义。不要让你的孩子觉得只有在想让自己的简历显得更好看时",
+   "greedy": "，能够独立思考，能够有创新。 如果你真的相信孩子是我们的未来，那么你就应该去教育孩子让他们改变这个社会。给孩子灌输价值观让他们成为认真负责、敢于创新的领导者。你应当帮助他们变得有责任、有意识、能够跳出条条框框，能够独立思考，能够有创新。 1. 让孩子知道，你不是在说教，而是用",
+   "greedy+rep_penalty1.2": "的束缚，而不是被这些条条框框所限制。 在当今社会中，我们经常听到这样的说法：父母要为孩子做榜样。这听起来似乎很正确，但事实并非如此。父母的言行举止对孩子的影响很大。如果他们不注意自己的行为，或者没有意识到自己正在做的事情，那么他们的孩子就会模仿这种做法。因此，父母必须以身作则，并",
+   "greedy+no_repeat_3gram": "，能够独立思考，能够有创新。 如果你真的希望孩子成为有责任感、有创新、有创造力的领导者，那么你就要让他们知道，他们所做的事情是值得的，他们所做的每一件事都是值得的。 你应当告诉他们，他们做的事情是正确的，他们做的每一件事都是有意义的，他们做这些事情是值得做的。 如果他们做错了，他们应该",
+   "sample_t1.0": "限制了他们的发展，让他们在思想、理念、价值等方面的对比上变得有面。首先，价值观的打分是非常重要的。它决定了你用什么样的方式来教育他们。而让孩子有一个清晰的因果，是从一个最纯正的原则开始培养的。你不重视它的话，它肯定不会被珍惜的。你会给孩子灌输正确的价值观，而很多沟通技巧就是让你认清在",
+   "sample_t0.7": "思考问题。让他们在现实的社会中学会如何学会适应，学会如何学会独立。让他们学会独立，学会有选择，学会对自己负责，学会面对困难，学会承担责任。而这一切，唯有通过家庭教育才能实现。 作为父母，我们首先得相信自己的孩子会长大，会成熟，会成功。我们相信，只要把正确的价值观灌输给孩子，他们定会认清现实",
+   "top_k40": "思考问题。让他们意识到：我只是他们生活的小助手，而不是决策者。鼓励并培养他们在学校里建立\"平等观念\"，在同学间建立\"同理心\"；培养他们对自己的行为负责的习惯，不再事事依赖别人；鼓励他们对生活积极乐观的态度；鼓励他们将社会责任内化于行动。 1、给孩子灌输正确的价值观 价值观是一个人一生安身立命",
+   "top_p0.9": "思考问题。让他们承担责任，分析父母赚钱的意图和赚取的快乐。过着自己的生活，享受自己的时间。选择快乐的每一天。 二、从孩子的立场去观察社会 让孩子有一个美好的心理环境，让他们产生良好的情绪，逐步适应这个社会的复杂性。 不要总认为孩子小不懂事，父母老大不着把，让孩子成为一个情绪的调节者，在冲突中逐渐",
+   "min_p0.05": "思考问题。让他们意识到：我只是他们生活的一部分。我努力想让这个世界变得更好，所以我希望我能为别人提供更好的服务。 用科学的方式，给孩子灌输正确的价值观和思维方式。让他们明白：任何事情都是可以改变的。他们需要用头脑、手和脚去创造新事物。让他们成为能影响别人、能够影响别人的人。他们需要的是在"
+  },
+  "en_fwedu": {
+   "prompt": "Books Yellow, Red, and Green and Blue,\nAll true, or just as good as true,\nAnd here's the Blue Book ",
+   "human": "just for YOU!\nHard is the path from A to Z,\nAnd puzzling to a curly head,\nYet leads to Books—Green, Yellow and Red.\nFor every child should understand\nThat letters from the first ",
+   "greedy": "of the World.\nThe Blue Book of the World is a book of the world's most important and most beautiful colors. It is a book of the world's most beautiful colors, and it is a book of",
+   "greedy+rep_penalty1.2": "of the World.\nThe Blue Book is a book that has been written by an American author for children in elementary school. It was published in 1922 by the National Association for the Advancement of Colored People",
+   "greedy+no_repeat_3gram": "of the\nBlue Books of\nThe Blue-Book is a book of",
+   "sample_t1.0": "of All You,\nParted with Yellow and Red and Green,\nA blessing for all time,\nAesculaws of the world's most ancient People,\nEmbraced as priceless gifts from a defenseless",
+   "sample_t0.7": "of All True,\nAnd Yellow is the same as Blue,\nAnd Red is the same as Yellow,\nAnd Green is the same as Red,\nAnd Zero is the same as Green.\nAnd the Blue Book is ",
+   "top_k40": "of All You,\nAs Yellow Yellow's Room for Your Self;\nAs Thine Being Is in Glorious Power,\nAs You The Blessed One Is in Your Raising.\nYellow is a color that ",
+   "top_p0.9": "of All You,\nPart of the Four Classic Dynasties of Medicine\nEvidence for Mysteries in Nature\nWith The Green Book of All You,\nPart of the Four Classic Dynasties of Medicine - Vol.",
+   "min_p0.05": "of All Faith,\nThat is of old, and for good old times\nThe Sacred Heart of Jesus, a Holy Heart\nTo all the saints who love him,\nAnd who love him most, who love "
+  },
+  "code": {
+   "prompt": "<reponame>mmibrah2/OpenQL\nimport os\nimport filecmp\nimport unittest\nimport numpy as np\nfrom openql import openql as",
+   "human": " ql\nfrom utils import file_compare\n\ncurdir = os.path.dirname(os.path.realpath(__file__))\noutput_dir = os.path.join(curdir, 'test_output')\n\nclass Test_bugs(unittest.TestCase):\n    @classmethod\n    def setUp",
+   "greedy": " oql\nfrom openql.core import openql_core\nfrom openql.core import openql_core_test\nfrom openql.core import openql_core_test_test\nfrom openql.core import openql_core_test_test_test\nfrom openql.core import",
+   "greedy+rep_penalty1.2": " oq\n\nclass TestOQ(unittest.TestCase):\n    def setUp(self):\n        self.data_dir = 'data/'\n\n    def tearDown(self):\n        if not os.path.exists(self.data_dir):\n            os.mkdir(self.data_dir)\n\n        for fname ",
+   "greedy+no_repeat_3gram": "  oql\nfrom  openql.core import  openql_core\nfrom   openql_core \\\n    import OpenQLSchema, OpenqlSchema, openqlschema_schema\nfrom    openql  \\\n    . open_qls import   open_schema_ql, \\\n        open_query_q",
+   "sample_t1.0": " oql\n\nfrom plot.kernels.qa_kernel import QaKernel\nfrom plot.kernels.ma_kernel import MAKernel\nfrom plot.filters.curve_filters_confirming import CerfFilterConfirm\nfrom plot.filters.condition_metasiasing import",
+   "sample_t0.7": " oql\n\nfrom openql.test_utils import MockFileCompare\n\nclass TestOQL(unittest.TestCase):\n\n    def setUp(self):\n        self.tmp_data = oql.openql('tests/openql_tmp.sql')\n        self.tmp_data.create_connection()\n\n        self.",
+   "top_k40": " oql\n\nfrom openql.testbed.qa_utils import get_env\n\n##\n# FIXME Testing these files...\n##\n\n# Fixed file suffix\n# FIXME: This won't work... we should always use files that are ",
+   "top_p0.9": " oql\n\nfrom openql.test_utilities import assert_is_equal\n\nclass TestComparison(unittest.TestCase):\n    def test_openql_compare(self):\n        bfs_dir = 'ql/data/test_files/q1/BFS_bfs_1_node/'\n        df",
+   "min_p0.05": " oql\n\nfrom openql.test_utils import TestCase\n\n\nclass TestInit(TestCase):\n    \"\"\" Test init functions\n    \"\"\"\n\n    def test_init_with_path(self):\n        # Load initial data from JSON file\n        inp = openql.load_data()\n\n        # "
+  }
+ },
+ "reinforce": [
+  {
+   "repeat": 1,
+   "mean_prob": 0.33731576800346375,
+   "argmax_hit": 0.44021740555763245
+  },
+  {
+   "repeat": 2,
+   "mean_prob": 0.7226658463478088,
+   "argmax_hit": 0.8402777910232544
+  },
+  {
+   "repeat": 3,
+   "mean_prob": 0.875576913356781,
+   "argmax_hit": 0.9661458134651184
+  },
+  {
+   "repeat": 4,
+   "mean_prob": 0.9326753616333008,
+   "argmax_hit": 0.9930555820465088
+  },
+  {
+   "repeat": 5,
+   "mean_prob": 0.9568722248077393,
+   "argmax_hit": 0.9956597089767456
+  },
+  {
+   "repeat": 6,
+   "mean_prob": 0.967605471611023,
+   "argmax_hit": 0.9956597089767456
+  }
+ ],
+ "n_prompts": 140,
+ "prompt_tokens": 48,
+ "new_tokens": 128
+}

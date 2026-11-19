@@ -1,0 +1,56 @@
+{
+  "algorithm": "BBPE",
+  "implementation": "python-standard-library",
+  "pretokenizer": "unicode-category-v1",
+  "byte_alphabet_size": 256,
+  "texts": 9537,
+  "characters": 24122509,
+  "sources": [
+    {
+      "path": "/root/autodl-tmp/a800_pretrain_v1/data/tokenizer_corpus.jsonl",
+      "sha256": "c399261c9d19d2f0c9cbcd7daeb0b3d4a518a0777a0527ae5c5c59d8e59299ac"
+    }
+  ],
+  "requested_vocab_size": 32000,
+  "min_frequency": 2,
+  "lowercase": false,
+  "model_max_length": 2048,
+  "max_texts": 0,
+  "fields": [
+    "text"
+  ],
+  "python_version": "3.12.3",
+  "backend": "memory",
+  "compatible_with_existing_bge_weights": false,
+  "runtime_start": {
+    "python": "/root/a800_venv/bin/python",
+    "platform": "linux",
+    "peak_rss_mib": 3702.32,
+    "cgroup_files": {
+      "/sys/fs/cgroup/memory/memory.limit_in_bytes": "128849018880",
+      "/sys/fs/cgroup/memory/memory.usage_in_bytes": "14661578752",
+      "/sys/fs/cgroup/memory/memory.failcnt": "0"
+    }
+  },
+  "actual_vocab_size": 32000,
+  "special_token_ids": {
+    "[PAD]": 0,
+    "[UNK]": 1,
+    "[CLS]": 2,
+    "[SEP]": 3,
+    "[MASK]": 4
+  },
+  "unique_pieces": 1115696,
+  "merges": 31739,
+  "elapsed_seconds": 1181.43,
+  "runtime_end": {
+    "python": "/root/a800_venv/bin/python",
+    "platform": "linux",
+    "peak_rss_mib": 4694.17,
+    "cgroup_files": {
+      "/sys/fs/cgroup/memory/memory.limit_in_bytes": "128849018880",
+      "/sys/fs/cgroup/memory/memory.usage_in_bytes": "18887712768",
+      "/sys/fs/cgroup/memory/memory.failcnt": "0"
+    }
+  }
+}

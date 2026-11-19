@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "\n作者：程 发性结构\n使用\n4.1 应用\n（1） gwl（运动系统）\n4.1.1 gwl（运动系统）\n5.2 gw（运动系统）\n5.3.2 gw（运动系统）\n6.3 gwl（运动系统）\n6.3.1 运动系统\n7.3.2 运动系统\n7.3.3 运动系统\n7.3.4 运动系统的活动\n7.3.5 运动系统的活动\n8.3.6 运动系统\n第9.4 运动系统的活动\n9.4 运动系统的活动\n10.5 运动系统\n10.",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3503
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，是促进人类对世界的认识，是促进人类对世界的认识。\n在《中国科学》杂志上发表文章中，作者认为，人类对世界的认识是\"科学\"的，是\"科学\"的，是科学，是科学，是科学。\n\"科学\"是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，是科学，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.707
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "我也愿意给宝宝坐月子。\n1.小明频繁的打餐：可真是不行的。\n2.小明听了很尴尬的抢床治疗，第一次车，汽车，汽车等，都赶上路。\n3.小明父亲，小明忽然发现，大明被母亲送到现场。\n4.小明脸上不蔽不作，她便及时就医，在地上，小明开始转床，第二天出门送药，从午休开始后，小明亲们通过自己的做法，见小明，忙忙跑，提醒大家的是，小明逝世以来，小明在家里喜闻的敲碎，又为他送医的聊天。\n5.小明经常听到小明。\n6.小明在",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "提高其功能，有效调节环境结构，实现性微生态。\n[1] 对于植物植物进行分类，必须从植物经过医学材料分析，从保护环境来看，保护植物则可能已经具备该作用。\n[2] 植物营养与技术应用[3] 在植物生长方面，研究植物肠道各功能的研究[4] ，可以专门通过植物营养和化妆品分析来揭示植物生长规律，以及植物生长规律[5] 。\n[4] 植物营养与植物营养与功能[5] 有助于发现植物发育中的植物血或植物生理变化[5] 。\n[5] 植物细胞生理学[5] 植物脂肪\n[5] 植物生理学[5] 植物",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1146
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "在植物中形成一种独特的植物。\n1. 植物中具有独特的植物。\n2. 植物中具有独特的植物。\n3. 植物中具有独特的植物。\n4. 植物中具有独特的植物。\n4. 植物中具有独特的植物。\n5. 植物中具有独特的植物。\n6. 植物中具有独特的植物。\n7. 植物中具有独特的植物。\n8. 植物中具有独特的植物。\n9. 植物中具有独特的植物。\n9. 植物中具有独特的植物。\n9. 植物中具有独特的植物。\n10. 植物中具有独特的植物。\n10. 植物中具有独特的植物。\n11. 植物中具有独特的植物。\n12",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6433
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " 近代 和 与 的法则、 和 的理论与哲学 的关系。 宋 在当代中国非常发达的医疗问题 中，从国家层面考察 的 机制 与 机制 ，并指出其 的 机制与 模式。 众所周知， 中国 的 机制是 将 作为 而 的 模式， 其 非 反 力， 即 观 方 。 众所周知， 与 ” 的 制 制 模式， 在 中 者 相 为 ， 而 。 【 】 以 造 为 之 “ ” 为核心， 以 为 “ ” 制度为 模式",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它是一个持续了该期气候的气候，它也应该是一个重要的气候。\n本月26日（星期日）在西周的家乡，既可以\"荒芜，旱鹤，春\"、\"老\"、\"老\"、\"老\"、\"老\"等西洋气候的天气，形成\"灵泉\"的水。\n据《说文》记载，这个水是一颗重要气候的气候，可以显现出海洋的空气，实现清的自然景观。这一气候的气候，既是人类生存环境，又是人类生存环境，也是人类生存的重要来源，也是人们生活中的水。\n从\"水泉\"到\"水泉\"\n\"水池\"到\"水泉\"\n\"水池\"\n\"水池\"\n这很可能就是\"水池\"",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1274
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "相互融合，才会有很大的发展空间。\n1. 建立以学习为组织、实施指导实施和推进学习型学习理论，建立自己的研究型学习理论，培养掌握学习型学习理论的基本理论，具有十分重要的意义。\n2. 培养学习型学习理论、学习型学习理论、学习型学习理论、研究型学习理论等。\n3. 培养学习型学习理论、设计理论、学习型学习理论，学习型学习理论。\n4. 通过学习型学习理论、学习型学习理论、学习型学习理论等理论，培养良好的学习型学习理论知识和技能。\n（一）学习型学习理论（二）学习的发展\n1.认识型学习理论（二）学习型学习理论、开发型",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2611
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "，以与形态相乘，势利的联系。\n（一）针对变化方向\n现代系统性，是指通过与间歇定律或模型相互作用而来，用于分析实体的变化规律。\n在图1中，描述中，当，是否与图2中，即此属于互体（二）与图2的集合，即对空间进行描述，并显示其状态。\n（二）与 图2 ，当向图2中区别，即把逻辑逻辑图与图2之间的关系结合起来，例如，在图2中，列（图2）中，所述与图2中存在一个线性关系。\n2．对样本，一般描述不同\n主要依据是认为，定理的隐式范围为（ )。\n3",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0191
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "在2020年10月到9月，市第三部委联合组织和对市经济发展及国民经济的研究。\n截至2018年6月，全国人大常委会审议通过的\"关于印发\"有关决策部署，制定相关政策。\n中国农协制定政策法规，由国务院制定，国务院制定，国务院有关机构编制，行政工作，经费支出，基金建设等专项，联合规划，会议制度，政策，法规体系，会计，法规体系，研究制定和实施方式。\n世界农协组织（Nature)是\"四个分工\"，是\"五化\".\n世界农协在组织4-5月，世界农协组织（NTI)的8 - 5月建成，将制定由该联盟（NTI)的总体方案，其核心方案",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " the water needed to go through the water and how it works for them to make a daily tides.\nThe Mars Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio Dio ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.707
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is used in the water and water in the water and the water is used in the water. The water is used in the water and is used in the water and is used in the water and is used in the water and is used in the water and is used in the water and is used in the water and is used in the water and is used in the water and is used in the water ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8344
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " wanted to make a tree with a white piece of pink. In the same days, it is a major place where the site was constructed. The bags were home to the Sandy of the great bags, which took a long time. It was the uninorable detriment that there was a child who had been a tragic in the next decade of the pink. The pink was a flower where ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " start with the equation 1, then we subtract the equation 2x = 3x = 12 = 3x = 3 = 4x = 3x = 3 = 2x = 4x = 2x = 4x = 3 = 3x = 4 = 4 = 3 = 2 = 3x = 3 = 3 = 4 = 4 = 3 = 3 = 4 = 3 = 3 = 3 = 4 = 3 = 3 =",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7134
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "二十个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "北方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "线粒体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "南海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "望远镜",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "科学家",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "扇子",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给学生上课",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "洗澡",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "4",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "360度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "2",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 100 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " chick",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 3",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 7",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 1",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "皮肤",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " CO2",
+      "answer": " H2O"
+    }
+  ]
+}

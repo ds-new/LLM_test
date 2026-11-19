@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来趋势[M]. 吴晓燕， 等。 \"自然\" 2018 年第 2 卷 第 4 期 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7834
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至已经进入了超人工智能。\n人工智能的发展，已经从最初的弱人工智能，发展到现在的强人工智能，甚至",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8662
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现公园的花丛中不少的红、黄、橙色的小花，小明说妈妈，妈妈说小明，小明说，这是什么呀？小明说是花儿，小明爸爸说，这是什么呀？小明爸爸说，那是春天的绿叶。 小明和小妈妈去公园，小明发现公园的花丛中不少的红、黄、橙色的小花，小明说妈妈，妈妈说小明，小明说，这是什么呀？小明说是花儿，小明爸爸说，这是什么呀？小明爸爸说，那是春天的绿叶。 小明和小妈妈去公园，小明发现公园的花丛中不少的红、黄、橙色的小花，小明说妈妈，妈妈",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6178
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "通过光合作用制造氧气，释放出二氧化碳，并吸收和储存太阳能的生化过程。光合作用为地球上几乎所有生物提供食物和氧气，是地球上最重要的化学反应之一，也是地球上最重要的能量来源。\n光合作用可以分为两种类型：自养生物的光合作用和异养生物的光合作用。自养生物包括蓝藻和绿色植物，它们利用阳光，水和二氧化碳，将有机物转化为糖类，脂肪酸和氧气。异养生物包括蓝藻，红藻，绿藻和节肢动物，它们利用阳光，水和二氧化碳，将有机物转化为有机物。\n光合作用的原理是绿色植物通过光合作用将二氧化碳和水转化成糖类，脂肪酸和氧气，并将光能转化为化学能。这个过程是通过光合作用",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1146
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "通过光合作用，把二氧化碳和水合成有机物的过程。光合作用包括光反应和暗反应。光反应是指绿色植物利用光能，把二氧化碳和水合成有机物的过程。光反应包括光化学反应和光反应。光化学反应是指绿色植物利用光能，把二氧化碳和水合成有机物的过程。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光化学反应和光反应。光反应包括光",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7197
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "火药，造纸，印刷术，活字印刷术。其中造纸术是四大发明之一。 宋 · 蔡襄 《蜀素帖》：蔡襄着，纸本，仿张芝书。 南宋 · 蔡襄 《经史帖》：纸本，仿张芝书，意甚佳，因书价甚贵，乃以纸作经，其上书宋学士蔡襄所书四言诗，曰： \" 干天轮接，一气周流， 昼夜一气， 寒暑常流， 内外百谷， 皆通流物， 岁有四节， 节之不时， 君行道不轨， 曷其相使！ 吾道一乎",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.051
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "由长江与黄河两条河流组成，它的长度约等于亚洲和欧洲的总和。长江发源于中国最长的长江三峡，全长6300多千米，最大流量立方米秒，是中国第一大河。 长江的源流主要有3条：一是长江，源出青海祁连山，在甘肃境内奔流而下，到四川巴中与嘉陵江汇合后称长江。二是长江，源出四川三台，过云南元谋县，再向北流入内蒙古，经青海，甘肃，宁夏，内蒙古至内蒙古自治区巴彦淖尔市汇入黄河。三是长江，源出青海祁连山，在甘肃境内奔流而下，到四川巴中与嘉陵江汇合后称长江。 长江",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1783
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要付出时间，现在 GPT-4 语言预览版已经发布，我们期待它能为我们的孩子们带来怎样的学习体验，让 GPT-4 语言这一学习工具真正陪伴孩子们在求知的世界里快乐学习。\n这篇文章内容来自于：\n为了孩子的未来，我们应该为孩子的成长营造一个什么样的环境？\n0\n1\n多陪孩子\n家长，尤其是陪孩子写作业的家长，你应该对这句话有着怎样的思考？\n我们曾经听过这样一个故事：\n一个孩子写作业，家长说他一会儿把作业写完，一会儿又问道：“怎么样？”孩子回答道：“我真烦！”“我真烦！”“我真烦！”“我真烦！”“我真烦！”“我真烦！”“我真烦！",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1911
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：如果直角三角形的两条直角边长相等，那么这两条直角边也一定长相等。 勾股定理 勾股定理 勾股定理 勾股定理 勾股定理 直角三角形 直角三角形 直角三角形 直角三角形 勾股定理 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 勾股定理 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 勾股定理 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 直角三角形 勾股定理 直角三角形 直角三角形",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7771
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "秋季学期开始，我市将全面启动中小学和幼儿园暑假\"停课不停学\"。 对于中小学而言，要利用暑假时间，组织好国家规定的假期课程，让学生有更多休息、放松的时间。 此外，全市中小学要继续实施\"停课不停学\"，通过线上教学、线下教学相结合，使广大学生少外出、不出门、不聚餐，严防疫情进入校园，全力保障校园安全。 据悉，我市将采取多种措施，确保开学时间与疫情防控工作相结合，采取网络教学与线下教学活动相结合、线上与线下教学相结合、学校与家庭相结合，以集中辅导和个别辅导相结合的方式，确保每一个学生不掉队。 市教育局相关负责人表示，暑假时间充裕，孩子们有更多的时间放松、休息，但是，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "```\n\n## Chapter 1 - Introduction\n\n### 1.1 - Introduction\n\nIn this chapter, we will explore the world of fibonacci numbers, which are a special type of number that starts with 1 and adds one to the previous one. The fibonacci sequence is named after Leonardo Fibonacci, a famous mathematician who lived during the 13th century.\n\n### 1.2 - Fibonacci and Golden Ratio\n\nThe golden",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0701
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "def fib(n):\n    \"\"\"返回第 n 个数\"\"\"\n    return fib(n-1) + fib(n-2)\ndef fib_recursive(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return fib(n-1) + fib(n-2)\ndef fib_recursive_recursive(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    return fib(n-1) + fib(n-2)\ndef fib_recursive_recursive_recursive(n):\n    \"\"\"返回第 n 个斐波那契数",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6879
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor moves from air to the ground and to the atmosphere as it reacts with atmospheric gases. The cycle is complex, but one major process is evaporation. Evaporation is the process by which water vapor leaves the air and rises to the surface of the atmosphere. The rate of evaporation is dependent on two factors: the temperature of the air and the pressure of the air.\nThe temperature of ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1401
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through the Earth’s oceans and seas. It is a complex system that involves many processes and is influenced by many factors. Understanding the water cycle is essential for understanding the Earth’s climate, weather, and ecosystems.\nThe water cycle is a complex system that involves many processes and is influenced by many factors. Understanding the water cycle is essential for understanding the Earth’s climate, weather, and ecosystems. It is a",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4586
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived in a cozy burrow near a big forest. Every day, the rabbit would hop around and explore its meadow, but sometimes it would get scared or upset. It would notice that something felt wrong and wanted to know why. That's when wise old Mr. Owl came to visit and asked what was wrong with the rabbit.\n\nMr. Owl explained, \"Sometimes, people get angry or upset when",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " start by subtracting 3 from both sides. This gives us 2x = 11 - 3 which means that 2x = 10. We then divide both sides by 2 to get x = 5. Now we need to find the value of x that makes both sides of the equation equal. We can do this by subtracting 3 from both sides of the equation and then dividing both sides by 2. This gives us x = ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2357
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "东海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "8",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "2",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 0 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " bed",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 9",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

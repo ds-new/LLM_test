@@ -1,0 +1,20 @@
+PASS schedules wsd / 1-sqrt / cosine / linear / 步数换算
+/root/autodl-tmp/verl_megatron_sglang/decoder_from_scratch/a800/lab_selftest.py:106: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)
+  l0 = float(loss) if l0 is None else l0
+PASS optimizer_adamw loss 10.390 → 2.688，读回差 0.0e+00
+PASS optimizer_muon loss 10.390 → 3.225，读回差 0.0e+00
+PASS optimizer_soap loss 10.390 → 2.785，读回差 0.0e+00
+PASS optimizer_sf_adamw loss 10.390 → 5.140，读回差 0.0e+00
+PASS muon_rms 更新 RMS 0.170，奇异值 0.68–1.14
+PASS soap_basis 特征基正交误差 9.5e-07
+PASS schedule_free_modes eval/train 往返误差 6.0e-08
+PASS mup_init_groups m=4：q std 0.0100，o std 0.0050，嵌入 std 0.0200，lr_mult {'hidden': 0.25, 'embed': 1.0, 'vector': 1.0}
+PASS coord_check {'sp': {'embed': 0.031, 'attn': 1.709, 'ffn': 2.448, 'block': 2.174, 'logits': 0.722}, 'mup': {'embed': 0.018, 'attn': -0.085, 'ffn': -0.177, 'block': -0.09, 'logits': 0.003}}
+PASS end_to_end {'main_bpb': 3.113, 'cool_bpb': 3.2385, 'arith': 0.0, 'branch_diff': 0.0, 'resume_diff': 0.0, 'max_attn': [1.45, 2.18]}
+PASS plan {'jobs': 148, 'blocks': {'mup': 67, 'scaling': 18, 'data': 7, 'sched': 18, 'opt': 38}, 'gpu_hours_est': 178.4}
+PASS data_plan {'zh_fwedu_3_4_files': 2, 'zh_fwedu_4_5_files': 17, 'proxy_files': 252, 'arith_tokens': 174528}
+PASS ref_model_keys {'keys': 363, 'config_in_ckpt': True}
+2026-11-18 07:24:15 评测污染索引：27987 篇 v1 验证 / 测试文档
+PASS eval_decontamination {'index_docs': 27987, 'exact_hits': 40, 'edited_hits': 40, 'false_pos': 0}
+ALL PASS -> /root/autodl-tmp/lab_selftest_cpu_trpf3t0d/selftest.json

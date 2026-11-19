@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来： ai技术的演进与使用 全球人工智能研究 人工智能（英文：artificial intelligence) 世界人工智能（英文：artificial intelligence) 当前人工智能发展概况 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial intelligence) 人工智能（英文：artificial",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7898
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，已经从最初的\"人工智能\"变成了\"人工智能\"，人工智能已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"变成了\"人工智能\"。 人工智能的发展，已经从\"人工智能\"",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8599
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明拿着百花酒，又拿着鲜花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着菊花，又拿着",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9172
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用过程中，光合作用后的产物得到光合作用前的两个阶段，即光合生理作用和光合作用后光合生理作用。光合生理作用包括光合反应、光合转运、光合产物、光合途径、光合作用后光合生理作用。光合代谢包括光合作用前光合生理作用和光合转运，光合转运包括光合生理作用和光合转运。光合转运包括光合转运产物、光合转运途径和光合转运途径。光合转运途径包括光合转运途径、光合转运途径、光合转运途径、光合转运途径。光合转运途径包括光合转运途径和光合转运途径。光合转运途径包括光合转运",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4268
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "通过光合作用，把光能转化为有机物，从而实现光合作用。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用的基础。光合作用是光合作用的基础，光合作用是光合作用",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8089
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " 造纸术、火药、印刷术和印刷术， 中国四大发明中 造纸术 和火药是三大发明中 最厉害的 。 中国四大发明中 造纸术 和火药都是中国四大发明中 最厉害的 。 造纸术 和火药都是中国四大发明中最厉害的， 火药在当时最厉害的 。 火药 是火药的一种， 但火药在中国古代流传已久， 传说春秋战国时， 晋国就出现一著名的制胜工具- \" 兵鼎 \"， 用火去灭敌国， 结果竟然\" 兵鼎 \" 竟然成功了！ 要知道， 我国古代四大发明中， 火药是唯一 制胜的 。 ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1847
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它是一个发源很早的古老河流，因为它发源于长江上游的洞庭湖，中国著名的一句民谚\"鱼米之乡\"，它既属于\"鱼米之乡\"，又属于\"鱼米之乡\".在远古时期，鱼米之乡属于农耕时代，鱼米之乡是农耕时代最早的一种水稻种植地。它起源于3千多年前的黄帝时期。据资料记载，在距今4000年前的新石器时期，我国就有最早的稻谷，到了春秋时期，我国已经有了稻谷，到了战国时期，我国已有高粱，小麦，大麦，玉米等农作物，距今已有6000多年。在距今4000年前，我国有记录的第一批稻谷，距今已有5000多年，目前，我国除山东，上海，江苏，安徽，浙江等",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "学会运用，要想学好一门新语言，首先就要学会如何应用。 通过学习这门语言，不仅是为了让我们更好的学习一门新的语言，也是为了让我们更好的交流，更好的理解。学习这门语言，不光是为了让我们更好的交流，还应该让我们更好的理解。 学习这门语言，不仅是为了让我们更好的交流，还应该让我们更好的理解。 学习这门语言，不仅仅是为了让我们更好的交流，还应该让我们更好的理解。 学习这门语言，不仅是为了让我们更好的理解。 学习这门语言，不仅是为了让我们更好的理解。学习这门语言，不仅是为了让我们更好的理解。 学习这门语言，不仅仅是为了让我们更好的理解。 学习这门语言，不仅仅是为了让我们更好的理解。学习这门语言，不仅是为了让我们更好的理解。 学习这门语言，不仅是为了让我们",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6242
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "： 在直角三角形中，勾股定理表明： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8981
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "将把全市中小学幼儿园到小学（初中）阶段的所有幼儿园纳入国家\"双减\"工作范围，并纳入全市中小学生及幼儿园采购计划。市教育局相关负责人介绍，市教育局将根据\"办法\"，组织相关部门，通过现场指导，现场观摩，媒体宣传等方式，进一步加强幼儿园的素质教育，让幼儿园更好地为幼儿成长服务。\n市教育局相关负责人介绍，2018年我市将把全市中小学幼儿园到小学（初中）阶段的所有幼儿园纳入国家\"双减\"工作范围，并纳入全市中小学生及幼儿园采购计划。市教育局相关负责人介绍，2018年本市将把全市中小学幼儿园到小学（初中）阶段的所有幼儿园纳入国家\"双减\"工作范围，并纳入全市中小学生及幼儿园采购计划。\n目前，我市还将实施中小学幼儿园校舍，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.414
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "# n = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor moves through the air and is produced by the gravity of the air from a tube that is called a melt. The vapor pressure varies with how fast the air pressure is at that point, the space between the water vapor molecules (the air) and the melt. There are a lot of different ways to describe the pressure at a particular point. The pressure at a specific point in a liquid",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0955
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through the atmosphere and how it moves through the atmosphere. This is called the \"cycle of water\" cycle. The cycle of water is the cycle of water movement and the cycle of water movement is the cycle of water movement. The cycle of water movement is the cycle of water movement and the cycle of water movement is the cycle of water movement. The cycle of water movement is the cycle of water movement and the",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6306
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " wanted to make friends with their favorite animal. They loved their favorite animal because they loved it and wanted to help others understand it better. So, they decided to help out their friendship with some cool stuff.\n\nAt the sun came a little rabbit named Emily and Lucy. She said that her friend was a little rabbit named Emily and Lucy. She told her that when she was young, she would play",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1656
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of x that satisfy the equation.\n\nSince the x-intercept of the equation is (-3,-3), we can substitute that into the equation. For our equation, we have:\n\nx = 3 (x – 3) = -3 (x + 3) = 11\n\nThe x-intercept is the same as the y-intercept. So, our equation is y = 11 + 11 = 11. The answer is: -3",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0955
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "短袖",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 30 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 7",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

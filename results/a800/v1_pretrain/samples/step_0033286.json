@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来应用[M]. 吴子锋， 等。 北京： 高等教育出版社， 2020.",
+      "new_tokens": 25,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，让机器人有了\"人类\"的面孔，而机器人也拥有了\"人类\"的\"智能\"。 机器人\"智能\"的背后，是人工智能技术的进步。 人工智能技术，是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。 人工智能技术，是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。 人工智能技术，是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。 人工智能技术，是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。 人工智能技术，是",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.5987
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现公园到处是树叶，到处都是花，小明赶紧把树叶捡起来，小明再也忍不住了，把树叶扔到垃圾桶里了。小明想，小明这样会耽误工作，小明没有说，自己跑回家，把树叶扔在垃圾桶里，小明回家拿出来一看，原来是树叶，小明扔在垃圾桶里了，小明气喘吁吁地对妈妈说：\"妈妈，我扔树叶不对，都是小明扔的，我还要再扔下去！我扔树叶，是太浪费了！\"妈妈看着小明，生气地说：\"你为什么扔树叶不对呀，你扔下去的树叶都会飞出来，来年的树叶都白扔了！\"小明听了妈妈的话",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0255
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用光能将二氧化碳和水合成葡萄糖，放出氧气，以供植物利用，使植物生长发育，因而它是地球上最重要的能源之一。\n光合作用的过程是：二氧化碳分子在光的作用下分解为水和二氧化碳；光能的传递使光合细菌将二氧化碳和水合成葡萄糖，放出氧气，释放出能量。从光能的传递过程来看，光合作用是一个由光能到化学能的转换过程。\n光合作用的过程是：绿色植物利用光能将二氧化碳和水合成葡萄糖，放出氧气，以供植物利用，使植物生长发育，因而它是地球上最重要的能源之一。光合作用是一个巨大的能量转换过程，许多重要的过程都依赖于光能的转换。\n光合作用光能→化学能→电能→热能→化学",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2611
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "吸收光能，将光能转化为化学能，释放出氧的过程。光合作用包括光反应和暗反应。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能，释放出氧的过程。光反应是光能转化为化学能",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8089
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "：火药、指南针、印刷术和瓷器。火药是我国古代四大发明之一。它是在宋元火药发明的基础上改良而来的。火药是北宋（960～1046年）发明，后来经阿拉伯人传到欧洲。火药原是阿拉伯人的发明，阿拉伯人把火药用于攻城，称为“安息炮”。火药发明，是人类文明的一大进步。北宋前期，火药研制成功，用于军事，并开始用于农业生产。宋真宗时，曾大量使用火药制造火药武器，著名的“火炮”是那时出现的。以后，火药被广泛用于军事，它比铜炮的威力更大，杀伤力更加强大，它最开始被用于军事目的。由于火药在军事上起主要作用，使它在政治、经济、文化",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它流经了长江、黄河、淮河、海河、辽河和钱塘江五大流域，约占全国国土面积的13，流域面积占全国陆地面积的14。长江流域是中华文明的摇篮，也是中华民族主要的发祥地。长江流域内有33个省级行政区，其中33个地级市，15个县级市。这个流域内有28个直辖市，12个自治州，1个边疆区，7个边疆县，2个自治区，2个直辖市，3个县级市，共11个地级市，1个自治州。长江流域是一个十分独特的流域，它有长江、汉水、清江、沱江、沅水、湘江、赣江、赣江、汉水、沅水、赤",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要付出时间去学习。 学习一门语言，要花很多时间和精力，这在学任何一种语言上都一样。学习一门语言，一个小时需要30分钟，要花掉多少精力，在语言学习上，几乎是一样的。 所以，学习一门语言，需要付出时间。 三、如果读不懂，该怎么办？ 有的孩子觉得，只有学了半本以上的课文，才能看懂。 其实，只要看懂了课文，其他的内容全部都理解了。 四、如何学？ 学习一门语言，最忌死记硬背，因为死记硬背会形成死记硬背的习惯。 学一门语言，首先要学会自己动脑。 也就是说，学习一门语言，一定要想清楚学习目的。 学习一门",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0573
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：如果两直角边a,b的和大于第三边，则a2+b2=c2，即a=b+c。 (2) 若两直角边a,b的和大于第三边，则a2+b2=c2，即a=b+c。 (3) 直角三角形内角和为180°，且其中两条直线 a、b的和为90°，则a的和为c。 (4) 直角三角形内角和为180°且其中两条直线 a、b的和为90°，则a的和为c。 (5) 直角三角形内角和为180°且其中一条直线 a、b的",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4459
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "我市普通中小学一年级新生中，约有200名学生因就读于深圳市宝安学校而\"掉队\"，包括宝安学校，宝安实验学校，宝安外国语学校，福田实验学校，龙华中学，坂田外国语学校，石岩外国语学校等在内，近2000名学生将在宝安学校接受九年义务教育。\n 记者在市教育局获悉，今年我市普通中小学一年级新生中，约有200名学生因就读于深圳市宝安学校而\"掉队\"，包括宝安学校，宝安实验学校，宝安外国语学校，福田实验学校，龙华中学，坂田外国语学校，石岩外国语学校等在内，近2000名学生将在宝安学校接受九年义务教育。",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4777
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "print(fibonacci(n))\n",
+      "new_tokens": 11,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor condenses in the air to form raindrops and dust storms. When water vapor condenses in the atmosphere, the sun emits heat and energy that contributes to the formation of raindrops and storms. Because raindrops and storms can be observed with a large (up to 30) foot diameter camera, we can even see the raindrops in real time on a small screen.\nThe photo below ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1529
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is used to produce energy and how energy is used to produce water. The water cycle is the process of the water that is used to produce energy and the energy that is used to produce water. The water cycle is the process of the water that is used to produce energy and the energy that is used to produce water. The water cycle is the process of the water that is used to produce energy and the ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7006
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived near the beautiful tree named \"The Dog Rabbit.\" The dog rabbit had a special bond with its owner - she loved it very much and knew how important it was to take good care of it.\n\nOne day, the dog rabbit saw something strange happening outside her room. It was a big storm coming up! She felt scared and ran to find her lost dog. But soon, she started talking to ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0191
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " simplify the equation.\n\n$\\frac{2}{3}x + \\frac{3}{2}x = \\frac{11}{3}$\n\nmultiply each term in the equation by 3.\n\n$\\frac{2}{3}x + \\frac{3}{2}x = \\frac{11}{3}$\n\nmultiply each term in the equation by 2.\n\n$\\frac{2}{3}x + \\frac{3}{2}x = \\frac{11}{3}$\n\nmultiply each term in the equation by 2.\n\n$\\frac{2}{3}x + ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6497
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "东海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一年",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 0 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " bed",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

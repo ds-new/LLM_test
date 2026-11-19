@@ -1,0 +1,36 @@
+-------------------------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+                                                   Name    Self CPU %      Self CPU   CPU total %     CPU total  CPU time avg     Self CUDA   Self CUDA %    CUDA total  CUDA time avg    # of Calls  
+-------------------------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+## Call CompiledFxGraph fqz7ficy55r46t3z3hylyjuxxvzm...         0.00%       0.000us         0.00%       0.000us       0.000us        7.849s        70.33%        7.849s     490.539ms            16  
+                                               aten::mm         1.06%     193.678ms        22.29%        4.090s     303.210us        7.116s        63.76%        8.063s     597.798us         13488  
+## Call CompiledFxGraph f2i45vmxsla5inxyp26aln4ityyt...         0.00%       0.000us         0.00%       0.000us       0.000us        3.656s        32.77%        3.656s     228.528ms            16  
+                                    Command Buffer Full        47.72%        8.757s        47.72%        8.757s     360.799us        1.618s        14.50%        1.618s      66.673us         24271  
+ampere_bf16_s16816gemm_bf16_128x128_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us        1.545s        13.85%        1.545s     603.625us          2560  
+                        aten::_flash_attention_backward         0.08%      14.080ms         2.95%     541.387ms     845.918us        1.217s        10.91%        1.336s       2.087ms           640  
+ampere_bf16_s16816gemm_bf16_128x256_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us        1.175s        10.53%        1.175s     918.172us          1280  
+ampere_bf16_s16816gemm_bf16_128x128_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us        1.092s         9.79%        1.092s     341.372us          3200  
+ampere_bf16_s16816gemm_bf16_128x256_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us        1.091s         9.78%        1.091s     852.424us          1280  
+ampere_bf16_s16816gemm_bf16_256x128_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us        1.079s         9.67%        1.079s     557.458us          1936  
+void pytorch_flash::flash_bwd_dq_dk_dv_loop_seqk_par...         0.00%       0.000us         0.00%       0.000us       0.000us        1.012s         9.07%        1.012s       1.582ms           640  
+ampere_bf16_s16816gemm_bf16_128x256_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us     861.046ms         7.72%     861.046ms     444.755us          1936  
+                         aten::_flash_attention_forward         0.05%       8.890ms         1.10%     201.836ms     315.368us     386.152ms         3.46%     516.281ms     806.689us           640  
+void pytorch_flash::flash_fwd_kernel<Flash_fwd_kerne...         0.00%       0.000us         0.00%       0.000us       0.000us     386.152ms         3.46%     386.152ms     603.363us           640  
+triton_poi_fused__unsafe_view_add_fill_mul_sigmoid_s...         0.04%       6.452ms         1.52%     279.011ms     435.955us     342.934ms         3.07%     342.934ms     535.834us           640  
+triton_poi_fused__unsafe_view_add_fill_mul_sigmoid_s...         0.00%       0.000us         0.00%       0.000us       0.000us     342.934ms         3.07%     342.934ms     535.834us           640  
+triton_per_fused__to_copy__unsafe_view_add_mean_mul_...         0.09%      16.826ms         1.31%     240.825ms     192.969us     288.866ms         2.59%     428.764ms     343.561us          1248  
+triton_per_fused__to_copy__unsafe_view_add_mean_mul_...         0.00%       0.000us         0.00%       0.000us       0.000us     288.866ms         2.59%     288.866ms     231.464us          1248  
+triton_per_fused__to_copy_add_div_expand_mul_pow_sum...         0.04%       8.117ms         0.06%      11.094ms      17.779us     237.366ms         2.13%     237.366ms     380.395us           624  
+triton_per_fused__to_copy_add_div_expand_mul_pow_sum...         0.00%       0.000us         0.00%       0.000us       0.000us     237.366ms         2.13%     237.366ms     380.395us           624  
+triton_per_fused__to_copy_add_div_expand_mul_pow_sum...         0.04%       7.575ms         1.29%     236.224ms     378.564us     216.208ms         1.94%     216.208ms     346.487us           624  
+triton_per_fused__to_copy_add_div_expand_mul_pow_sum...         0.00%       0.000us         0.00%       0.000us       0.000us     216.208ms         1.94%     216.208ms     346.487us           624  
+               triton_poi_fused__unsafe_view_mul_silu_9         0.03%       5.096ms         0.65%     119.333ms     186.458us     206.526ms         1.85%     342.567ms     535.261us           640  
+               triton_poi_fused__unsafe_view_mul_silu_9         0.00%       0.000us         0.00%       0.000us       0.000us     206.526ms         1.85%     206.526ms     322.696us           640  
+ampere_bf16_s16816gemm_bf16_256x128_ldg8_f2f_stages_...         0.00%       0.000us         0.00%       0.000us       0.000us     141.435ms         1.27%     141.435ms       8.840ms            16  
+          triton_red_fused__to_copy_add_mul_sum_view_15         0.04%       7.888ms         0.29%      53.069ms      85.046us     139.000ms         1.25%     139.000ms     222.756us           624  
+          triton_red_fused__to_copy_add_mul_sum_view_15         0.00%       0.000us         0.00%       0.000us       0.000us     139.000ms         1.25%     139.000ms     222.756us           624  
+void pytorch_flash::flash_bwd_dot_do_o_kernel<true, ...         0.00%       0.000us         0.00%       0.000us       0.000us     119.972ms         1.08%     119.972ms     187.456us           640  
+                                            aten::copy_         0.06%      11.644ms         1.10%     202.279ms     308.352us     119.036ms         1.07%     119.049ms     181.477us           656  
+void at::native::elementwise_kernel<128, 4, at::nati...         0.00%       0.000us         0.00%       0.000us       0.000us     118.819ms         1.06%     118.819ms     185.654us           640  
+-------------------------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+Self CPU time total: 18.351s
+Self CUDA time total: 11.160s

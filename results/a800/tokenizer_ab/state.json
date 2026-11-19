@@ -1,0 +1,187 @@
+{
+  "phase": "done",
+  "failures": 0,
+  "started": "2026-11-16 14:30:42",
+  "hours": {
+    "sample": 0.053,
+    "tokenizer": 0.316,
+    "build": 0.751,
+    "val": 0.0,
+    "train_v1": 4.801,
+    "train_v2": 4.217,
+    "eval": 0.062,
+    "report": 0.0
+  },
+  "results": {
+    "sample": {
+      "chars": 586932812,
+      "files": {
+        "zh_cci3": 5,
+        "zh_fwedu": 128,
+        "zh_industry": 2,
+        "en_fwedu": 1,
+        "en_cosmo": 1,
+        "code": 2,
+        "math": 2
+      }
+    },
+    "tokenizer": {
+      "minutes": 18.9,
+      "vocab": 32000,
+      "examples": {
+        "12345 + 678 = 13023": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Ġ+",
+          "Ġ",
+          "6",
+          "7",
+          "8",
+          "Ġ=",
+          "Ġ",
+          "1",
+          "3",
+          "0",
+          "2",
+          "3"
+        ],
+        "Hello world, this is a test of the tokenizer.": [
+          "Hel",
+          "lo",
+          "Ġworld",
+          ",",
+          "Ġthis",
+          "Ġis",
+          "Ġa",
+          "Ġtest",
+          "Ġof",
+          "Ġthe",
+          "Ġtoken",
+          "izer",
+          "."
+        ],
+        "人工智能的发展非常迅速。": [
+          "äººå·¥æĻºèĥ½",
+          "çļĦåıĳå±ķ",
+          "éĿŀå¸¸",
+          "è¿ħéĢŁ",
+          "ãĢĤ"
+        ],
+        "def foo(x):\n    return x * 2\n": [
+          "def",
+          "Ġf",
+          "oo",
+          "(x",
+          "):Ċ",
+          "ĠĠĠ",
+          "Ġreturn",
+          "Ġx",
+          "Ġ*",
+          "Ġ",
+          "2",
+          "Ċ"
+        ]
+      }
+    },
+    "build": {
+      "tokens_v1": 2887859914,
+      "tokens_v2": 2448548968,
+      "totals": {
+        "zh_cci3": {
+          "tokens_v1": 738011470,
+          "tokens_v2": 703754992,
+          "docs": 516177,
+          "chars": 1154901109,
+          "bytes": 3288241033
+        },
+        "zh_fwedu": {
+          "tokens_v1": 352757795,
+          "tokens_v2": 337981878,
+          "docs": 204503,
+          "chars": 593602599,
+          "bytes": 1695460207
+        },
+        "zh_industry": {
+          "tokens_v1": 454810523,
+          "tokens_v2": 426472841,
+          "docs": 548352,
+          "chars": 671648243,
+          "bytes": 1883188960
+        },
+        "en_fwedu": {
+          "tokens_v1": 495441209,
+          "tokens_v2": 319410955,
+          "docs": 250368,
+          "chars": 1205760671,
+          "bytes": 1210611498
+        },
+        "en_cosmo": {
+          "tokens_v1": 192585423,
+          "tokens_v2": 120716564,
+          "docs": 140288,
+          "chars": 524634256,
+          "bytes": 525181294
+        },
+        "code": {
+          "tokens_v1": 352089815,
+          "tokens_v2": 293898349,
+          "docs": 529922,
+          "chars": 828332609,
+          "bytes": 831301155
+        },
+        "math": {
+          "tokens_v1": 227070711,
+          "tokens_v2": 159637830,
+          "docs": 101020,
+          "chars": 494425861,
+          "bytes": 500321247
+        },
+        "arith": {
+          "tokens_v1": 75092968,
+          "tokens_v2": 86675559,
+          "docs": 216064,
+          "chars": 110580563,
+          "bytes": 123981608
+        }
+      }
+    },
+    "val": {
+      "docs": 2313,
+      "roundtrip_checked": 50,
+      "roundtrip_mismatch": 0
+    },
+    "train_v1": {
+      "steps": 11016,
+      "tokens": 2887778304,
+      "train_hours": 4.8,
+      "tok_s": 167237,
+      "final_loss": 2.6462
+    },
+    "train_v2": {
+      "steps": 9340,
+      "tokens": 2448424960,
+      "train_hours": 4.21,
+      "tok_s": 161401,
+      "final_loss": 3.1583
+    },
+    "eval": {
+      "v1": {
+        "bpb_weighted": 1.0563,
+        "arith_mean": 0.8912
+      },
+      "v2": {
+        "bpb_weighted": 1.0629,
+        "arith_mean": 0.9681
+      }
+    },
+    "report": {
+      "verdict": "**差异不大：路线 A 优先，v2 留作下一代模型时再换**",
+      "bpb_gain": -0.0062,
+      "arith_v1": 0.8912,
+      "arith_v2": 0.9681
+    }
+  }
+}

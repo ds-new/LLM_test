@@ -229,7 +229,7 @@ python -m decoder_from_scratch.multiagent.loop restart   # 改代码后保存并
 
 ## A800 阶段
 
-这一阶段的代码在服务器的 `decoder_from_scratch/a800/`（多智能体 loop、路线 A、实验室、机理分析），还没有同步到本仓库；下面记录设计、结果和踩过的坑。所有实验都遵守同一条原则：固定数据、模型和 token 预算，一次只改一个变量，用与分词无关的 bits/字节比较，并用种子噪声判断差异是否真实。
+代码在 [`a800/`](a800/)（模块说明见 [`a800/README.md`](a800/README.md)），每次运行的报告、日志和图在 [`results/a800/`](../results/a800/)，设计文档和过程记录在 [`docs/a800_plan/`](docs/a800_plan/)。下面记录设计、结果和踩过的坑。所有实验都遵守同一条原则：固定数据、模型和 token 预算，一次只改一个变量，用与分词无关的 bits/字节比较，并用种子噪声判断差异是否真实。
 
 ### 1. v1 基座模型：0.48B 参数、25B token
 
@@ -339,7 +339,7 @@ python -m decoder_from_scratch.multiagent.loop restart   # 改代码后保存并
 
 ### 7. 打开 v1 看一看：机理分析与推理侧实验
 
-只做前向，数据是 v1 的验证集；分析代码算出的加权验证 loss 2.288，与训练时报告的 2.2879 一致。
+只做前向，数据是 v1 的验证集；分析代码算出的加权验证 loss 2.288，与训练时报告的 2.2879 一致。完整报告和 9 张图在 [`results/a800/mech/REPORT.md`](../results/a800/mech/REPORT.md)。
 
 | 实验 | 发现 |
 |---|---|
@@ -394,18 +394,25 @@ python -m decoder_from_scratch.multiagent.loop restart   # 改代码后保存并
 │   ├── runtime.py  infer.py        # 加载检查点与命令行推理
 │   ├── configs/scale_sources_v1.json   # 数据源（ModelScope 路径、sha256）
 │   ├── MULTIAGENT_LOOP.md
-│   └── multiagent/                 # 五智能体 loop
-│       ├── decision_agent.py  data_agent.py  cleaning.py
-│       ├── architect_agent.py  bench_worker.py  trainer_agent.py  eval_agent.py
-│       ├── smoke.py  common.py  loop.py  run_loop.sh
+│   ├── multiagent/                 # Mac 阶段：五智能体 loop
+│   │   ├── decision_agent.py  data_agent.py  cleaning.py
+│   │   ├── architect_agent.py  bench_worker.py  trainer_agent.py  eval_agent.py
+│   │   ├── smoke.py  common.py  loop.py  run_loop.sh
+│   ├── a800/                       # A800 阶段：六智能体 loop、路线 A、实验室、机理分析（见 a800/README.md）
+│   └── docs/a800_plan/             # A800 阶段的设计文档和过程记录（00–08）
 ├── tokenizer_training/             # 纯 Python 字节级 BPE 训练工程
 └── results/
     ├── figures/                    # 本 README 的图
-    └── multiagent_pretrain_v1/     # 本次运行的全部记录
-        ├── REPORT.md  config.json  state.json
-        ├── train_log.jsonl  eval_history.jsonl  events.jsonl
-        ├── samples/  tokenizer/  logs/
+    ├── multiagent_pretrain_v1/     # Mac 阶段运行的全部记录
+    │   ├── REPORT.md  config.json  state.json
+    │   ├── train_log.jsonl  eval_history.jsonl  events.jsonl
+    │   ├── samples/  tokenizer/  logs/
+    └── a800/                       # A800 阶段每次运行的记录（见 results/a800/README.md）
+        ├── v1_pretrain/  tokenizer_ab/  ablation_lr_seed/  data_eng/
+        └── route_a_cpt/  mech/  lab_selftest/
 ```
+
+模型权重、检查点和 token 分片太大，没有放进仓库。
 
 ## 许可
 

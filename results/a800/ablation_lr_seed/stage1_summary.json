@@ -1,0 +1,12 @@
+{
+  "tok": "v1",
+  "sigma_bpb": 0.0020518284528683152,
+  "sigma_arith": 0.006527633568147056,
+  "mean_bpb": 1.0543000000000002,
+  "best_lr": 0.002,
+  "best_lr_at_edge": false,
+  "best_lr_significant": false,
+  "ab_bpb_diff": -0.0066,
+  "ab_arith_diff": 0.0769,
+  "v2_significant": false
+}

@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来，人们越来越关注，因为人工智能对全球经济的推动作用不可忽视。但是，人工智能对经济发展的影响也不仅仅是简单的应用，而是对经济发展的全方位影响，体现在产业层面、消费层面、创新层面、基础设施层面和生态层面等。 人工智能是包括语音、图像、语言处理等在内的综合型技术，是包括机器学习、计算机视觉、自然语言处理等在内的跨学科技术，是包括机器人、3d打印、大数据、云计算、人工智能硬件等在内的众多领域的集成技术。人工智能对经济发展的影响是多方面的，但最重要的影响是推动产业变革，以人工智能为代表的智能化技术，将推动社会生产组织方式的智能化转型，促进社会生产效率的提升，促进社会生产结构的优化升级，为经济发展注入新的动力。 人工智能对经济发展的作用是多",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0255
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，让机器人有了更多的可能。 机器人是人工智能的载体，人工智能是机器人发展的基础。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。 人工智能的发展，让机器人有了更多的可能。",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8471
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现百花盛开，花丛中有一朵粉色的花，可真美啊！花丛中的蝴蝶在飞舞，蝴蝶飞在花丛上，美丽极了，小明看见蝴蝶在花丛中飞舞，小明问蝴蝶为什么在花丛中飞舞呢？蝴蝶说：\"因为春天来了，百花盛开。\"小明听了，连忙说：\"花丛中不仅有百花盛开，还有许多小草、小花、小草和小草的花，你知道是什么原因吗？\"小明想了想，说：\"是春天来了，人们都穿上了新衣服，花丛里少了花，所以花丛中的小草、小花、小草和小草的花都死了。\"小明听了，想起了自己",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0892
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用光能将二氧化碳和水转化为有机物，而同化作用是指植物利用同化作用将有机物转化为无机物，光合作用与同化作用是地球上存在两种最主要的植物能量转换方式。\n光合作用\n光合作用（Photosynthesis）又称光反应，是指绿色植物利用光能将二氧化碳和水转化为有机物，将太阳能转化为化学能的过程。它包括两种基本反应类型：一、将二氧化碳和水转化为有机物；二、将有机物转化为无机物。\n植物光合作用类型\n光合作用受光、水、温度、二氧化碳、有机物等条件的影响，在一定范围内，可出现多种光合作用类型。\n（一）光合作用类型\n光合作用按光反应类型不同",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1338
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用光能，将二氧化碳和水转化为有机物，并释放出氧气的过程。光合作用包括光反应和暗反应，光反应是绿色植物利用光能，将二氧化碳和水转化为有机物，并释放出氧气的过程。暗反应是绿色植物利用光能，将有机物转化为糖类、氨基酸、核酸等物质，并释放出氧气的过程。光合作用对绿色植物的生长和发育至关重要，是植物生命活动的基础。光合作用对绿色植物的生长和发育至关重要，是植物生命活动的基础。光合作用对绿色植物的生长和发育至关重要，是植物生命活动的基础。光合作用对绿色植物的生长和发育至关重要，是植物生命活动的基础。光合作用对绿色植物的生长和发育至关重要，是植物生命活动",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.5796
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " 指南针、火药、造纸术和活字印刷术 。 指南针 是古代中国四大发明之一，也是世界上最早出现的指南针。 火药 是宋代人发明的，它是中国古代用于军事用途的最早发明，亦称\"火枪\"。 造纸术 是西汉时期的一项发明创造，它由蔡伦改进的。 活字印刷术 是雕版印刷的开始，由德国人谷登堡于1799年发明的。 从以上的介绍中，我们可以看出中国古人造物是有很多的技巧的，而且这些技巧还是很厉害的，可以说是非常高的，这足以说明中国是世界上发明的最多的国家，让我们中国拥有很多的高科技成果。 小编在百忙之中抽出时间，整理了一些知识，望能",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "由长江与黄河、钱塘江、嘉陵江等支流交汇而成。长江流域流域面积约占全国国土面积的13，人口占全国总人口的14，经济总量占全国的13。 长江是中华民族文明的发源地，也是世界上唯一的一条流经亚洲、连通非洲大陆的河流。 长江流域和黄河流域一样，也是我国人口最稠密、经济最发达、文化最多元、生态最脆弱、自然灾害最频繁的地区之一。 长江流域是我国地势最高、面积最大、人口最多的地区。 长江流域是我国经济最发达、人口最多的地区。 长江流域是我国文化最丰富、文明程度最高、自然环境最完美、社会经济发展最活跃的地区之一。 长江流域是我国少数民族最多的地区。 长江流域是我国自然灾害",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1146
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要付出汗水， 只有坚持不懈， 才能达到事半功倍的效果。 任何一种语言的学习， 都是学习的过程， 只有在不断的练习中， 才能掌握学习语言的基本规律。 3、 培养兴趣 兴趣是学习语言最基本的动力， 有了兴趣， 才能使学生产生强烈的求知欲望， 积极主动地学习语言。 在具体的教学中， 教师要针对学生的年龄、 心理特征， 精心设计好课堂环节， 通过多种教学形式， 激发学生的学习兴趣， 把学生带入到学习中来。 4、 加强辅导 语言学习中的练习， 并不是每一堂课都有。 因此， 教师在进行语言训练时， 必须加强辅导工作， 加强学习方法的指导， 帮助学生",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：∠AOD=∠BOC。\n∠AOD=∠BOC，说明直角三角形两边之和等于斜边的一半。\n∠AOD+∠BOC=180°\n∠AOD=∠BOC，说明直角三角形两边之和等于斜边的一半。\n求证：∠AOD=∠BOC\n∵∠AOD=∠BOC，∴∠AOD=∠BOC\n∴∠AOD=∠BOC，∴∠AOD=∠BOC\n∴∠AOD=∠BOC\n∵∠AOD=∠BOC，∴∠",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6497
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "将全面落实\"双减\"政策，抓好\"五项管理\".\"五项管理\"包括：落实作业管理，规范教师教学行为；落实课后服务管理，确保课后服务覆盖范围；落实作业总量管理，减轻学生作业负担；落实课后服务场地管理，确保课后服务设施配置完备；落实课后服务经费管理，确保课后服务经费足额足额发放。",
+      "new_tokens": 80,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0909
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "fibonacci(n)\n",
+      "new_tokens": 9,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves from the ground to the surface. Water changes from liquid to a gas and then back to liquid. The water cycle also describes the flow of water over a larger area. Water is the most common substance that flows through the water cycle in all types of environments. All water is in the water cycle.\nThe water cycle describes how water moves from the ground to the surface and back to the surface. The water cycle",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1975
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through the Earth’s surface and how it changes over time. Water is a key component of the Earth’s ecosystem and is essential for life on Earth. Water is also a key component of the water cycle because it is the main source of fresh water for the Earth. Water is also a key component of the water cycle because it is the main source of fresh water for the Earth. Water is also a ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4459
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived in a cozy burrow near a big forest. One day, while playing near the forest, he saw a big ol' tree nearby. He picked up some branches and ran towards the tree, just like you might have seen your favorite tree before. You know how excited you are when you see a tree? It will feel soft and soft to you, right?\n\nRabbit decided to ask his friend, Owl who",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0127
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " simplify the equation.\n\n2x + 3 = 11 is the equation of the line that passes through the points (2, -3). To find the slope of this line, we can use the equation of a line (m) and find the slope of the line (b) by using the formula m = k / b where k is the constant of integration and b is the constant of integration.\n\nNow, we can substitute ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1783
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "东海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "6",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 0 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " the gym",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

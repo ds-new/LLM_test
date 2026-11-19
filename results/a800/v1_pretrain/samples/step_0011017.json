@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来趋势[M]. 2017. 4.\n[4] . 2018. 《世界人工智能大会：人工智能技术对社会的改变》 。\n[5] . . 2018. 《人工智能时代： 人工智能、机器学习、深度学习》 。\n[6] . . 2017. 《人工智能与科技的进步》 。\n[7] . . 2018. 《人工智能： 人工智能技术与应用》 。\n[8] . . 2018. 《人工智能： 人工智能技术发展报告》 。\n[9] . . 2018. 《人工智能： 人工智能技术研究进展报告》 。\n[10] . . ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3503
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，离不开人工智能的算法，人工智能算法的进步，离不开人工智能的算法。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能算法的进步，离不开人工智能算法的进步。人工智能",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.879
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现公园里有很多的亭子，就像亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子里的亭子，亭子里面有亭子",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8662
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用过程中，叶绿体把二氧化碳和水合成有机物，生成有机酸等有机物，经过光合作用形成能量的过程。\n光合作用是地球上最主要的一种生物作用，是地球上生物圈中不可缺少的一种生物形式。\n光合作用包括光合色素的合成和呼吸作用。\n光合色素是色素颗粒中的一种，它们与周围氧气发生作用，使细胞内的各种物质进行分解，释放氧气。\n光合色素是绿色植物光合作用中一种重要的酶类，它通常由叶绿体，类胡萝卜素，叶绿素组成。\n叶绿体是叶绿体中色素颗粒中一种特殊的细胞器。叶绿体中一些酶类，如叶绿素，胡萝卜素等，能够直接利用",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0446
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "把二氧化碳和水合成有机物，把无机物分解为有机物，把有机物合成有机物，把无机物分解为无机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成有机物，把有机物合成有机物，把无机物合成",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8535
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "：指南针、火药、造纸术和印刷术，四大发明是人类历史上四大发明中的一件，比火药发明早了四百多年。 火药是由火药发明人改进的，是一个军事武器，用于点着火药枪管的火药，火药最早用于欧洲。火药火药的发明者是火药，欧洲的金属锻造厂，火药的生产、使用，都得依靠火药。火药在战场上的应用，也促进了火药的发展。火药把枪管上的火药球枪管火药火药，一枪到底的枪管，一枪当有一年的使用期限，一枪当有一年的使用期限，这叫做\"年\"。 火药又叫大炮，中国是火药最早发明国，火药在军事上应用比较广泛。火药是古代人民在劳动过程中",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0382
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它支流众多，上溯至远古长江流域，下通渤海湾，沟通黄淮平原和淮河平原，总长超过700多公里。长江流域东西两岸的面积约占中国陆地总面积的40%，黄河流域面积约占中国陆地总面积的21%，长江流域是中国最大的河流，长江流域面积约为中国的34%。长江流域水资源丰富，水能资源丰富。长江流域境内河川径流为世界之最，长江三峡的建成通水，使长江中下游两岸的水文资源得以有效开发，具有开发潜力。 1.1.1 地质 1.1.2 地质构造 1.1.3 地质运动 1.1.4 构造运动 1.2 流域面积 长江流域面积",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0701
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要提高自己的逻辑思维能力。 逻辑思维，是用语言来思考、分析、解决问题的一种思维方式。 逻辑思维的能力对学习英语有极其重要的意义。 而学英语也是逻辑思维的体现。 在汉语中有一种语言叫\"汉语\"，汉语就是一种语言，汉语就是用汉语来思考、分析、解决问题的语言。 所以，学好英语，就要提高自己的逻辑思维能力。 在汉语中，有一种语言叫\"汉语\"，汉语就是一种语言，汉语就是用汉语来思考、分析、解决问题的语言。 学习英语也要提高自己的逻辑思维能力。 而学英语也是逻辑思维的体现。 在汉语中有一种语言叫\"汉语\"，汉语就是一种语言，汉语就是用汉语来思考、分析、解决问题的语言。 所以，学好英语，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4522
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：一个直角三角形的中点，在两个直角三角形中，中点间的距离的平方，与这两个三角形的中点之间的距离的平方，就称为直角三角形的中点到直角边的距离。直角三角形的中点到直角边的距离，根据这个中点到直角边所行的直线长度，可求出弧的半径，即弧长，直角三角形的中点到直角边的距离，可写成弧的半径，即弧长，直角三角形的中点到直角边的距离，可写成弧的半径，即弧长，这表明直角三角形的中点到直角边的距离，与直角三角形的中点到直角边的距离的平方，就为直角三角形的中点到直角边的",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4331
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "秋季学期开学以来，市实验小学新生入学后首次开展\"新生报到\"工作，由班主任和政教处共同组织，专门对新生报到，行前培训，新生入园，新生入队，新生入队前报到，新生入队入队，新生入队后报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报到，新生入学报",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.5987
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "fib = fibonacci(2)\nprint(fib)\n",
+      "new_tokens": 20,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "fibonacci(3)\nfibonacci(5)\nfibonacci(7)\nfibonacci(11)\nfibonacci(13)\nfibonacci(17)\nfibonacci(19)\nfibonacci(23)\nfibonacci(29)\nfibonacci(31)\nfibonacci(37)\nfibonacci(41)\nfibonacci(49)\nfibonacci(53)\nfibonacci(59)\nfibonacci(89)\nfibonacci(99)\nfibonacci(101)\nfibonacci(103)\nfibonacci(107)\n",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4713
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor moves from the land surface to the subsurface as the water moves across the land surface. The water vapor moves in the form of water vapor from the water vapor of the land surface to the surface of the water vapor of the land surface. The water vapor is made up of two basic hydrogen atoms: water and oxygen. Water is a substance of life, and the oxygen in ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3312
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through the soil and the water cycle is the process of how water moves through the soil and water cycle. The water cycle describes how water moves through the soil and water cycle. The water cycle describes how water moves through the soil and water cycle. The water cycle describes how water moves through the soil and water cycle. The water cycle describes how water moves through the soil and water cycle. The water cycle describes ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7452
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived in a cozy burrow called the burrow. One day, the rabbit decided to play outside and explore the forest. They saw that the burrow was full of tall trees, and they wanted to go inside. But soon, they found out that the burrow was empty!\n\nWhen the rabbit returned to the burrow, he looked worriedly at the tall trees and said, \"I see that your burrow is full ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1083
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of x that make the equation equal to zero and solve for x. The first thing we need to do is plug the x values into the second equation to determine the y-value of the equation that is equal to zero. Once we have determined the y-value of the equation that is equal to zero, we can then use that to find the y-value of the solution. Once we have",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2675
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 100 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " bed",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " NaCl",
+      "answer": " H2O"
+    }
+  ]
+}

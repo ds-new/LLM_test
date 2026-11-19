@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "\n利用人工智能技术 将信息传输到网络，从而通过 神经网络（OA) 训练模型。\n随着 计算机硬件技术 逐渐发展， 优化算法策略是数字化、人机交互的终极方案。\n\n通过深度学习、机器学习、学习、机器学习、计算机视觉、电子技术、信息处理、人机交互、物理、生物、信息处理、神经网络等现代化技术， 使 AI 技术成为人们日常生活中不可缺少的关键环节。\n2. 人工智能技术\n从人工智能技术的发展发展来看，人工智能技术主要以算法为核心， 将人工智能技术称为 AI 技术。\n随着人工智能技术的发展， ai 技术可 可 可获得大量、客观和全面的记忆， 从而为计算机技术、 计算机技术、 计算机硬件、",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0318
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，人工智能的发展，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9809
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "我也带我们去了许多户外活动，从小到大的身体和身体的各个部分，除了小夜，小夜会小，会跟我们一起发现小明了，小明到了，小明也是会走路，小明在他身边，小明跟我们一起，会说话。 小明长大了，小明会走来，小明是小明的，小明和妈妈来到了小明，小明长大了，小明到小明去了，小明长大了，小明长大了，小明长大了，小明长大了，小明长大了，小明长大了，小明在我们的面前敲碎了，小明长大了，小明长大了，小明长大了，小明长大了，小明",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3567
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用，光合作用主要由光合作用转变为光合作用。光合作用指光合作用为光合作用，光合作用指光合作用之光合作用。光合作用指光合作用指光合作用即光合作用，光合作用指光合作用指光合作用。光合作用指光合作用，光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指光合作用指",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7962
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "在光合作用下，通过光合作用，使光合作用达到平衡，从而产生光合作用。光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8089
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " 19 世纪末至 10 世纪 。在 17 世纪初 到 16 世纪初，欧洲开始建立起了 18 世纪 的工业国家，并开始派往欧洲和欧洲。18 世纪中期，英国和英国的工业发展状况明显好转。19 世纪，英国和德国进入工业国家，将得到发展。而英国和德国，也出现了“工业国家”。1 70年代，英国和英国建立工业国家，建立工业国家。19 世纪初，英国和英国通过联合共和国，成为当时国际工业国，并开始从事工业工业。19 世纪初，英国和德国开始着手 19 世纪 ，开始进行工业国家。19 世纪 ，英国和英国向西方发展。19 世纪初，英国",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0955
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它是一个有着数千年的积淀，不过它的价值是非常巨大的。它一直处在世界各地，有着无数的保留，它的总价值又远远比它高出很多。而它从来不谈别的，它就会成为世界上的最有代表性的民族之一。 现代大学有高等学府和博士学堂。其校名\"萨拉金\"(naf)是一所英国首府，位于巴黎。 英国为世界高等教育机构之一，它曾是欧洲重要的学府，世界高等教育机构之所在。 大学是世界大学，也是世界各国高等教育机构之一，仅次于欧洲和西欧。它的研究生是德国学者，美国大学的教育委员会为学校的最重要的研究机构。英国是世界大学史上第一个国家，是全世界最著名的大学之一。英国在世界大学中占有很大比例。",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "学会运用这些知识， 使学习变得更加轻松， 使学习者认识到学习的重要性，也了解学习者所学习的知识，对学习有充分的了解。\n因此，学习教育工作者要注意学习各方面的知识。\n3、学习教育者要能够有效地掌握学习的过程，并对其行为的正确处理。\n4、学习知识，掌握学习的方法。\n5、学习知识的运用，能有效的利用知识解决问题，从而解决实际问题。\n6、能够全面了解学习的内容。\n7、对学习的方法，并能针对学习内容进行学习。\n8、学习的内容和形式应尽量做到适当地进行， 达到学习目的。\n9、掌握学习的内容，并掌握学习的内容。\n10、学习相关知识，学习相关知识。\n学习知识必须具备一定的学习",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "，小板的形态，在正中三角或直角三角形中，是围绕三角形而展开的，它的方向与右边的三角形完全相反。 在正中三角轴上，把三角形转换为右边的三角形，同时形成正中三角三角形，由正中三角三角形中，向左边的三角形过渡，使得向左边的三角形从右边的三角形中先后发生，这个三角形的颜色由上边，而不是由右边，故称为\"三角形\"。 圆锥中带正中三角形的红色，圆锥中带正中三角形的红色，圆锥中带正中三角形的红色，系指尖中带正中三角形的红色。 圆锥中带正中三角形的红色，系指尖中带正中三角形的红色",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2675
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "七月初五日，市教育局召开了市第三批\"新工科\"试点工作会议。 为了进一步贯彻落实\"市委，市政府关于深化\"高教，高教，高教\"工作的精神，按照\"关于进一步加强高教科研，加强新时代人才政策\"的要求，进一步规范相关专业人才人才培养，助力高教高质量发展，根据\"关于深化\"高教\"工作的要求，按照\"深圳市委，市政府关于印发关于加强\"高教\"工作的意见\"要求，进一步落实\"高教\"工作的部署，将有关重大课题申报资格和\"推进\"高教\"工作纳入我省教育创新发展战略和\"十三五\"规划目标，再进一步为全省教育事业发展贡献力量。 深改了工作思路，明确了\"实施高教工程\"工作",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0701
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "# n = n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n - n ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9427
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapors flow across the fluid and to the water be obtained by a pump of oxygen (U) and the water vapors in the form of water (U) are water vapors in the form of water vapors and chemicals to the water. The water with a water that does not break the water is required to sulfate water.\nThe water is replaced by a water that starts with water.\nThe water can ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2739
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " is absorbed by the water to the water and the water is absorbed by the water to the water. The water is absorbed by the water to the water and the water is absorbed by the water to the water. The water is absorbed by the water to the water and the water is absorbed by the water. The water is absorbed by the water to the water and the water is absorbed by ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8408
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " wanted to make a tree named \"The Dough.\"\nIn the late 1950s, there were many different things we need to do to keep the tree in the past for years.\nIn 1900, with a 5.5 gallon of water that is being shallow, the most common symptom in the world is that of the calories of water, though its far under the water can be discovered by many physical processes.\nThe old earth",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0191
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " simplify the equation 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = 2x + 3 = ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9045
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "南方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "蒸汽机",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "凉鞋",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给学生上课",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "4",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "360度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "2",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 100 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Earth",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " chick",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 3",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "皮肤",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " CO2",
+      "answer": " H2O"
+    }
+  ]
+}

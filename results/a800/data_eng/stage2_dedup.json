@@ -1,0 +1,72 @@
+{
+ "status": "done",
+ "generated": "2026-11-17 23:11:50",
+ "threshold": 0.03,
+ "exclude_path": "/root/autodl-tmp/data_eng/stage2_exclude.npz",
+ "sources": {
+  "zh_cci3": {
+   "stage2_docs": 658482,
+   "dup_rate_chars": 0.0021,
+   "dup_rate_docs": 0.002,
+   "eval_docs": 2,
+   "eval_rate_chars": 0.0,
+   "apply_dup": false,
+   "drop_rate": 0.0
+  },
+  "zh_fwedu": {
+   "stage2_docs": 427684,
+   "dup_rate_chars": 0.32,
+   "dup_rate_docs": 0.2731,
+   "eval_docs": 224,
+   "eval_rate_chars": 0.00059,
+   "apply_dup": true,
+   "drop_rate": 0.3206
+  },
+  "zh_industry": {
+   "stage2_docs": 1271064,
+   "dup_rate_chars": 0.0517,
+   "dup_rate_docs": 0.0394,
+   "eval_docs": 586,
+   "eval_rate_chars": 0.00035,
+   "apply_dup": true,
+   "drop_rate": 0.0521
+  },
+  "en_fwedu": {
+   "stage2_docs": 795452,
+   "dup_rate_chars": 0.0001,
+   "dup_rate_docs": 0.0001,
+   "eval_docs": 0,
+   "eval_rate_chars": 0.0,
+   "apply_dup": false,
+   "drop_rate": 0.0
+  },
+  "en_cosmo": {
+   "stage2_docs": 1118430,
+   "dup_rate_chars": 0.0126,
+   "dup_rate_docs": 0.0109,
+   "eval_docs": 18,
+   "eval_rate_chars": 2e-05,
+   "apply_dup": false,
+   "drop_rate": 0.0
+  },
+  "code": {
+   "stage2_docs": 1057492,
+   "dup_rate_chars": 0.0002,
+   "dup_rate_docs": 0.0002,
+   "eval_docs": 0,
+   "eval_rate_chars": 0.0,
+   "apply_dup": false,
+   "drop_rate": 0.0
+  },
+  "math": {
+   "stage2_docs": 434331,
+   "dup_rate_chars": 0.0527,
+   "dup_rate_docs": 0.0486,
+   "eval_docs": 28,
+   "eval_rate_chars": 7e-05,
+   "apply_dup": true,
+   "drop_rate": 0.0528
+  }
+ },
+ "failed_files": []
+}

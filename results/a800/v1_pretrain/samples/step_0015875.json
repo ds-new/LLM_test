@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "及其未来\n人工智能是指通过研究计算机智能的理论和方法，通过模拟、延伸和扩展人的智能而制造出的机器。\n人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法和技术的科学。\n人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法和技术的科学。\n人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法和技术的科学。\n人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法和技术的科学。\n人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法和技术的科学。\n人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法和技术的科学。\n人工智能的三个要素：\n人工智能的核心是人脑。\n人的大脑",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6624
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步，使得机器能够像人类一样思考，并能够像人类一样思考。\n人工智能的进步",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8854
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现老是下雨，妈妈赶紧拉着小明，走到了花园里，小明看见妈妈的衣服湿了，很想去帮妈妈洗衣服，可小明却说：\"妈妈，我不想洗。\" 妈妈的眼泪说：\"哎呀，我怎么了，我不想洗澡啊，快给我换衣服。\" \"好了，我帮你，你帮我把衣服洗干净！\"小明开始洗了，小明拿起水壶，从水里倒了一会儿，然后拿起洗洁精，冲了小明。 洗完衣服后，小明再仔细的看看小明，发现小明眼睛耷拉着，小明又想去看看，就问小明：\"爸爸，小明怎么了？\" 小",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用的产物中养分的同化、输运和转化，主要是利用叶绿素的光合作用，以及利用光合产物和呼吸作用，从大气中吸收养分，合成植物自身需要的有机物，以供生命活动的需要。\n光合作用包括两个阶段，第一阶段为有丝分裂阶段，即从叶绿体开始，逐渐增大，使原来由绿色变成绿色，同时，叶绿体逐步增大，使原来蓝绿色变成蓝绿色，并逐渐由浅绿、淡绿转变为青绿、黄绿。第二阶段为后期有丝分裂阶段，即从细胞中伸出色素细胞，从色素细胞中伸出细胞质，从细胞质中伸出粗面内质网，使色素细胞变黑，使",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0382
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色植物通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色植物通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色植物通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色植物通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色植物通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色植物通过光合作用把二氧化碳和水合成有机物，释放出氧气的过程。\n光合作用是指绿色",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8535
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "：指南车、火药、造纸、印刷术。其中指南车是丝绸之路上最先进，最发达的发明。指南车是源于埃及的历法，中国明朝万历年间，中国天文学家袁宏道将天象星历和历法译成西文，并编成《日历》一书，经过他手，他手把手地教学生，让学生们掌握天文历法，但学生的手却不一定行，于是便请人将天文历法翻译成西文，并制成了我国第一架指南车。指南车是欧洲人发明的，中国的明朝万历年间，李时珍曾发现这本书，并著有《本草纲目》等书。由于这本书在西方流传甚久，西方人常常引用该书来解说",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0255
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "它全长12393千米，流域面积约17.8万平方千米。它发源于青藏高原的唐古拉山脉，在四川盆地上蜿蜒而下，在云南东南部与澜沧江在怒江汇合，于云南西北部与澜沧江在澜沧江汇合，于云南中南部与怒江相接，全长4641千米。长江是中国第一个大海河，也是中国最早的都市之一，它全长4641千米，流域面积约17.8万平方千米。它发源于青藏高原的唐古拉山脉，在四川盆地上蜿蜒而下，在云南东南部与澜沧江在怒江汇合，于云南西北部与澜沧江在澜沧江",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4076
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要付出时间去学习。 学习语言，一定要有毅力。 学习一门语言，不仅是为了提高个人的交际能力，更是为了增进自己的知识。 学习语言要掌握学习语言的基本知识。 学习语言，要掌握语言的基本结构。 学习语言，要学会运用语言。 学习语言，要养成学习习惯。 学习语言，要养成学习语文的习惯。 学习语言，要学会积累素材。 学习语言，要学会多方面的联想。 学习语言，要学会迁移。 学习语言，要学会联想。 学习语言，要学会联想。 学习语言，要懂得怎样表达。 学习语言，要学会写作。 学习语言，要学会运用。 学习语言，要学会运用语言。 学习语言，要学会学习。 学习语言，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3631
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：如果把直角三角形的两边都连于一点，它们的交点在一点上，那么，在这个点上，只要存在一个直角边，这两个直角三角形就连在一起，并且这两个直角边同时扩大，这两个直角三角形就连在一起。在直角三角形中，如果把直角三角形的两边都连于一点，它们的交点在一点上，那么这两个直角三角形就连在一起，并且这两个直角三角形就连在一起。\n勾股定理与解三角形\n勾股定理是研究直角三角形中角的关系的，它揭示出直角三角形的两边的关系，是研究直角三角形性质的重要的，是研究直角三角形性质的重要的，因此，它的发现是研究直角三角形性质的基础",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3312
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "将启动全国中小学安全教育实验区建设工作，全市所有中小学和幼儿园将全面推广\"国家中小学安全教育实验区\"建设工作，实验区将重点开展专题安全教育、安全警示教育、安全隐患排查整改、应急处置演练和防灾减灾演练等，并逐步扩大实施范围，做到全覆盖、零容忍。 根据安排，2018年，实验区将着力实施\"六个一\"工程，即开展安全教育进校园活动、推进平安校园建设、提升安全应急能力建设、推动安全工作机制创新建设、加强安全宣传教育建设、打造安全教育基地建设，形成教育宣传教育覆盖面广、覆盖人群广、覆盖对象广、效果显著、辐射面广的立体化安全教育体系。 同时，将统筹全市",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0191
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "fib = [0]\nfib.append(0)\nfib.append(fib[0] + fib[1])\nfib.append(fib[0] + fib[2])\nfib.append(fib[0] + fib[3])\nfib.append(fib[0] + fib[4])\nfib.append(fib[0] + fib[5])\nfib.append(fib[0] + fib[6])\nfib.append(fib[0] + fib[7])\nfib.append(fib[0]",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6433
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "fibonacci(1)\nfibonacci(2)\nfibonacci(3)\nfibonacci(4)\nfibonacci(5)\nfibonacci(6)\nfibonacci(7)\nfibonacci(8)\nfibonacci(9)\nfibonacci(10)\nfibonacci(11)\nfibonacci(12)\nfibonacci(13)\nfibonacci(14)\nfibonacci(15)\nfibonacci(16)\nfibonacci(17)\nfibonacci(18)\nfibonacci(19)\nfibonacci(20)\n",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4713
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor condenses in the air. I think it is the most basic element that we know about. The water vapor condenses in the air (in terms of nitrogen, oxygen, and water) at a rate of about 3.5 percent. The amount of water vapor we can contain is proportional to the amount of oxygen we have.\nSo for example if you had a baking soda of the same size ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1146
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through a system and how it is used to maintain the water flow. The water cycle is a cycle of water flowing through a system and the water flowing through the system is the same as the flow of water through the system. The water cycle is a cycle of water flowing through a system and the water flowing through the system is the same as the flow of water through the system. The water ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.5414
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived near a big tree named Harmony. Harmony loved to hop around and play with his friends. One day, while hopping around, he came across a beautiful flower that was growing on a hill. He looked at it and said, \"I wonder why we see so many flowers in our neighborhood?\"\n\nHarmony thought for a moment and then explained, \"We see so many flowers that we don't know what they are.",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0382
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " need to find the values of x that satisfy both equations.\n\nSince 2x + 3 = 11, we can solve for x. We can rearrange the equation 2x + 3 = 11 as 2x + 3 = 11 – 3 = 9 and we get x = 4. Now we can solve for the value of x. Since we know that the value of x is 4, we can rearrange the equation 2x +",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2994
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "渤海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 100 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " bed",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 3",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "皮肤",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

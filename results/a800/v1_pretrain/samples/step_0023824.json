@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "\n作者：程建中（浙江大学人工智能研究院院长、教授）\n上世纪五十年代，人工智能首先被应用于战争。\n人工智能技术对社会的改变主要体现在以下三个方面的重大进步。\n一是大规模高精度计算能力的提高，人工智能通过大量的数据训练和大量的知识积累，可以实现高精度、大规模、高效率的计算。\n二是人工智能算法的日益完善，人工智能算法已经实现了从专家决策到机器决策的飞跃，并开始解决大量的复杂问题。\n三是人工智能领域的重大突破，人工智能发展已经进入工业4.0时代，计算机将大量数据处理并实现个性化定制。\n人工智能的发展还体现在它的发展速度上，从最早的解决一些简单的任务，到现在在解决一些复杂的问题，甚至可以在某些领域提供人类的无法做到的智能。\n",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，已经从\"人\"的智能，发展到\"机器\"的智能，从\"人\"的智能，发展到\"机器\"的智能。\n人工智能的发展，已经从\"人\"的智能，发展到\"机器\"的智能，从\"人\"的智能，发展到\"机器\"的智能。\n人工智能的发展，已经从\"人\"的智能，发展到\"机器\"的智能，从\"人\"的智能，发展到\"机器\"的智能。\n人工智能的发展，已经从\"人\"的智能，发展到\"机器\"的智能，从\"人\"的智能，发展到\"机器\"的智能。\n人工智能的发展，已经从\"人\"的智能，发展到\"机器\"的智能，从\"人\"的智能，发展到\"机器\"的",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8599
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明发现小花丛里有很多很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠。小明又发现小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠。 小明说，小花丛里有很多小老鼠，小花丛里有很多小老鼠。小明说，小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠。 小明说，小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花丛里有很多小老鼠，小花",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8089
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用太阳光能，合成有机物，释放出氧气，以调节植物体内环境，这种调节作用被称为光合作用。光合作用的过程是绿色植物通过光反应合成有机物，释放出氧气的过程。光合作用也参与植物体内物质交换，将二氧化碳和水转化成糖类，蛋白质和脂类等。光合作用的方式有光反应，暗反应，溶酶体反应，光合磷酸化等，光合作用的过程也是物质循环的过程。\n光合作用的过程是绿色植物利用光能，合成有机物，释放出氧气，以调节植物体内环境，这种调节作用被称为光合作用。光合作用的过程是绿色植物通过光反应合成有机物，释放出氧气的过程。光合作用的方式有光反应",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3758
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "利用太阳光能，把二氧化碳和水合成有机物，释放出能量，实现光合作用，将太阳能转换成化学能的过程。光合作用是地球上最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，最普遍，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7643
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": "：\n造纸术：我国四大发明之一，是汉字的源头，也是我国古代文化发展史上的一个奇迹。\n印刷术：是我国古代四大发明之一，东汉时期已经出现，但是它只是印刷术的一种辅助手段，真正的重大发明是纸张的出现，在纸张发明之前，中国并没有纸张。\n指南针：它是我国古代四大发明之一，它是中国古代人民长期观察太阳周年运动，通过测定子午线（赤道）的位置来推算太阳方位和确定天下方位的一种方法。\n火药：我国四大发明之一，它是用火加热物质的发明，我国古代的四大发明之一，也是我们熟知的四大发明之一。\n指南针：是中西方最早的指南仪器，它是中国古代人民通过长期观察太阳周年运动，",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0892
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "也是中国文明的摇篮。长江曾有七百多年的历史。然而，自1760年英国的一艘军舰\"阿富汗\"号到达长江口后，中国人就再也没有能像今天这样登上世界第一流的大山了。 长江，有\"黄金水道\"之称，是中华民族的母亲河。由于长江中上游山系复杂，河流众多，因此在长江的发源地及流域内，各民族之间，存在大量的血缘关系，这个地区曾长期称中国为\"夷州\"。 在长江中下游，各诸侯国的社会结构大体相同，其中主要有\"荆州\"和\"扬州\"两支。荆州，是楚国故地，主要官员是楚国令尹。扬州，是吴国故地，主要",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0064
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "学会该语言的基本语法。语法学习是所有语言学习的基础。熟练掌握语法规则、用法、规则和语法规则对学习其他语言也是非常重要的。因此，学习一门新的语言要学得好，就要在语法上打好基础。 另外，掌握语言是学习其他学科的基础。学好语言，首先要有扎实的词汇基础。熟练掌握词汇是学好其他学科的前提，因此，学好任何一门学科，都要学好词汇。掌握词汇是为了扩大词汇范围，扩大词汇量，从而提高阅读、写作、翻译和写作的能力。其次，掌握词汇是学好其他学科的基本技能。例如，如何阅读，如何翻译，如何写作，如何阅读、翻译和写作，如何进行口语交际，如何进行书面语写作等等，这些都是运用语言的能力。 学习一门",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0255
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "：一个三角形若满足三角形内任意一点与另一三角形外一点的直线与三角形内任意一点的直线在三角形外边的平方和等于三角形内任意一点的直线。所以，把勾股定理推广到直角三角形，就得到三角形内任意一点与三角形外一点的直线与三角形外任意一点的直线。 其基本公式为： 勾股定理的实质是三角形内任意一点与三角形外一点的直线与三角形外任意一点的直线之间的直线与三角形外任意一点的直线之间的距离相等。 (1) 勾股定理的基本性质 勾股定理的等腰三角形，中线与三角形外角之和等于三角形内角之和。 (2) 勾股定理的证明 勾股定理",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2548
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "上半年，我市继续开展中小学生减负提质工作，全市所有县区全部完成减负提质工作任务。其中，全市所有县区（不含市直）取消学科类校外培训机构办学许可；全市所有市直及市直管县（市）区所属县（市）区，已开展学科类培训机构全部完成整改，市直及市直管县（市）区义务教育阶段学科类校外培训机构全部完成整改，市直及市直管县（市）区高中阶段学科类校外培训机构全部完成整改；全市所有市直及市直管县（市）区义务教育阶段学校体育，美术，音乐，综合实践活动，地方课程（含校本课程）等课程，以及市直及市直管县（",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3376
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "# fibonacci function for fibonacci numbers\n    def fibonacci(n):\n        \"\"\"返回第 n 个斐波那契数\"\"\"\n        if n < 1:\n            return 0\n        else:\n            return fibonacci(n - 1) + fibonacci(n - 2)\n    return fibonacci(n)\n\n# fibonacci function for fibonacci numbers\ndef fibonacci_fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n    if n < 1:\n        return 0\n    else:\n        return",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.3694
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves from the ground to the surface. Water flows through the ground from the rain that falls and then down to the surface from the ground that rain doesn’t fall back down.\nA stream of water from the stream banks on the water cycle.\nThe water cycle is made up of the three stages of the water cycle:\nThe main water cycle that we talk about today is the water cycle in the river. It begins",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1592
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through the water cycle and how it is regulated by the water cycle itself. The water cycle is a complex system that consists of three main parts: the water cycle (the water cycle itself), the water cycle itself, and the water cycle itself. The water cycle is a complex system that consists of three main parts: the water cycle (the water cycle itself), the water cycle itself, and the water cycle itself. The",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.5732
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived on a cozy burrow called the burrow of a magical forest. The rabbit loved to hop around and explore different things, like the tall trees and the clear blue water flowing out of a lake. But sometimes, the rabbit would let the water in, and he would fall down into the waterfall.\n\nOne day, the rabbit met a new friend named Benny the Bear. Benny was a ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0701
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " simplify the equation.\n\n2x + 3 = 11\n\n2x = 5\n\nx = 5/2 = 2\n\nThe equation is 2x = 2.\n\nTherefore, the equation has one solution.\n\n### How to solve a linear equation?\n\nA linear equation is one in which the variables are not constant or dependent but are dependent on one another and the coefficient of the independent variable is a constant value of the independent variable.\n\n#### Example:\n\nConsider the",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0955
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "东海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "羽绒服",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "4",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " Paris",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 100 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Jupiter",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " kitten",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " bed",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " week",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 5",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 30",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " -1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " H2O",
+      "answer": " H2O"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+22:40:31 == heads ==
+22:40:54 heads layer 0: max +0.0026
+22:41:16 heads layer 1: max +0.0018
+22:41:37 heads layer 2: max +0.0016
+22:41:59 heads layer 3: max +0.0099
+22:42:21 heads layer 4: max +0.0013
+22:42:42 heads layer 5: max +0.0027
+22:43:04 heads layer 6: max +0.0015
+22:43:25 heads layer 7: max +0.0069
+22:43:47 heads layer 8: max +0.0072
+22:44:08 heads layer 9: max +0.0035
+22:44:30 heads layer 10: max +0.0098
+22:44:51 heads layer 11: max +0.0025
+22:45:13 heads layer 12: max +0.0026
+22:45:34 heads layer 13: max +0.0025
+22:45:55 heads layer 14: max +0.0034
+22:46:17 heads layer 15: max +0.0029
+22:46:39 heads layer 16: max +0.0019
+22:47:00 heads layer 17: max +0.0020
+22:47:21 heads layer 18: max +0.0038
+22:47:43 heads layer 19: max +0.0027
+22:48:04 heads layer 20: max +0.0047
+22:48:26 heads layer 21: max +0.0033
+22:48:48 heads layer 22: max +0.0020
+22:49:09 heads layer 23: max +0.0020
+22:49:30 heads layer 24: max +0.0029
+22:49:52 heads layer 25: max +0.0044
+22:50:13 heads layer 26: max +0.0028
+22:50:35 heads layer 27: max +0.0021
+22:50:57 heads layer 28: max +0.0044
+22:51:18 heads layer 29: max +0.0016
+22:51:40 heads layer 30: max +0.0016
+22:52:01 heads layer 31: max +0.0037
+22:52:23 heads layer 32: max +0.0014
+22:52:44 heads layer 33: max +0.0028
+22:53:06 heads layer 34: max +0.0014
+22:53:27 heads layer 35: max +0.0019
+22:53:49 heads layer 36: max +0.0052
+22:54:10 heads layer 37: max +0.0014
+22:54:32 heads layer 38: max +0.0015
+22:54:53 heads layer 39: max +0.0018
+22:54:54 == heads done in 863s, peak mem 1.9GB
+22:54:54 all done

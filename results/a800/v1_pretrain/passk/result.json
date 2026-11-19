@@ -1,0 +1,345 @@
+{
+  "time": "2026-11-15 15:52:33",
+  "minutes": 22.7,
+  "config": {
+    "enabled": true,
+    "n": 16,
+    "ks": [
+      1,
+      4,
+      8,
+      16
+    ],
+    "problems": 100,
+    "gsm8k_problems": 200,
+    "gsm8k_shots": 3,
+    "temperature": 0.8,
+    "top_p": 0.95,
+    "batch": 128
+  },
+  "models": {
+    "原模型（final.pt）": [
+      {
+        "task": "两位数加减",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.02,
+        "pass_at_k": {
+          "1": 0.0269,
+          "4": 0.0786,
+          "8": 0.1383,
+          "16": 0.24
+        },
+        "mixed_groups": 0.24,
+        "all_wrong": 0.76,
+        "all_right": 0.0,
+        "format_rate": 1.0,
+        "seconds": 9.1,
+        "examples": [
+          {
+            "question": "问：98-89=?\n答：",
+            "gold": "9",
+            "greedy": "8\n\n问：90-78=？答：6\n\n问：90",
+            "greedy_ok": false,
+            "correct_of_n": 2
+          },
+          {
+            "question": "问：68-58=?\n答：",
+            "gold": "10",
+            "greedy": "4\n\n问：59-39=？答：3\n\n问：59",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "问：67+97=?\n答：",
+            "gold": "164",
+            "greedy": "18\n\n问：90+36=？答：126\n\n问：73",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          }
+        ]
+      },
+      {
+        "task": "三位数加减",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.0,
+        "pass_at_k": {
+          "1": 0.0006,
+          "4": 0.0025,
+          "8": 0.005,
+          "16": 0.01
+        },
+        "mixed_groups": 0.01,
+        "all_wrong": 0.99,
+        "all_right": 0.0,
+        "format_rate": 1.0,
+        "seconds": 10.9,
+        "examples": [
+          {
+            "question": "问：910-357=?\n答：",
+            "gold": "553",
+            "greedy": "521\n\n问：967-226=？答：741",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "问：371+134=?\n答：",
+            "gold": "505",
+            "greedy": "421\n\n问：967-226=？答：741",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "问：427+318=?\n答：",
+            "gold": "745",
+            "greedy": "520\n\n问：967-226=？答：741",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          }
+        ]
+      },
+      {
+        "task": "两位数×一位数",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.03,
+        "pass_at_k": {
+          "1": 0.0219,
+          "4": 0.0474,
+          "8": 0.0693,
+          "16": 0.1
+        },
+        "mixed_groups": 0.1,
+        "all_wrong": 0.9,
+        "all_right": 0.0,
+        "format_rate": 1.0,
+        "seconds": 8.7,
+        "examples": [
+          {
+            "question": "问：64×2=?\n答：",
+            "gold": "128",
+            "greedy": "484\n\n问：64×4=？答：484\n\n问",
+            "greedy_ok": false,
+            "correct_of_n": 1
+          },
+          {
+            "question": "问：61×3=?\n答：",
+            "gold": "183",
+            "greedy": "324\n\n问：67×4=？答：268\n\n问",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "问：51×7=?\n答：",
+            "gold": "357",
+            "greedy": "512\n\n问：67×4=？答：268\n\n问",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          }
+        ]
+      },
+      {
+        "task": "一元一次方程",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.1,
+        "pass_at_k": {
+          "1": 0.0731,
+          "4": 0.2325,
+          "8": 0.3658,
+          "16": 0.52
+        },
+        "mixed_groups": 0.52,
+        "all_wrong": 0.48,
+        "all_right": 0.0,
+        "format_rate": 1.0,
+        "seconds": 10.7,
+        "examples": [
+          {
+            "question": "问：解方程 8x+6=70，x=?\n答：",
+            "gold": "8",
+            "greedy": "8\n\n问：解方程 4x+3=12，x=",
+            "greedy_ok": true,
+            "correct_of_n": 3
+          },
+          {
+            "question": "问：解方程 5x+21=96，x=?\n答：",
+            "gold": "15",
+            "greedy": "5\n\n问：解方程 3x+4=12，x=",
+            "greedy_ok": false,
+            "correct_of_n": 2
+          },
+          {
+            "question": "问：解方程 6x+13=19，x=?\n答：",
+            "gold": "1",
+            "greedy": "13\n\n问：解方程 4x+3=12，x=",
+            "greedy_ok": false,
+            "correct_of_n": 1
+          }
+        ]
+      },
+      {
+        "task": "比较大小",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.51,
+        "pass_at_k": {
+          "1": 0.4938,
+          "4": 0.6494,
+          "8": 0.7193,
+          "16": 0.78
+        },
+        "mixed_groups": 0.56,
+        "all_wrong": 0.22,
+        "all_right": 0.22,
+        "format_rate": 1.0,
+        "seconds": 10.6,
+        "examples": [
+          {
+            "question": "问：473 和 45 哪个大？\n答：",
+            "gold": "473",
+            "greedy": "45\n\n问：545 和 545 哪个大？\n",
+            "greedy_ok": false,
+            "correct_of_n": 3
+          },
+          {
+            "question": "问：986 和 695 哪个大？\n答：",
+            "gold": "986",
+            "greedy": "695\n\n问：880 和 624 哪个大？",
+            "greedy_ok": false,
+            "correct_of_n": 4
+          },
+          {
+            "question": "问：130 和 325 哪个大？\n答：",
+            "gold": "325",
+            "greedy": "325\n\n问：325 和 325 哪个大？",
+            "greedy_ok": true,
+            "correct_of_n": 16
+          }
+        ]
+      },
+      {
+        "task": "中文应用题",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.02,
+        "pass_at_k": {
+          "1": 0.0312,
+          "4": 0.1062,
+          "8": 0.185,
+          "16": 0.31
+        },
+        "mixed_groups": 0.31,
+        "all_wrong": 0.69,
+        "all_right": 0.0,
+        "format_rate": 1.0,
+        "seconds": 12.6,
+        "examples": [
+          {
+            "question": "问：小丽有9个糖果，又买了10个，现在一共有几个糖果？\n答：",
+            "gold": "19",
+            "greedy": "10\n\n问：小丽有16个糖果，又买了8个",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "问：爸爸有32个铅笔，送给同学2个，还剩几个铅笔？\n答：",
+            "gold": "30",
+            "greedy": "2\n\n问：小丽有16个糖果，送给同学8个",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "问：妈妈有15个铅笔，送给同学13个，还剩几个铅笔？\n答：",
+            "gold": "2",
+            "greedy": "13\n\n问：小丽有16个苹果，又买了14个，",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          }
+        ]
+      },
+      {
+        "task": "英文应用题",
+        "problems": 100,
+        "n": 16,
+        "greedy_acc": 0.05,
+        "pass_at_k": {
+          "1": 0.0394,
+          "4": 0.1414,
+          "8": 0.2475,
+          "16": 0.39
+        },
+        "mixed_groups": 0.39,
+        "all_wrong": 0.61,
+        "all_right": 0.0,
+        "format_rate": 1.0,
+        "seconds": 16.5,
+        "examples": [
+          {
+            "question": "Q: Ben has 35 cookies and gives away 22. How many cookies are left?\nA: ",
+            "gold": "13",
+            "greedy": "9\n\nQ: Jenny has 20 cookies and",
+            "greedy_ok": false,
+            "correct_of_n": 1
+          },
+          {
+            "question": "Q: Anna has 9 books and buys 5 more. How many books does Anna have now?\nA: ",
+            "gold": "14",
+            "greedy": "45\n\nQ: A bag contains 5 red mar",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "Q: Sam has 30 stickers and gives away 22. How many stickers are left?\nA: ",
+            "gold": "8",
+            "greedy": "6\n\nQ: Jenny has 20 apples ",
+            "greedy_ok": false,
+            "correct_of_n": 1
+          }
+        ]
+      },
+      {
+        "task": "GSM8K（3-shot 思维链）",
+        "problems": 200,
+        "n": 16,
+        "greedy_acc": 0.015,
+        "pass_at_k": {
+          "1": 0.015,
+          "4": 0.0547,
+          "8": 0.0976,
+          "16": 0.16
+        },
+        "mixed_groups": 0.16,
+        "all_wrong": 0.84,
+        "all_right": 0.0,
+        "format_rate": 0.9878,
+        "seconds": 1282.8,
+        "examples": [
+          {
+            "question": "Question: Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for ",
+            "gold": "18",
+            "greedy": " Janet eats 16 eggs per day for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. The answe",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          },
+          {
+            "question": "Question: A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?\nAnswer:",
+            "gold": "3",
+            "greedy": " 2 bolts of blue fiber = 2 x 2 = 4 bolts of white fiber. Half of 4 bolts of white fiber = 2 x 2/2 = 4 bolts of white fiber. The answer is 4.\n\nQuestion: A bag contains 3 red marbles, 2 blue marbles, an",
+            "greedy_ok": false,
+            "correct_of_n": 4
+          },
+          {
+            "question": "Question: Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?\nAnswer:",
+            "gold": "70000",
+            "greedy": " Josh bought a house for $80,000 and then put in $50,000 in repairs. This increased the value of the house by 150%. The answer is 150%.\n\nQuestion: A car dealer sold a car for $1,000 and then sold it f",
+            "greedy_ok": false,
+            "correct_of_n": 0
+          }
+        ]
+      }
+    ]
+  },
+  "errors": []
+}

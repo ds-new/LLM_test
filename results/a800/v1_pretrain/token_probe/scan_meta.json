@@ -1,0 +1,397 @@
+{
+  "key": "75d5c81db2fdc20f",
+  "ngram": 13,
+  "time": "2026-11-05 10:11:37",
+  "minutes": 11.7,
+  "per_source_tokens": {
+    "zh_cci3": 3576577225,
+    "zh_fwedu": 1789004702,
+    "zh_industry": 1660917073,
+    "en_fwedu": 2373974790,
+    "en_cosmo": 894170047,
+    "code": 1532766865,
+    "math": 1026580719
+  },
+  "errors": [],
+  "contamination": {
+    "ngram": 13,
+    "all_test": {
+      "items": 1319,
+      "question": {
+        "any_overlap": 0.6422,
+        "strong_overlap": 0.003
+      },
+      "answer": {
+        "any_overlap": 0.3457,
+        "strong_overlap": 0.0
+      },
+      "answer_clean": {
+        "any_overlap": 0.3783,
+        "strong_overlap": 0.0
+      },
+      "any_field_any_overlap": 0.7491
+    },
+    "probed_first_200": {
+      "items": 200,
+      "question": {
+        "any_overlap": 0.65,
+        "strong_overlap": 0.005
+      },
+      "answer": {
+        "any_overlap": 0.32,
+        "strong_overlap": 0.0
+      },
+      "answer_clean": {
+        "any_overlap": 0.35,
+        "strong_overlap": 0.0
+      },
+      "any_field_any_overlap": 0.745
+    },
+    "hit_positions_by_source": {
+      "zh_cci3": 59,
+      "en_fwedu": 18432,
+      "math": 50357,
+      "en_cosmo": 6471,
+      "code": 472,
+      "zh_industry": 10,
+      "zh_fwedu": 6
+    },
+    "distinct_hit_ngrams": 5754,
+    "worst_items": [
+      {
+        "index": 855,
+        "question": {
+          "ngrams": 84,
+          "found": 63,
+          "frac": 0.75
+        },
+        "answer": {
+          "ngrams": 199,
+          "found": 7,
+          "frac": 0.035
+        },
+        "answer_clean": {
+          "ngrams": 199,
+          "found": 7,
+          "frac": 0.035
+        }
+      },
+      {
+        "index": 523,
+        "question": {
+          "ngrams": 99,
+          "found": 70,
+          "frac": 0.707
+        },
+        "answer": {
+          "ngrams": 110,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 89,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 597,
+        "question": {
+          "ngrams": 72,
+          "found": 39,
+          "frac": 0.542
+        },
+        "answer": {
+          "ngrams": 59,
+          "found": 3,
+          "frac": 0.051
+        },
+        "answer_clean": {
+          "ngrams": 47,
+          "found": 3,
+          "frac": 0.064
+        }
+      },
+      {
+        "index": 28,
+        "question": {
+          "ngrams": 75,
+          "found": 40,
+          "frac": 0.533
+        },
+        "answer": {
+          "ngrams": 74,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 60,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 547,
+        "question": {
+          "ngrams": 85,
+          "found": 36,
+          "frac": 0.424
+        },
+        "answer": {
+          "ngrams": 117,
+          "found": 3,
+          "frac": 0.026
+        },
+        "answer_clean": {
+          "ngrams": 96,
+          "found": 5,
+          "frac": 0.052
+        }
+      },
+      {
+        "index": 278,
+        "question": {
+          "ngrams": 55,
+          "found": 21,
+          "frac": 0.382
+        },
+        "answer": {
+          "ngrams": 98,
+          "found": 1,
+          "frac": 0.01
+        },
+        "answer_clean": {
+          "ngrams": 84,
+          "found": 1,
+          "frac": 0.012
+        }
+      },
+      {
+        "index": 595,
+        "question": {
+          "ngrams": 29,
+          "found": 10,
+          "frac": 0.345
+        },
+        "answer": {
+          "ngrams": 111,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 99,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 416,
+        "question": {
+          "ngrams": 70,
+          "found": 24,
+          "frac": 0.343
+        },
+        "answer": {
+          "ngrams": 152,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 147,
+          "found": 0,
+          "frac": 0.0
+        }
+      },
+      {
+        "index": 24,
+        "question": {
+          "ngrams": 53,
+          "found": 18,
+          "frac": 0.34
+        },
+        "answer": {
+          "ngrams": 85,
+          "found": 4,
+          "frac": 0.047
+        },
+        "answer_clean": {
+          "ngrams": 85,
+          "found": 4,
+          "frac": 0.047
+        }
+      },
+      {
+        "index": 496,
+        "question": {
+          "ngrams": 51,
+          "found": 17,
+          "frac": 0.333
+        },
+        "answer": {
+          "ngrams": 49,
+          "found": 0,
+          "frac": 0.0
+        },
+        "answer_clean": {
+          "ngrams": 35,
+          "found": 0,
+          "frac": 0.0
+        }
+      }
+    ]
+  },
+  "hit_examples": [
+    {
+      "text": " is equal to the sum of ",
+      "positions": 4182,
+      "sources": {
+        "en_fwedu": 183,
+        "en_cosmo": 66,
+        "code": 25,
+        "math": 3908
+      }
+    },
+    {
+      "text": ", on the other hand, is ",
+      "positions": 3959,
+      "sources": {
+        "zh_cci3": 5,
+        "en_fwedu": 2249,
+        "en_cosmo": 864,
+        "code": 3,
+        "math": 838
+      }
+    },
+    {
+      "text": " both sides of the equation by ",
+      "positions": 2152,
+      "sources": {
+        "en_fwedu": 31,
+        "en_cosmo": 80,
+        "math": 2041
+      }
+    },
+    {
+      "text": " in the second half of the ",
+      "positions": 1802,
+      "sources": {
+        "zh_cci3": 1,
+        "zh_industry": 2,
+        "en_fwedu": 1616,
+        "en_cosmo": 23,
+        "code": 5,
+        "math": 155
+      }
+    },
+    {
+      "text": ", on the other hand, was ",
+      "positions": 861,
+      "sources": {
+        "en_fwedu": 399,
+        "en_cosmo": 439,
+        "math": 23
+      }
+    },
+    {
+      "text": " What is the difference between the ",
+      "positions": 779,
+      "sources": {
+        "zh_fwedu": 1,
+        "en_fwedu": 103,
+        "en_cosmo": 5,
+        "math": 670
+      }
+    },
+    {
+      "text": " at the end of the first ",
+      "positions": 760,
+      "sources": {
+        "zh_cci3": 3,
+        "en_fwedu": 357,
+        "en_cosmo": 7,
+        "code": 16,
+        "math": 377
+      }
+    },
+    {
+      "text": " in terms of the number of ",
+      "positions": 662,
+      "sources": {
+        "en_fwedu": 301,
+        "en_cosmo": 11,
+        "code": 7,
+        "math": 343
+      }
+    },
+    {
+      "text": " at the end of the year ",
+      "positions": 662,
+      "sources": {
+        "en_fwedu": 282,
+        "en_cosmo": 6,
+        "math": 374
+      }
+    },
+    {
+      "text": " on the first day of the ",
+      "positions": 654,
+      "sources": {
+        "zh_cci3": 8,
+        "en_fwedu": 569,
+        "en_cosmo": 24,
+        "code": 4,
+        "math": 49
+      }
+    },
+    {
+      "text": " depends on the size of the ",
+      "positions": 581,
+      "sources": {
+        "zh_cci3": 1,
+        "en_fwedu": 311,
+        "en_cosmo": 19,
+        "code": 10,
+        "math": 240
+      }
+    },
+    {
+      "text": " divide both sides of the equation ",
+      "positions": 556,
+      "sources": {
+        "en_fwedu": 4,
+        "en_cosmo": 23,
+        "math": 529
+      }
+    },
+    {
+      "text": " at the end of the year.",
+      "positions": 548,
+      "sources": {
+        "zh_fwedu": 1,
+        "en_fwedu": 322,
+        "en_cosmo": 20,
+        "code": 2,
+        "math": 203
+      }
+    },
+    {
+      "text": "divide both sides of the equation by",
+      "positions": 546,
+      "sources": {
+        "en_fwedu": 4,
+        "en_cosmo": 21,
+        "math": 521
+      }
+    },
+    {
+      "text": " by the end of the year.",
+      "positions": 527,
+      "sources": {
+        "zh_industry": 1,
+        "en_fwedu": 486,
+        "en_cosmo": 8,
+        "math": 32
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "time": "2026-11-15 15:54:29",
+  "step": 47683,
+  "tokens_B": 25.0,
+  "window_start_step": 45654,
+  "enough_data": true,
+  "sources": {
+    "code": {
+      "latest": 1.1013,
+      "best": 1.1013,
+      "status": "improving",
+      "sigma": 0.0021,
+      "per_B": -0.0132,
+      "t": -16.47,
+      "window_change": -0.014
+    },
+    "en_cosmo": {
+      "latest": 1.0918,
+      "best": 1.0918,
+      "status": "improving",
+      "sigma": 0.0018,
+      "per_B": -0.0192,
+      "t": -25.06,
+      "window_change": -0.0204
+    },
+    "en_fwedu": {
+      "latest": 1.651,
+      "best": 1.6507,
+      "status": "improving",
+      "sigma": 0.0021,
+      "per_B": -0.0147,
+      "t": -16.99,
+      "window_change": -0.0156
+    },
+    "math": {
+      "latest": 1.382,
+      "best": 1.382,
+      "status": "improving",
+      "sigma": 0.0018,
+      "per_B": -0.0169,
+      "t": -12.64,
+      "window_change": -0.018
+    },
+    "zh_cci3": {
+      "latest": 3.0808,
+      "best": 3.0808,
+      "status": "improving",
+      "sigma": 0.002,
+      "per_B": -0.0248,
+      "t": -32.12,
+      "window_change": -0.0264
+    },
+    "zh_fwedu": {
+      "latest": 3.072,
+      "best": 3.072,
+      "status": "improving",
+      "sigma": 0.0031,
+      "per_B": -0.0239,
+      "t": -10.98,
+      "window_change": -0.0254
+    },
+    "zh_industry": {
+      "latest": 2.9145,
+      "best": 2.9145,
+      "status": "improving",
+      "sigma": 0.0023,
+      "per_B": -0.0284,
+      "t": -17.8,
+      "window_change": -0.0302
+    }
+  },
+  "overall": {
+    "latest": 2.2879,
+    "best": 2.2879,
+    "status": "improving",
+    "sigma": 0.0007,
+    "per_B": -0.0209,
+    "t": -104.25
+  },
+  "regressing_sources": [],
+  "train_val_gap": {
+    "now": 0.13,
+    "window_start": 0.1239
+  },
+  "cloze": {
+    "acc": 0.8947,
+    "n": 38,
+    "ci95": [
+      0.759,
+      0.958
+    ]
+  },
+  "findings": [
+    "最近 8 次评估总体验证 loss 每 1B token 变化 -0.0209（t=-104.25，单次噪声 σ≈0.0007），判定 improving",
+    "没有来源显著变差（单次的小幅上升都在噪声范围内）",
+    "选择题 89%（n=38，95% 区间 76%–96%），只作参考"
+  ]
+}

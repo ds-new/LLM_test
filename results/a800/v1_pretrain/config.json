@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "device": "cuda",
+  "data": {
+    "unique_tokens_target": 14000000000,
+    "disk_margin_gb": 4.0,
+    "workers": 0,
+    "max_parallel_downloads": 4,
+    "val_fraction": 0.0015,
+    "test_fraction": 0.0015,
+    "tokenizer_sample_chars": 24000000,
+    "tokenizer_vocab": 32000,
+    "tokenizer_min_frequency": 2,
+    "tokenizer_timeout_hours": 3.0,
+    "file_attempts": 3
+  },
+  "train": {
+    "target_tokens": 25000000000,
+    "max_train_hours": 192.0,
+    "seq_len": 1024,
+    "tokens_per_step": 524288,
+    "peak_lr": 0.0004,
+    "min_lr_ratio": 0.1,
+    "warmup_steps": 1000,
+    "decay_fraction": 0.2,
+    "weight_decay": 0.1,
+    "beta2": 0.95,
+    "grad_clip": 1.0,
+    "segment_minutes": 60,
+    "checkpoint_minutes": 30,
+    "seed": 20261102,
+    "compile": true
+  },
+  "eval": {
+    "val_chunks_per_source": 32,
+    "max_new_tokens": 160,
+    "top_p": 0.9,
+    "temperature": 0.8
+  },
+  "shutdown_on_exit": true
+}

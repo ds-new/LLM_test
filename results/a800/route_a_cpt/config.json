@@ -1,0 +1,41 @@
+{
+  "mode": "cpt",
+  "weight_edit": {
+    "enabled": false
+  },
+  "token_probe": {
+    "enabled": false
+  },
+  "profile": {
+    "enabled": false
+  },
+  "passk": {
+    "enabled": true
+  },
+  "analysis": {
+    "enabled": true
+  },
+  "train": {
+    "max_train_hours": 200,
+    "segment_minutes": 60,
+    "checkpoint_minutes": 30
+  },
+  "cpt": {
+    "delete_v1_latest": true,
+    "midcheck": {
+      "enabled": true,
+      "at_tokens": 2000000000,
+      "probe_tokens": 500000000,
+      "min_gain": 0.005,
+      "action": "record"
+    },
+    "midcheck2": {
+      "enabled": true,
+      "at_tokens": 4100000000,
+      "probe_tokens": 500000000,
+      "min_gain": 0.005,
+      "baseline_from": "midcheck",
+      "action": "end_stage1"
+    }
+  }
+}

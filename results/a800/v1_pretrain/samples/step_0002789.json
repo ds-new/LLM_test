@@ -1,0 +1,394 @@
+{
+  "generation": [
+    {
+      "tag": "zh_general",
+      "mode": "sample",
+      "prompt": "人工智能的发展",
+      "completion": "速度很快，人们相信，未来计算机将代替人类的工作，未来人工智能将取代人类的工作。而计算机将取代人类的工作，未来人工智能将取代人类的工作，未来人工智能将取代人类的工作，未来人工智能将取代人类的工作，未来人工智能将取代人类的工作，未来人工智能将取代人类的工作，未来人工智能将取代人类的工作。 从中国到美国、加拿大、澳大利亚、韩国、中国台湾、中国台湾，最后到美国本土，美国、加拿大、澳大利亚、英国、法国、德国、日本、法国、英国、德国、瑞士、瑞士、俄罗斯、瑞士、澳大利亚、中国台湾、美国、加拿大、德国、德国、德国、法国、德国、日本、日本、美国、日本、美国、德国、日本、德国、日本、德国、德国",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.4013
+    },
+    {
+      "tag": "zh_general",
+      "mode": "greedy",
+      "prompt": "人工智能的发展",
+      "completion": "，使得人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越成熟，人工智能技术越来越",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9554
+    },
+    {
+      "tag": "zh_narrative",
+      "mode": "sample",
+      "prompt": "春天来了，小明和妈妈一起去公园，",
+      "completion": "小明和妈妈从公园里走出来，到了公园，小明和妈妈带着小明和妈妈来到了小明家。小明说：\"小明今年27岁，今年5岁。\"妈妈说：\"你家的小明，没有说错！\"小明说：\"你家的小明，没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。\"小明说：\"没有说错。小明说：\"没有说",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.6051
+    },
+    {
+      "tag": "zh_science",
+      "mode": "sample",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用过程中细胞生长环境（包括光照、氧气、光照等）的相对强弱和数量变化。光合作用主要发生在光合作用中，从光合作用中释放能量的过程，其中光照、氧气、光照和二氧化碳等能量是光合作用中两个重要因子。其中，光合作用是最重要的因子。光合作用中，光合作用中，光合作用的主要能量是二氧化碳。在光合作用过程中，光合作用中最重要的一环就是二氧化碳，其次是二氧化碳，是二氧化碳的混合物。可见，光合作用是一种重要的环境因子，参与和维持光合作用的生存发展过程，同时也在许多领域发挥着重要作用。光合作用的中部主要在于光合作用中心是二氧化碳，中部的二氧化碳主要来自于生物",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1083
+    },
+    {
+      "tag": "zh_science",
+      "mode": "greedy",
+      "prompt": "光合作用是指绿色植物",
+      "completion": "光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指光合作用，光合作用是指",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.949
+    },
+    {
+      "tag": "zh_history",
+      "mode": "sample",
+      "prompt": "中国古代的四大发明包括",
+      "completion": " 《孙子兵法》《孙子兵法》《孙子兵法》 。 孙子兵法  。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法 。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 孙子兵法。 ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.8599
+    },
+    {
+      "tag": "zh_geography",
+      "mode": "sample",
+      "prompt": "长江是中国最长的河流，",
+      "completion": "最清澈的湖泊，同时也是中国唯一有生命过水的湖泊。世界遗产专家、世界遗产委员会主席柯文斯说，中国是世界上最长的河流，最清澈的湖泊，是世界最长的河流，中国最长的河流，是世界上最长的河流，中国有33万多条河，是世界上最长的水量，是世界最长的水量，是世界第四长河。因为有这些河流，长江在中国人的心目中，成为中华民族的骄傲。中华儿女、中华民族儿女，无论是当今还是未来，都肩负着传承中华文化的使命，书写着历史。尤其是如今，中华民族正在以崭新姿态走进世界，中华民族已经走过了70多年的发展历程，成为了世界上最大的文明，是中华民族的骄傲。她不仅引领了中华儿女、中华民族走向世界，更成为当今世界共同的价值追求",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0637
+    },
+    {
+      "tag": "zh_education",
+      "mode": "sample",
+      "prompt": "学习一门新语言最重要的是",
+      "completion": "要积累，积累是为了 发展自己的思维，而语言则是建立思维的工具，通过语言的学习，将知识转化成智慧。学习一门新语言，就是要不断积累，不断提高自己的思维能力，不断提高自己的思维水平，并让自己的思维 不断的得到锻炼。 学习方法，在于养成良好的学习习惯， 养成读书看报的习惯，学习习惯决定一个人一生，一个好习惯可以带给人终生，一个好习惯可以 使人终生受益。 所以，孩子学语文，永远都是一个爱学习的字。 （袁老师贴心的设计） \" 做读书笔记，写读书心得，练练字 \" 在短短的 3 小时 内， 我们让孩子从不同的视角， 认识不同的东西， 并喜欢上学习 \" 我家的",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0127
+    },
+    {
+      "tag": "zh_math",
+      "mode": "sample",
+      "prompt": "在直角三角形中，勾股定理指出",
+      "completion": "： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直角三角形中，勾股定理指出： 在直",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.9236
+    },
+    {
+      "tag": "zh_news",
+      "mode": "sample",
+      "prompt": "记者从市教育局获悉，今年",
+      "completion": "将严格规范中小学幼儿园招生，严禁违规超前入学，超前招生。 对于小学幼儿园来说，招生入学都要遵循\"低、多、高\"的原则。对于小学幼儿园来说，就是要把控好考生的升学比例，减少升学难度。 幼儿园幼儿园的招生对象，是小学五年级到六年级，幼儿园的招生对象是六年级到七年级，小学五年级到八年级，小学六年级到九年级。 从招生对象到招生对象，小学幼儿园就与小学幼儿园一样，要按照小学园本教育，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学幼儿园分开，小学",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.2484
+    },
+    {
+      "tag": "code_python",
+      "mode": "sample",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "",
+      "new_tokens": 1,
+      "ended_with_eos": true,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "code_python",
+      "mode": "greedy",
+      "prompt": "def fibonacci(n):\n    \"\"\"返回第 n 个斐波那契数\"\"\"\n",
+      "completion": "# n = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,58,59,60,61,62,63,64,65,65,66,66,67,68,69,70,71,72,73,73",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0
+    },
+    {
+      "tag": "en_education",
+      "mode": "sample",
+      "prompt": "The water cycle describes how water",
+      "completion": " vapor moves from one place to another and how it moves through it at different speeds.\nThe water is pumped into the ocean, flowing through the ocean by a pumping tank and used to pump it off the ocean floor. It then flows back to the ocean with the water vapor coming back towards it, passing back through the ocean floor. The water enters the ocean stream and pushes the water up ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.121
+    },
+    {
+      "tag": "en_education",
+      "mode": "greedy",
+      "prompt": "The water cycle describes how water",
+      "completion": " moves through the earth and the air in the air is released into the earth. The water is released into the earth by the wind and the air in the earth is released into the earth. The water is released into the earth by the wind and the air in the earth is released into the earth. The water is released into the earth by the wind and the air in the earth is released into the earth.",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.7325
+    },
+    {
+      "tag": "en_story",
+      "mode": "sample",
+      "prompt": "Once upon a time, there was a little rabbit who",
+      "completion": " lived happily in a cozy blend of red and white. He had been an apple since his childhood, and his parents had spent time reading and baking as a family friend. As he grew older, he came across a tall tree and a rabbit with a white eyes. This meant that he had never seen any of them before. He had always had such a thing that he could find his hair because he ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.0318
+    },
+    {
+      "tag": "math_en",
+      "mode": "sample",
+      "prompt": "To solve the equation 2x + 3 = 11, we first",
+      "completion": " simplify the equation.\n\n-\nHow to solve this problem in plain? – Thomas Chalmers Apr 3 '16 at 18:21\nI can't seem to understand why you're using the equation with \"x\" instead of \"x\" and \"y\" in the equation. What is the equation of the line y = -1 ? – Phil van Hoeck Apr 3 '16 at 18:33\nYou're welcome, a little more careful. ",
+      "new_tokens": 160,
+      "ended_with_eos": false,
+      "replacement_chars": 0,
+      "rep4": 0.1083
+    }
+  ],
+  "cloze": [
+    {
+      "cat": "zh_知识",
+      "context": "中国的首都是",
+      "pred": "北京",
+      "answer": "北京"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "在标准大气压下，水的沸点是",
+      "pred": "100摄氏度",
+      "answer": "100摄氏度"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "一年有",
+      "pred": "十二个月",
+      "answer": "十二个月"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "《红楼梦》的作者是",
+      "pred": "曹雪芹",
+      "answer": "曹雪芹"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "太阳每天从",
+      "pred": "东方升起",
+      "answer": "东方升起"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "植物进行光合作用的主要场所是",
+      "pred": "叶绿体",
+      "answer": "叶绿体"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "长江最终注入",
+      "pred": "南海",
+      "answer": "东海"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "中国古代四大发明是造纸术、印刷术、火药和",
+      "pred": "指南针",
+      "answer": "指南针"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "李白是唐朝著名的",
+      "pred": "诗人",
+      "answer": "诗人"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "地球绕太阳公转一周大约需要",
+      "pred": "一个月",
+      "answer": "一年"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "下雨了，出门最好带上",
+      "pred": "雨伞",
+      "answer": "雨伞"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "冬天很冷，人们通常会穿上",
+      "pred": "短袖",
+      "answer": "羽绒服"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "医生的主要工作是",
+      "pred": "给病人看病",
+      "answer": "给病人看病"
+    },
+    {
+      "cat": "zh_常识",
+      "context": "小明饿了，于是他去厨房",
+      "pred": "做饭",
+      "answer": "做饭"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "3加5等于",
+      "pred": "15",
+      "answer": "8"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "12除以4等于",
+      "pred": "3",
+      "answer": "3"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "三角形的内角和是",
+      "pred": "180度",
+      "answer": "180度"
+    },
+    {
+      "cat": "zh_数学",
+      "context": "如果x+2=5，那么x等于",
+      "pred": "5",
+      "answer": "3"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The capital of France is",
+      "pred": " London",
+      "answer": " Paris"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Water freezes at",
+      "pred": " 30 degrees Celsius",
+      "answer": " 0 degrees Celsius"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The largest planet in our solar system is",
+      "pred": " Earth",
+      "answer": " Jupiter"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "Plants make their own food through a process called",
+      "pred": " photosynthesis",
+      "answer": " photosynthesis"
+    },
+    {
+      "cat": "en_common",
+      "context": "The opposite of hot is",
+      "pred": " cold",
+      "answer": " cold"
+    },
+    {
+      "cat": "en_common",
+      "context": "A baby cat is called a",
+      "pred": " puppy",
+      "answer": " kitten"
+    },
+    {
+      "cat": "en_common",
+      "context": "She was very tired, so she went to",
+      "pred": " work",
+      "answer": " bed"
+    },
+    {
+      "cat": "en_common",
+      "context": "There are seven days in a",
+      "pred": " year",
+      "answer": " week"
+    },
+    {
+      "cat": "en_math",
+      "context": "2 + 2 =",
+      "pred": " 4",
+      "answer": " 4"
+    },
+    {
+      "cat": "en_math",
+      "context": "10 times 3 equals",
+      "pred": " 13",
+      "answer": " 30"
+    },
+    {
+      "cat": "en_math",
+      "context": "The square root of 81 is",
+      "pred": " 81",
+      "answer": " 9"
+    },
+    {
+      "cat": "code",
+      "context": "def add(a, b):\n    return a",
+      "pred": " + b",
+      "answer": " + b"
+    },
+    {
+      "cat": "code",
+      "context": "for i in range(10):\n    print(",
+      "pred": "i)",
+      "answer": "i)"
+    },
+    {
+      "cat": "code",
+      "context": "import numpy as",
+      "pred": " np",
+      "answer": " np"
+    },
+    {
+      "cat": "code",
+      "context": "if x > 0:\n    sign = 1\nelse:\n    sign =",
+      "pred": " 1",
+      "answer": " -1"
+    },
+    {
+      "cat": "code",
+      "context": "def is_even(n):\n    return n %",
+      "pred": " 2 == 0",
+      "answer": " 2 == 0"
+    },
+    {
+      "cat": "code",
+      "context": "const x = 5;\nconsole.",
+      "pred": "log(x);",
+      "answer": "log(x);"
+    },
+    {
+      "cat": "code",
+      "context": "#include <stdio.h>\nint main() {\n    printf(\"Hello\\n\");\n    return",
+      "pred": " 0;",
+      "answer": " 0;"
+    },
+    {
+      "cat": "zh_知识",
+      "context": "人体最大的器官是",
+      "pred": "心脏",
+      "answer": "皮肤"
+    },
+    {
+      "cat": "en_knowledge",
+      "context": "The chemical symbol for water is",
+      "pred": " NaCl",
+      "answer": " H2O"
+    }
+  ]
+}

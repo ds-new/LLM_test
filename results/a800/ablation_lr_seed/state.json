@@ -1,0 +1,289 @@
+{
+  "phase": "done",
+  "failures": 0,
+  "started": "2026-11-16 20:51:13",
+  "hours": {
+    "wait": 3.867,
+    "plan": 0.0,
+    "experiments": 24.161,
+    "report": 0.0
+  },
+  "tok": "v1",
+  "ab_verdict": "**差异不大：路线 A 优先，v2 留作下一代模型时再换**",
+  "base": {
+    "name": "base",
+    "group": "base",
+    "peak_lr": 0.001,
+    "seed": 1234,
+    "diverged": false,
+    "bpb_weighted": 1.0563,
+    "bpb": {
+      "zh_cci3": 1.1816,
+      "zh_fwedu": 1.0291,
+      "zh_industry": 1.1253,
+      "en_fwedu": 1.1378,
+      "en_cosmo": 0.777,
+      "code": 0.7667,
+      "math": 1.049
+    },
+    "arith_mean": 0.8912,
+    "arith": {
+      "add2": 1.0,
+      "sub2": 1.0,
+      "add3": 0.955,
+      "sub3": 1.0,
+      "add4": 0.825,
+      "mul2x1": 0.99,
+      "mul3x1": 0.88,
+      "mul2x2": 0.48
+    },
+    "train": {
+      "steps": 11016,
+      "tokens": 2887778304,
+      "train_hours": 4.8,
+      "tok_s": 167237,
+      "final_loss": 2.6462
+    }
+  },
+  "queue": [
+    {
+      "name": "lr_0.002",
+      "group": "lr",
+      "peak_lr": 0.002,
+      "seed": 1234
+    },
+    {
+      "name": "lr_0.0005",
+      "group": "lr",
+      "peak_lr": 0.0005,
+      "seed": 1234
+    },
+    {
+      "name": "lr_0.004",
+      "group": "lr",
+      "peak_lr": 0.004,
+      "seed": 1234
+    },
+    {
+      "name": "seed_2",
+      "group": "seed",
+      "peak_lr": 0.001,
+      "seed": 2
+    },
+    {
+      "name": "seed_3",
+      "group": "seed",
+      "peak_lr": 0.001,
+      "seed": 3
+    }
+  ],
+  "results": {
+    "lr_0.002": {
+      "name": "lr_0.002",
+      "group": "lr",
+      "peak_lr": 0.002,
+      "seed": 1234,
+      "train": {
+        "steps": 11016,
+        "total_steps": 11016,
+        "tokens": 2887778304,
+        "train_hours": 4.8,
+        "tok_s": 167183,
+        "diverged": false,
+        "final_loss": 2.6388,
+        "clip_fraction": 0.0071,
+        "update_ratio_median": 0.004946
+      },
+      "diverged": false,
+      "bpb": {
+        "zh_cci3": 1.1781,
+        "zh_fwedu": 1.0263,
+        "zh_industry": 1.1213,
+        "en_fwedu": 1.1311,
+        "en_cosmo": 0.7714,
+        "code": 0.7655,
+        "math": 1.0452
+      },
+      "bpb_weighted": 1.0524,
+      "arith": {
+        "add2": 1.0,
+        "sub2": 0.995,
+        "add3": 0.965,
+        "sub3": 0.715,
+        "add4": 0.87,
+        "mul2x1": 1.0,
+        "mul3x1": 0.905,
+        "mul2x2": 0.535
+      },
+      "arith_mean": 0.8731
+    },
+    "lr_0.0005": {
+      "name": "lr_0.0005",
+      "group": "lr",
+      "peak_lr": 0.0005,
+      "seed": 1234,
+      "train": {
+        "steps": 11016,
+        "total_steps": 11016,
+        "tokens": 2887778304,
+        "train_hours": 4.79,
+        "tok_s": 167364,
+        "diverged": false,
+        "final_loss": 2.6723,
+        "clip_fraction": 0.0143,
+        "update_ratio_median": 0.00324
+      },
+      "diverged": false,
+      "bpb": {
+        "zh_cci3": 1.192,
+        "zh_fwedu": 1.04,
+        "zh_industry": 1.1362,
+        "en_fwedu": 1.1497,
+        "en_cosmo": 0.7906,
+        "code": 0.7763,
+        "math": 1.0607
+      },
+      "bpb_weighted": 1.0674,
+      "arith": {
+        "add2": 1.0,
+        "sub2": 1.0,
+        "add3": 0.94,
+        "sub3": 0.965,
+        "add4": 0.86,
+        "mul2x1": 0.99,
+        "mul3x1": 0.875,
+        "mul2x2": 0.565
+      },
+      "arith_mean": 0.8994
+    },
+    "lr_0.004": {
+      "name": "lr_0.004",
+      "group": "lr",
+      "peak_lr": 0.004,
+      "seed": 1234,
+      "train": {
+        "steps": 11016,
+        "total_steps": 11016,
+        "tokens": 2887778304,
+        "train_hours": 4.8,
+        "tok_s": 167074,
+        "diverged": false,
+        "final_loss": 2.6569,
+        "clip_fraction": 0.0043,
+        "update_ratio_median": 0.006636
+      },
+      "diverged": false,
+      "bpb": {
+        "zh_cci3": 1.1843,
+        "zh_fwedu": 1.033,
+        "zh_industry": 1.127,
+        "en_fwedu": 1.1375,
+        "en_cosmo": 0.7788,
+        "code": 0.773,
+        "math": 1.0518
+      },
+      "bpb_weighted": 1.0589,
+      "arith": {
+        "add2": 1.0,
+        "sub2": 0.995,
+        "add3": 0.94,
+        "sub3": 0.67,
+        "add4": 0.815,
+        "mul2x1": 1.0,
+        "mul3x1": 0.905,
+        "mul2x2": 0.49
+      },
+      "arith_mean": 0.8519
+    },
+    "seed_2": {
+      "name": "seed_2",
+      "group": "seed",
+      "peak_lr": 0.001,
+      "seed": 2,
+      "train": {
+        "steps": 11016,
+        "total_steps": 11016,
+        "tokens": 2887778304,
+        "train_hours": 4.8,
+        "tok_s": 167211,
+        "diverged": false,
+        "final_loss": 2.6397,
+        "clip_fraction": 0.009,
+        "update_ratio_median": 0.00401
+      },
+      "diverged": false,
+      "bpb": {
+        "zh_cci3": 1.1777,
+        "zh_fwedu": 1.0262,
+        "zh_industry": 1.1213,
+        "en_fwedu": 1.1323,
+        "en_cosmo": 0.7725,
+        "code": 0.7623,
+        "math": 1.0458
+      },
+      "bpb_weighted": 1.0522,
+      "arith": {
+        "add2": 1.0,
+        "sub2": 0.995,
+        "add3": 0.96,
+        "sub3": 0.97,
+        "add4": 0.87,
+        "mul2x1": 0.99,
+        "mul3x1": 0.835,
+        "mul2x2": 0.52
+      },
+      "arith_mean": 0.8925
+    },
+    "seed_3": {
+      "name": "seed_3",
+      "group": "seed",
+      "peak_lr": 0.001,
+      "seed": 3,
+      "train": {
+        "steps": 11016,
+        "total_steps": 11016,
+        "tokens": 2887778304,
+        "train_hours": 4.84,
+        "tok_s": 165692,
+        "diverged": false,
+        "final_loss": 2.6376,
+        "clip_fraction": 0.009,
+        "update_ratio_median": 0.00401
+      },
+      "diverged": false,
+      "bpb": {
+        "zh_cci3": 1.1793,
+        "zh_fwedu": 1.0271,
+        "zh_industry": 1.1223,
+        "en_fwedu": 1.1365,
+        "en_cosmo": 0.7764,
+        "code": 0.7648,
+        "math": 1.0473
+      },
+      "bpb_weighted": 1.0544,
+      "arith": {
+        "add2": 1.0,
+        "sub2": 1.0,
+        "add3": 0.975,
+        "sub3": 0.995,
+        "add4": 0.88,
+        "mul2x1": 0.985,
+        "mul3x1": 0.88,
+        "mul2x2": 0.51
+      },
+      "arith_mean": 0.9031
+    }
+  },
+  "summary": {
+    "tok": "v1",
+    "sigma_bpb": 0.0020518284528683152,
+    "sigma_arith": 0.006527633568147056,
+    "mean_bpb": 1.0543000000000002,
+    "best_lr": 0.002,
+    "best_lr_at_edge": false,
+    "best_lr_significant": false,
+    "ab_bpb_diff": -0.0066,
+    "ab_arith_diff": 0.0769,
+    "v2_significant": false
+  }
+}

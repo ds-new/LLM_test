@@ -1,0 +1,22 @@
+{
+ "valgen": "/root/r1zero_valgen/profile_s136/136.jsonl",
+ "problems_scored": 2047,
+ "unmatched_lines": 0,
+ "easy": 740,
+ "frontier": 739,
+ "hard": 568,
+ "hard_used": 316,
+ "n_train": 1055,
+ "mean_pass": 0.4591475329750855,
+ "dist": {
+  "0/8": 568,
+  "1/8": 200,
+  "2/8": 132,
+  "3/8": 132,
+  "4/8": 139,
+  "5/8": 136,
+  "6/8": 153,
+  "7/8": 191,
+  "8/8": 396
+ }
+}

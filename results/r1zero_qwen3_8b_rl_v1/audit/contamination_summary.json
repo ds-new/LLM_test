@@ -1,0 +1,27 @@
+{
+ "aime25": {
+  "clean": 17,
+  "n": 30,
+  "high_overlap": 2,
+  "some_13gram": 11
+ },
+ "aime24": {
+  "clean": 21,
+  "n": 30,
+  "some_13gram": 9
+ },
+ "amc23": {
+  "clean": 25,
+  "n": 40,
+  "some_13gram": 11,
+  "high_overlap": 3,
+  "near_dup": 1
+ },
+ "math500": {
+  "clean": 444,
+  "n": 500,
+  "some_13gram": 18,
+  "high_overlap": 22,
+  "near_dup": 16
+ }
+}

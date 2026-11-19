@@ -1,6 +1,6 @@
 # LLM_test
 
-本仓库提供五个独立的文本处理与语言模型实验组件：
+本仓库提供六个独立的文本处理与语言模型实验组件：
 
 | 组件 | 功能 | 环境 |
 | --- | --- | --- |
@@ -9,6 +9,7 @@
 | [Decoder 从零预训练](decoder_from_scratch/README.md) | 五智能体协作的预训练 loop：数据清洗 → 用上面的 BBPE 训练 32k 词表 → 结构选型 → 训练 → 评估；附一次 Mac 72 小时完整运行的结果 | PyTorch 2.3+，Apple Silicon（MPS）/ CUDA / CPU |
 | [Qwen3-VL 几何看图解题 RL](qwen3vl_geo3k_grpo/README.md) | 五智能体协作的多模态 GRPO loop（verl + vLLM）：Qwen3-VL-4B 在 geometry3k 上训练、诊断、拒绝采样微调与多数投票；附一次 AutoDL 2×A800 完整运行的结果 | verl 0.8、vLLM 0.12、torch 2.9，NVIDIA GPU（80GB × 2） |
 | [Weight-Space Programming 复现](weight_space_programming_repro/README.md) | 复现 MIT CSAIL 的"大模型直接读写神经网络权重"：多智能体 loop 用本机 Codex 调 gpt-6-astra 重跑 CPU 实验 1/2/3/5；在 AutoDL 上逐位重建作者对 Qwen3.5-0.8B 的权重编辑并重测 MATH-500 | CPU 部分：Mac + Codex CLI，Python 3.11+；GPU 部分：vLLM 0.33，24GB 以上显存 |
+| [R1-Zero 数学推理 RL](r1zero_qwen3_8b_rl/README.md) | 多智能体 + Claude 决策的 R1-Zero 强化学习 loop：Qwen3-8B-Base 不经 SFT 直接用规则奖励做 GRPO/DAPO，阶段结论用预注册的同题配对 bootstrap 判定、自动接续；附蒸馏 SFT 阶段 | verl 0.6.1（Megatron + SGLang 0.5.5）、torch 2.8，NVIDIA GPU（80GB × 4） |
 
 ## Decoder 从零预训练：结果一览
 
@@ -52,6 +53,20 @@
 CPU 实验同样基本复现：只看权重认出游戏 4/4、认出形状 3/3；找出 induction head 5/6 完全一致；从零手写的 Breakout 策略 502 分，与作者网络在同一评测器下的 503 分一致，是 PPO 5 亿步的 20 倍。判断训练语料（4/6）和 Seaquest（34 分，作者 54 分）低于论文。
 
 编辑细节、对照实验设想和差异分析见 [weight_space_programming_repro/README.md](weight_space_programming_repro/README.md)，原始记录在 [results/weight_space_programming_repro_v1/](results/weight_space_programming_repro_v1/)。
+
+## R1-Zero 数学推理 RL：结果一览
+
+在 AutoDL 的 4 × A800 80GB 上，不经过 SFT，直接对 **Qwen3-8B-Base** 用规则奖励做 GRPO（加 DAPO 的 clip-higher、token 级平均、超长软惩罚、动态采样），约 150 步：
+
+| 模型 | MATH-500 | AMC23 | AIME24 | AIME25 | AIME 2026（留出） |
+|---|---|---|---|---|---|
+| 基座 | 50.6% | 28.0% | 4.6% | 4.4% | – |
+| step 134（阶段 C 评选最佳） | 85.6% | 72.8% | 27.3% | 21.9% | 16.6% |
+| step 136（阶段 C 终点） | 86.0% | 71.6% | 25.0% | 20.8% | 19.6% |
+
+AMC/AIME 为每题 16 次采样的平均。第三轮 60 步的累计提升按题目配对 bootstrap 显著（四集平均 +2.53 个百分点，95% 区间 [+0.72, +4.33]）；单项改动里只有 DAPO 动态采样显著有效。
+
+训练配置、多智能体分工与决策规则、OOM 排查、显存账和评测口径见 [r1zero_qwen3_8b_rl/README.md](r1zero_qwen3_8b_rl/README.md)，原始记录在 [results/r1zero_qwen3_8b_rl_v1/](results/r1zero_qwen3_8b_rl_v1)。
 
 ## Word2Vec 快速开始
 
@@ -128,6 +143,17 @@ mkdir -p /root/autodl-tmp/wsp_gpu && cp -r LLM_test/weight_space_programming_rep
 cd /root/autodl-tmp/wsp_gpu/m6 && setsid nohup bash run_m6.sh > /dev/null 2>&1 < /dev/null &
 ```
 
+## R1-Zero 数学推理 RL 快速开始
+
+在 4 × 80GB 的 GPU 实例上（代码放到 /root/autodl-tmp/r1zero，环境见 [pip_versions.txt](r1zero_qwen3_8b_rl/pip_versions.txt)）：
+
+    cp -r LLM_test/r1zero_qwen3_8b_rl /root/autodl-tmp/r1zero && cd /root/autodl-tmp/r1zero
+    bash download.sh
+    R1Z_STAGE=frontier R1Z_EXTRA_STEPS=20 setsid nohup bash run_loop3.sh > /dev/null 2>&1 < /dev/null &
+    python ma/check_r3.py 6
+
+完整步骤见 [r1zero_qwen3_8b_rl/README.md](r1zero_qwen3_8b_rl/README.md#复现)。
+
 ## 使用说明
 
 - [Word2Vec README：安装、训练、查询、评估、BGE 对照和测试](word2vec_training/README.md)
@@ -140,5 +166,8 @@ cd /root/autodl-tmp/wsp_gpu/m6 && setsid nohup bash run_m6.sh > /dev/null 2>&1 <
 - [多智能体 loop 的阶段、决策规则与运维命令](decoder_from_scratch/MULTIAGENT_LOOP.md)
 - [Qwen3-VL 几何解题 README：实验过程、训练配置与原因、诊断、多数投票与拒绝采样微调、五个智能体](qwen3vl_geo3k_grpo/README.md)
 - [Weight-Space Programming 复现 README：结果、多智能体 loop、AutoDL 验证流程、踩过的坑与下一步](weight_space_programming_repro/README.md)
+- [R1-Zero 数学推理 RL README：训练配置与原因、多智能体流水线、阶段结论、OOM 排查、显存账、评测口径与蒸馏 SFT](r1zero_qwen3_8b_rl/README.md)
 
 模型、真实数据、运行输出和虚拟环境不随源码发布。例外是 [results/multiagent_pretrain_v1/](results/multiagent_pretrain_v1/)、[results/qwen3vl_geo3k_grpo_v1/](results/qwen3vl_geo3k_grpo_v1/) 和 [results/weight_space_programming_repro_v1/](results/weight_space_programming_repro_v1/)：第一个保存了一次 Decoder 预训练的报告、日志、评估记录和生成样例，第二个保存了一次 Qwen3-VL 几何解题 RL 的报告、评估汇总、每步训练指标和图表，第三个保存了 Weight-Space Programming 复现的每段对话、代码运行、评分与审计，以及 Qwen3.5-0.8B 编辑的评测结果（都不含数据集和模型权重；实验 5 中 Astra 写出的三个 MinAtar 小网络除外），用于复核实验结论。示例仅验证流程，不能作为模型效果证明；真实训练和评估请使用独立准备的数据，并保留报告中的参数、哈希和版本信息。
+
+[results/r1zero_qwen3_8b_rl_v1/](results/r1zero_qwen3_8b_rl_v1) 保存了 R1-Zero RL 的运行报告、阶段结论、每步训练指标、决策日志和每道题的完整评测结果（不含模型输出和权重）。

@@ -1,0 +1,13 @@
+{
+ "total": 3200,
+ "acc": 1859,
+ "no_answer_line": 489,
+ "no_answer_in_tail600": 493,
+ "judged_by_math_dapo": 902,
+ "judged_by_mathverify_fallback": 957,
+ "multi_distinct_answers": 510,
+ "FP_candidate_accepted_by_symbolic_only": 102,
+ "FP_candidate_hedge": 356,
+ "FN_candidate": 50,
+ "wrong_but_gt_appeared_earlier": 1
+}

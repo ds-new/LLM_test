@@ -1,46 +1,46 @@
 {
  "rows": 93733,
- "no_valid_gen": 29290,
- "contaminated_or_cjk_problem": 493,
- "kept": 63104,
- "train": 62848,
+ "no_valid_gen": 29915,
+ "contaminated_or_cjk_problem": 482,
+ "kept": 62638,
+ "train": 62382,
  "val": 256,
- "train_tokens": 330073364,
- "mean_tokens": 5251.931071792261,
+ "train_tokens": 325926396,
+ "mean_tokens": 5224.686544195441,
  "pct": {
-  "10": 1831,
-  "50": 4332,
-  "90": 10205,
-  "99": 15007
+  "10": 1829,
+  "50": 4311,
+  "90": 10162,
+  "99": 15000
  },
  "sources": [
   [
    "olympiads",
-   43869
+   43609
   ],
   [
    "cn_contest",
-   10491
+   10397
   ],
   [
    "aops_forum",
-   6270
+   6180
   ],
   [
    "amc_aime",
-   893
+   886
   ],
   [
    "inequalities",
-   643
+   636
   ],
   [
    "olympiads_ref",
-   474
+   467
   ],
   [
    "number_theory",
-   208
+   207
   ]
  ]
 }

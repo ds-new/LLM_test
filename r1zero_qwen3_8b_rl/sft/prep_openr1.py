@@ -2,6 +2,7 @@
 规则（2026-11-19 定）：
   * 每题只取一条：math_verify 判对、推理完整、finish_reason=stop 的生成里最短的一条；
   * 去掉含中文字符的生成（避免中英混杂）；
+  * 去掉 </think> 之后没有 \\boxed{} 最终答案的生成、同一行（>20 字符）重复 ≥5 次的生成（2026-11-19 11:35 加）；
   * 去污染：和所有评测题（MATH-500 / AMC23 / AIME24 / AIME25 / AIME 2026 留出集）按词级 13-gram 比对，有重合就删；短题按完整包含比对；
   * 套用 Qwen3 的 chat 模板后总长 <= 16000 token；
   * 固定种子打乱，留 256 条做验证集（只看 loss）。
@@ -17,6 +18,14 @@ MODEL = '/root/autodl-tmp/models/Qwen3-8B-Base'
 MAXTOK = 16000
 INSTR = "Please reason step by step, and put your final answer within \\boxed{}."
 CJK = re.compile(r'[\u3400-\u9fff]')
+
+def clean(g):
+    tail = g.split('</think>')[-1]
+    if '\\boxed' not in tail:
+        return False
+    lines = [l.strip() for l in g.split('\n') if len(l.strip()) > 20]
+    return not (lines and collections.Counter(lines).most_common(1)[0][1] >= 5)
+
 
 def words(s):
     return re.sub(r'[^a-z0-9]+', ' ', s.lower()).split()
@@ -44,7 +53,7 @@ for f in sorted(glob.glob(R + '/raw/open-r1_OpenR1-Math-220k/data/*.parquet')):
         stat['rows'] += 1
         g = r['generations'] or []
         cv = r['correctness_math_verify'] or []; rc = r['is_reasoning_complete'] or []; fr = r['finish_reasons'] or [None] * len(g)
-        ok = [i for i in range(len(g)) if i < len(cv) and cv[i] and i < len(rc) and rc[i] and (fr[i] in (None, 'stop')) and not CJK.search(g[i]) and '</think>' in g[i]]
+        ok = [i for i in range(len(g)) if i < len(cv) and cv[i] and i < len(rc) and rc[i] and (fr[i] in (None, 'stop')) and not CJK.search(g[i]) and '</think>' in g[i] and clean(g[i])]
         if not ok:
             stat['no_valid_gen'] += 1; continue
         w = words(r['problem'])

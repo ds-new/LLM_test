@@ -1,0 +1,29 @@
+"""F 训练中的停训条件（事先定好）：熵连续 2 步 > 1.0，或截断率连续 2 步 >= 0.2。
+读 run/metrics_f_<mode>_*.jsonl（verl 的 file logger），触发时打印原因并以 1 退出。用法：python f/monitor_f.py stage1"""
+import glob
+import json
+import sys
+
+R = '/root/autodl-tmp/r1zero'
+by = {}
+for f in sorted(glob.glob(R + '/run/metrics_f_%s_*.jsonl' % sys.argv[1])):
+    for line in open(f):
+        try:
+            rec = json.loads(line)
+        except Exception:  # noqa: BLE001
+            continue
+        d = rec['data'] if isinstance(rec.get('data'), dict) else rec
+        st = rec.get('step', d.get('training/global_step'))
+        if st is not None and 'actor/entropy' in d:
+            by[int(st)] = d
+steps = sorted(by)[-2:]
+if len(steps) == 2:
+    ent = [by[s].get('actor/entropy', 0) for s in steps]
+    tr = [by[s].get('response_length/clip_ratio', 0) for s in steps]
+    if min(ent) > 1.0:
+        print('entropy > 1.0 at steps %s: %s' % (steps, ent))
+        sys.exit(1)
+    if min(tr) >= 0.2:
+        print('truncation >= 0.2 at steps %s: %s' % (steps, tr))
+        sys.exit(1)
+print('ok', steps[-1] if steps else None)

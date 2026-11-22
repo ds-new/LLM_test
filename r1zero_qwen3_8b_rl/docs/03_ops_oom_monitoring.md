@@ -61,3 +61,14 @@ D 阶段第 141 步生成时，有一张卡上 SGLang 进程在 nvidia-smi 里�
 - 第二轮第 56 步存盘损坏（"is not a distributed checkpoint"），回滚到第 46 步。
 - 有一次实例在 14:50 被外部关机（日志里没有任何报错、看门狗也没有关机记录），开机后从最新存盘续训。
 - 阶段之间的自动接续由 ma/stage_watch.py 完成：阶段完成 → 完整评测 → 按事先定的标准写结论 → 选下一阶段的配置并启动。D 之后改成直接启动蒸馏 SFT 的总控 sft/start_e.sh。
+
+## 7. 第 E 阶段（SFT）启动时踩的坑（2026-11-19）
+
+RL 一直用 Ray 起进程，换成 torchrun 跑 SFT 后碰到四个之前没暴露的问题，从 13:09 自动启动到 13:34 正式训练，前后约 25 分钟：
+
+1. **总控脚本 `set -f`**：`start_e.sh` 开头写了 `set -f`（照抄 `run_sft.sh`，那里是为了 hydra 的列表参数），结果总控里 `rm -rf .../global_step_*`、`ls -d .../global_step_*/huggingface` 这类路径通配全部失效：删除没执行，后面会找不到存盘。总控换成了不带 `set -f` 的 `start_e_resume.sh`。
+2. **NCCL P2P 卡死**：冒烟测试卡在第一个 `barrier`，不报错，py-spy 看到卡在 NCCL 调用里。用 NCCL 小测试确认：默认、`NCCL_CUMEM_ENABLE=0`、`NCCL_IB_DISABLE=1` 都卡，只有 `NCCL_P2P_DISABLE=1` 正常。RL 阶段 Ray 给每个 worker 只露一张卡，所以没碰到；torchrun 下每个进程看得到全部 4 张卡。
+3. **融合 CE 核**：`model.use_fused_kernels=True` 在 torch 后端报 `forward_with_torch_backend has to return_dict`，只能关掉。代价是 logits 要整块算：16K token × 15 万词表的 fp32 logits 和它的梯度要二三十 GB，冒烟时单卡显存缓存峰值 77.5 GiB。所以每卡每批上限设为 16,384 token（verl 要求不小于最长样本），并开 `expandable_segments` 减少碎片。
+4. **存盘写满数据盘**：verl 0.6.1 的 FSDP engine 建 `FSDPCheckpointManager` 时传的是 `checkpoint_contents=...`，被 `**kwargs` 吞掉，`checkpoint.save_contents=[hf_model]` 不起作用，默认存 fp32 模型 + 优化器分片（8B 约 100 GB）。冒烟测试训完 3 步存盘，写了 22 GB 后磁盘满了报错。修法：在 `sft/run_engine_sft.py` 里把这个参数转给 `checkpoint_config`；存盘内容含分片就直接报错，不再静默写盘。
+
+教训：冒烟测试要把正式流程里所有一次性的动作（存盘、评测、清理）都走一遍，不能只训几步。

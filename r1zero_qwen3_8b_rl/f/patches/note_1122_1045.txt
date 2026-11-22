@@ -1,0 +1,1 @@
+2026-11-22 10:45:00 [Claude] 用户 10:40 要求"跑完后机器立刻关机"：10:42 启动 f/shutdown_after_reppen.sh（pid 227017），等 resume_f6.sh、after_f1_reppen.sh、eval_e.py、eval_reppen.py 都退出后立刻 /usr/bin/shutdown（不再等看门狗 30 分钟）；例外：没有 run/audit/STAGE_F1_RESULT.md（F 评测失败）或 run/REPAIRING 存在时不关，交给看门狗。试验结果和导出留到下次开机。

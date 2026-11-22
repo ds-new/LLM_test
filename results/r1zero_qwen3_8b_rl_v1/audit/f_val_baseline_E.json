@@ -1,0 +1,79 @@
+{
+ "aime24": {
+  "rows": 60,
+  "problems": 30,
+  "E_samples_per_problem": [
+   16
+  ],
+  "E_baseline": 0.3104,
+  "sd_F_single_sample": 0.0396,
+  "sd_baseline": 0.014,
+  "band95_diff": 0.0823,
+  "band95": [
+   0.2281,
+   0.3928
+  ]
+ },
+ "aime25": {
+  "rows": 60,
+  "problems": 30,
+  "E_samples_per_problem": [
+   16
+  ],
+  "E_baseline": 0.2667,
+  "sd_F_single_sample": 0.0321,
+  "sd_baseline": 0.0113,
+  "band95_diff": 0.0667,
+  "band95": [
+   0.2,
+   0.3333
+  ]
+ },
+ "amc23": {
+  "rows": 80,
+  "problems": 40,
+  "E_samples_per_problem": [
+   16
+  ],
+  "E_baseline": 0.7078,
+  "sd_F_single_sample": 0.0378,
+  "sd_baseline": 0.0134,
+  "band95_diff": 0.0785,
+  "band95": [
+   0.6293,
+   0.7863
+  ]
+ },
+ "math500": {
+  "rows": 200,
+  "problems": 200,
+  "E_samples_per_problem": [
+   1
+  ],
+  "E_baseline": 0.87,
+  "sd_F_single_sample": 0.0238,
+  "sd_baseline": 0.0238,
+  "band95_diff": 0.0659,
+  "band95": [
+   0.8041,
+   0.9359
+  ]
+ },
+ "macro4": {
+  "E_baseline": 0.5387,
+  "band95_diff": 0.0369,
+  "band95": [
+   0.5019,
+   0.5756
+  ]
+ },
+ "aime24_25": {
+  "E_baseline": 0.2885,
+  "band95_diff": 0.053,
+  "band95": [
+   0.2356,
+   0.3415
+  ]
+ },
+ "_note": "F step-10 val-core/<ds>/acc/mean@1 outside band95 = a change vs E beyond sampling noise (approx., normal approximation)"
+}

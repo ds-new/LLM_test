@@ -1,0 +1,22 @@
+2026-11-19 13:09:13 E start (pid 475376)
+2026-11-19 13:09:16,413	INFO scripts.py:1493 -- Did not find any active Ray processes.
+0, 0 MiB 1, 0 MiB 2, 0 MiB 3, 0 MiB 
+2026-11-19 13:09:31 deleted old Ray session logs in /tmp/ray
+Filesystem      Size  Used Avail Use% Mounted on overlay          30G   27G  3.9G  88% / /dev/md127       50G   31G   20G  61% /root/autodl-tmp 
+2026-11-19 13:14:15 E resume orchestrator start (pid 476171); waiting for the running engine smoke test
+2026-11-19 13:20:12 E resume orchestrator start (pid 477026); 第一次冒烟卡在 NCCL barrier（P2P 问题），已在 run_sft.sh 里加 NCCL_P2P_DISABLE=1，重新冒烟
+2026-11-19 13:20:53 engine smoke failed: =================== /root/autodl-tmp/r1zero/sft/run_engine_sft.py FAILED ------------------------------------------------------------ Failures: [1]:   time      : 2026-11-19_13:20:52   host      : localhost   rank      : 2 (local_rank: 2)   exitcode  : 1 (pid: 477049)   error_file: <N/A>   traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html ------------------------------------------------------------ Root Cause (first observed failure): [0]:   time      : 2026-11-19_13:20:52   host      : localhost   rank      : 1 (local_rank: 1)   exitcode  : 1 (pid: 477048)   error_file: <N/A>   traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html ============================================================ 2026-11-19 13:20:53 rc=1 
+2026-11-19 13:21:40 E resume orchestrator start (pid 482015); 第一次冒烟卡在 NCCL barrier（P2P 问题），已在 run_sft.sh 里加 NCCL_P2P_DISABLE=1，重新冒烟
+2026-11-19 13:25:59 engine smoke failed: /site-packages/torch/distributed/launcher/api.py", line 277, in launch_agent     raise ChildFailedError( torch.distributed.elastic.multiprocessing.errors.ChildFailedError:  ============================================================ /root/autodl-tmp/r1zero/sft/run_engine_sft.py FAILED ------------------------------------------------------------ Failures:   <NO_OTHER_FAILURES> ------------------------------------------------------------ Root Cause (first observed failure): [0]:   time      : 2026-11-19_13:25:58   host      : localhost   rank      : 3 (local_rank: 3)   exitcode  : 1 (pid: 482037)   error_file: <N/A>   traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html ============================================================ 2026-11-19 13:25:59 rc=1 
+2026-11-19 13:26:47 数据盘写满（engine 冒烟存盘写了 22 GB 的完整分片 checkpoint，不只是 HF 模型）；已停总控、删冒烟存盘、touch REPAIRING，修存盘配置后重来
+2026-11-19 13:28:52 E resume orchestrator start (pid 488605); 重新冒烟（13:15 修 NCCL P2P；13:21 关融合 CE 核；13:28 修存盘内容 bug，只存 bf16 HF 权重）
+2026-11-19 13:33:11 SFT smoke ok with engine trainer
+2026-11-19 13:33:11 smoke HF checkpoint: /root/autodl-tmp/sft_ckpt/smoke_engine/global_step_3/huggingface (16G)
+2026-11-19 13:34:31 eval smoke ok
+/dev/md127       50G   29G   22G  57% /root/autodl-tmp
+2026-11-19 13:34:33 full SFT start (engine)
+2026-11-19 17:31:06 停掉 start_e_resume.sh（pid 488605，训练进程不受影响），由 f/start_ef.sh 接手：E 收尾后不关机，接着做 F（用户 17:16 指示）
+2026-11-19 17:31:06 E+F orchestrator start (pid 505237, f/start_ef.sh), replacing start_e_resume.sh; waiting for the full SFT run
+2026-11-20 02:50:04 full SFT done: /root/autodl-tmp/sft_ckpt/full_engine/global_step_974/huggingface
+generation_config set {'bos_token_id': 151643, 'eos_token_id': [151645, 151643], 'max_new_tokens': 2048, 'transformers_version': '4.57.1', 'pad_token_id': 151643, 'do_sample': True, 'temperature': 0.6, 'top_p': 0.95}
+2026-11-20 04:26:21 E done: run/audit/STAGE_E_RESULT.md; continuing with F (f/start_ef.sh, log run/logs/f_stage.log)
